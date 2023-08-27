@@ -1,0 +1,13 @@
+{
+  "livePreview": true,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "attachments",
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "rightToLeft": false,
+  "tabSize": 4,
+  "showInlineTitle": true,
+  "readableLineLength": true
+}

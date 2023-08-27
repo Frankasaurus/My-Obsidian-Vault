@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "S - Callouts",
+    "Empty header"
+  ],
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": true,
+  "baseFontSize": 16
+}
