@@ -20,7 +20,7 @@ owner_previous: [""]
 > | **Rarity:** `= this.rarity` |
 > | **Slot:** `= this.slot` |
 > | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement |
+> | **Requires Attunement:** `=this.attunement` |
 > ###### Historical Information
 > | |
 > |---|

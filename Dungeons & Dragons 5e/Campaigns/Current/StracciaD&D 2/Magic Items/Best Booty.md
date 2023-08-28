@@ -1,18 +1,18 @@
 ---
-name: "Goggles of Night"
-name_short: "Goggles of Night"
+name: "The Best Booty"
+name_short: "Best Booty"
 type: "Wondrous Item"
 rarity: "Uncommon"
-materials: ["Steel", "Glass", "Leather"]
-attunement: "Yes"
-slot: "Eyes"
+materials: ["Satin"]
+attunement: "No"
+slot: "Underwear"
 cursed: 0
-owner: "Undetermined"
-owner_previous: [""]
+owner: "Burried on Tezeder"
+owner_previous: ["Unknown pirate"]
 ---
 > [!infobox]  
 > # `=this.name`
-> ![[GogglesOfNight.png|cover hsmall]]
+> ![[BestBooty.png|cover hsmall]]
 > ###### Base Info
 > | |
 > |---|
@@ -34,4 +34,4 @@ ITEM NAME is a
 ## Appearance
 Looks description
 # Description
-While wearing these dark lenses, you have darkvision out to a range of 60 feet. If you already have darkvision, wearing the goggles increases its range by 60 feet.
+When worn, they transform the wearer so that they have the perfect buttocks. The wearer is granted a +2 to Persuasion checks against individuals who are physically attracted to you, and have seen your bodacious booty. The tag reads "Mr & Mrs Stud collection #2".

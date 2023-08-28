@@ -1,18 +1,18 @@
 ---
-name: ""
-name_short: ""
-type: ""
-rarity: ""
-materials: [""]
-attunement: "Yes"
-slot: ""
+name: "Staff of Withering"
+name_short: "Staff of Withering"
+type: "Quarterstaff"
+rarity: "Rare"
+materials: ["Wood", "Precious Metal"]
+attunement: "Yes, by a Cleric, Druid, or Warlock"
+slot: "Weapon"
 cursed: 0
-owner: ""
-owner_previous: [""]
+owner: "Sargenet"
+owner_previous: ["None"]
 ---
 > [!infobox]  
 > # `=this.name`
-> ![[Item_image.jpg|cover hsmall]]
+> ![[StaffOfWithering.png|cover hsmall]]
 > ###### Base Info
 > | |
 > |---|
@@ -20,7 +20,7 @@ owner_previous: [""]
 > | **Rarity:** `= this.rarity` |
 > | **Slot:** `= this.slot` |
 > | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement |
+> | **Requires Attunement:** `=this.attunement` |
 > ###### Historical Information
 > | |
 > |---|
@@ -34,4 +34,6 @@ ITEM NAME is a
 ## Appearance
 Looks description
 # Description
-Full item description
+This staff has 3 charges and regains 1d3 expended charges daily at dawn.  
+  
+The staff can be wielded as a magic quarterstaff. On a hit, it deals damage as a normal quarterstaff, and you can expend 1 charge to deal an extra 2d10 necrotic damage to the target. In addition, the target must succeed on a DC 15 Constitution saving throw or have disadvantage for 1 hour on any ability check or saving throw that uses Strength or Constitution.

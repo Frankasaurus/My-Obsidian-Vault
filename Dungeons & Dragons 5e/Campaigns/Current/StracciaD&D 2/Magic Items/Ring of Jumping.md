@@ -1,18 +1,18 @@
 ---
-name: ""
-name_short: ""
-type: ""
-rarity: ""
-materials: [""]
+name: "Ring of Jumping"
+name_short: "Ring of Jumping"
+type: "Wondrous Item"
+rarity: "Uncommon"
+materials: ["Precious Metal"]
 attunement: "Yes"
-slot: ""
+slot: "Ring"
 cursed: 0
-owner: ""
+owner: "Undetermined"
 owner_previous: [""]
 ---
 > [!infobox]  
 > # `=this.name`
-> ![[Item_image.jpg|cover hsmall]]
+> ![[RingOfJumping.png|cover hsmall]]
 > ###### Base Info
 > | |
 > |---|
@@ -20,7 +20,7 @@ owner_previous: [""]
 > | **Rarity:** `= this.rarity` |
 > | **Slot:** `= this.slot` |
 > | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement |
+> | **Requires Attunement:** `=this.attunement` |
 > ###### Historical Information
 > | |
 > |---|
@@ -34,4 +34,4 @@ ITEM NAME is a
 ## Appearance
 Looks description
 # Description
-Full item description
+While wearing this ring, you can cast the jump spell from it as a bonus action at will, but can target only yourself when you do so.

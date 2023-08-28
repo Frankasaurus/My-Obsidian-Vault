@@ -1,18 +1,18 @@
 ---
-name: ""
-name_short: ""
-type: ""
-rarity: ""
-materials: [""]
-attunement: "Yes"
-slot: ""
+name: "Aukan's Axe of the Giant Slayer"
+name_short: "Giant Slayer"
+type: "Axe"
+rarity: "Rare"
+materials: ["Metal", "Wood"]
+attunement: "No"
+slot: "Weapon"
 cursed: 0
-owner: ""
-owner_previous: [""]
+owner: "Vimak"
+owner_previous: ["Aukan \"Keepeye\" Vaimei-Laga"]
 ---
 > [!infobox]  
 > # `=this.name`
-> ![[Item_image.jpg|cover hsmall]]
+> ![[GiantSlaying.png|cover hsmall]]
 > ###### Base Info
 > | |
 > |---|
@@ -20,7 +20,7 @@ owner_previous: [""]
 > | **Rarity:** `= this.rarity` |
 > | **Slot:** `= this.slot` |
 > | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement |
+> | **Requires Attunement:** `=this.attunement`|
 > ###### Historical Information
 > | |
 > |---|
@@ -34,4 +34,8 @@ ITEM NAME is a
 ## Appearance
 Looks description
 # Description
-Full item description
+You gain a +1 bonus to attack and damage rolls made with this magic weapon.  
+  
+When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, "giant" refers to any creature with the giant type, including ettins and trolls.  
+  
+Proficiency with a battleaxe allows you to add your proficiency bonus to the attack roll for any attack you make with it.

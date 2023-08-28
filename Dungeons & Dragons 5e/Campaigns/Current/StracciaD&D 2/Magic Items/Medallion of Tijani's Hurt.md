@@ -1,18 +1,18 @@
 ---
-name: ""
-name_short: ""
-type: ""
-rarity: ""
-materials: [""]
-attunement: "Yes"
-slot: ""
+name: "Medallion of Tijani's Hurt"
+name_short: "Tijani's Hurt"
+type: "Wondrous Item"
+rarity: "Very Rare"
+materials: ["Precious metals", "Emerald"]
+attunement: "No"
+slot: "Neck"
 cursed: 0
-owner: ""
-owner_previous: [""]
+owner: "Robyn"
+owner_previous: ["Tijani", "Macaw"]
 ---
 > [!infobox]  
 > # `=this.name`
-> ![[Item_image.jpg|cover hsmall]]
+> ![[TijanisHurt.png|cover hsmall]]
 > ###### Base Info
 > | |
 > |---|
@@ -20,7 +20,7 @@ owner_previous: [""]
 > | **Rarity:** `= this.rarity` |
 > | **Slot:** `= this.slot` |
 > | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement |
+> | **Requires Attunement:** `=this.attunement` |
 > ###### Historical Information
 > | |
 > |---|
@@ -34,4 +34,4 @@ ITEM NAME is a
 ## Appearance
 Looks description
 # Description
-Full item description
+This necklace is a magical key to an Astral Realm, as well as a container for a curious soul. Once per day, the wearer can ask the medallion to reveal something in the wearer's surroundings, though the medallion does not have to answer truthfully.

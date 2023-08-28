@@ -1,18 +1,18 @@
 ---
-name: ""
-name_short: ""
-type: ""
-rarity: ""
-materials: [""]
-attunement: "Yes"
-slot: ""
+name: "Bloodwell Vial +1"
+name_short: "Bloodwell Vial"
+type: "Wondrous Item"
+rarity: "Uncommon"
+materials: ["Glass", "Precious Metal"]
+attunement: "Yes, by a sorcerer"
+slot: "Neck"
 cursed: 0
-owner: ""
-owner_previous: [""]
+owner: "Burried on Tezeder"
+owner_previous: ["Unknown pirate"]
 ---
 > [!infobox]  
 > # `=this.name`
-> ![[Item_image.jpg|cover hsmall]]
+> ![[BloodwellVial.png|cover hsmall]]
 > ###### Base Info
 > | |
 > |---|
@@ -20,7 +20,7 @@ owner_previous: [""]
 > | **Rarity:** `= this.rarity` |
 > | **Slot:** `= this.slot` |
 > | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement |
+> | **Requires Attunement:** `=this.attunement` |
 > ###### Historical Information
 > | |
 > |---|
@@ -34,4 +34,6 @@ ITEM NAME is a
 ## Appearance
 Looks description
 # Description
-Full item description
+To attune to this vial, a sorcerer must place a few drops of its blood into it. The vial can't be opened while their attunement to it lasts. If your attunement to the vial ends, the contained blood turns to ash. You can use the vial as a spellcasting focus for your spells while wearing or holding it, and you gain a bonus to spell attack rolls and to the saving throw DCs of your sorcerer spells. The bonus is determined by the vial's rarity.  
+  
+In addition, when you roll any Hit Dice to recover hit points while you are carrying the vial, you can regain 5 sorcery points. This property of the vial can't be used again until the next dawn.
