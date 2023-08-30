@@ -36,20 +36,20 @@ languages: [Common, Elvish, "Thieves' Cant"]
 > | | |  
 > |---|---|  
 > | **Type** | `= this.type` |
-> | **Player** | `= this.player` |
+> | **Player** | `= link(this.player)` |
 > ###### Character Information  
 > | | |  
 > |---|---|  
 > | **Name** | `= this.name_full` |
 > | **Aliases** | `= this.name_aka` |
 > | **Gender** | `=this.gender` | 
-> | **Creature Type** | `=this.creature_type` |
-> | **Race** | `= this.creature_race` `= choice(this.subclass, "(", "")` `= this.creature_subrace` `= choice(this.subclass, ")", "")`|  
-> | **Class** | `= this.class` `= choice(this.subclass, "(", "")` `= this.subclass` `= choice(this.subclass, ")", "")`|  
-> | **Born** | `=this.place_of_birth` , `=this.age` years ago|  
+> | **Creature Type** | `= this.creature_type` |
+> | **Race** | `= link(this.creature_race)` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
+> | **Class** | `= link(this.class)` `= choice(this.subclass = "", "", "(")` `= this.subclass` `= choice(this.subclass = "", "", ")")`|  
+> | **Born** | `=link(this.place_of_birth)` , `=this.age` years ago|  
 > | **Languages** | `=this.languages` |  
 > | **Family** | Name (relation) |
-> | **Connections** | Name (relation) |
+> | **Connections** | - [[Party]] (member) |
 > | **Status** | `=this.status` |
 > | **Sessions** | `=this.member` |
 > ###### Stats
@@ -62,26 +62,42 @@ languages: [Common, Elvish, "Thieves' Cant"]
 > | **Con** | `=this.stat_con` | **Cha** | `=this.stat_cha` |
 
 `=this.name_first` `=this.name_last` is a `=this.creature_subrace` `=this.creature_race` `=this.subclass` `=this.class`. `=choice(this.gender = "Male", "He", "She")` is played by `=this.player`. 
+# Table of Contents
+- [[#Description|Description]]
+	- [[#Description#Appearance|Appearance]]
+	- [[#Description#Personality|Personality]]
+- [[#Biography|Biography]]
+	- [[#Biography#Before the campaign|Before the campaign]]
+	- [[#Biography#Adventures|Adventures]]
+- [[#Relationships|Relationships]]
+	- [[#Adventures#Persoon|Persoon]]
+- [[#Character information|Character information]]
+	- [[#Adventures#Quests|Quests]]
+	- [[#Adventures#Notable items|Notable items]]
+	- [[#Adventures#Magic items|Magic items]]
+- [[#Trivia|Trivia]]
 # Description
 ## Appearance
-Description of appearance.
+Phillipa is a slender Wood Elven woman, in her early 200's. She has straight light-brown hair, light green eyes, and a sleek face with narrow eyes. She is of relatively slender build, and naturally moves quitelly.
 ## Personality
-Description of personality.
+While being very skilled, Phillipa does not see risks as quickly as others.
 # Biography
 ## Before the campaign
-Story of before the adventuring party coalesced in Telack.
+Phillipa is a descendant from a wealthy family, growing up in a relatively safe, predetermined environment, where she didn't feel home. When she was still young, she started picking pockets of the cleaners and waiters serving the house and its guests, as a an act of defiance towards her parents. After one too many altercations, she fled into the wide world, though without the financial support of her parents, she resorted to her trained stealing skills in order to make it in the city. 
+
+After a few years, Phillipa had ventured quite far into the criminal underground, allowing her to travel further and further from the financial safety net of her parents, whom she hadn't seen in years by now. This resulted in a tour of the Bloeming Isles, finally ending up in [[Meqen]]. After establishing herself there and getting to know [[Henkie]], she caught a lead on a double-whammy; a job that would both hinder some evil faction, and pay well from the rewards looted from their corpses. For several days, she pursued a lead on [[The Seven Scepters]]. When finally prepared to confront the Cult, a random [[Party|band of adventurers]] got caught while trying to sneak up on them as well, and battle ensued. In the aftermath of battle, her position got compromised, but Phillipa sought to strike a deal; in return for helping the adventurers get some cheap goods, she would be allowed to venture with them for a while.
 ## Adventures
 Story of after meeting the gang.
 # Relationships
-### Persoon
+## Person
 Is dit nodig?
 # Character information
-### Quests
-Short listing of quests this character is after as an adventurer.
-### Notable items
+## Quests
+Phillipa has no stated goals yet.
+## Notable items
 - List of items
 - List of items
-### Magic items
+## Magic items
 ```dataview
 LIST
 FROM "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items"

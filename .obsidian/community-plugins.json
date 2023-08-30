@@ -8,5 +8,6 @@
   "obsidian-image-toolkit",
   "obsidian-leaflet-plugin",
   "obsidian-kanban",
-  "obsidian-timelines"
+  "obsidian-timelines",
+  "obsidian-plugin-toc"
 ]

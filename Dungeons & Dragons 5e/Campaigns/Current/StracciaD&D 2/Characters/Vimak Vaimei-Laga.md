@@ -7,13 +7,13 @@ member_status: "Current"
 name_first: "Vimak"
 name_last: "Vaimei-Laga"
 name_full: "Vimak \"Lonehunter\" Vaimei-Laga"
-name_aka: ["Ysmir Hardrada", "Lonehunter"]
+name_aka: ["Ysmir Hardrada (Borrowed name)", "Lonehunter (Clan name)"]
 creature_type: Humanoid
 creature_race: "Goliath"
 creature_subrace: ""
 gender: Male
 age: 30
-place_of_birth: "Devostina Alps (Nizakun)"
+place_of_birth: "Devostina Alps"
 class: "Paladin"
 subclass: "Oath of Devotion"
 background: Custom
@@ -36,20 +36,20 @@ languages: [Common, Elvish, Giant]
 > | | |  
 > |---|---|  
 > | **Type** | `= this.type` |
-> | **Player** | `= this.player` |
+> | **Player** | `= link(this.player)` |
 > ###### Character Information  
 > | | |  
 > |---|---|  
 > | **Name** | `= this.name_full` |
 > | **Aliases** | `= this.name_aka` |
 > | **Gender** | `=this.gender` | 
-> | **Creature Type** | `=this.creature_type` |
-> | **Race** | `= this.creature_race` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
-> | **Class** | `= this.class` `= choice(this.subclass = "", "", "(")` `= this.subclass` `= choice(this.subclass = "", "", ")")`|  
-> | **Born** | `=this.place_of_birth` , `=this.age` years ago|  
+> | **Creature Type** | `= this.creature_type` |
+> | **Race** | `= link(this.creature_race)` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
+> | **Class** | `= link(this.class)` `= choice(this.subclass = "", "", "(")` `= this.subclass` `= choice(this.subclass = "", "", ")")`|  
+> | **Born** | `=link(this.place_of_birth)` , `=this.age` years ago|  
 > | **Languages** | `=this.languages` |  
-> | **Family** | - Kuori "Bearkiller" (father)<br>- Lo-Kag "Wordpainter" (mother)<br>- Aukan "Keepeye" (brother, deceased) |
-> | **Connections** | - Gathakeaku Clan (ex-member, banished)<br>- Henevar (Oath patron) |
+> | **Family** | - [[Kuori "Bearkiller"]] (father)<br>- [[Lo-Kag "Wordpainter"]] (mother)<br>- [[Aukan "Keepeye"]] (brother, deceased) |
+> | **Connections** | - [[Party]] (member)<br>- [[Gathakeaku Clan]] (ex-member, banished)<br>- [[Henevar]] (Oath patron) |
 > | **Status** | `=this.status` |
 > | **Sessions** | `=this.member` |
 > ###### Stats

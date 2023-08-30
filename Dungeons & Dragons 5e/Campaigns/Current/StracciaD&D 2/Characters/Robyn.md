@@ -19,7 +19,7 @@ subclass: "Way of the Astral Self"
 background: Entertainer
 level: 7
 status: Alive
-hit_points: ??
+hit_points: 45
 armor_class: 14 
 stat_str: 13
 stat_dex: 16
@@ -31,24 +31,24 @@ languages: [Common, Orcish]
 ---
 > [!infobox]  
 > # `=this.name_first` `=this.name_last`
-> ![[Robyn1.png|cover hsmall]]  
+> ![[Robyn2.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
 > | **Type** | `= this.type` |
-> | **Player** | `= this.player` |
+> | **Player** | `= link(this.player)` |
 > ###### Character Information  
 > | | |  
 > |---|---|  
 > | **Name** | `= this.name_full` |
 > | **Gender** | `=this.gender` | 
-> | **Creature Type** | `=this.creature_type` |
-> | **Race** | `= this.creature_race` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
-> | **Class** | `= this.class` `= choice(this.subclass = "", "", "(")` `= this.subclass` `= choice(this.subclass = "", "", ")")`|  
-> | **Born** | `=this.place_of_birth` , `=this.age` years ago|  
+> | **Creature Type** | `= this.creature_type` |
+> | **Race** | `= link(this.creature_race)` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
+> | **Class** | `= link(this.class)` `= choice(this.subclass = "", "", "(")` `= this.subclass` `= choice(this.subclass = "", "", ")")`|  
+> | **Born** | `=link(this.place_of_birth)` , `=this.age` years ago|  
 > | **Languages** | `=this.languages` |  
-> | **Family** | - Rhayn (mother)<br>- Linzo (father) |
-> | **Connections** | - Mozillin Brown's Bazaar (member) |
+> | **Family** | - [[Rhayn]] (mother)<br>- [[Linzo]] (father) |
+> | **Connections** | - [[Party]] (member)<br>- [[Mozillin Brown's Bazaar]] (member) |
 > | **Status** | `=this.status` |
 > | **Sessions** | `=this.member` |
 > ###### Stats

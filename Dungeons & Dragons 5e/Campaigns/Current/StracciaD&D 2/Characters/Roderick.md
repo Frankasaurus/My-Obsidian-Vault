@@ -7,13 +7,13 @@ member_status: "Current"
 name_first: "Roderick"
 name_last: ""
 name_full: "Roderick"
-name_aka: ["" , ""]
+name_aka: [""]
 creature_type: Humanoid
 creature_race: "Half-Elf"
 creature_subrace: "Wood"
 gender: Male
 age: ??
-place_of_birth: "The Wovens (Orphelica)"
+place_of_birth: "The Wovens"
 class: "Warlock"
 subclass: "Pact of the Fiend"
 background: Outlander
@@ -36,18 +36,19 @@ languages: [Common, Elvish]
 > | | |  
 > |---|---|  
 > | **Type** | `= this.type` |
-> | **Player** | `= this.player` |
+> | **Player** | `= link(this.player)` |
 > ###### Character Information  
 > | | |  
 > |---|---|  
 > | **Name** | `= this.name_full` |
 > | **Gender** | `=this.gender` | 
-> | **Creature Type** | `=this.creature_type` |
-> | **Race** | `= this.creature_race` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
-> | **Class** | `= this.class` `= choice(this.subclass = "", "", "(")` `= this.subclass` `= choice(this.subclass = "", "", ")")`|  
-> | **Born** | `=this.place_of_birth` , `=this.age` years ago|  
+> | **Creature Type** | `= this.creature_type` |
+> | **Race** | `= link(this.creature_race)` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
+> | **Class** | `= link(this.class)` `= choice(this.subclass = "", "", "(")` `= this.subclass` `= choice(this.subclass = "", "", ")")`|  
+> | **Born** | `=link(this.place_of_birth)` , `=this.age` years ago|  
 > | **Languages** | `=this.languages` |  
 > | **Family** | - Unnamed father and mother |
+> | **Connections** | - [[Party]] (member) |
 > | **Status** | `=this.status` |
 > | **Sessions** | `=this.member` |
 > ###### Stats
