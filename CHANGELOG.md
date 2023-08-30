@@ -5,5 +5,6 @@
 *  Initialized Obsidian Vault to Github *(Frankasaurus)*
 *  Added all magic items *(AlexFranke)*
 *  Update .gitignore *(Alexander Franke)*
+*  Update .gitignore to ignore only workspace.json *(Alexander Franke)*
 
 
