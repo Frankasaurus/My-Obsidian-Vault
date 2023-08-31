@@ -80,16 +80,16 @@ Weeks passed. Bulblin was well-acquainted with the deep woods and managed to hol
 ## Adventures
 Story of after meeting the gang.
 # Relationships
-### Persoon
+## Persoon
 Is dit nodig?
 TEEEEEST!
 # Character information
-### Quests
+## Quests
 Short listing of quests this character is after as an adventurer.
-### Notable items
+## Notable items
 - List of items
 - List of items
-### Magic items
+## Magic items
 ```dataview
 LIST
 FROM "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items"

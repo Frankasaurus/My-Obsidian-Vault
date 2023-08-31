@@ -27,7 +27,9 @@ owner_previous: ["Aukan \"Keepeye\" Vaimei-Laga"]
 > | **Current:** `= this.owner` |
 > | **Previous:** `= this.owner_previous` |
 
-ITEM NAME is a 
+[[Aukan "Keepeye"]] Vaimei-Laga was whispered to by [[Kuori "Bearkiller"]], without [[Vimak Vaimei-Laga]]'s knowledge, that he would become a future chieftain of the [[Gathakeaku Clan]]. To cement this, [[Lo-Kag "Wordpainter"]] engraved invisible inscriptions on Aukan's axe, enhancing its power and amplifying his abilities. Around this time, Aukan turns his attention to [[Henevar]] to safeguard his mortality (they say you die twice – once when you exhale your last breath and once when your name is spoken for the last time), and hunting in its name, sealing their bond over years of Aukan growing stronger.
+
+This connection with Henevar was severed when Vimak slew Aukan, but his connection with the blade remained, 
 ## Features
 - Feature 1
 - Feature 2

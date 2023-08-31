@@ -79,7 +79,8 @@ languages: [Common, Infernal, Draconic]
 # Description
 ## Appearance
 Elisabeth is a young adult bronze-skinned [[Tiefling]]. Like other members of the [[Dragoness family]], parts of her skin is covered with segments of dark orange scales. She's of slender build, and has green lizard-like eyes. Two horns protrude from her forehead, wrapping backwards over her head.
-Elisabeth is dressed in modest noble clothing, including a large cloak designed to somewhat obscure both her heritage and wealth. (KIM WAT NOG MEER?)
+
+Elisabeth is dressed in modest noble clothing, including a large cloak designed to somewhat obscure both her heritage and wealth. 
 ## Personality
 Her noble personality makes Elisabeth excel in difficult to navigate social encounters, often shutting down arguments with ruthless passive aggressiveness. She is not opposed to using her heritage in arguments, and often puts pride before gains. 
 # Biography

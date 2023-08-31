@@ -9,5 +9,5 @@
   "rightToLeft": false,
   "tabSize": 4,
   "showInlineTitle": true,
-  "readableLineLength": true
+  "readableLineLength": false
 }

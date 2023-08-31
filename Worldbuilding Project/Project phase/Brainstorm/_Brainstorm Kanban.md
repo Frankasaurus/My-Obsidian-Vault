@@ -14,7 +14,6 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] [[1. Initial Brainstorm]]
 
 
 ## Done

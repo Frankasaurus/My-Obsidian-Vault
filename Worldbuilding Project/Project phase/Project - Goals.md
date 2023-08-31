@@ -22,7 +22,7 @@ The way I see it, creating a wholly custom universe serves many purposes:
 Once a world has been established, it is ready for stories to be created. Most likely I'll do this in a Silmarillion-type situation (though I don't particularly like that book); **I imagine writing a world *using* stories as examples, and picking several to write fleshed out stories or maybe even Novella's.** The least I want to get out of it is a medium through which I can experiment or tell tales.
 
 ## How & What
-1. I am going to kick off this entire ordeal with a brainstorm. I need to brainstorm an absolute ton of stuff before committing to creation itself, just to filter out all the inspiration and other bogus. See [[0. Master Checklist - Brainstorm]].
+1. I am going to kick off this entire ordeal with a brainstorm. I need to brainstorm an absolute ton of stuff before committing to creation itself, just to filter out all the inspiration and other bogus. See 0. Master Checklist - Brainstorm.
 2. The brainstorm ends with a rough outline of the primary location, atmosphere, and significance of the project. It very roughly answers the main why's, how's, and perhaps who's.
 3. A midpoint is probably the best course of action after that; somewhere after the dust of the creation myth('s) has settled, but before culture!
 4. It might then come down to creating the endpoints of different cultures, and filling in the blanks where they appear. Right now is probably the time for a nice map!

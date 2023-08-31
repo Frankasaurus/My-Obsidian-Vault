@@ -79,6 +79,8 @@ languages: [Common, Elvish, "Thieves' Cant"]
 # Description
 ## Appearance
 Phillipa is a slender Wood Elven woman, in her early 200's. She has straight light-brown hair, light green eyes, and a sleek face with narrow eyes. She is of relatively slender build, and naturally moves quitelly.
+
+Extensive amounts of loose and dark fabrics cover most of her body, wrapping around her to conceal a leather armoured vest underneath, as well as to hide her multiple weapons, predominantly daggers.
 ## Personality
 While being very skilled, Phillipa does not see risks as quickly as others.
 # Biography

@@ -68,19 +68,21 @@ Description of appearance.
 Description of personality.
 # Biography
 ## Before the campaign
-Story of before the adventuring party coalesced in Telack.
+Kénos was created in [[Larchenia]] by a greedy temple leader, who crafted Kenos under the noses of two other leaders, hoping it would become a mighty creation aligning with his deceptive and deceitful personality. Unfortunately, the experiment failed, and Kénos was abandoned and neglected, even though she was built with an experimental anti-gravity type of precious metal called Dusfex. One infiltrator knew differently, a sage, who associated with Kénos within the temple, teaching her about the world and [[Teokharis]].
+
+Kénos embarked on the path of adventurers in search of an identity; she wants to live a life, not remain a machine, and seeks a way to become human. She only claims to be on a crusade, as it sounds less conspicuous. Her journey has taken her from the East to the West of [[Drav-Modesta]], then onward to the Western continents. Upon arriving in [[Telack]], she continued her journey with a troupe of strangers.
 ## Adventures
 Story of after meeting the gang.
 # Relationships
-### Persoon
+## Persoon
 Is dit nodig?
 # Character information
-### Quests
+## Quests
 Short listing of quests this character is after as an adventurer.
-### Notable items
+## Notable items
 - List of items
 - List of items
-### Magic items
+## Magic items
 ```dataview
 LIST
 FROM "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items"
