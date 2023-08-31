@@ -113,3 +113,4 @@ WHERE owner = this.name_first
 # Trivia
 - Carmine has accrued 20 fishing XP, with 100 being the target for an award.
 	- There is no reward
+- Canonically jokes about having a 5 inch penis.

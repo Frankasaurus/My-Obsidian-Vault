@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cee6c7d75578c599",
+        "id": "0ce90b125bbcfad6",
         "type": "tabs",
         "children": [
           {
-            "id": "e08f173829a6957e",
+            "id": "8d870296b2ff1177",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Vimak - Gathakeaku in danger.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Vimak - Gathakeaku in danger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Vimak - Gathakeaku in danger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Vimak - Gathakeaku in danger.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,14 +153,24 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "42ab653f3577c7b7",
+  "active": "8d870296b2ff1177",
   "lastOpenFiles": [
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Vimak Vaimei-Laga.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Califhen.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Note.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Carmine - Becoming the 20th.md",
+    "Templates/Location.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Cities & Townships/Dragoness Barony.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Regions",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Landmarks",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Cities & Townships",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 031.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Carmine Char.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 032.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Vimak - Gathakeaku in danger.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Vimak Vaimei-Laga.md",
     "attachments/CalifhenMap1.png",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Aukan's Axe of the Giant Slayer.md",
     "Templates/Storybeats.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 031.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 030.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Factions & Organisations/Party.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Inhabitants/Creatures",
@@ -177,9 +179,7 @@
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Phillipa - No clue.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Elisabeth - A Secret Dethroned.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Roderick - Removing the Curse.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Carmine - Becoming the 20th.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Robyn - Tijani's Dark Past.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 032.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Planes/A Modern Guide to Planes.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Inactive/Bulblin.md",
     "Worldbuilding Project/Project phase/Brainstorm/_Brainstorm Kanban.md",
@@ -187,10 +187,6 @@
     "Worldbuilding Project/Project phase/Project - Goals.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/_Session overview.md",
     "Dungeons & Dragons 5e/Source Material/Races/_Overview.md",
-    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/_Summary.md",
-    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Ordenis.md",
-    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Ordenis & C.A.S.C.O.md",
-    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Ilan Lands.md",
     "attachments/Bulblin2.jpg",
     "attachments/Bulblin1.jpg",
     "attachments/TijanisHurt.png",
@@ -204,9 +200,6 @@
     "attachments",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Inactive",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Factions & Organisations",
-    "Dungeons & Dragons 5e/Universes/Califhen/Gods/Greater Deities/Order of the Unproven",
-    "Dungeons & Dragons 5e/Universes/Califhen/Gods/Greater Deities/Order of the Keepers",
-    "Dungeons & Dragons 5e/Universes/Califhen/Gods/Greater Deities/Order of the Banished",
-    "Dungeons & Dragons 5e/Universes/Califhen/Gods/Greater Deities/Order of the Protectors"
+    "Dungeons & Dragons 5e/Universes/Califhen/Gods/Greater Deities/Order of the Unproven"
   ]
 }

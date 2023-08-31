@@ -5,23 +5,23 @@ De regio van [[Nizakun]] is het thuis voor vele rassen, maar oorspronkelijk als 
 
 Vimak en Aukan waren samen aan het strijden voor wie de beste strijder was, en toen ze ouder werden, werd deze competitie heviger, wat resulteerde in de dood van Aukan door toedoen van Vimak. Wat resulteerde was de expulsie van Vimak van Goliath-landen, en na lang reizen is hij terechtgekomen in Telack, aan de andere kant van de wereld. Nu de Frost Giants beginnen met ontwaken, ziet Henevar de nood van de situatie in, en waarschuwt de clan van de gevolgen van hun handelen. De eerste clan - de Sahrkun Clan - is al gevallen onder de aanvallen van de reuzen, en de [[Gathakeaku Clan]] is niet lang veilig. Zij hebben al hun strijders, en goden, nodig. Met Vimak's expulsie, en Aukan's dood, hebben een boel oud-Gathakeaku Clanleden een poging gedaan om als dienaar van [[Hevenar]] te varen, maar weinig hebben het toegewijde pad gevolgd van Vimak, gecombineerd met het verbonden [[Aukan's Axe of the Giant Slayer|wapen]] van Aukan. Dit wordt aan de clanleider, [[Nalla "Fearless" Ogolakanu]] duidelijk gemaakt, waarna hun de ceremonie in gang zetten om Vimak terug te roepen, voordat het te laat is.
 # 1. Oproep naar Vimak
-Een dagenlang ritueel dat begon toen Vimak en de party net vertrok van Telack naar [[Dragoness Baronie]], heeft geleid tot Aukan's bijl die roept naar Vimak. De eerste keer is de bijl lichtelijk vies, de tweede keer hevig bebloed, de derde keer druipend en blijvend vies, waarna Vimak in een catatonische staat verkeren zal. Aan de clan's kant, wordt al dagenlang een ritueel uitgevoerd om contact te leggen met Vimak. Maar dit contact wordt gelegd met een missie: de strijd komt, en we hebben kracht nodig. Aukan's kracht, en bij gebrek, die van Vimak. Er wordt dus een ritueel uitgevoerd op Aukan's bijl, die doortrekt tot Vimak's ziel. 
+Een dagenlang ritueel dat begon toen Vimak en de party net vertrok van Telack naar [[Dragoness Barony]], heeft geleid tot Aukan's bijl die roept naar Vimak. De eerste keer is de bijl lichtelijk vies, de tweede keer hevig bebloed, de derde keer druipend en blijvend vies, waarna Vimak in een catatonische staat verkeren zal. Aan de clan's kant, wordt al dagenlang een ritueel uitgevoerd om contact te leggen met Vimak. Maar dit contact wordt gelegd met een missie: de strijd komt, en we hebben kracht nodig. Aukan's kracht, en bij gebrek, die van Vimak. Er wordt dus een ritueel uitgevoerd op Aukan's bijl, die doortrekt tot Vimak's ziel. 
 ## 1.a Catatonische droom
 (Normaliter doe ik het korter, maar dit is al geweest)
 Vimak bevind zich, zoals andere dromen, in de bossen van de [[Devostina Alps]], aan het jagen op een hert met Goliaths aan zijn zijde. Vlak voordat hij wilt uithalen, draait het hert zich om, maar het is nu een wolf. Na een klein beetje combat, weet Vimak een bijl door de wolf heen te jagen, alleen is de wolf nu Aukan. De wereld om hem een stort in, met een groot zwarte niksheid om hem heen. De grond scheurt en valt. Vimak valt mee.
 Na lang vallen breken bossen zijn val. Andere partyleden spelen als 'uitdagingen'; dieren die Vimak willen vermoorden.
-## 2.b Combat - Voorbeeld
+## 1.b Combat - Voorbeeld
 Gebruik [deze](https://www.dndbeyond.com/encounter-builder) tool.
 **Moeilijkheid:** Deadly
 **Doel:** Vimak / Roy moet worden geintroduceerd aan de clan's situatie
 **Reden:** Vimak moet worden getest om 'valide' te zijn voor de clan
 **Lol:** Vrienden tegen elkaar, 1 tegen veel
 **Vijanden:** 
-	- Enemy type 1 (1x) MM p.120 
-	- Enemy type 2 (1x) MTOF p.300
-	- Enemy type 3 (1x) MM P.69
+	- Yeti (1x) MM p.305 (aangepast) 
+	- Dire Wolf (1x) MM p. 321
+	- Brown Bear (1x) MM p. 319
 - [ ] **Mix van ranged / martial?**
-### 2.a.i Statblocks
+### 1.b.i Statblocks
 Deze tab kan gesloten blijven omdat deze veel ruimte in beslag neemt.
 ```statblock
 columns: 2
@@ -31,8 +31,8 @@ type: monstrosity
 subtype: ""
 alignment: Chaotic Evil
 ac: 12
-hp: 51
-hit_dice: 6d10 + 18
+hp: 34
+hit_dice: 5d10 + 9
 speed: 40 ft., climb 40ft.
 stats:
   - 18
@@ -65,11 +65,8 @@ actions:
   - name: Multiattack
     desc: "The yeti can use its Chilling Gaze and makes two claw attacks."
   - name: Claw
-    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 +
-      4) slashing damage plus 3 (1d6) cold damage."
-    attack_bonus: 6
-    damage_dice: 2d6
-    damage_bonus: 4
+    desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d6 +
+      3) slashing damage plus 2 (1d4) cold damage."
   - name: Chilling Gaze
     desc: "The yeti targets one creature it can see within 30 feet of it. If the target can see the yeti, the target must succeed on a DC 13 Constitution saving throw against this magic or take 10 (3d6) cold damage and then be paralyzed for 1 minute, unless it is immune to cold damage. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target’s saving throw is successful, or if the effect ends on it, the target is immune to the Chilling Gaze of all yetis (but not abominable yetis for 1 hour."
 ```
@@ -80,3 +77,6 @@ creature: Dire Wolf
 ```statblock
 creature: Brown Bear
 ```
+### 2.b.ii Battle map
+DD
+# 2. 
