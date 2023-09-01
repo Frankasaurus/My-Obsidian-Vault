@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4a6fc49dddd8bfc5",
+        "id": "e9fdb4668cd107ce",
         "type": "tabs",
         "children": [
           {
-            "id": "1e30c6cecd1c3bbf",
+            "id": "797afeb90ec64d5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeons & Dragons 5e/Universes/Califhen/Locations/Califhen.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeons & Dragons 5e/Universes/Califhen/Locations/Califhen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeons & Dragons 5e/Universes/Califhen/Locations/Califhen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dungeons & Dragons 5e/Universes/Califhen/Locations/Califhen.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,10 +153,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "1e30c6cecd1c3bbf",
+  "active": "797afeb90ec64d5a",
   "lastOpenFiles": [
-    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Yyh'ma.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Califhen.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 008.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 010.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 011.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Yyh'ma.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Ghy.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Ahywen Town.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Aegren.md",
@@ -190,9 +185,6 @@
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Potion of Duo-neuro-perso-schism.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Olvex' Eye.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Medallion of Tijani's Hurt.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Goggles of Night.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Flame Tongue Dagger.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Cloak of Protection.md",
     "attachments/Vimak2.png",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Regions",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Landmarks",

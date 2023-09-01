@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "califhen-map",
-      "lastAccessed": 1693571144196,
+      "lastAccessed": 1693572226149,
       "markers": [
         {
           "id": "ID_fbc9a948ea98",
@@ -845,6 +845,57 @@
             0.31328125,
             0.5380787037037037
           ],
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb19c999f8bb",
+          "type": "Town",
+          "loc": [
+            -4.7587432861328125,
+            3.79541015625
+          ],
+          "link": "Dragoness Barony",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28683ae97a2a",
+          "type": "Landmark",
+          "loc": [
+            -4.2646026611328125,
+            4.66064453125
+          ],
+          "link": "Verfonq Grotto",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_697839f85b69",
+          "type": "Landmark",
+          "loc": [
+            -4.7802276611328125,
+            4.89697265625
+          ],
+          "link": "Towers of Stendor",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": null,
           "minZoom": 8,
           "maxZoom": null,
