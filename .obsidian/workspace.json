@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7d2b0e3c97138fde",
+        "id": "4a6fc49dddd8bfc5",
         "type": "tabs",
         "children": [
           {
-            "id": "e32b60ceadc50d62",
+            "id": "1e30c6cecd1c3bbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Wand of the War Mage +1.md",
+                "file": "Dungeons & Dragons 5e/Universes/Califhen/Locations/Califhen.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Wand of the War Mage +1.md",
+                "file": "Dungeons & Dragons 5e/Universes/Califhen/Locations/Califhen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Wand of the War Mage +1.md",
+                "file": "Dungeons & Dragons 5e/Universes/Califhen/Locations/Califhen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Wand of the War Mage +1.md"
+                "file": "Dungeons & Dragons 5e/Universes/Califhen/Locations/Califhen.md"
               }
             }
           }
@@ -133,7 +133,7 @@
         "currentTab": 1
       },
       {
-        "id": "289b4260717514e9",
+        "id": "43e96e44320f7ffc",
         "type": "tabs",
         "children": [
           {
@@ -161,8 +161,30 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e32b60ceadc50d62",
+  "active": "1e30c6cecd1c3bbf",
   "lastOpenFiles": [
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Yyh'ma.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Califhen.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Ghy.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Ahywen Town.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Aegren.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/_Summary.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Bloeming Isles.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Far Kachmer.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Drav-Modesta.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Greyskil.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Moundaria.md",
+    "attachments/Banners/BloemingIslesBg.png",
+    "attachments/Banners/AegrenBg.jpeg",
+    "attachments/Banners/377508-blackangel-2817106368.jpeg",
+    "attachments/Banners",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Vimak Vaimei-Laga.md",
+    "Templates/Continent.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Cape Rosa.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Inactive/Kénos.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Carmine Char.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Inactive/Bulblin.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Wand of the War Mage +1.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Staff of Withering.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Ring of Jumping.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Potion of Duo-neuro-perso-schism.md",
@@ -171,25 +193,7 @@
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Goggles of Night.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Flame Tongue Dagger.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Cloak of Protection.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Cloak of Arachnida.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Bloodwell Vial +1.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Best Booty.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Baghtru's Gloves.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Aukan's Axe of the Giant Slayer.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/_Overview.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Factions & Organisations/Party.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Vimak Vaimei-Laga.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Roderick.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Robyn.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Phillipa Vurrinir.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Elisabeth de Dragoness.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Carmine Char.md",
     "attachments/Vimak2.png",
-    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Califhen.md",
-    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Note.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Carmine - Becoming the 20th.md",
-    "Templates/Location.md",
-    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Cities & Townships/Dragoness Barony.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Regions",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Landmarks",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Cities & Townships",
@@ -201,13 +205,9 @@
     "attachments/TijanisHurt.png",
     "attachments/Robyn2.jpg",
     "attachments/Elisabeth2.jpg",
-    "attachments/StaffOfWithering.png",
-    "attachments/CloakOfArachnida.png",
-    "attachments/GogglesOfNight.png",
     "Dungeons & Dragons 5e/Source Material/Races",
     "attachments",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Inactive",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Factions & Organisations",
-    "Dungeons & Dragons 5e/Universes/Califhen/Gods/Greater Deities/Order of the Unproven"
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Factions & Organisations"
   ]
 }

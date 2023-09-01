@@ -1,3 +1,7 @@
+---
+banner: "![[BloemingIslesBg.png]]"
+banner_y: 0.78333
+---
 |   |   |
 |---|---|
 |Capital|Cape Rosa|

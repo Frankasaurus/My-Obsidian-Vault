@@ -3,11 +3,12 @@
   "cssTheme": "",
   "enabledCssSnippets": [
     "S - Callouts",
-    "Empty header"
+    "Empty header",
+    "Banner fix"
   ],
   "theme": "obsidian",
   "showViewHeader": true,
   "nativeMenus": false,
   "translucency": true,
-  "baseFontSize": 16
+  "baseFontSize": 17
 }

@@ -1,37 +1,42 @@
 ---
-type: "Player Character"
-player: "Roy"
-campaign: "StracciaD&D 2"
-member: "All sessions"
-member_status: "Current"
-name_first: "Vimak"
-name_last: "Vaimei-Laga"
-name_full: "Vimak \"Lonehunter\" Vaimei-Laga"
-name_aka: ["Ysmir Hardrada (Borrowed name)", "Lonehunter (Clan name)"]
+type: Player Character
+player: Roy
+campaign: StracciaD&D 2
+member: All sessions
+member_status: Current
+name_first: Vimak
+name_last: Vaimei-Laga
+name_full: Vimak "Lonehunter" Vaimei-Laga
+name_aka:
+  - Ysmir Hardrada (Borrowed name)
+  - Lonehunter (Clan name)
 creature_type: Humanoid
-creature_race: "Goliath"
-creature_subrace: ""
+creature_race: Goliath
+creature_subrace: 
 gender: Male
 age: 30
-place_of_birth: "Devostina Alps"
-class: "Paladin"
-subclass: "Oath of Devotion"
+place_of_birth: Devostina Alps
+class: Paladin
+subclass: Oath of Devotion
 background: Custom
 level: 7
 status: Alive
-hit_points: 31
-armor_class: 17
+hit_points: 63
+armor_class: 18
 stat_str: 13
 stat_dex: 11
 stat_con: 14
 stat_int: 15
 stat_wis: 11
 stat_cha: 12
-languages: [Common, Elvish, Giant]
+languages:
+  - Common
+  - Elvish
+  - Giant
 ---
 > [!infobox]  
 > # `=this.name_first` `=this.name_last`
-> ![[Vimak2.png|cover hsmall]]  
+> ![[Vimak2.png|cover hsmall]] 
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -82,7 +87,7 @@ In a state of panic and confusion, Vimak ran back to the camp of his clan. There
 
 In his clan, there was only one punishment for killing a family member: death. However, when the entire incident was presented to the clan leader [[Nalla "Fearless" Ogolakanu]], she decided not to execute Vimak. Instead, he chose to banish Vimak, although she wanted Vimak to have a lasting reminder of killing his brother. Nalla told Kuori that he had to drive a knife through Vimak's eye. This left him with a scar that is visible to this day. When Vimak was sent away, he received one last gift from his mother: an axe, [[Aukan's Axe of the Giant Slayer|his brother's axe]].
 
-In his exile, Vimak saught to travel the world, and restore his own pride and legacy, turning to [[Hevenar]] for guidance. The God is said to preach the two deaths; the first when you breathe your last breath, the second when your name is spoken for the last time. This suited Vimak's goals, and in his name he ventured forth, until finally reaching [[Telack]], where he met a group op new friends.
+In his exile, Vimak saught to travel the world, and restore his own pride and legacy, turning to his brother's patron [[Hevenar]] for guidance. The God is said to preach the two deaths; the first when you breathe your last breath, the second when your name is spoken for the last time. This suited Vimak's goals of restoring the glory of Aukan, and in his name he ventured forth, until finally reaching [[Telack]], where he met a group op new friends.
 ## Adventures
 Story of after meeting the gang.
 # Relationships

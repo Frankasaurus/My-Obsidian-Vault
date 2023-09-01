@@ -1,5 +1,1080 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "califhen-map",
+      "lastAccessed": 1693571144196,
+      "markers": [
+        {
+          "id": "ID_fbc9a948ea98",
+          "type": "Continent",
+          "loc": [
+            -4.6171875,
+            2.7890625
+          ],
+          "link": "Greyskil",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.1859375,
+            0.5472222222222223
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_697939d828b8",
+          "type": "Capital",
+          "loc": [
+            -3.64501953125,
+            2.845703125
+          ],
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 7,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99199abaab2b",
+          "type": "Continent",
+          "loc": [
+            -4.4384765625,
+            4.62109375
+          ],
+          "link": "Bloeming Isles",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9da68095839",
+          "type": "Continent",
+          "loc": [
+            -6.0166015625,
+            4.18359375
+          ],
+          "link": "Orphelica",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9ba7a0ba95b",
+          "type": "Continent",
+          "loc": [
+            -1.6103515625,
+            1.80078125
+          ],
+          "link": "Moundaria",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9ac9281ac809",
+          "type": "Continent",
+          "loc": [
+            -1.6416015625,
+            4.01953125
+          ],
+          "link": "Uurogh",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89db49cb3a0a",
+          "type": "Continent",
+          "loc": [
+            -2.4541015625,
+            3.59765625
+          ],
+          "link": "Ty'heris",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca8b08197a1a",
+          "type": "Continent",
+          "loc": [
+            -2.8759765625,
+            6.10546875
+          ],
+          "link": "Hyda",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48d97a28eb59",
+          "type": "Continent",
+          "loc": [
+            -0.8134765625,
+            6.55859375
+          ],
+          "link": "Ilan Lands",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a2b6b6ab8c9",
+          "type": "Continent",
+          "loc": [
+            -4.7119140625,
+            8.82421875
+          ],
+          "link": "Drav-Modesta",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b5a59692908",
+          "type": "Continent",
+          "loc": [
+            -4.1181640625,
+            12.04296875
+          ],
+          "link": "Far Kachmer",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a8abb98695a",
+          "type": "Continent",
+          "loc": [
+            -2.6416015625,
+            12.93359375
+          ],
+          "link": "Xaterai",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5aaaca28fa0b",
+          "type": "Continent",
+          "loc": [
+            -1.1103515625,
+            11.44140625
+          ],
+          "link": "Nizakun",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9ea1a78da28",
+          "type": "Continent",
+          "loc": [
+            -5.2041015625,
+            13.96484375
+          ],
+          "link": "Kinoa",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4ab95acb597b",
+          "type": "Continent",
+          "loc": [
+            -6.2353515625,
+            13.44921875
+          ],
+          "link": "Sutoden",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18680959fa49",
+          "type": "Continent",
+          "loc": [
+            -6.6328125,
+            11.9375
+          ],
+          "link": "Zila",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7958333333333333,
+            0.7861111111111111
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39c968db5848",
+          "type": "Continent",
+          "loc": [
+            -6.6962890625,
+            10.12109375
+          ],
+          "link": "Ordenis",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9beadabb3998",
+          "type": "Continent",
+          "loc": [
+            -8.0791015625,
+            9.69140625
+          ],
+          "link": "Aegren",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b69b868381b",
+          "type": "Capital",
+          "loc": [
+            -4.673828125,
+            4.94140625
+          ],
+          "link": "Cape Rosa",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3294270833333333,
+            0.5539351851851851
+          ],
+          "description": null,
+          "minZoom": 7,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3819a8a85a58",
+          "type": "Capital",
+          "loc": [
+            -6.406494140625,
+            3.6083984375
+          ],
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 7,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_699b79c8f9a8",
+          "type": "Capital",
+          "loc": [
+            -2.867431640625,
+            6.4287109375
+          ],
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 7,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2bdbdbe83a8a",
+          "type": "Capital",
+          "loc": [
+            -2.7119140625,
+            2.89453125
+          ],
+          "link": "Port Widćam",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 7,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09c8fa5a8b2a",
+          "type": "Capital",
+          "loc": [
+            -1.31689453125,
+            4.900390625
+          ],
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 7,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48d8c8ca4b3b",
+          "type": "Capital",
+          "loc": [
+            -1.96142578125,
+            0.759765625
+          ],
+          "link": "Brainstorm Template",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 7,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8b78db18ab59",
+          "type": "Capital",
+          "loc": [
+            -0.736572265625,
+            6.7236328125
+          ],
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 7,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89b968b948b9",
+          "type": "Capital",
+          "loc": [
+            -1.715087890625,
+            11.0595703125
+          ],
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 7,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d91a49baa9da",
+          "type": "Capital",
+          "loc": [
+            -3.32861328125,
+            12.048828125
+          ],
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 7,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_484bdb69aae9",
+          "type": "Capital",
+          "loc": [
+            -2.16845703125,
+            12.857421875
+          ],
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 7,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8bab3a381bd9",
+          "type": "Capital",
+          "loc": [
+            -3.38720703125,
+            10.318359375
+          ],
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 7,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a09dbfbeb3b",
+          "type": "Capital",
+          "loc": [
+            -5.10205078125,
+            8.349609375
+          ],
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 7,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_884ae818f92b",
+          "type": "Town",
+          "loc": [
+            -4.849609375,
+            5.1875
+          ],
+          "link": "Telack",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3458333333333333,
+            0.5747685185185185
+          ],
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_597aba885878",
+          "type": "City",
+          "loc": [
+            -4.288970947265625,
+            4.7626953125
+          ],
+          "link": "Amala Laguna",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0978591b99e9",
+          "type": "Town",
+          "loc": [
+            -4.484375,
+            4.4921875
+          ],
+          "link": "Meqen",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2994791666666667,
+            0.5314814814814814
+          ],
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa6a09ba4ad8",
+          "type": "Town",
+          "loc": [
+            -5.281158447265625,
+            4.3388671875
+          ],
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d95a289b5a49",
+          "type": "Town",
+          "loc": [
+            -4.279205322265625,
+            3.8662109375
+          ],
+          "link": "Ayhwen Town",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab4938eb6a78",
+          "type": "City",
+          "loc": [
+            -4.0078125,
+            4.611328125
+          ],
+          "link": "The Perch",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.307421875,
+            0.475
+          ],
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9cb582a7b39",
+          "type": "Town",
+          "loc": [
+            -3.872955322265625,
+            4.0654296875
+          ],
+          "link": "Laketown",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca4af848d879",
+          "type": "Town",
+          "loc": [
+            -3.427642822265625,
+            4.4970703125
+          ],
+          "link": "Bloeming's Rest",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9899ae8eb7a",
+          "type": "Town",
+          "loc": [
+            -5.746002197265625,
+            4.1865234375
+          ],
+          "link": "Bristall",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb3b786b0869",
+          "type": "City",
+          "loc": [
+            -5.746002197265625,
+            4.7880859375
+          ],
+          "link": "Ghyi'va",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_abb9e85a993a",
+          "type": "Town",
+          "loc": [
+            -6.056549072265625,
+            5.1494140625
+          ],
+          "link": "Delamento",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_489bd96a7b19",
+          "type": "Landmark",
+          "loc": [
+            -5.6328125,
+            5.1171875
+          ],
+          "link": "Stendor Clusters",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3411458333333333,
+            0.6675925925925926
+          ],
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39ab285af968",
+          "type": "Mountain",
+          "loc": [
+            -4.689361572265625,
+            5.1318359375
+          ],
+          "link": "Jaxos Isles",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b99f8d8aa9b",
+          "type": "Mountain",
+          "loc": [
+            -4.546783447265625,
+            4.4619140625
+          ],
+          "link": "Becx Isles",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_682929fa3ba9",
+          "type": "City",
+          "loc": [
+            -4.576080322265625,
+            3.7666015625
+          ],
+          "link": "Yyh'ma",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b6bdb293a8a",
+          "type": "City",
+          "loc": [
+            -5.140533447265625,
+            3.6123046875
+          ],
+          "link": "Gabong",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_388a3a4b0b49",
+          "type": "Mountain",
+          "loc": [
+            -4.310455322265625,
+            3.2958984375
+          ],
+          "link": "Xembadyen Mountains",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7be86868789a",
+          "type": "Party",
+          "loc": [
+            -4.3642120361328125,
+            4.38818359375
+          ],
+          "link": "Party",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Current position of the StracciaD&D 2 Party",
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8838688a0988",
+          "type": "Mountain",
+          "loc": [
+            -4.5400390625,
+            4.69921875
+          ],
+          "link": "Tezeder",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.31328125,
+            0.5380787037037037
+          ],
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#ff0000",
+          "vertices": [
+            {
+              "lat": -4.8642120361328125,
+              "lng": 5.18994140625,
+              "id": "ID_bb082b5928aa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.8925323486328125,
+              "lng": 5.10595703125,
+              "id": "ID_88b819c9ca28",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.8368682861328125,
+              "lng": 4.93310546875,
+              "id": "ID_984998d999e9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.7099151611328125,
+              "lng": 4.88134765625,
+              "id": "ID_3ae858f928a8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.6630401611328125,
+              "lng": 4.91650390625,
+              "id": "ID_184ae8cb885b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.623046875,
+              "lng": 4.845703125,
+              "id": "ID_58a809086b1b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.3896484375,
+              "lng": 4.73828125,
+              "id": "ID_4a49eaa8795b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.29296875,
+              "lng": 4.755859375,
+              "id": "ID_6adbbb3aa8f8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.2666015625,
+              "lng": 4.6611328125,
+              "id": "ID_db192b9b4aba",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.654296875,
+              "lng": 4.826171875,
+              "id": "ID_b8e968f9e989",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.6650390625,
+              "lng": 4.908203125,
+              "id": "ID_19780bcb2b88",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.70703125,
+              "lng": 4.8662109375,
+              "id": "ID_4afae97b1baa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.8515625,
+              "lng": 4.9443359375,
+              "id": "ID_eaab09f9998a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.8994140625,
+              "lng": 5.1396484375,
+              "id": "ID_e93b8b9b59cb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.8701171875,
+              "lng": 5.2041015625,
+              "id": "ID_69286b39b96b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.9052734375,
+              "lng": 5.0888671875,
+              "id": "ID_db2a1bfbcbf9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.85546875,
+              "lng": 4.9287109375,
+              "id": "ID_c87ac8c9eb68",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.6240234375,
+              "lng": 4.658203125,
+              "id": "ID_8b2a6be83b0b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.47265625,
+              "lng": 4.5986328125,
+              "id": "ID_bbf8d868c8a8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.4755859375,
+              "lng": 4.5224609375,
+              "id": "ID_ab39686a68c8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.4990234375,
+              "lng": 4.697265625,
+              "id": "ID_fb494818c859",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.5419921875,
+              "lng": 4.6962890625,
+              "id": "ID_1ac81b68ea28",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.5009765625,
+              "lng": 4.685546875,
+              "id": "ID_5bfbe96b7998",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.4853515625,
+              "lng": 4.525390625,
+              "id": "ID_581bfb89db5a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.416015625,
+              "lng": 4.4853515625,
+              "id": "ID_e8dbea4989fb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.3662109375,
+              "lng": 4.392578125,
+              "id": "ID_7a29abc82b18",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "Dungeons & Dragons 5e/Universes/Califhen/Locations/Califhen.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -10,11 +1085,140 @@
       "y": -2
     }
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "Continent",
+      "iconName": "flag",
+      "color": "#e875ff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": 8
+    },
+    {
+      "type": "Capital",
+      "iconName": "crown",
+      "color": "#f72626",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": 7,
+      "maxZoom": null
+    },
+    {
+      "type": "City",
+      "iconName": "city",
+      "color": "#42ff94",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": 8,
+      "maxZoom": null
+    },
+    {
+      "type": "Town",
+      "iconName": "home",
+      "color": "#fff833",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": 8,
+      "maxZoom": null
+    },
+    {
+      "type": "Landmark",
+      "iconName": "landmark",
+      "color": "#00ffd5",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": 8,
+      "maxZoom": null
+    },
+    {
+      "type": "Forest",
+      "iconName": "tree",
+      "color": "#1fb800",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": 8,
+      "maxZoom": null
+    },
+    {
+      "type": "Mountain",
+      "iconName": "mountain",
+      "color": "#b39147",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": 8,
+      "maxZoom": null
+    },
+    {
+      "type": "Party",
+      "iconName": "walking",
+      "color": "#ffffff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": 8,
+      "maxZoom": null
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
-  "notePreview": false,
+  "notePreview": true,
   "layerMarkers": true,
   "previousVersion": "5.7.2",
   "version": {
@@ -28,9 +1232,48 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 6,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "900px",
+    "image": "[[CalifhenMap1.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[CalifhenMap1.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 6,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "califhen-map",
+    "lat": "50%",
+    "long": "50%",
+    "unit": "meters",
+    "filterTag": []
+  },
   "enableDraw": true,
-  "defaultUnitType": "imperial",
+  "defaultUnitType": "metric",
   "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
   "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
   "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",

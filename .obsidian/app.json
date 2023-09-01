@@ -9,5 +9,6 @@
   "rightToLeft": false,
   "tabSize": 4,
   "showInlineTitle": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "defaultViewMode": "preview"
 }

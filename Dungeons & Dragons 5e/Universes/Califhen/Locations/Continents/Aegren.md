@@ -1,3 +1,8 @@
+---
+
+banner: "![[AegrenBg.jpeg]]"
+banner_y: 0.79734
+---
 |   |   |
 |---|---|
 |Capital|Palacina|
