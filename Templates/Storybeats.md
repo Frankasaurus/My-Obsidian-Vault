@@ -26,5 +26,6 @@ Deze tab kan gesloten blijven omdat deze veel ruimte in beslag neemt.
 ```statblock
 creature: Wolf
 ```
-
+### 2.a.ii Battlemap
+(Plaatje ofzo)
 

@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "e9fdb4668cd107ce",
+        "id": "7a6679df782cdcb5",
         "type": "tabs",
         "children": [
           {
-            "id": "797afeb90ec64d5a",
+            "id": "292aadf31e701f8a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Elisabeth - A Secret Dethroned.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e07a205609806765",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b90f2e6dc3a8035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 029.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Elisabeth - A Secret Dethroned.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Elisabeth - A Secret Dethroned.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,16 +142,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Elisabeth - A Secret Dethroned.md"
+              }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "43e96e44320f7ffc",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "42ab653f3577c7b7",
             "type": "leaf",
@@ -136,7 +155,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -153,39 +173,41 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "797afeb90ec64d5a",
+  "active": "292aadf31e701f8a",
   "lastOpenFiles": [
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 029.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Elisabeth - A Secret Dethroned.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 031.md",
+    "Templates/Storybeats.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Vimak - Gathakeaku in danger.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 007.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 013.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 010.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 009.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 008.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Ring of Jumping.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 011.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 012.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Creatures",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 030.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Potion of Duo-neuro-perso-schism.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Aegren.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Califhen.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Vimak Vaimei-Laga.md",
     "attachments/BecxIslesMap1.png",
     "attachments/BecxIslesMap.png",
-    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Califhen.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 008.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 010.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 011.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Yyh'ma.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Ghy.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Ahywen Town.md",
-    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Aegren.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/_Summary.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Bloeming Isles.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Far Kachmer.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Drav-Modesta.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Greyskil.md",
-    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Moundaria.md",
     "attachments/Banners/BloemingIslesBg.png",
     "attachments/Banners/AegrenBg.jpeg",
     "attachments/Banners/377508-blackangel-2817106368.jpeg",
     "attachments/Banners",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Vimak Vaimei-Laga.md",
-    "Templates/Continent.md",
-    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Cape Rosa.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Inactive/Kénos.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Carmine Char.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Inactive/Bulblin.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Wand of the War Mage +1.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Staff of Withering.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Ring of Jumping.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Potion of Duo-neuro-perso-schism.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Olvex' Eye.md",
     "attachments/Vimak2.png",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Regions",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Landmarks",
@@ -196,10 +218,8 @@
     "attachments/Bulblin2.jpg",
     "attachments/Bulblin1.jpg",
     "attachments/TijanisHurt.png",
-    "attachments/Robyn2.jpg",
     "Dungeons & Dragons 5e/Source Material/Races",
     "attachments",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Inactive",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Factions & Organisations"
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Inactive"
   ]
 }
