@@ -31,7 +31,7 @@ languages: [Common, Elvish, Giant]
 ---
 > [!infobox]  
 > # `=this.name_first` `=this.name_last`
-> ![[Vimak1.png|cover hsmall]]  
+> ![[Vimak2.png|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  

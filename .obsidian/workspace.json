@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0ce90b125bbcfad6",
+        "id": "7d2b0e3c97138fde",
         "type": "tabs",
         "children": [
           {
-            "id": "8d870296b2ff1177",
+            "id": "e32b60ceadc50d62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Wand of the War Mage +1.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Wand of the War Mage +1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Wand of the War Mage +1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Wand of the War Mage +1.md"
+              }
             }
           }
         ],
@@ -153,8 +161,30 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8d870296b2ff1177",
+  "active": "e32b60ceadc50d62",
   "lastOpenFiles": [
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Staff of Withering.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Ring of Jumping.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Potion of Duo-neuro-perso-schism.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Olvex' Eye.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Medallion of Tijani's Hurt.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Goggles of Night.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Flame Tongue Dagger.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Cloak of Protection.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Cloak of Arachnida.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Bloodwell Vial +1.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Best Booty.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Baghtru's Gloves.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Aukan's Axe of the Giant Slayer.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/_Overview.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Factions & Organisations/Party.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Vimak Vaimei-Laga.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Roderick.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Robyn.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Phillipa Vurrinir.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Elisabeth de Dragoness.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Carmine Char.md",
+    "attachments/Vimak2.png",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Califhen.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Note.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Carmine - Becoming the 20th.md",
@@ -163,30 +193,9 @@
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Regions",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Landmarks",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Cities & Townships",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 031.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Carmine Char.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 032.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Vimak - Gathakeaku in danger.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Vimak Vaimei-Laga.md",
     "attachments/CalifhenMap1.png",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Aukan's Axe of the Giant Slayer.md",
-    "Templates/Storybeats.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 030.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Factions & Organisations/Party.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Inhabitants/Creatures",
-    "Dungeons & Dragons 5e/Universes/Califhen/Inhabitants/Untitled.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Inhabitants",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Phillipa - No clue.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Elisabeth - A Secret Dethroned.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Roderick - Removing the Curse.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Robyn - Tijani's Dark Past.md",
-    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Planes/A Modern Guide to Planes.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Inactive/Bulblin.md",
-    "Worldbuilding Project/Project phase/Brainstorm/_Brainstorm Kanban.md",
-    "Worldbuilding Project/Project phase/Brainstorm/0. Master Checklist - Brainstorm.md",
-    "Worldbuilding Project/Project phase/Project - Goals.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/_Session overview.md",
-    "Dungeons & Dragons 5e/Source Material/Races/_Overview.md",
     "attachments/Bulblin2.jpg",
     "attachments/Bulblin1.jpg",
     "attachments/TijanisHurt.png",
@@ -195,7 +204,6 @@
     "attachments/StaffOfWithering.png",
     "attachments/CloakOfArachnida.png",
     "attachments/GogglesOfNight.png",
-    "attachments/FlameTongue.png",
     "Dungeons & Dragons 5e/Source Material/Races",
     "attachments",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Inactive",

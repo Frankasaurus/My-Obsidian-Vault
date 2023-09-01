@@ -1,21 +1,22 @@
 ---
-type: "Player Character"
-player: "Melle"
-campaign: "StracciaD&D 2"
-member: "All sessions"
-member_status: "Current"
-name_first: "Roderick"
+type: Player Character
+player: Melle
+campaign: StracciaD&D 2
+member: All sessions
+member_status: Current
+name_first: Roderick
 name_last: ""
-name_full: "Roderick"
-name_aka: [""]
+name_full: Roderick
+name_aka:
+  - ""
 creature_type: Humanoid
-creature_race: "Half-Elf"
-creature_subrace: "Wood"
+creature_race: Half-Elf
+creature_subrace: Wood
 gender: Male
-age: ??
-place_of_birth: "The Wovens"
-class: "Warlock"
-subclass: "Pact of the Fiend"
+age: 20
+place_of_birth: The Wovens
+class: Warlock
+subclass: Pact of the Fiend
 background: Outlander
 level: 7
 status: Alive
@@ -27,7 +28,9 @@ stat_con: 14
 stat_int: 9
 stat_wis: 14
 stat_cha: 18
-languages: [Common, Elvish]
+languages:
+  - Common
+  - Elvish
 ---
 > [!infobox]  
 > # `=this.name_first` `=this.name_last`
