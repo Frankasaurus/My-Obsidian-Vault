@@ -11,7 +11,6 @@ characters:
   - Elisabeth
   - Vimak
   - Phillipa
-tags: []
 ---
 *This is the first session in MD*
 # Samenvatting
@@ -20,7 +19,7 @@ tags: []
 **Waar:** [[The Bonehead]], ten Noorden van Meqen, onderweg naar Dragoness / Vimak's droom.
 **Doel sessie:** Vimak zijn character arc starten.
 ## TODO
-- [ ] Waren toevoegen Oynur's handel
+- [x] Waren toevoegen Oynur's handel
 - [ ] Battlemap Vimak
 - [ ] Battlemap Bootcombat?
 - [ ] Aankomst Baronie aanvullen met Sessie 29 notes. Die zijn 90% prima.
@@ -134,12 +133,14 @@ Na een tijdje springt een dolfijn met een giga-aanloop de boot op (Acrobatics DC
 - Handelt namens Dame Pwenaiu, namens volksstammen van Sosa, Jaxos, Becx.
 ## Oynur's Handeltje
 *In principe* kunnen de spelers vragen om wat dan ook, en zelf commmissies aanvragen. Maar Oynur verkoopt waardevolle spullen!
+**Merk de Raaf op!**
 Warenlijst:
-- [[Ring of Jumping]] (2500 gp)
-- [[Goggles of Night]] (1500 gp)
-- Meer
-- Meer
-- Meer
-- Meer
+- [[Ring of Jumping]] (3000 gp)
+- [[Goggles of Night]] (2000 gp)
+- [[Cape of the Mountebank]] (7000 gp)
+- [[Bloodwell Vial +1]] (5000 gp)
+- [[Medallion of Thoughts]] (600 gp)
+- Raaf (imp) (5 gp)
+	- Op het vlot hangt een kooi die Oynur af en toe rammelt. *"Deze randebiel kwam mee met een bundel spulletjes. Help mij er alsjeblieft van af."*
 # Aankomst Baronie
 ![[Elisabeth - A Secret Dethroned#1. Beat 1]]

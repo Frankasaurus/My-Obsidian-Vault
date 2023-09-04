@@ -20,6 +20,12 @@ Gebruik [deze](https://www.dndbeyond.com/encounter-builder) tool.
 	- Yeti (1x) MM p.305 (aangepast) 
 	- Dire Wolf (1x) MM p. 321
 	- Brown Bear (1x) MM p. 319
+**Vrienden:**
+	- Elke initiative 20: andere spelers samen een environmental keuze maken als "Clan chants" Vimak aanmoedigen. Mogen kiezen uit:
+		- 2d6 healen
+		- Een sneeuw/fog cloud plaatsen (20ft radius) voor 1 ronde
+		- Een karakter tot 40ft. teleporteren
+		- Schudt de aarde (Dex save DC13) en scheur de map 5ft.
 - [ ] **Mix van ranged / martial?**
 ### 1.b.i Statblocks
 Deze tab kan gesloten blijven omdat deze veel ruimte in beslag neemt.
@@ -78,5 +84,5 @@ creature: Dire Wolf
 creature: Brown Bear
 ```
 ### 2.b.ii Battle map
-DD
+![[VimaksDream.png]]
 # 2. 

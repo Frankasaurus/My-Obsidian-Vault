@@ -10,5 +10,8 @@
   "tabSize": 4,
   "showInlineTitle": true,
   "readableLineLength": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "spellcheck": false,
+  "autoPairBrackets": true,
+  "propertiesInDocument": "visible"
 }

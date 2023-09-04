@@ -1,18 +1,19 @@
 ---
-type: "Player Character"
+type: Player Character
 player: ""
-campaign: "StracciaD&D 2"
-member: "All sessions"
+campaign: StracciaD&D 2
+member: All sessions
 name_first: ""
 name_last: ""
 name_full: ""
-name_aka: [""]
+name_aka:
+  - ""
 creature_type: 
 creature_race: ""
 creature_subrace: ""
 gender: Female
 age: 
-place_of_birth: ""
+place_of_birth: 
 class: ""
 subclass: ""
 background: 
@@ -26,7 +27,8 @@ stat_con:
 stat_int: 
 stat_wis: 
 stat_cha: 
-languages: [Common]
+languages:
+  - Common
 ---
 > [!infobox]  
 > # `=this.name_first` `=this.name_last`
