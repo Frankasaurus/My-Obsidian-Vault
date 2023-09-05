@@ -11,8 +11,12 @@
             "id": "0a2853e9f0edf997",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Life/Things to do.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Life/Things to do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Life/Things to do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Timeline.md"
+                "file": "Life/Things to do.md"
               }
             }
           },
@@ -148,16 +154,16 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "7ef490f531df13d4",
+  "active": "0a2853e9f0edf997",
   "lastOpenFiles": [
+    "Life/Tasks.md",
+    "Life/Things to do.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Timeline.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Vimak - Gathakeaku in danger.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Roderick - Removing the Curse.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Robyn - Tijani's Dark Past.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 031.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Baghtru's Gloves.md",
-    "Life/Things to do.md",
-    "Life/Tasks.md",
     "Life",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Vimak Vaimei-Laga.md",
     "Templates/Continent.md",
