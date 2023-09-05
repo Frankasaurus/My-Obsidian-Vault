@@ -17,13 +17,7 @@ characters:
 **Wat:** Vorige sessie is de party de laatste dingen wezen klaarmaken voor vertrek naar [[Dragoness Barony]]. [[Phillipa Vurrinir]] is bij de party gekomen. Vimak is 's nachts op de boot in een catatonische droom beland, met alleen Phillipa en Roderick
 **Seizoen:** Vroege herfst.
 **Waar:** [[The Bonehead]], ten Noorden van Meqen, onderweg naar Dragoness / Vimak's droom.
-**Doel sessie:** Vimak zijn character arc starten.
-## TODO
-- [x] Waren toevoegen Oynur's handel
-- [ ] Battlemap Vimak
-- [ ] Battlemap Bootcombat?
-- [ ] Aankomst Baronie aanvullen met Sessie 29 notes. Die zijn 90% prima.
-
+**Doel sessie:** Vimak zijn character arc starten. Party naar Baronie brengen.
 # Vimak gevecht
 ![[Vimak - Gathakeaku in danger#1. Oproep naar Vimak]]
 # Bootreis -> Dragoness Baronie
@@ -55,17 +49,21 @@ LAAT SPELERS DE SKILL BEPALEN
 4. Een ra scheurt los van zijn touwen (DC 14). Bij falen, minder snel.
 5. Een giga golf is momenten verwijderd van op het dek neerkomen (DC 12). Bij falen, goederen verloren en iets langzamer.
 6. De roeiboot vangt wind en stijgt op boven het doek van het hoofddek. Bij falen, geen roeiboot meer.
-Bij al het falen geldt 3d4 bludgeoning damage voor betrokkenen.
+Bij falen geldt 2d6 bludgeoning damage voor betrokkenen.
 Bij 3 of meer falen is de boot aan het **zinken**.
 ## Combat Sahuagin deserters
+**In Sahuagin:** *"Dit zijn ze... Onze toekomst, onze families, onze nalatenschap, onze **sultan**, verloren om een enkel meisje. Jullie moeten boeten. De macht van Baneel leeft voort in de Sahuagin!"*
+
 Gebruik [deze](https://www.dndbeyond.com/encounter-builder) tool.  
 **Moeilijkheid:** Hard  
 **Doel:** De rit naar Baronie lastig maken - laat dit niet te lang duren!
 **Reden:** Oud-volgelingen van [[Sultan Baaneel]] zoeken wraak voor de vernedering. 
 **Lol:** Haaien slopen ondertussen de boot
 **Vijanden:**  
-- Sahuagin Baron (3x) MM p. ???  
-- Reef Shark (3x) MM p. ???
+- Sahuagin Baron (2x) MM p. 264
+- Sahuagin Priestess (1x) MM p. 264
+- Reef Shark (3x) MM p. 336
+**De boot heeft AC 14, HP 100, maar begint met zinken na HP 75.**
 ```statblock
 creature: Sahuagin Baron
 name: Sahuagin Baron
@@ -119,6 +117,59 @@ actions:
     desc: "Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack."
 
 ```
+```statblock
+creature: Sahuagin Priestess
+name: Sahuagin Priestess
+size: Medium
+type: humanoid
+subtype: sahuagin
+alignment: lawful evil
+ac: 12 (natural armor)
+hp: 33
+hit_dice: 6d8 + 6
+speed: 30 ft., swim 40 ft.
+stats:
+  - 13
+  - 11
+  - 12
+  - 12
+  - 14
+  - 13
+skillsaves:
+  - perception: 6
+  - religion: 3
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: ""
+condition_immunities: ""
+senses: darkvision 120 ft., passive Perception 16
+languages: Sahuagin
+cr: 2
+traits:
+  - name: Blood Frenzy
+    desc: The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
+    attack_bonus: 0
+  - name: Limited Amphibiousness
+    desc: The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.
+    attack_bonus: 0
+  - name: Shark Telepathy
+    desc: The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
+    attack_bonus: 0
+actions:
+  - name: Multiattack
+    desc: "The sahuagin makes two attacks: one with its bite and one with its claws."
+  - name: Bite
+    desc: "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage."
+  - name: Claws
+    desc: "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 11 (1d4 + 1) slashing damage."
+spells:
+  - "The Sahuagin is an 6th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following cleric spells prepared:"
+  - Cantrips (at will): guidance, thaumaturgy
+  - 1st level (4 slots): bless, detect magic, guiding bolt
+  - 2nd level (3 slots): hold person, spiritual weapon (trident)
+  - 3rd level (3 slots): mass healing word, tongues
+```
+
 ```statblock
 creature: Reef Shark
 ```

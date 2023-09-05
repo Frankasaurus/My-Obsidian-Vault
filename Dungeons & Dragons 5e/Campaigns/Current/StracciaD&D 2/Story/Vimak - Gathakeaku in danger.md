@@ -83,6 +83,19 @@ creature: Dire Wolf
 ```statblock
 creature: Brown Bear
 ```
-### 2.b.ii Battle map
+### 1.b.ii Battle map
 ![[VimaksDream.png]]
+## 1.c Na gevecht
+Bij slagen;
+- De lichamen op het slagveld vervagen naar vliegen, die vervolgens een gezicht maken in de hemel; [[Hevenar]].
+> *"In wiens naam handelt gij."* (op antwoorden behalve Aukan) "*LEUGENS! Er is iets anders. Er is familie. Er is, hmmm.... trauma...*"
+> "*Aukan Vaimei-Laga... Ik kan het ruiken, proeven. Het wapen dat jij draagt... Hij laat niet los... Hij heeft roeping. De vlammen... Wat is zijn roeping? Wat is jouw roeping?... Het antwoord ligt in het ritueel... Ga naar het ritueel...*"
+
+Waarna Aukan wordt opgeslokt door vlammen en zichzelf in een lichaam bevind die niet van hem is, maar van een andere Goliath.
+- Besneeuwd gebied, daglicht, sneeuwstorm, tenten, Goliaths die bidden.
+- [[Nalla "Fearless" Ogolakanu]] staat stoisch tegenover je. In Giant: "*Geef ons Aukan!*". Vimak kan reageren.
+- *"De Reuzen keren terug, bij Annam's wraak. De vierde veldslag om Nizakun is begonnen. Clan Sahrkun is al gevallen. Gathakeaku heeft zijn strijders nodig. Het heeft Aukan nodig. Wat is je antwoord."*
+- Bij twijfels staan twee Goliaths op; Pa en moe, [[Kuori "Bearkiller"]] en [[Lo-Kag "Wordpainter"]], samen met een 3-jarig meisje aan hun hand - zijn nieuwe zusje Taive "Landspeaker" Vaimei-Laga. *"Alsjeblieft..."*
+Bij acceptatie: *"Gathakeaku zal je afwachten"* Voordat de vlammen en pijn hem opslokt, en wakker maakt. 
+**Hoe voelt Vimak zich**.
 # 2. 
