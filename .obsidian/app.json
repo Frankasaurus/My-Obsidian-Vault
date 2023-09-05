@@ -9,7 +9,7 @@
   "rightToLeft": false,
   "tabSize": 4,
   "showInlineTitle": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "defaultViewMode": "preview",
   "spellcheck": false,
   "autoPairBrackets": true,

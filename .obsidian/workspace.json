@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7a6679df782cdcb5",
+        "id": "28733da5f3344987",
         "type": "tabs",
         "children": [
           {
-            "id": "292aadf31e701f8a",
+            "id": "0a2853e9f0edf997",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 031.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcda1ddc99404a1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 031.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 031.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 031.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 031.md"
+                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Timeline.md"
               }
             }
           },
@@ -167,13 +148,20 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "dcda1ddc99404a1b",
+  "active": "7ef490f531df13d4",
   "lastOpenFiles": [
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Timeline.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Vimak - Gathakeaku in danger.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Roderick - Removing the Curse.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Robyn - Tijani's Dark Past.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 031.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items/Baghtru's Gloves.md",
+    "Life/Things to do.md",
+    "Life/Tasks.md",
+    "Life",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Vimak Vaimei-Laga.md",
     "Templates/Continent.md",
     "Templates/Location.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 031.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Gods/Greater Deities/Order of the Keepers/Hevenar.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Elisabeth - A Secret Dethroned.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Fumyss.md",
@@ -191,15 +179,8 @@
     "Dungeons & Dragons 5e/Campaigns/Players/Melle.md",
     "Dungeons & Dragons 5e/Campaigns/Players/Kim.md",
     "Dungeons & Dragons 5e/Campaigns/Players/Kacper.md",
-    "Templates/Player.md",
-    "Templates/Player Character.md",
     "Dungeons & Dragons 5e/Campaigns/Players",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/NPC's/Oynur's Imp.md",
     "attachments/Imp1.png",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Carmine Char.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Roderick.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Robyn.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Phillipa Vurrinir.md",
     "attachments/MedallionOfThoughts.jpeg",
     "attachments/CapeOfTheMountebank.jpeg",
     "Dungeons & Dragons 5e/Universes/Califhen/Creatures",
@@ -213,7 +194,6 @@
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Landmarks",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Cities & Townships",
     "Dungeons & Dragons 5e/Universes/Califhen/Inhabitants/Creatures",
-    "Dungeons & Dragons 5e/Universes/Califhen/Inhabitants",
-    "Dungeons & Dragons 5e/Source Material/Races"
+    "Dungeons & Dragons 5e/Universes/Califhen/Inhabitants"
   ]
 }
