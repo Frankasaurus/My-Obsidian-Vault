@@ -9,9 +9,10 @@
   "rightToLeft": false,
   "tabSize": 4,
   "showInlineTitle": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "defaultViewMode": "preview",
   "spellcheck": false,
   "autoPairBrackets": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "promptDelete": false
 }

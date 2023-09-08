@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "value_gp": "number"
+    "value_gp": "number",
+    "campaigns": "multitext"
   }
 }

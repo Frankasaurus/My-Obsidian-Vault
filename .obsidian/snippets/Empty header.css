@@ -1,3 +1,7 @@
 th:empty {
     display: none;
 }
+
+.popover.hover-popover {
+    width: 50%
+}
