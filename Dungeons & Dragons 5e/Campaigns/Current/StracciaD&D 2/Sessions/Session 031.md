@@ -19,6 +19,12 @@ characters:
 **Waar:** [[The Bonehead]], ten Noorden van Meqen, onderweg naar Dragoness / Vimak's droom.
 **Doel sessie:** Vimak zijn character arc starten. Party naar Baronie brengen.
 # Vimak gevecht
+INITIATIVE:
+Map 20
+Dire Wolf 15
+Yeti 15
+Bear 10
+Vimak 5
 ![[Vimak - Gathakeaku in danger#1. Oproep naar Vimak]]
 # Bootreis -> Dragoness Baronie
 12 dagen op zee. Net de 3e achter de rug.
@@ -53,6 +59,18 @@ Bij falen geldt 2d6 bludgeoning damage voor betrokkenen.
 Bij 3 of meer falen is de boot aan het **zinken**.
 ## Combat Sahuagin deserters
 **In Sahuagin:** *"Dit zijn ze... Onze toekomst, onze families, onze nalatenschap, onze **sultan**, verloren om een enkel meisje. Jullie moeten boeten. De macht van Baneel leeft voort in de Sahuagin!"*
+Initiative:
+Vimak: 18
+Elisabeth: 15
+Sahuagin: 11
+Carmine: 9
+Roderick: 9
+Phillipa: 8
+Haaien: 8
+Robyn: 5
+
+BOOT HP = 81
+HAAI C = 9
 
 Gebruik [deze](https://www.dndbeyond.com/encounter-builder) tool.  
 **Moeilijkheid:** Hard  

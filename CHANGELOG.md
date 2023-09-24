@@ -1,4 +1,4 @@
-##  (2023-09-01)
+##  (2023-09-24)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -15,5 +15,12 @@
 *  updated map *(Frankasaurus)*
 *  Added Becx map *(Frankasaurus)*
 *  Prepped Session 31 for like 80% *(Alexander Franke)*
+*  Finished Most of session 31 prep *(Frankasaurus)*
+*  Added to Elisabeth's backstory *(Frankasaurus)*
+*  Finished prepping session 31, Vimak story setup, Elisabeth setup *(Frankasaurus)*
+*  Added more things *(Frankasaurus)*
+*  Todo list *(Frankasaurus)*
+*  Added players *(Frankasaurus)*
+*  Sessie 29 voorbij *(Alexander Franke)*
 
 
