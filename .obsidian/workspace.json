@@ -4,15 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "3e99c1f879a6e961",
+        "id": "39b0f52fd2db5a00",
         "type": "tabs",
         "children": [
           {
-            "id": "7128dfd5f4942110",
+            "id": "b459333d31169967",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Elisabeth - A Secret Dethroned.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bc243b9597c4dbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Elisabeth - A Secret Dethroned.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f386af541851b14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Elisabeth de Dragoness.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Bloeming Isles.md",
+                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Elisabeth - A Secret Dethroned.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Bloeming Isles.md",
+                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Elisabeth - A Secret Dethroned.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Bloeming Isles.md"
+                "file": "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Elisabeth - A Secret Dethroned.md"
               }
             }
           },
@@ -132,23 +160,12 @@
               "type": "combatant-view",
               "state": {}
             }
-          },
-          {
-            "id": "91c5413a211f1dff",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 388.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,53 +178,53 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "7ef490f531df13d4",
+  "active": "b459333d31169967",
   "lastOpenFiles": [
-    "Dungeons & Dragons 5e/Campaigns/One-Shots/Legende van Experius",
-    "Dungeons & Dragons 5e/Campaigns/One-Shots",
-    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Aegren.md",
-    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/_Summary.md",
-    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Bloeming Isles.md",
-    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Drav-Modesta.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Phillipa - No clue.md",
-    "Templates/Location.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 031.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Vimak - Gathakeaku in danger.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Vimak Vaimei-Laga.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 029.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 030.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 032.md",
-    "attachments/MedallionOfThoughts.jpeg",
-    "attachments/Imp1.png",
-    "attachments/CapeOfTheMountebank.jpeg",
-    "attachments/BattleMaps/VimaksDream.png",
-    "attachments/BattleMaps",
-    "Untitled.md",
-    "Templates/Player.md",
-    "Templates/NPC.md",
-    "Life/Things to do.md",
-    "Life/Tasks.md",
-    "Life",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Elisabeth - A Secret Dethroned.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Elisabeth de Dragoness.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions/Session 031.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Roderick - Removing the Curse.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Vimak - Gathakeaku in danger.md",
+    "Templates/Storybeats.md",
+    "Templates/Player Character.md",
+    "Dungeons & Dragons 5e/Campaigns/Players/Alex.md",
     "Dungeons & Dragons 5e/Campaigns/Players/Roy.md",
     "Dungeons & Dragons 5e/Campaigns/Players/Melle.md",
     "Dungeons & Dragons 5e/Campaigns/Players/Lise.md",
     "Dungeons & Dragons 5e/Campaigns/Players/Kim.md",
     "Dungeons & Dragons 5e/Campaigns/Players/Kacper.md",
     "Dungeons & Dragons 5e/Campaigns/Players/Chris.md",
-    "Dungeons & Dragons 5e/Campaigns/Players/Alex.md",
+    "Dungeons & Dragons 5e/Campaigns/Players/Image.jpg.md",
+    "Templates/Player.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Campaign Overview.md",
+    "Dungeons & Dragons 5e/Campaigns/Players/TODO FIX TEMPLATE.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Phillipa Vurrinir.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Aegren.md",
+    "attachments/Banners/BloemingIslesBg.png",
+    "attachments/Banners/AegrenBg.jpeg",
+    "Untitled.md",
+    "Game Dev TTRPG/Elements/Game.md",
+    "Game Dev TTRPG/Elements/Developer.md",
+    "Game Dev TTRPG/Elements/Audience.md",
+    "Game Dev TTRPG/Elements/Company.md",
+    "Life",
+    "attachments/BattleMaps/VimaksDream.png",
+    "attachments/Pasted image 20230904224021.png",
+    "attachments/BattleMaps",
     "Dungeons & Dragons 5e/Campaigns/Players",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/NPC's/Oynur's Imp.md",
+    "attachments/Imp1.png",
+    "attachments/MedallionOfThoughts.jpeg",
+    "attachments/CapeOfTheMountebank.jpeg",
     "Dungeons & Dragons 5e/Universes/Califhen/Creatures",
     "attachments/BecxIslesMap1.png",
     "attachments/BecxIslesMap.png",
-    "attachments/Banners/BloemingIslesBg.png",
-    "attachments/Banners/AegrenBg.jpeg",
     "attachments/Banners/377508-blackangel-2817106368.jpeg",
     "attachments/Banners",
-    "attachments/Vimak2.png",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Regions",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Landmarks",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Cities & Townships",
-    "Dungeons & Dragons 5e/Universes/Califhen/Inhabitants/Creatures"
+    "Dungeons & Dragons 5e/Universes/Califhen/Inhabitants/Creatures",
+    "Dungeons & Dragons 5e/Universes/Califhen/Inhabitants"
   ]
 }
