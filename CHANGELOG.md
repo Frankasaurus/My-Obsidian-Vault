@@ -1,4 +1,4 @@
-##  (2023-09-24)
+##  (2023-09-26)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -22,5 +22,7 @@
 *  Todo list *(Frankasaurus)*
 *  Added players *(Frankasaurus)*
 *  Sessie 29 voorbij *(Alexander Franke)*
+*  Sessie 32 voorbereid *(Frankasaurus)*
+*  Started work on Dragoness Barony *(Alexander Franke)*
 
 

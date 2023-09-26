@@ -3,7 +3,8 @@ Onderwerp: [[Elisabeth de Dragoness]]
 # Samenvatting & vooropzet
 Het nobele huis van Dragoness heeft een Geheim verloren, namelijk die van hun adelheid. De [[Dragoness Barony|baronnie van de Dragonesses]] is gebaseerd op een leugen, dat hun recht op adel gebaseerd is op eeuwenoud geschenk van draken. In werkelijkheid heeft haar vader voor de geboorte van elisabeth en haar broers een pact gesloten met Kruziik’ahraan (‘Het oude litteken’). Xavion, Elisabeths Vader, vroeg om een nobel uiterlijk, waardig van een koning, een fortuin om een stad mee te stichten, en een bloedlijn die in legende geschreven zou staan (Een legende leeft op dood). In ruil daarvoor zou Xavion al zijn dochters en zonen op hun 26e verjaardag moeten aanleveren om te dienen als overheersers namens het litteken. Benjamin er achter gekomen dat Xavion dealt met een draak door correspondentie te overhoren tussen haar vader en een ‘Rana’ (het litteken in menselijke vorm), en weet niet of hij zich moet aansluiten hierbij of niet. Amenadiel heeft zich al bedacht over zijn rol (en volgt het litteken). Benjamin is dus het persoon geweest dat het geheim heeft gestolen.
 # 1. Aankomst Baronie
-1. Bij aanmeren wacht niemand op. Uiteindelijk loopt iemand aan die “juwelen” wil verkopen, en steeds meer bedelaars sluiten aan. Groeperen om de party heen.
+1. Bij aanmeren wacht niemand op. Uiteindelijk loopt iemand aan die “juwelen” wil verkopen, en steeds meer bedelaars sluiten aan. Groeperen om de party heen. 
+	1. Rennen weg bij luiden van de klokken
 2. De stad is vervallen, grijs en geel, met de lichte geur van zwavel en zuur door de lucht. Overal gehoest, geen gelach.
 3. Enige onderhouden zijn standbeelden (van half-dragons, dragonborn, en ‘Generaal Fumyss’) en banieren / wimpels met logo. 
 4. De stad is zichtbaar in tweeen gedeeld; driekwart is voor de werkers en bedrijven als glasblazers en kledingmakers, een kwart voor de nobiliteit, met een kathedraal in het midden.
@@ -23,7 +24,7 @@ Terwijl hij begint met lezen, loopt Fumyss het podium op.
 **[[Fumyss]]** (groot, brons-gekleurd, gevleugelde (Blue) Abishai);
 >“Hoort allen in aanwezigheid, zij die hun welvarendheid te danken hebben aan Baronie de Dragoness. Het gift dat de tijdloze draken ons op dagelijkse basis geven wordt verwaarloosd door zijn gebruikers. Steeds vaker aanschouwt de Bronzen Orde dit zinloze tijdverdrijf. Rantsoenen die worden onderveeld aan de zwakste; Protesten tegen het gratis onderwijs; lieden die het werk neerleggen, of nog zwakker - ploegbazen die knielen naar de arbeider. LUISTEREN JULLIE WEL! Dit is niet hoe het Brons bestaat. Het Brons bestaat uit regimenten, structuur, hiërarchie, respect! Naar de woorden van jullie sterke leider (wijs naar Xavion), mocht hij als wijze leider ooit knielen voor een mindere, mag zijn lichaam van het hoofd worden ontnomen… En zo gaat dat…”
 
-Wachters halen 2 ploegbazen podium op, zonder pardon slaat Fumyss ze neer.
+Wachters halen 2 ploegbazen podium op en duwen ze op hun knieen. Zonder pardon slaat Fumyss ze neer.
 
 >“Jullie zijn van de Bronzen Orde! Jullie zijn sterker dan dit! Wij geloven in jullie arbeids plichten, zoals jullie in onze beschermplicht geloven! Is dit geen gerechtigheid?!... Stel ons niet teleur. Stel jullie Baron niet teleur… Einde mis, jullie hebben werk in te halen.”
 ## 1.b Mochten ze interferen
@@ -33,9 +34,9 @@ Gebruik [deze](https://www.dndbeyond.com/encounter-builder) tool.
 **Reden:** Een staatsgeorganiseerde misdienst wordt verstoord door de party
 **Lol:** Een kerk met veel toeschouwers en publiek in de weg
 **Vijanden:** 
-	- Half-Red Dragon Veteran (3x) MM. 
+	- Half-Red Dragon Veteran (2x) MM p. 180
 		- Laat een van de veteranen versterking roepen
-		- Meer kunnen komen als het makkelijk af gaat
+	- Thug (3x) MM p. achterin
 - [x] **Mix van ranged / martial?**
 ### 1.b.i Combat Kerk
 Initiative:
@@ -44,15 +45,19 @@ Initiative:
 Half-Red Dragon Veterans:
 A: 65
 B: 65
-C: 65
-D: 65
-E: 65
 
 ```statblock
 creature: Half-Red Dragon Veteran
 ```
-### 1.b.ii
-
+Thugs:
+A: 32
+B: 32
+C: 32
+```statblock
+creature: Thug
+```
+### 1.b.ii Battlemap Kathedraal
+Deze map zal bestaan uit een rechte
 # 2. Cirdorim Ontmoeting
 [[Cirdorim]] is een Adult Bronze Dragon, die als oude dame door de stad wandelt en zieke bewoners verzorgt in een oud pakhuis
 Een sprekende Eekhoorn, met een donkergele vacht, die de party formeel onthaalt. Al gevolgd sinds ze aanmeerden, wetende dat er een Dragoness aan boord zou zijn.

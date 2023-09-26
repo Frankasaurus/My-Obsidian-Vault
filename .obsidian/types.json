@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "value_gp": "number",
-    "campaigns": "multitext"
+    "campaigns": "multitext",
+    "type": "text"
   }
 }
