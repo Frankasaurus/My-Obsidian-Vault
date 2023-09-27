@@ -1,4 +1,4 @@
-##  (2023-09-26)
+##  (2023-09-27)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -24,5 +24,6 @@
 *  Sessie 29 voorbij *(Alexander Franke)*
 *  Sessie 32 voorbereid *(Frankasaurus)*
 *  Started work on Dragoness Barony *(Alexander Franke)*
+*  Created location template in Dragoness Barony file *(Alexander Franke)*
 
 

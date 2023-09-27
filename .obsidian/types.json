@@ -5,6 +5,9 @@
     "tags": "tags",
     "value_gp": "number",
     "campaigns": "multitext",
-    "type": "text"
+    "type": "text",
+    "population": "number",
+    "age": "text",
+    "districts": "multitext"
   }
 }

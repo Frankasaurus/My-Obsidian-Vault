@@ -3,23 +3,20 @@ type:
   - Location
 location_type:
 ---
-
-```
 > [!infobox]  
-> # 
+> # `=this.name_first` `=this.name_last`
 > ![[Image.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | |
+> | **Type** | `= this.type` |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | |
-> | **Status** | |
-> | **Campaigns** | |
-> | **Characters** | |
-```
+> | **Name** | `= this.name_full` |
+> | **Status** | `=this.status` |
+> | **Campaigns** | `=this.campaigns` |
+> | **Characters** | `=this.characters` |
 # Heading
 ## Main campaigns
 - Character, race class (campaign)
