@@ -4,40 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "39b0f52fd2db5a00",
+        "id": "8219adbcd5ee7bed",
         "type": "tabs",
         "children": [
           {
-            "id": "b459333d31169967",
+            "id": "315340aedc5f298b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeons & Dragons 5e/Universes/Califhen/Locations/Settlements/Dragoness Barony.md",
+                "file": "Dungeons & Dragons 5e/Campaigns/One-Shots/Legende van Experius/Sessie - De Experium-vloek.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "5f386af541851b14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeons & Dragons 5e/Universes/Califhen/Locations/Settlements/_Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a8a80149a0ff0e9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/CalifhenMap1.png"
               }
             }
           }
@@ -107,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeons & Dragons 5e/Universes/Califhen/Locations/Settlements/Dragoness Barony.md",
+                "file": "Dungeons & Dragons 5e/Campaigns/One-Shots/Legende van Experius/Sessie - De Experium-vloek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeons & Dragons 5e/Universes/Califhen/Locations/Settlements/Dragoness Barony.md",
+                "file": "Dungeons & Dragons 5e/Campaigns/One-Shots/Legende van Experius/Sessie - De Experium-vloek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeons & Dragons 5e/Universes/Califhen/Locations/Settlements/Dragoness Barony.md"
+                "file": "Dungeons & Dragons 5e/Campaigns/One-Shots/Legende van Experius/Sessie - De Experium-vloek.md"
               }
             }
           },
@@ -196,15 +174,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b459333d31169967",
+  "active": "315340aedc5f298b",
   "lastOpenFiles": [
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Elisabeth - A Secret Dethroned.md",
-    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Settlements/Dragoness Barony.md",
+    "attachments/CalifhenMap1.png",
+    "Dungeons & Dragons 5e/Campaigns/One-Shots/Legende van Experius/Sessie - De Experium-vloek.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Settlements/_Summary.md",
+    "Dungeons & Dragons 5e/Universes/Califhen/Locations/Settlements/Dragoness Barony.md",
+    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Elisabeth - A Secret Dethroned.md",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Settlements/Image.jpg.md",
     "Templates/Location.md",
     "Templates/Player.md",
-    "attachments/CalifhenMap1.png",
     "attachments/BecxIslesMap1.png",
     "Dungeons & Dragons 5e/Universes/Califhen/Locations/Continents/Aegren.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Elisabeth de Dragoness.md",
@@ -224,10 +203,8 @@
     "Dungeons & Dragons 5e/Campaigns/Players/Image.jpg.md",
     "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Campaign Overview.md",
     "Dungeons & Dragons 5e/Campaigns/Players/TODO FIX TEMPLATE.md",
-    "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters/Phillipa Vurrinir.md",
     "attachments/Banners/BloemingIslesBg.png",
     "attachments/Banners/AegrenBg.jpeg",
-    "Untitled.md",
     "Life",
     "attachments/BattleMaps/VimaksDream.png",
     "attachments/Pasted image 20230904224021.png",
