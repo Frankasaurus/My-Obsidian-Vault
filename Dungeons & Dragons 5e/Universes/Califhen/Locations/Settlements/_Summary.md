@@ -1,5 +1,4 @@
-# Settlements 
-Location types:
+# Location types:
 
 | Size     | Population   | Description                                                      | Example                 | Industries          |
 | -------- | ------------ | ---------------------------------------------------------------- | ----------------------- | ------------------- |
@@ -10,7 +9,7 @@ Location types:
 | City     | Up to 25.000 | A capital or metropolis of civilisation                          | [[Dragoness Barony]]    | Most things         |
 | Fortress | Up to 10.000 | A self-reliant city purely focussed on warfare or defense        | [[Burduur]]                        | Food and weapons    | 
 
-Building types: 
+# Building types: 
 
 | Name       | Subtypes                                          | Appears in      |
 | ---------- | ------------------------------------------------- | --------------- |
@@ -24,7 +23,7 @@ Building types:
 | Magical    | Enchanter, Magic shop                             | Cities and up   |
 | Military   | Baracks, Training grounds, Recruitment office     | Cities and up   |
 
-Forms of government:
+# Forms of government:
 
 | Form        | Variations             | Description |
 | ----------- | ---------------------- | ----------- |

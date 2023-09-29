@@ -1,4 +1,4 @@
-##  (2023-09-28)
+##  (2023-09-30)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -26,5 +26,6 @@
 *  Started work on Dragoness Barony *(Alexander Franke)*
 *  Created location template in Dragoness Barony file *(Alexander Franke)*
 *  One-shot prep *(Alexander Franke)*
+*  Finnished location template, started most of Dragoness Barony page *(Alexander Franke)*
 
 
