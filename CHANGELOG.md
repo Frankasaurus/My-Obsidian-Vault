@@ -30,5 +30,6 @@
 *  Completed session 32 *(Alexander Franke)*
 *  Created TODO's ses 33. Added Gitignore for workspace *(Alexander Franke)*
 *  Removed duplicate ignore *(Alexander Franke)*
+*  Delete workspace.json *(Alexander Franke)*
 
 
