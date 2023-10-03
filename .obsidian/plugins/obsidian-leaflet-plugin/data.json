@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "califhen-map",
-      "lastAccessed": 1693572226149,
+      "lastAccessed": 1696174840273,
       "markers": [
         {
           "id": "ID_fbc9a948ea98",
@@ -817,14 +817,17 @@
           "id": "ID_7be86868789a",
           "type": "Party",
           "loc": [
-            -4.3642120361328125,
-            4.38818359375
+            -4.758469431176129,
+            3.830351524739741
           ],
           "link": "Party",
           "layer": "%5B%5BCalifhenMap1.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.2553567683159827,
+            0.5639667473986524
+          ],
           "description": "Current position of the StracciaD&D 2 Party",
           "minZoom": 8,
           "maxZoom": null,
@@ -1109,9 +1112,122 @@
               }
             },
             {
-              "lat": -4.3662109375,
-              "lng": 4.392578125,
+              "lat": -4.342027724193979,
+              "lng": 4.361738224609611,
               "id": "ID_7a29abc82b18",
+              "targets": {
+                "vertexIds": [
+                  "ID_e98bd8fa7869",
+                  "ID_3b28cbb94bcb",
+                  "ID_9b28c87b8828",
+                  "ID_1a7bb8797bca",
+                  "ID_1a3a7a386b9b",
+                  "ID_9b2bb86a6959"
+                ]
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#ff0000",
+          "vertices": [
+            {
+              "lat": -4.342027724193979,
+              "lng": 4.361738224609611,
+              "id": "ID_e98bd8fa7869",
+              "targets": {
+                "vertexIds": [
+                  "ID_7a29abc82b18",
+                  "ID_3b28cbb94bcb",
+                  "ID_9b28c87b8828",
+                  "ID_1a7bb8797bca",
+                  "ID_1a3a7a386b9b",
+                  "ID_9b2bb86a6959"
+                ]
+              }
+            },
+            {
+              "lat": -4.342027724193979,
+              "lng": 4.361738224609611,
+              "id": "ID_3b28cbb94bcb",
+              "targets": {
+                "vertexIds": [
+                  "ID_7a29abc82b18",
+                  "ID_e98bd8fa7869",
+                  "ID_9b28c87b8828",
+                  "ID_1a7bb8797bca",
+                  "ID_1a3a7a386b9b",
+                  "ID_9b2bb86a6959"
+                ]
+              }
+            },
+            {
+              "lat": -4.342027724193979,
+              "lng": 4.361738224609611,
+              "id": "ID_9b28c87b8828",
+              "targets": {
+                "vertexIds": [
+                  "ID_7a29abc82b18",
+                  "ID_e98bd8fa7869",
+                  "ID_3b28cbb94bcb",
+                  "ID_1a7bb8797bca",
+                  "ID_1a3a7a386b9b",
+                  "ID_9b2bb86a6959"
+                ]
+              }
+            },
+            {
+              "lat": -4.342027724193979,
+              "lng": 4.361738224609611,
+              "id": "ID_1a7bb8797bca",
+              "targets": {
+                "vertexIds": [
+                  "ID_7a29abc82b18",
+                  "ID_e98bd8fa7869",
+                  "ID_3b28cbb94bcb",
+                  "ID_9b28c87b8828",
+                  "ID_1a3a7a386b9b",
+                  "ID_9b2bb86a6959"
+                ]
+              }
+            },
+            {
+              "lat": -4.342027724193979,
+              "lng": 4.361738224609611,
+              "id": "ID_1a3a7a386b9b",
+              "targets": {
+                "vertexIds": [
+                  "ID_7a29abc82b18",
+                  "ID_e98bd8fa7869",
+                  "ID_3b28cbb94bcb",
+                  "ID_9b28c87b8828",
+                  "ID_1a7bb8797bca",
+                  "ID_9b2bb86a6959"
+                ]
+              }
+            },
+            {
+              "lat": -4.342027724193979,
+              "lng": 4.361738224609611,
+              "id": "ID_9b2bb86a6959",
+              "targets": {
+                "vertexIds": [
+                  "ID_7a29abc82b18",
+                  "ID_e98bd8fa7869",
+                  "ID_3b28cbb94bcb",
+                  "ID_9b28c87b8828",
+                  "ID_1a7bb8797bca",
+                  "ID_1a3a7a386b9b"
+                ]
+              }
+            },
+            {
+              "lat": -4.449076742540969,
+              "lng": 4.27037764723018,
+              "id": "ID_a849cad949e8",
               "targets": {
                 "vertexIds": []
               }

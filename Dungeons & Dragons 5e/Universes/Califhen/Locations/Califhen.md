@@ -1,3 +1,8 @@
+---
+tags:
+  - Update
+---
+
 ```leaflet
 id: califhen-map
 image: [[CalifhenMap1.png]]

@@ -1,3 +1,8 @@
+---
+tags:
+  - TODO
+---
+
 # Members
 ## Current members
 ```dataview
@@ -15,3 +20,9 @@ FROM "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters"
 WHERE member_status != "Current"
 SORT file.name ASC
 ```
+
+# Journey
+## Chapter 1
+[[Keylin Ostver]] & exploring [[Bloeming Isles]]
+## Chapter 2
+Finding [[Bejamin de Dragoness]] & return to [[Dragoness Barony]].

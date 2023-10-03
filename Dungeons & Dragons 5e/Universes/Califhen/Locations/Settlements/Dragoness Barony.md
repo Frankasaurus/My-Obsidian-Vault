@@ -19,7 +19,9 @@ districts:
   - Bronze reach
   - Order Quadrant
 poi: 
-resources:
+resources: 
+tags:
+  - TODO
 ---
 > [!infobox]  
 > # `=this.file.name`
@@ -43,7 +45,7 @@ resources:
 > | | |  
 > |---|---|  
 > | **Population** | `= this.population` |
-> | **Races** | - 30% Humans<br>- 20% Tieflings<br>- 15% Elven<br>- 10% Gnome<br>- 10% Dwarven<br>- 10% Halfling<br>- 5% other |
+> | **Races** | - 30% Humans<br>- 20% Tieflings<br>- 15% Dragonborn<br>- 10% Gnome<br>- 10% Elven<br>- 10% Halfling<br>- 5% other |
 > | **Affiliation** | `=link(this.affiliations)` |
 # Description
 Dragoness Barony is a small city on the east coast of [[Greyskil]], located between [[Gabong]] and [[Yyh'ma]]. Though the Dragoness lands are thought to be very old, they were little more than farmfields up until several decenia ago, when [[Xavion]] de Dragoness - [[Dragoness family]]'s elder - made a secret pact with a Blue Dragon, [[Kruziik'ahraan]]. Though not publicly known, this resulted in the exchange of extremely valueable materials with which to build and establish a Barony, and all Dragoness' future children.
@@ -55,16 +57,20 @@ Its old name of Honorhaven has recently been changed due to the district council
 The remaining quarter of the city is a liberally laid-out noble's playground, where state-owned ground is assigned to nobility in the area. Its infrastructure is built from materials purchased from far away, and reflects the cities' previous international wealth in trade. Without trade, it is expected of each noble house living in the Reach to establish a company to contribute to the isolated cities survivability. 
 There are communal areas here, as the folks who do not actively run businesses mostly act as socialites, though a portion of the noble houses have establish local neighborhood watches as a response to the perceived dangers of laborers from the Order Quadrant. 
 ## Palace Grounds
-
+A monumental villa with flowing open corridors, the palace grounds house little more than residency for the Dragoness family. No expense spared, it features many wings for each family member, and has been gradually expanding the larger the family got. It's connected to the rest of the city with the Honored Flight, a slope that gradually takes one from the Bronze Reach to the Palace yards, which themselves are as big as the main building. Its size is both as a display of wealth, housing many artifacts and sculptures on display, as well as facilitatie the occassional dragon.
+Besides residence for the Dragoness', a guest house is available on the premises, as well as a smaller section of buildings for both staff and distant relatives. Instead of a stable, the Palace Grounds have a tunnel connected to a Drake Yard just outside the perimiter walls.
 # Layout
 
-| Name                        | Type          | Location                                                    | People                                                                                | Notes                                                                                                                                                 |
-| --------------------------- | ------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Higher Justice Cathedral    | Cathedral     | Divided between the Bronze Reach and the Order Quadrant     | Justitius Devra (Senior human M, schales, simple-minded)                              | The cathedral is shaped like two opposing, overlapping tears, with one end in each district, and the interior divided into a noble and pauper section |
-| The Grey Hospice            | Hospice       | Order Quadrant, in front of the Higher Justice Cathedral    | Cirdorim (Adult Bronze Dragon, disguised as Older orange tiefling F)                  | The hospice serves as a barack for the sick and ill. It's name comes from the relatively healthy elderly inhabitants who founded and maintain it.     |
-| Wilting Rose Orphanage      | Orphanage     | Order Quadrant, in a repurposed inn                         | 'Innkeeper' Varhys (Adult silver dragonborn M, bitter, but kind palace guard veteran) | Due to the isolation of the city, inns were abolished and repurposed.                                                                                 |
-| Thundergate & Lightninggate | Inner gates   | Along the Quadrant walls.                                   |                                                                                       | These huge gates open and close at set times during the day, checking each inhabitant before crossing. Thunder also houses the Order Guard HQ.        |
-| The Smauldering Emporium    | General store | Four General stores distributed throughout the Bronze Reach | Trademaster Henza (Adult elven M, spectacled, sympathetic but egotistical)            | These state-owned shops were established to both make government-owned use of the labor force, as well as tax the rich.                               |
+## Buildings
+
+| Name                        | Type          | Location                                                     | People                                                                                | Notes                                                                                                                                                 |
+| --------------------------- | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Higher Justice Cathedral    | Cathedral     | Divided between the Bronze Reach and the Order Quadrant      | Justitius Devra (Senior human M, schales, simple-minded)                              | The cathedral is shaped like two opposing, overlapping tears, with one end in each district, and the interior divided into a noble and pauper section |
+| The Grey Hospice            | Hospice       | Order Quadrant, in front of the Higher Justice Cathedral     | Cirdorim (Adult Bronze Dragon, disguised as Older orange tiefling F)                  | The hospice serves as a barack for the sick and ill. It's name comes from the relatively healthy elderly inhabitants who founded and maintain it.     |
+| Wilting Rose Orphanage      | Orphanage     | Order Quadrant, in a repurposed inn                          | 'Innkeeper' Varhys (Adult silver dragonborn M, bitter, but kind palace guard veteran) | Due to the isolation of the city, inns were abolished and repurposed.                                                                                 |
+| Thundergate & Lightninggate | Inner gates   | Along the Quadrant walls.                                    |                                                                                       | These huge gates open and close at set times during the day, checking each inhabitant before crossing. Thunder also houses the Order Guard HQ.        |
+| The Smauldering Emporium    | General store | Four General stores distributed throughout the Bronze Reach  | Trademaster Henza (Adult elven M, spectacled, sympathetic but egotistical)            | These state-owned shops were established to both make government-owned use of the labor force, as well as tax the rich.                               |
+| Drake Yard                  | Stable        | Outside the perimiter walls, between Palace and Bronze reach | Drakewarden Tar'hyris (Senior blue half-dragon F, loyal and realistic)                | Dragoness Barony does not use horses, but drakes.                                                                                                     | 
 # Society
 A general description of the (types of) people that live and work in this settlement. What culture, religion, and worldview do they adhere to in general.
 ## Leadership
