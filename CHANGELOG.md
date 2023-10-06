@@ -1,4 +1,4 @@
-##  (2023-10-03)
+##  (2023-10-06)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -31,5 +31,6 @@
 *  Created TODO's ses 33. Added Gitignore for workspace *(Alexander Franke)*
 *  Removed duplicate ignore *(Alexander Franke)*
 *  Delete workspace.json *(Alexander Franke)*
+*  Created and added up-to-dat eCyberpunk Characters, NPC's, Locations, templates *(Alexander Franke)*
 
 

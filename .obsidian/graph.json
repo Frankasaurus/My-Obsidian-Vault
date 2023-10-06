@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Dungeons & Dragons 5e/Universes/Califhen/Gods/\"",
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 15283683
       }
+    },
+    {
+      "query": "path:\"Cyberpunk RED\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7353517
+      }
     }
   ],
   "collapse-display": true,
@@ -47,5 +54,5 @@
   "linkStrength": 0.651041666666667,
   "linkDistance": 59,
   "scale": 0.36288736930121623,
-  "close": true
+  "close": false
 }

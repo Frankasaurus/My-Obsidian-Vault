@@ -3,12 +3,12 @@ name: ""
 name_short: ""
 type: ""
 rarity: ""
-materials: [""]
-attunement: "Yes"
+materials: []
+attunement: Yes
 slot: ""
 cursed: 0
 owner: ""
-owner_previous: [""]
+owner_previous: []
 ---
 > [!infobox]  
 > # `=this.name`

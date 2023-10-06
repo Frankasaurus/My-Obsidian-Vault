@@ -11,7 +11,7 @@ leaders: Xavion de Dragoness
 location_plane: Material plane
 location_continent: Greyskil
 location_region: 
-affiliations: Kruziik’ahraan
+affiliations: []
 districts:
   - Palace grounds
   - Bronze reach
