@@ -1,4 +1,4 @@
-##  (2023-10-06)
+##  (2023-10-15)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -32,5 +32,7 @@
 *  Removed duplicate ignore *(Alexander Franke)*
 *  Delete workspace.json *(Alexander Franke)*
 *  Created and added up-to-dat eCyberpunk Characters, NPC's, Locations, templates *(Alexander Franke)*
+*  Added Night City map & markers *(Frankasaurus)*
+*  Added Dragoness' Family *(Alexander Franke)*
 
 
