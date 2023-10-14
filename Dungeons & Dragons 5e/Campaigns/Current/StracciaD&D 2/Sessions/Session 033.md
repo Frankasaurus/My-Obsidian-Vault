@@ -26,8 +26,14 @@ Let op, deze keer focus op party, niet alleen Elizabeth
 - [ ] Playlists maken
 	- [ ] Ballroom
 	- [ ] Combat
+
+***PARTY STAAT ONDER PERMANENT (ONBEWUST) TOEZICHT VAN PALEISGARDE (DC 16)***
 # Cirdorim Ontmoeting
+Tijdens ontbijt komt een eekhoorntje gluren.
+Bij het ontvangen van de kleding zal ze een opmerking tussendoor maken;
+"We moeten praten, maar niet hier. Ergens waar niemand zou durven mee te luisteren."
+Elisabeth's slaapkamer / een schuur / draketunnels.
 ![[Elisabeth - A Secret Dethroned#2. Cirdorim Ontmoeting]]
 
-# Reunie Xavion & opzet Gala
+# Het Gala
 ![[Elisabeth - A Secret Dethroned#3.a Het Gala]]
