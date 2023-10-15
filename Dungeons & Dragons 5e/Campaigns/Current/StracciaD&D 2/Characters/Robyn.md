@@ -30,37 +30,37 @@ stat_cha: 14
 languages: [Common, Orcish]
 ---
 > [!infobox]  
-> # `=this.name_first` `=this.name_last`
+> # Robyn
 > ![[Robyn2.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | `= this.type` |
-> | **Player** | `= link(this.player)` |
+> | **Type** | Player Character |
+> | **Player** | [[Lise]] |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | `= this.name_full` |
-> | **Gender** | `=this.gender` | 
-> | **Creature Type** | `= this.creature_type` |
-> | **Race** | `= link(this.creature_race)` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
-> | **Class** | `= link(this.class)` `= choice(this.subclass = "", "", "(")` `= this.subclass` `= choice(this.subclass = "", "", ")")`|  
-> | **Born** | `=link(this.place_of_birth)` , `=this.age` years ago|  
-> | **Languages** | `=this.languages` |  
+> | **Name** | Robyn |
+> | **Gender** | Female | 
+> | **Creature Type** | Humanoid |
+> | **Race** | Half-Orc |  
+> | **Class** | [[Monk]], Way of the Astral Self |  
+> | **Born** | [[Torpe]] , 24 years ago|  
+> | **Languages** | Common, Orcish |  
 > | **Family** | - [[Rhayn]] (mother)<br>- [[Linzo]] (father) |
 > | **Connections** | - [[Party]] (member)<br>- [[Mozillin Brown's Bazaar]] (member) |
-> | **Status** | `=this.status` |
-> | **Sessions** | `=this.member` |
+> | **Status** | Alive |
+> | **Sessions** | From Session 9 onwards |
 > ###### Stats
 > | | | | |
 > |---|---|---|---|
-> | **Level** | `=this.level` | **HP** | `=this.hit_points` |
-> | **AC** | `=this.armor_class` | | |
-> | **Str** | `=this.stat_str` | **Int** | `=this.stat_int` |
-> | **Dex** | `=this.stat_dex` | **Wis** | `=this.stat_wis` |
-> | **Con** | `=this.stat_con` | **Cha** | `=this.stat_cha` |
+> | **Level** | `=this.level` | **HP** | 45 |
+> | **AC** | 14 | | |
+> | **Str** | 13 | **Int** | 11 |
+> | **Dex** | 16 | **Wis** | 13 |
+> | **Con** | 14 | **Cha** | 14 |
 
-`=this.name_first` `=this.name_last` is a `=this.creature_subrace` `=this.creature_race` `=this.subclass` `=this.class`. `=choice(this.gender = "Male", "He", "She")` is played by `=this.player`. 
+Robyn is a [[Half-Orc]] [[Monk]] of the Way of the Astral Self. She is played by [[Lise]].
 # Description
 ## Appearance
 Robin is a muscular, relatively slender half-orc woman. Due to her heritage, her lower canines protrude from her mouth, and her skin is greenish grey in tone. She has black braids and dreadlocks for hair, with colored accents wrapped around some of the dreads. Thanks to becoming infused with [[Baghtru's Gloves]], her fingers and hands have stonestring woven through them; hair-thin flexible wires that solidify when used with aggressive force. 

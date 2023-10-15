@@ -50,7 +50,7 @@ Description of personality.
 Story of after meeting the gang.
 # Relationships
 ## Person
-Is dit nodig?
+Is this necessary?
 # Character information
 ## Notable items
 - List of items

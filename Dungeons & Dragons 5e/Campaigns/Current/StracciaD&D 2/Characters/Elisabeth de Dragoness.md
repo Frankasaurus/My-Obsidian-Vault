@@ -30,52 +30,38 @@ stat_cha: 19
 languages: [Common, Infernal, Draconic]
 ---
 > [!infobox]  
-> # `=this.name_first` `=this.name_last`
+> # Elisabeth de Dragoness
 > ![[Elisabeth2.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | `= this.type` |
-> | **Player** | `= link(this.player)` |
+> | **Type** | Player Character |
+> | **Player** | [[Kim]] |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | `= this.name_full` |
-> | **Aliases** | `= this.name_aka`  |
-> | **Gender** | `=this.gender` | 
-> | **Creature Type** | `= this.creature_type` |
-> | **Race** | `= link(this.creature_race)` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
-> | **Class** | `= link(this.class)` `= choice(this.subclass = "", "", "(")` `= this.subclass` `= choice(this.subclass = "", "", ")")`|  
-> | **Born** | `=link(this.place_of_birth)` , `=this.age` years ago|  
-> | **Languages** | `=this.languages` |  
+> | **Name** | Elisabeth de Dragoness |
+> | **Aliases** | His Free Lady (official title in Barony Dragoness) |
+> | **Gender** | Female | 
+> | **Creature Type** | Humanoid |
+> | **Race** | [[Tiefling]] |  
+> | **Class** | [[Sorcerer]] (Draconic Bloodline) |  
+> | **Born** | [[Dragoness Barony]] , 23 years ago|  
+> | **Languages** | Common, Infernal, Draconic |  
 > | **Family** | - [[Xavion]] (vader, Baron de Dragoness)<br>- [[Willemijn]] (Mother)<br>- [[Amenadiel]], [[Benjamin]], [[Charles]], [[Diederick]] (brothers) |
 > | **Connections** | - [[Party]] (member)<br>- [[The Bonehead]] (Quartermaster) |
-> | **Status** | `=this.status` |
-> | **Sessions** | `=this.member` |
+> | **Status** | Alive |
+> | **Sessions** | All Sessions |
 > ###### Stats
 > | | | | |
 > |---|---|---|---|
-> | **Level** | `=this.level` | **HP** | `=this.hit_points` |
-> | **AC** | `=this.armor_class` | | |
-> | **Str** | `=this.stat_str` | **Int** | `=this.stat_int` |
-> | **Dex** | `=this.stat_dex` | **Wis** | `=this.stat_wis` |
-> | **Con** | `=this.stat_con` | **Cha** | `=this.stat_cha` |
+> | **Level** | 6 | **HP** | ?? |
+> | **AC** | 15 | | |
+> | **Str** | 8 | **Int** | 10 |
+> | **Dex** | 14 | **Wis** | 12 |
+> | **Con** | 12 | **Cha** | 19 |
 
-`=this.name_first` `=this.name_last` is a `=this.creature_subrace` `=this.creature_race` `=this.subclass` `=this.class`. `=choice(this.gender = "Male", "He", "She")` is played by `=this.player`. 
-# Table of Contents
-- [[#Description|Description]]
-	- [[#Description#Appearance|Appearance]]
-	- [[#Description#Personality|Personality]]
-- [[#Biography|Biography]]
-	- [[#Biography#Before the campaign|Before the campaign]]
-	- [[#Biography#Adventures|Adventures]]
-- [[#Relationships|Relationships]]
-	- [[#Adventures#Person|Person]]
-- [[#Character information|Character information]]
-	- [[#Adventures#Quests|Quests]]
-	- [[#Adventures#Notable items|Notable items]]
-	- [[#Adventures#Magic items|Magic items]]
-- [[#Trivia|Trivia]]
+Elisabeth de Dragoness is a Tiefling Draconic Bloodline Sorcerer. She is played by Kim.
 # Description
 ## Appearance
 Elisabeth is a young adult bronze-skinned [[Tiefling]]. Like other members of the [[Dragoness family]], parts of her skin is covered with segments of dark orange scales. She's of slender build, and has green lizard-like eyes. Two horns protrude from her forehead, wrapping backwards over her head.

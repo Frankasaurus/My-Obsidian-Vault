@@ -30,53 +30,38 @@ stat_cha: 10
 languages: [Common, Primordial]
 ---
 > [!infobox]  
-> # `=this.name_first` `=this.name_last`
+> # Carmine Charr
 > ![[Carmine1.png|cover hsmall]]  
 >###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | `= this.type` |
-> | **Player** | `= link(this.player)` |
+> | **Type** | Player Character |
+> | **Player** | [[Kacper]] |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | `= this.name_full` |
-> | **Aliasses** | `= this.name_aka` |
-> | **Gender** | `=this.gender` | 
-> | **Creature Type** | `= this.creature_type` |
-> | **Race** | `= link(this.creature_race)` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
-> | **Class** | `= link(this.class)` `= choice(this.subclass = "", "", "(")` `= this.subclass` `= choice(this.subclass = "", "", ")")`|  
-> | **Born** | `=link(this.place_of_birth)` , `=this.age` years ago|  
-> | **Languages** | `=this.languages` |  
+> | **Name** | Jules Carmine Charr Jr. |
+> | **Aliasses** | The 20th Chosen of Olvex (title bestowed by Olvex) |
+> | **Gender** | Male | 
+> | **Creature Type** | Humanoid |
+> | **Race** | [[Genasi]] (Fire) |  
+> | **Class** | [[Cleric]] (Light Domain) |  
+> | **Born** | [[Dragoness Barony]] , 28 years ago |
+> | **Languages** | Common, Primordial |  
 > | **Family** | - [[Sabine Charr]] (sister) <br>- [[Jules Charr Sr.]] (father)<br>- [[Ostrzał Charr]] (mother) |
 > | **Connections** | - [[Party]] (member)<br>- [[The Bonehead]] (Carpenter)<br>- [[Olvex]] (worshipper)<br>- [[Hall of Anew]] (associate, ex-member) |
-> | **Status** | `=this.status` |
-> | **Sessions** | `=this.member` |
+> | **Status** | Alive |
+> | **Sessions** | All Sessions |
 > ###### Stats
 > | | | | |
 > |---|---|---|---|
-> | **Level** | `=this.level` | **HP** | `=this.hit_points` |
-> | **AC** | `=this.armor_class` | | |
-> | **Str** | `=this.stat_str` | **Int** | `=this.stat_int` |
-> | **Dex** | `=this.stat_dex` | **Wis** | `=this.stat_wis` |
-> | **Con** | `=this.stat_con` | **Cha** | `=this.stat_cha` |
+> | **Level** | 6 | **HP** | 64 |
+> | **AC** | 16 | | |
+> | **Str** | 16 | **Int** | 10 |
+> | **Dex** | 14 | **Wis** | 17 |
+> | **Con** | 16 | **Cha** | 10 |
 
-`=this.name_first` `=this.name_last` is a `=this.creature_subrace` `=this.creature_race` `=this.subclass` `=this.class`. `=choice(this.gender = "Male", "He", "She")` is played by `=this.player`. 
-
-# Table of Contents
-- [[#Description|Description]]
-	- [[#Description#Appearance|Appearance]]
-	- [[#Description#Personality|Personality]]
-- [[#Biography|Biography]]
-	- [[#Biography#Before the campaign|Before the campaign]]
-	- [[#Biography#Adventures|Adventures]]
-- [[#Relationships|Relationships]]
-	- [[#Adventures#Karakter|Karakter]]
-- [[#Character information|Character information]]
-	- [[#Adventures#Quests|Quests]]
-	- [[#Adventures#Notable items|Notable items]]
-	- [[#Adventures#Magic items|Magic items]]
-- [[#Trivia|Trivia]]
+Carmine Charr is a Fire [[Genasi]] Light Domain [[Cleric]] of [[Olvex]]. He is played by [[Kacper]].
 # Description
 ## Appearance
 Carmine is a red-skinned, orange-haired humanoid, like most fire [[Genasi]]. His hair is kept short at the sides, but swept back up top. His eyes are typically fire-y red, nearly glowing when looked at in the dark. He is of average height and build.
@@ -94,6 +79,7 @@ Until he turned 25, Carmine was a proper follower of Olvex, the god of Creation.
 Between his 27th and 28th years, Carmine traveled southward, took on a number of adventurous tasks to earn some gold coins, and also spread the word of Olvex. Something was always missing for Carmine; he felt alone during his journey. On his 28th year, Carmine arrived in Telack. With few gold coins in his pocket, Carmine is searching for a job to earn some extra money.
 ## Adventures
 Story of after meeting the gang.
+Only learned of his actual first name (and his status as Jr.) from his slightly older sister, whom he also only got to know when visiting [[Telack]] in the search for [[Benjamin|Benjamin de Dragoness]].
 # Relationships
 ## Karakter
 Is dit nodig?
@@ -113,4 +99,4 @@ WHERE owner = this.name_first
 # Trivia
 - Carmine has accrued 20 fishing XP, with 100 being the target for an award.
 	- There is no reward
-- Canonically jokes about having a 5 inch penis.
+- 

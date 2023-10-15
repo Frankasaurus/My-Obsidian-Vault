@@ -30,37 +30,37 @@ stat_cha: 12
 languages: [Common, Goblin, Elvish, Infernal]
 ---
 > [!infobox]  
-> # `=this.name_first` `=this.name_last`
+> # Bulblin Wormbone
 > ![[Bulblin2.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | `= this.type` |
-> | **Player** | `= link(this.player)` |
+> | **Type** | Player Character |
+> | **Player** | [[Chris]] |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | `= this.name_full` |
-> | **Gender** | `=this.gender` | 
-> | **Creature Type** | `= this.creature_type` |
-> | **Race** | `= link(this.creature_race)` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
-> | **Class** | `= link(this.class)` `= choice(this.subclass = "", "", "(")` `= this.subclass` `= choice(this.subclass = "", "", ")")`|  
-> | **Born** | `=link(this.place_of_birth)` , `=this.age` years ago|  
-> | **Languages** | `=this.languages` |  
-> | **Family** | Name (relation) |
+> | **Name** | Bulblin Wormbone |
+> | **Gender** | Male | 
+> | **Creature Type** | Humanoid |
+> | **Race** | Goblin |  
+> | **Class** | Ranger (Beastmaster) |  
+> | **Born** | [[Jaxos Isles]], ?? years ago |  
+> | **Languages** | Common, Goblin, Elvish, Infernal |  
+> | **Family** | - |
 > | **Connections** | - [[Party]] (ex-member)<br>- [[Bonehead]] (owner) |
-> | **Status** | `=this.status` |
-> | **Sessions** | `=this.member` |
-> ###### Stats
+> | **Status** | Alive |
+> | **Sessions** | From Sessions 1 to 12 |
+> ###### Last known stats
 > | | | | |
 > |---|---|---|---|
-> | **Level** | `=this.level` | **HP** | `=this.hit_points` |
-> | **AC** | `=this.armor_class` | | |
-> | **Str** | `=this.stat_str` | **Int** | `=this.stat_int` |
-> | **Dex** | `=this.stat_dex` | **Wis** | `=this.stat_wis` |
-> | **Con** | `=this.stat_con` | **Cha** | `=this.stat_cha` |
-
-`=this.name_first` `=this.name_last` is a `=this.creature_subrace` `=this.creature_race` `=this.subclass` `=this.class`. `=choice(this.gender = "Male", "He", "She")` was played by `=this.player`. 
+> | **Level** | 3 | **HP** | 28 |
+> | **AC** | 15 | | |
+> | **Str** | 13 | **Int** | 7 |
+> | **Dex** | 17 | **Wis** | 14 |
+> | **Con** | 12 | **Cha** | 12 |
+ 
+Bulblin Wormbone is a [[Goblin]] Beastmaster [[Ranger]]. He was played by [[Chris]].
 # Description
 ## Appearance
 Description of appearance.

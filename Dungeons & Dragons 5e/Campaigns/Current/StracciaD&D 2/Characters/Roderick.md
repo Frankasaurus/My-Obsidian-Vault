@@ -33,37 +33,37 @@ languages:
   - Elvish
 ---
 > [!infobox]  
-> # `=this.name_first` `=this.name_last`
+> # Roderick
 > ![[Roderick1.png|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | `= this.type` |
-> | **Player** | `= link(this.player)` |
+> | **Type** | Player Character |
+> | **Player** | [[Melle]] |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | `= this.name_full` |
-> | **Gender** | `=this.gender` | 
-> | **Creature Type** | `= this.creature_type` |
-> | **Race** | `= link(this.creature_race)` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
-> | **Class** | `= link(this.class)` `= choice(this.subclass = "", "", "(")` `= this.subclass` `= choice(this.subclass = "", "", ")")`|  
-> | **Born** | `=link(this.place_of_birth)` , `=this.age` years ago|  
-> | **Languages** | `=this.languages` |  
+> | **Name** | Roderick |
+> | **Gender** | Male | 
+> | **Creature Type** | Humanoid |
+> | **Race** | [[Half-Elf]] (Wood) |  
+> | **Class** | [[Warlock]] (Pact of the Fiend) |  
+> | **Born** | [[The Wovens]] , 20 years ago|  
+> | **Languages** | Common, Elvish |  
 > | **Family** | - Unnamed father and mother |
 > | **Connections** | - [[Party]] (member)<br>- [[The Bonehead]] (First Mate) |
-> | **Status** | `=this.status` |
-> | **Sessions** | `=this.member` |
+> | **Status** | Alive |
+> | **Sessions** | All Sessions |
 > ###### Stats
 > | | | | |
 > |---|---|---|---|
-> | **Level** | `=this.level` | **HP** | `=this.hit_points` |
-> | **AC** | `=this.armor_class` | | |
-> | **Str** | `=this.stat_str` | **Int** | `=this.stat_int` |
-> | **Dex** | `=this.stat_dex` | **Wis** | `=this.stat_wis` |
-> | **Con** | `=this.stat_con` | **Cha** | `=this.stat_cha` |
+> | **Level** | 7 | **HP** | ?? |
+> | **AC** | 12 | | |
+> | **Str** | 8 | **Int** | 9 |
+> | **Dex** | 10 | **Wis** | 14 |
+> | **Con** | 14 | **Cha** | 18 |
 
-`=this.name_first` `=this.name_last` is a `=this.creature_subrace` `=this.creature_race` `=this.subclass` `=this.class`. `=choice(this.gender = "Male", "He", "She")` is played by `=this.player`. 
+Roderick is a [[Half-Elf]] of Wood-Elf herritage, and a Pact of the Fiend [[Warlock]]. He is played by [[Melle]].
 # Description
 ## Appearance
 Roderick is a [[Half-Elf]] of shorter stature, with pointy ears and a very slightly darkened skin due to his Wood elven heritage. His hair is a prominent fiery red.

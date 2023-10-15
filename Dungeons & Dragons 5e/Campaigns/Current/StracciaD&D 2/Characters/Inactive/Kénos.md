@@ -1,21 +1,22 @@
 ---
-type: "Player Character"
-player: "Lise"
-campaign: "StracciaD&D 2"
-member: "Session 1 to 9"
-member_status: "Previous"
-name_first: "Kénos"
+type: Player Character
+player: Lise
+campaign: StracciaD&D 2
+member: Session 1 to 9
+member_status: Previous
+name_first: Kénos
 name_last: ""
-name_full: "Kénos"
-name_aka: [""]
+name_full: Kénos
+name_aka:
+  - ""
 creature_type: Construct
-creature_race: "Warforged"
+creature_race: Warforged
 creature_subrace: ""
 gender: Female
 age: ??
-place_of_birth: ""
-class: "Fighter"
-subclass: "Psi Warrior"
+place_of_birth: Larchenia
+class: Fighter
+subclass: Psi Warrior
 background: Acolyte
 level: 3
 status: Alive
@@ -27,40 +28,44 @@ stat_con: 18
 stat_int: 17
 stat_wis: 12
 stat_cha: 9
-languages: [Common, Celestial, Elvish, Orcish]
+languages:
+  - Common
+  - Celestial
+  - Elvish
+  - Orcish
 ---
 > [!infobox]  
-> # `=this.name_first` `=this.name_last`
+> # Kénos
 > ![[Image.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | `= this.type` |
-> | **Player** | `= link(this.player)` |
+> | **Type** | Player Character |
+> | **Player** | [[Lise]] |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | `= this.name_full` |
-> | **Gender** | `=this.gender` | 
-> | **Creature Type** | `= this.creature_type` |
-> | **Race** | `= link(this.creature_race)` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
-> | **Class** | `= link(this.class)` `= choice(this.subclass = "", "", "(")` `= this.subclass` `= choice(this.subclass = "", "", ")")`|  
-> | **Born** | `=link(this.place_of_birth)` , `=this.age` years ago|  
-> | **Languages** | `=this.languages` |  
-> | **Family** | - Name (relation) |
+> | **Name** | Kénos |
+> | **Gender** | Female | 
+> | **Creature Type** | Construct |
+> | **Race** | Warforged |  
+> | **Class** | Fighter (Psi Warrior) |  
+> | **Born** | [[Larchenia]], ?? years ago |  
+> | **Languages** | Common, Celestial, Elvish, Orcish |  
+> | **Family** | - |
 > | **Connections** | - [[Party]] (ex-member)<br>- [[Teokharis]] (worshipper) |
-> | **Status** | `=this.status` |
-> | **Sessions** | `=this.member` |
-> ###### Stats
+> | **Status** | Alive |
+> | **Sessions** | Sessions 1 to 9 |
+> ###### Last known stats
 > | | | | |
 > |---|---|---|---|
-> | **Level** | `=this.level` | **HP** | `=this.hit_points` |
-> | **AC** | `=this.armor_class` | | |
-> | **Str** | `=this.stat_str` | **Int** | `=this.stat_int` |
-> | **Dex** | `=this.stat_dex` | **Wis** | `=this.stat_wis` |
-> | **Con** | `=this.stat_con` | **Cha** | `=this.stat_cha` |
+> | **Level** | 3 | **HP** | 34 |
+> | **AC** | 17 | | |
+> | **Str** | 14 | **Int** | 17 |
+> | **Dex** | 15 | **Wis** | 12 |
+> | **Con** | 18 | **Cha** | 9 |
 
-`=this.name_first` `=this.name_last` is a `=this.creature_subrace` `=this.creature_race` `=this.subclass` `=this.class`. `=choice(this.gender = "Male", "He", "She")` was played by `=this.player`. 
+Kénos is a [[Warforged]] Psi Warrior [[Fighter]]. She was played by [[Lise]].
 # Description
 ## Appearance
 Description of appearance.

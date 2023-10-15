@@ -30,52 +30,38 @@ stat_cha: 9
 languages: [Common, Elvish, "Thieves' Cant"]
 ---
 > [!infobox]  
-> # `=this.name_first` `=this.name_last`
+> # Phillipa Vurrinir
 > ![[Phillipa1.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | `= this.type` |
-> | **Player** | `= link(this.player)` |
+> | **Type** | Player Character |
+> | **Player** | [[Hanne]] |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | `= this.name_full` |
-> | **Aliases** | `= this.name_aka` |
-> | **Gender** | `=this.gender` | 
-> | **Creature Type** | `= this.creature_type` |
-> | **Race** | `= link(this.creature_race)` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
-> | **Class** | `= link(this.class)` `= choice(this.subclass = "", "", "(")` `= this.subclass` `= choice(this.subclass = "", "", ")")`|  
-> | **Born** | `=link(this.place_of_birth)` , `=this.age` years ago|  
-> | **Languages** | `=this.languages` |  
-> | **Family** | Name (relation) |
+> | **Name** | Phillipa Vurrinir |
+> | **Aliases** | Misthold |
+> | **Gender** | Female | 
+> | **Creature Type** | Humanoid |
+> | **Race** | [[Elf]] (Wood) |  
+> | **Class** | [[Rogue]] (thief) |  
+> | **Born** | Unknown , 236 years ago|  
+> | **Languages** | Common, Elvish, Thieves' Cant |  
+> | **Family** | - |
 > | **Connections** | - [[Party]] (member) |
-> | **Status** | `=this.status` |
-> | **Sessions** | `=this.member` |
+> | **Status** | Alive |
+> | **Sessions** | From Session 29 onwards |
 > ###### Stats
 > | | | | |
 > |---|---|---|---|
-> | **Level** | `=this.level` | **HP** | `=this.hit_points` |
-> | **AC** | `=this.armor_class` | | |
-> | **Str** | `=this.stat_str` | **Int** | `=this.stat_int` |
-> | **Dex** | `=this.stat_dex` | **Wis** | `=this.stat_wis` |
-> | **Con** | `=this.stat_con` | **Cha** | `=this.stat_cha` |
-
-`=this.name_first` `=this.name_last` is a `=this.creature_subrace` `=this.creature_race` `=this.subclass` `=this.class`. `=choice(this.gender = "Male", "He", "She")` is played by `=this.player`. 
-# Table of Contents
-- [[#Description|Description]]
-	- [[#Description#Appearance|Appearance]]
-	- [[#Description#Personality|Personality]]
-- [[#Biography|Biography]]
-	- [[#Biography#Before the campaign|Before the campaign]]
-	- [[#Biography#Adventures|Adventures]]
-- [[#Relationships|Relationships]]
-	- [[#Adventures#Persoon|Persoon]]
-- [[#Character information|Character information]]
-	- [[#Adventures#Quests|Quests]]
-	- [[#Adventures#Notable items|Notable items]]
-	- [[#Adventures#Magic items|Magic items]]
-- [[#Trivia|Trivia]]
+> | **Level** | 7 | **HP** | 59 |
+> | **AC** | 14 | | |
+> | **Str** | 12 | **Int** | 11 |
+> | **Dex** | 18 | **Wis** | 16 |
+> | **Con** | 15 | **Cha** | 9 |
+ 
+Phillipa Vurrinir is a Wood [[Elf]] Thief [[Rogue]]. She is played by [[Hanne]].
 # Description
 ## Appearance
 Phillipa is a slender Wood Elven woman, in her early 200's. She has straight light-brown hair, light green eyes, and a sleek face with narrow eyes. She is of relatively slender build, and naturally moves quitelly.
