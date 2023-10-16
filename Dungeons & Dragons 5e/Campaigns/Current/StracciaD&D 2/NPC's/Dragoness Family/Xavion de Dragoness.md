@@ -20,45 +20,35 @@ languages:
   - Infernal
 ---
 > [!infobox]  
-> # `=this.name_first` `=this.name_last`
+> # Xavion de Dragoness
 > ![[Image.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | `= this.type` |
+> | **Type** | NPC |
+> | **Player** | [[Alex]] |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | `= this.name_full` |
-> | **Aliases** | `= this.name_aka` |
-> | **Gender** | `=this.gender` | 
-> | **Creature Type** | `= this.creature_type` |
-> | **Race** | `= link(this.creature_race)` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
-> | **Occupation** | `=this.occupation` |  
-> | **Location** | `=this.location` |
-> | **Age** | `=this.age` |
-> | **Languages** | `=this.languages` |  
+> | **Name** | Xavion de Dragoness |
+> | **Aliases** | Free Baron Xavion de Dragoness |
+> | **Gender** | Male | 
+> | **Creature Type** | Humanoid |
+> | **Race** | [[Tiefling]] |  
+> | **Occupation** | Baron of [[Dragoness Barony]] |  
+> | **Location** | Captive in [[Kruziik'ahraan]]'s lair. |
+> | **Age** | 62 |
+> | **Languages** | Common, Draconic, Infernal |  
 > | **Family** | - [[Dragoness Family]] (elder)<br>- [[Willemijn de Dragoness]] (husband)<br>- [[Elisabeth de Dragoness]] (father) |
-> | **Connections** | - [[Kruziik'ahraan]] (relation)<br>- [[Name]] (relation |
-> | **Status** | `=this.status` |
+> | **Connections** | - [[Kruziik'ahraan]] (willing servant) |
+> | **Status** | Alive |
 
-`=this.name_first` `=this.name_last` is a `=this.creature_race` `=this.occupation`. As an NPC, `=choice(this.gender = "Male", "he", "she")` is played by [[Alex]]. 
+**Xavion de Dragoness** is a [[Tiefling]] Baron of [[Dragoness Barony]], and Elder of [[Dragoness Family]]. As an NPC, he is played by [[Alex]].
 # Description
 ## Appearance
 Description of appearance.
 ## Personality
 Description of personality.
-# Biography
-## Adventures
-Story of after meeting the gang.
-# Relationships
-## Person
-Is this necessary?
 # Character information
 ## Notable items
 - List of items
-- List of items
-# Trivia
-- List of trivia
-- List of trivia
-- List of trivia

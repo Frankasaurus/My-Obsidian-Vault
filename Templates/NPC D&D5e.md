@@ -40,7 +40,6 @@ languages:
 > | **Connections** | - [[Name]] (relation)<br>- [[Name]] (relation |
 > | **Status** | (ALIVE OR SMTH |
 
-`=this.name_first` `=this.name_last` is a `=this.creature_subrace` `=this.creature_race` `=this.subclass` `=this.class`. As an NPC, `=choice(this.gender = "Male", "he", "she")` is played by [[Alex]]. 
 (NAME) is a (RACE) (OCCUPATION). As an NPC, he/she is played by [[Alex]].
 # Description
 ## Appearance

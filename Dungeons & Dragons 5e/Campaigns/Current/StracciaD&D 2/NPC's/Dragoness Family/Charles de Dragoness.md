@@ -20,44 +20,34 @@ languages:
   - Infernal
 ---
 > [!infobox]  
-> # `=this.name_first` `=this.name_last`
+> # Charles de Dragoness
 > ![[Image.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | `= this.type` |
+> | **Type** | NPC |
+> | **Player** | [[Alex]] |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | `= this.name_full` |
-> | **Aliases** | `= this.name_aka` |
-> | **Gender** | `=this.gender` | 
-> | **Creature Type** | `= this.creature_type` |
-> | **Race** | `= link(this.creature_race)` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
-> | **Occupation** | `=this.occupation` |  
-> | **Location** | `=this.location` |
-> | **Age** | `=this.age` |
-> | **Languages** | `=this.languages` |  
+> | **Name** | Charles de Dragoness |
+> | **Aliases** | His Free Lord Charles de Dragoness |
+> | **Gender** | Male | 
+> | **Creature Type** | Humanoid |
+> | **Race** | [[Tiefling]] |  
+> | **Occupation** | Captain of the Palace Guard |  
+> | **Location** | [[Dragoness Barony]] |
+> | **Age** | 25 |
+> | **Languages** | Common, Draconic, Infernal |  
 > | **Family** | - [[Dragoness Family]] (member)<br>- [[Elisabeth de Dragoness]] (brother) |
-> | **Status** | `=this.status` |
+> | **Status** | Alive |
 
-`=this.name_first` `=this.name_last` is a `=this.creature_race` `=this.occupation`. As an NPC, `=choice(this.gender = "Male", "he", "she")` is played by [[Alex]]. 
+**Charles de Dragoness** is a [[Tiefling]] member of the [[Dragoness Family]], and Captain of the Palace Guard. As an NPC, he is played by [[Alex]].
 # Description
 ## Appearance
 Description of appearance.
 ## Personality
 Description of personality.
-# Biography
-## Adventures
-Story of after meeting the gang.
-# Relationships
-## Person
-Is this necessary?
 # Character information
 ## Notable items
 - List of items
-- List of items
-# Trivia
-- List of trivia
-- List of trivia
-- List of trivia
