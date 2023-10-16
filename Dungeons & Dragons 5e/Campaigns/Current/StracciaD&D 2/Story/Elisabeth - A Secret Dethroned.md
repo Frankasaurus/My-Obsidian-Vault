@@ -62,24 +62,24 @@ Deze map zal bestaan uit een rechte
 [[Cirdorim]] is een Adult Bronze Dragon, die als oude dame of eekhoorn door de stad wandelt en zieke bewoners verzorgt in een oud pakhuis
 Al gevolgd sinds ze aanmeerden, wetende dat er een Dragoness aan boord zou zijn.
 - Een klein tijdje (15 jaar) bezig om de stad op orde te houden, uit nieuwsgierigheid vooral. Nu nieuwe thuis; Door haar tijd hier, is haar [[Cirdorim's Lair|oude burcht]] overgenomen door 'vuile wezens' (**TODO bedenken wat voor enemies**).
-- Tegen Elisabeth; "Je draagt de gloed van je [[Willemijn|moeder]]. Het verhaal spreid dat je moeder sinds Ben's vertrek de draad kwijt is, maar ik ken je moeder... er speelt meer."
+- Tegen Elisabeth; "Je draagt de gloed van je [[Willemijn de Dragoness|moeder]]. Het verhaal spreid dat je moeder sinds Ben's vertrek de draad kwijt is, maar ik ken je moeder... er speelt meer."
 	- Persuasion DC 16: "Je moeder is krachtiger dan je denkt, en jullie naam niet zo onheilig als [[Kruziik'ahraan]] laat schijnen.'"
 - Kan niet alleen de ‘Bronzen’ Orde aan, vooral omdat de naam van Bronzen Draken dan besmeurd wordt. Schakel een tiran uit, en zijn plaatsvervanger zal zijn kwaad in tweevoud voortzetten. Er moet een garantie van succes zijn. ***Heb hulp nodig***
 - Mochten we een betere kans willen maken; Mijn [[Cirdorim's Lair|oude burcht]] is ten noorden aan de kust, in verstopte grottensysteem. Ik heb hier oude relieken verzameld door de eeurwen heen om eens en voor altijd hier een eind aan te maken. 
 - Kent [[Kruziik'ahraan]] als eeuwen. 
 # 3. Reunie Xavion
-[[Xavion]] zal bericht sturen naar [[Elisabeth de Dragoness|Elisabeth]] van haar terugkeer. Bij de eerste reunie, houdt rekening met het volgende;
+[[Xavion de Dragoness]] zal bericht sturen naar [[Elisabeth de Dragoness|Elisabeth]] van haar terugkeer. Bij de eerste reunie, houdt rekening met het volgende;
 - Een grote knuffel en veel blijdschap.
 - Beperkte interesse in Benjamin, maar wel vragend.
 	- *"Ach, je kon Ben... altijd het dromerige type, nooit de sterkste onder ons, in tegenstelling tot jouw! Je ziet er krachtiger en sterker uit dan ooit tevoren!"*
 - Naar de rest van de party; ubervriendelijk.
 	- FLUISTER LISE - *Robyn's Amulet: "Hmmmm een schijn.... Hmmmm een bedrog..."*
-- Alleen bij vragen moeder / [[Willemijn]]; *"Je moeder is door Ben's verdwijning in een tragische hysterie gevallen, het spijt mij..."*
+- Alleen bij vragen moeder / [[Willemijn de Dragoness]]; *"Je moeder is door Ben's verdwijning in een tragische hysterie gevallen, het spijt mij..."*
 
 **Tegen einde gesprek:** *"Het spijt mij enorm, maar ik heb saaie Baron-zaken om naar te keren. Ik heb wel nog een verassing voor je, eentje die ik al maanden voorbereidt in aanloop tot je terugkeer. Een **Gala**. Een Gala voor de eeuwen, eentje om te onthouden, om jouw terugkeer en de groeiende kracht van Baronie de Dragoness vast te leggen! Ik zal mijn beste kledingmakers jullie wensen laten vastleggen. Wanneer denk jij dat deze plaats moet vinden? Jullie zullen immers misschien wat dagen rust willen voordat de nobele druk toeslaat..."*
 ## 3.a Het Gala
-Om te vieren dat [[Elisabeth de Dragoness|Elisabeth]] terug is, organiseerd een vermomde [[Xavion]] ([[Kruziik'ahraan]]) een Gala. Zijn doel is om op het gala wat rivalen uit te schakelen, maar ook om Elisabeth aan zijn kant te krijgen, door haar uit te nodigen naast hem te staan, of zelf de executies uit te delen
-TODO: Tijdens het Gala zal Xavion aan Elisabeth vragen om - samen met [[Fumyss]] en [[Charles]] - als vertoning van macht publiekelijk rebellenleiders "tentoonstellen", waarna het [[Dragoness Freedom Legion|Dragoness Vrijheids Legion]] (een groep militanten vermomd als Bedienden) toeslaan om de leiders te bevrijden. De party kan kiezen welke kant ze willen ondersteunen tijdens het gevecht.
+Om te vieren dat [[Elisabeth de Dragoness|Elisabeth]] terug is, organiseerd een vermomde [[Xavion de Dragoness]] ([[Kruziik'ahraan]]) een Gala. Zijn doel is om op het gala wat rivalen uit te schakelen, maar ook om Elisabeth aan zijn kant te krijgen, door haar uit te nodigen naast hem te staan, of zelf de executies uit te delen
+TODO: Tijdens het Gala zal Xavion aan Elisabeth vragen om - samen met [[Fumyss]] en [[Charles de Dragoness]] - als vertoning van macht publiekelijk rebellenleiders "tentoonstellen", waarna het [[Dragoness Freedom Legion|Dragoness Vrijheids Legion]] (een groep militanten vermomd als Bedienden) toeslaan om de leiders te bevrijden. De party kan kiezen welke kant ze willen ondersteunen tijdens het gevecht.
 # 4. Riool Ontsnapping
 Vooropzet is dat de spelers hier op de paleisgronden gevangen worden gehouden, maar dat een van de broertjes - Diederick -  jarenlang een uitweg heeft gezocht. Hij heeft de tocht nooit gewaagd uit angst voor zijn vader, maar Elisabeth zou hen allemaal kunnen helpen.
 # 5. Tournament

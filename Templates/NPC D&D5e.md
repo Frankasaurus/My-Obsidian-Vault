@@ -17,40 +17,41 @@ languages:
   - Common
 ---
 > [!infobox]  
-> # `=this.name_first` `=this.name_last`
+> # (NAME) 
 > ![[Image.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | `= this.type` |
+> | **Type** | (NPC) |
+> | **Player** | [[Alex]] |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | `= this.name_full` |
-> | **Aliases** | `= this.name_aka` |
-> | **Gender** | `=this.gender` | 
-> | **Creature Type** | `= this.creature_type` |
-> | **Race** | `= link(this.creature_race)` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
-> | **Occupation** | `=this.occupation` |  
-> | **Location** | `=this.location` |
-> | **Age** | `=this.age` |
-> | **Languages** | `=this.languages` |  
+> | **Name** | (FULL NAME)|
+> | **Aliases** | (LIST) |
+> | **Gender** | (GENDER) | 
+> | **Creature Type** | (HUMANOID OR SOMETHING) |
+> | **Race** | ((SUB)RACE) |  
+> | **Occupation** | (OCCUPATION) |  
+> | **Location** | (CURRENT LOCATION) |
+> | **Age** | (CURRENT AGE OR AGE OF DEATH) |
+> | **Languages** | Common ... |  
 > | **Family** | - [[Name]] (relation)<br>- [[Name]] (relation) |
 > | **Connections** | - [[Name]] (relation)<br>- [[Name]] (relation |
-> | **Status** | `=this.status` |
+> | **Status** | (ALIVE OR SMTH |
 
 `=this.name_first` `=this.name_last` is a `=this.creature_subrace` `=this.creature_race` `=this.subclass` `=this.class`. As an NPC, `=choice(this.gender = "Male", "he", "she")` is played by [[Alex]]. 
+(NAME) is a (RACE) (OCCUPATION). As an NPC, he/she is played by [[Alex]].
 # Description
 ## Appearance
 Description of appearance.
 ## Personality
 Description of personality.
 # Biography
-## Adventures
-Story of after meeting the gang.
+What happened to them relevant to the story.
 # Relationships
-## Person
-Is this necessary?
+## Party
+> TODO
 # Character information
 ## Notable items
 - List of items
