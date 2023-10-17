@@ -1,0 +1,11 @@
+- [ ] Califhen;
+	- [ ] Existing settlements
+	- [ ] Create continents template
+		- [ ] https://criticalrole.fandom.com/wiki/Tal%27Dorei
+		- [ ] Add banner art? (check pages)
+	- [ ] Fill in deities
+- [ ] Characters
+	- [ ] Add a whackton of existing NPC's
+- [ ] Site
+	- [ ] Styling Wiki column
+	- [ ] Phone view

@@ -38,24 +38,17 @@ languages:
 > | **Languages** | Common ... |  
 > | **Family** | - [[Name]] (relation)<br>- [[Name]] (relation) |
 > | **Connections** | - [[Name]] (relation)<br>- [[Name]] (relation |
-> | **Status** | (ALIVE OR SMTH |
+> | **Status** | (ALIVE OR SMTH) |
 
 (NAME) is a (RACE) (OCCUPATION). As an NPC, he/she is played by [[Alex]].
 # Description
 ## Appearance
-Description of appearance.
+> TODO: Description of appearance.
 ## Personality
-Description of personality.
+> TODO: Description of personality.
 # Biography
-What happened to them relevant to the story.
+> TODO: What happened to them relevant to the story.
 # Relationships
-## Party
-> TODO
+> TODO: Relations to other characters
 # Character information
-## Notable items
-- List of items
-- List of items
-# Trivia
-- List of trivia
-- List of trivia
-- List of trivia
+> TODO: Notable items, trivia, other details.
