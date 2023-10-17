@@ -61,7 +61,7 @@ languages: [Common, Primordial]
 > | **Dex** | 14 | **Wis** | 17 |
 > | **Con** | 16 | **Cha** | 10 |
 
-Carmine Charr is a Fire [[Genasi]] Light Domain [[Cleric]] of [[Olvex]]. He is played by [[Kacper]].
+**Carmine Charr** is a Fire [[Genasi]] Light Domain [[Cleric]] of [[Olvex]]. He is played by [[Kacper]].
 # Description
 ## Appearance
 Carmine is a red-skinned, orange-haired humanoid, like most fire [[Genasi]]. His hair is kept short at the sides, but swept back up top. His eyes are typically fire-y red, nearly glowing when looked at in the dark. He is of average height and build.
