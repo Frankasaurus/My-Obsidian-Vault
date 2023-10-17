@@ -11,23 +11,23 @@ owner: "Alchemist Vehtrines"
 owner_previous: ["None"]
 ---
 > [!infobox]  
-> # `=this.name`
-> ![[Item_image.jpg|cover hsmall]]
+> # Potion of Duo-neuro-perso-schism
+> ![[Image.jpg|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | Potion |
+> | **Rarity** | Very Rare |
+> | **Slot** | Consumable |
+> | **Materials** | Glass, Silver |
+> | **Requires Attunement** | No |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current** | [[Lady Vethrines]] |
+> | **Previous** | None |
 
-ITEM NAME is a 
+**Potion of Duo-neuro-perso-schism** is a potion made by [[Lady Vethrines]] that causes a body with multiple inhabitting entities to rid itself of all said entities.
 ## Features
 - Feature 1
 - Feature 2

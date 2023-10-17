@@ -16,23 +16,23 @@ owner_previous:
 value_gp: "2000"
 ---
 > [!infobox]  
-> # `=this.name`
+> # Goggles of Night
 > ![[GogglesOfNight.png|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | Wondrous Item |
+> | **Rarity** | Uncommon |
+> | **Slot** | Eyes |
+> | **Materials** | Steel, Glass, Leather |
+> | **Requires Attunement** | Yes |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current** | None |
+> | **Previous** | Unknown |
 
-ITEM NAME is a 
+The **Goggles of Night** are spectacles that allow for night-vision.
 ## Features
 - Feature 1
 - Feature 2

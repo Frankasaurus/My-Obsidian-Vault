@@ -11,23 +11,23 @@ owner: "Robyn"
 owner_previous: ["Tijani", "Macaw"]
 ---
 > [!infobox]  
-> # `=this.name`
+> # Medallion of Tijani's Hurt
 > ![[TijanisHurt.png|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | Wondrous Item |
+> | **Rarity** | Very Rare |
+> | **Slot** | Neck |
+> | **Materials** | Precious metals, Emerald |
+> | **Requires Attunement** | No |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current** | [[Robyn]] |
+> | **Previous** | [[Tijani]], [[Macaw]] |
 
-ITEM NAME is a 
+The **Medallion of Tijani's Hurt** is a magical locket-like construction, which houses the soul or souls of its previous wearer.
 ## Features
 - Feature 1
 - Feature 2

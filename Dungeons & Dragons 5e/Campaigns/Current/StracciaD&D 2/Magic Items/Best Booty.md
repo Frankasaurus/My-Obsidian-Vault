@@ -11,23 +11,23 @@ owner: "Burried on Tezeder"
 owner_previous: ["Unknown pirate"]
 ---
 > [!infobox]  
-> # `=this.name`
+> # The Best Booty
 > ![[BestBooty.png|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | Wondrous Item |
+> | **Rarity** | Uncommon |
+> | **Slot** | Underwear |
+> | **Materials** | Satin |
+> | **Requires Attunement** | No |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current** | None |
+> | **Previous** | Unknown pirate |
 
-ITEM NAME is a 
+**The Best Booty** is a seemingly normal pair of underpants, which adjusts to the wearer to accentuate their hind, and enchant those who perceive said hind.
 ## Features
 - Feature 1
 - Feature 2

@@ -11,23 +11,23 @@ owner: "Sargenet"
 owner_previous: ["None"]
 ---
 > [!infobox]  
-> # `=this.name`
+> # Staff of Withering
 > ![[StaffOfWithering.png|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | Quarterstaff |
+> | **Rarity** | Rare |
+> | **Slot** | Weapon |
+> | **Materials** | Wood, Precious metals |
+> | **Requires Attunement** | Yes, by a Cleric, Druid, or Warlock |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current** | [[Sargenet]] |
+> | **Previous** | Unknown |
 
-ITEM NAME is a 
+The **Staff of Withering** is a large staff that can weaken the creature it hurts further.
 ## Features
 - Feature 1
 - Feature 2

@@ -11,23 +11,23 @@ owner: "Carmine"
 owner_previous: ["Towers of Stendor"]
 ---
 > [!infobox]  
-> # `=this.name`
+> # Cloak of Protection
 > ![[CloakOfProtection.jpeg|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | Wondrous Item |
+> | **Rarity** | Uncommon |
+> | **Slot** | Cloak |
+> | **Materials** | Cloth, Rope |
+> | **Requires Attunement** | Yes |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current** | [[Carmine Char]] |
+> | **Previous** | [[Towers of Stendor]] |
 
-ITEM NAME is a 
+The **Cloak of Protection** is a magical cloak buffs the wearer's defenses. 
 ## Features
 - Feature 1
 - Feature 2

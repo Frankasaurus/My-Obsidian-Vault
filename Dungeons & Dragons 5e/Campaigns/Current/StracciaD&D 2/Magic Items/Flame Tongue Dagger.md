@@ -1,33 +1,36 @@
 ---
-name: "Flame Tongue Dagger"
-name_short: "Flame Tongue"
-type: "Shortsword"
-rarity: "Rare"
-materials: ["Steel", "Previous Metals"]
-attunement: "Yes"
-slot: "Weapon"
+name: Flame Tongue Dagger
+name_short: Flame Tongue
+type: Shortsword
+rarity: Rare
+materials:
+  - Steel
+  - Precious Metal
+attunement: Yes
+slot: Weapon
 cursed: 0
-owner: "Phillipa"
-owner_previous: ["Unknown"]
+owner: Phillipa
+owner_previous:
+  - Unknown
 ---
 > [!infobox]  
-> # `=this.name`
+> # Flame Tongue Dagger
 > ![[FlameTongue.png|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | Shortsword |
+> | **Rarity** | Rare |
+> | **Slot** | Weapon |
+> | **Materials** | Steel, Precious metals |
+> | **Requires Attunement** | Yes |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current** | [[Carmine Char]] |
+> | **Previous** | [[Towers of Stendor]] |
 
-ITEM NAME is a 
+The **Flame Tongue Dagger** is a flaming magical dagger that deals massive damage.
 ## Features
 - Feature 1
 - Feature 2

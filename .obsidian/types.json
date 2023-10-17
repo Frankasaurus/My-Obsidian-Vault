@@ -19,6 +19,7 @@
     "stat_body": "number",
     "stat emp": "number",
     "humanity": "number",
-    "stat_emp": "number"
+    "stat_emp": "number",
+    "publish": "checkbox"
   }
 }

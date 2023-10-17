@@ -11,23 +11,23 @@ owner: "Carmine"
 owner_previous: ["Towers of Stendor"]
 ---
 > [!infobox]  
-> # `=this.name`
+> # Olvex' Eye
 > ![[OlvexEye.jpeg|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | Wondrous Item |
+> | **Rarity** | Common |
+> | **Slot** | Tool |
+> | **Materials** | Metal, Glass |
+> | **Requires Attunement** | No |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current** | [[Carmine Char]] |
+> | **Previous** | [[Towers of Stendor]] |
 
-ITEM NAME is a 
+**Olvex' Eye** is a magical lantern that reveals secrets.
 ## Features
 - Feature 1
 - Feature 2

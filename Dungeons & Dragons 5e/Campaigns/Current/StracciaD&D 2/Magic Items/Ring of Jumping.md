@@ -14,23 +14,23 @@ owner_previous:
 value_gp: "3000"
 ---
 > [!infobox]  
-> # `=this.name`
+> # Ring of Jumping
 > ![[RingOfJumping.png|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | Wondrous Item |
+> | **Rarity** | Uncommon |
+> | **Slot** | Ring |
+> | **Materials** | Precious metals |
+> | **Requires Attunement** | Yes |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current** | None |
+> | **Previous** | Unknown |
 
-ITEM NAME is a 
+The **Ring of Jumping** is a piece of jewelry that allow the casting of the Jump spell.
 ## Features
 - Feature 1
 - Feature 2
