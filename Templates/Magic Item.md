@@ -1,37 +1,24 @@
----
-name: ""
-name_short: ""
-type: ""
-rarity: ""
-materials: []
-attunement: Yes
-slot: ""
-cursed: 0
-owner: ""
-owner_previous: []
----
 > [!infobox]  
-> # `=this.name`
-> ![[Item_image.jpg|cover hsmall]]
+> # (ITEM NAME)
+> ![[Image.jpg|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | (TYPE) |
+> | **Rarity** | (RARITY) |
+> | **Slot** | (SLOT)) |
+> | **Materials** | (MATERIALS, COMMA) |
+> | **Requires Attunement** | (Y/N) |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current owner** | (USER) |
+> | **Previous owners** | (PREVIOUS) |
 
-ITEM NAME is a 
-## Features
-- Feature 1
-- Feature 2
+**(ITEM NAME)** is a (WEAPON TYPE) currently in use by (PERSON). (SHORT DESCRIPTION).
+# History
+> TODO: Include if relevant
 ## Appearance
-Looks description
+> TODO: Looks description
 # Description
-Full item description
+> TODO: Magic item feature description (like an item card)

@@ -1,24 +1,3 @@
----
-name: Dragoness Barony
-settlement_type: City
-government: Monarchy
-population: 12000
-defining_trait: Dragon architecture, a divided quarter for the nobility
-name_aka:
-  - Barony de Dragoness
-constructed: Less than 40 years ago
-leaders: Xavion de Dragoness
-location_plane: Material plane
-location_continent: Greyskil
-location_region: 
-affiliations: []
-districts:
-  - Palace grounds
-  - Bronze reach
-  - Order Quadrant
-poi: 
-resources:
----
 > [!infobox]  
 > # `=this.file.name`
 > ![[Image.jpg|cover hsmall]]  

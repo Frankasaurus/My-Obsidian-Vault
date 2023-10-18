@@ -1,5 +1,5 @@
 > [!infobox]  
-> # NAME
+> # (NAME)
 > ![[Image.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  

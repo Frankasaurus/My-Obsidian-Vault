@@ -1,11 +1,3 @@
----
-type: Player
-name_first: ""
-name_last: 
-status: Active
-campaigns: StracciaD&D 2
-characters: []
----
 > [!infobox]  
 > # `=this.name_first` `=this.name_last`
 > ![[Image.jpg|cover hsmall]]  
