@@ -1,38 +1,40 @@
 ---
-name: "Potion of Duo-neuro-perso-schism"
-name_short: "Potion of Splitting"
-type: "Potion"
-rarity: "Very Rare"
-materials: ["Glass", "Silver", "Blood"]
-attunement: "No"
-slot: "Consumable"
+name: Potion of Duo-neuro-perso-schism
+name_short: Potion of Splitting
+type: Potion
+rarity: Very Rare
+materials:
+  - Glass
+  - Silver
+  - Blood
+attunement: No
+slot: Consumable
 cursed: 0
-owner: "Alchemist Vehtrines"
-owner_previous: ["None"]
+owner: Alchemist Vehtrines
+owner_previous:
+  - None
+publish:
 ---
 > [!infobox]  
-> # `=this.name`
-> ![[Item_image.jpg|cover hsmall]]
+> # Potion of Duo-neuro-perso-schism
+> ![[Image.jpg|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | Potion |
+> | **Rarity** | Very Rare |
+> | **Slot** | Consumable |
+> | **Materials** | Glass, Silver |
+> | **Requires Attunement** | No |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current** | [[Lady Vethrines]] |
+> | **Previous** | None |
 
-ITEM NAME is a 
-## Features
-- Feature 1
-- Feature 2
+**Potion of Duo-neuro-perso-schism** is a potion made by [[Lady Vethrines]] that causes a body with multiple inhabitting entities to rid itself of all said entities.
 ## Appearance
-Looks description
+>TODO: Looks description
 # Description
 This glass vial is reinforced with silver-stringed lining, and has a slimy substance dancing around in it, seemingly ever-swirling.  
 Before ingesting this potion, the person ingesting it must first mix their blood into the vial, otherwise the potion has no effect.When this potion is ingested, the person consuming it will temporarily detach from its material form. All entities reliant on this material form will forcibly reveal themselves through whichever form they want, though they are still bound to the material form. These representations will be extremely weak, and last only moments, before the material balance reverts back to its previous state.  

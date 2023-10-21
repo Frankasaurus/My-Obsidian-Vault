@@ -13,25 +13,26 @@ owner: Burried on Tezeder
 owner_previous:
   - Unknown pirate
 value_gp: 5000
+publish:
 ---
 > [!infobox]  
-> # `=this.name`
+> # Bloodwell Vial +1
 > ![[BloodwellVial.png|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | Wondrous Item |
+> | **Rarity** | Uncommon |
+> | **Slot** | Spellcasting focus |
+> | **Materials** | Glass, Precious metals |
+> | **Requires Attunement** | Yes, by a sorcerer |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current** | None |
+> | **Previous** | Unknown |
 
-ITEM NAME is a 
+The **Bloodwell Vial +1** is a magical spellcasting focus that enhances spells cast by a [[Sorcerer]].
 ## Features
 - Feature 1
 - Feature 2

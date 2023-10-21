@@ -4,34 +4,33 @@ name_short: Cape of the Mountebank
 type: Wondrous Item
 rarity: Rare
 materials:
-  - ""
   - Cloth
 attunement: No
 slot: Cloak
 cursed: 0
 owner: Oynur
-owner_previous:
-  - ""
+owner_previous: 
 value_gp: 7000
+publish:
 ---
 > [!infobox]  
-> # `=this.name`
+> # Cape of the Mountebank
 > ![[CapeOfTheMountebank.jpeg|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | Wondrous Item |
+> | **Rarity** | Rare |
+> | **Slot** | Cloak |
+> | **Materials** | Cloth |
+> | **Requires Attunement** | No |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current** | None |
+> | **Previous** | Unknown |
 
-ITEM NAME is a 
+The **Cape of the Mountebank** is a magical cloak that allows the casting of the Dimension Door spell.
 ## Features
 - Feature 1
 - Feature 2

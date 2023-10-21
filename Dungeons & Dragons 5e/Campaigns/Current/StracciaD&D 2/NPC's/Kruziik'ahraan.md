@@ -18,46 +18,37 @@ languages:
   - Common
   - Draconic
   - Infernal
+publish:
 ---
 > [!infobox]  
-> # `=this.name_full`
+> # Kruziik'ahraan "The Scar"
 > ![[Image.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | `= this.type` |
+> | **Type** | NPC |
+> | **Player** | [[Alex]] |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | `= this.name_full` |
-> | **Aliases** | `= this.name_aka` |
-> | **Gender** | `=this.gender` | 
-> | **Creature Type** | `= this.creature_type` |
-> | **Race** | `= link(this.creature_race)` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
-> | **Occupation** | `=this.occupation` |  
-> | **Location** | `=this.location` |
-> | **Age** | `=this.age` |
-> | **Languages** | `=this.languages` |  
-> | **Connections** | - [[Xavion]] (patron) |
-> | **Status** | `=this.status` |
+> | **Name** | Kruziik'ahraan |
+> | **Aliases** | Rana, "The Scar" |
+> | **Gender** | Male | 
+> | **Creature Type** | Dragon |
+> | **Race** | [[Dragon]] (Blue) |  
+> | **Occupation** | Conquerer |  
+> | **Location** | [[Dragoness Barony]], disguised as [[Xavion de Dragoness]] |
+> | **Age** | 552 |
+> | **Languages** | Common, Draconic, Infernal |  
+> | **Connections** | - [[Xavion de Dragoness]] (patron) |
+> | **Status** | Alive |
 
-`=this.name_full` is a `=this.creature_subrace` `=this.creature_race` `=this.subclass` `=this.class`. As an NPC, `=choice(this.gender = "Male", "he", "she")` is played by [[Alex]]. 
+**Kruziik'ahraan "The Scar"** ('Rana' in short) is an Adult Blue Dragon, terrorizing the [[Geros]] region of [[Greyskil]]. As an NPC, he is played by [[Alex]].
 # Description
 ## Appearance
 Description of appearance.
 ## Personality
 Description of personality.
-# Biography
-## Adventures
-Story of after meeting the gang.
-# Relationships
-## Person
-Is this necessary?
 # Character information
 ## Notable items
 - List of items
-- List of items
-# Trivia
-- List of trivia
-- List of trivia
-- List of trivia

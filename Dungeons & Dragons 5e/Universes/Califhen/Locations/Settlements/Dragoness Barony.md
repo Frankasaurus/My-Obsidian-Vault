@@ -48,7 +48,7 @@ tags:
 > | **Races** | - 30% Humans<br>- 20% Tieflings<br>- 15% Dragonborn<br>- 10% Gnome<br>- 10% Elven<br>- 10% Halfling<br>- 5% other |
 > | **Affiliation** | `=link(this.affiliations)` |
 # Description
-Dragoness Barony is a small city on the east coast of [[Greyskil]], located between [[Gabong]] and [[Yyh'ma]]. Though the Dragoness lands are thought to be very old, they were little more than farmfields up until several decenia ago, when [[Xavion]] de Dragoness - [[Dragoness family]]'s elder - made a secret pact with a Blue Dragon, [[Kruziik'ahraan]]. Though not publicly known, this resulted in the exchange of extremely valueable materials with which to build and establish a Barony, and all Dragoness' future children.
+Dragoness Barony is a small city on the east coast of [[Greyskil]], located between [[Gabong]] and [[Yyh'ma]]. Though the Dragoness lands are thought to be very old, they were little more than farmfields up until several decenia ago, when [[Xavion de Dragoness]] de Dragoness - [[Dragoness Family]]'s elder - made a secret pact with a Blue Dragon, [[Kruziik'ahraan]]. Though not publicly known, this resulted in the exchange of extremely valueable materials with which to build and establish a Barony, and all Dragoness' future children.
 It trades with its neighboring coastal cities mostly through ships, but has shut its gates to Gabong's refugees for several years, resulting in a stalemate of trade. Bad management and favoritism of wealth also resulted in lower agricultural yields, and unequal distribution.
 ## Order Quadrant
 More than three quarters of the main city consists of densely-packed streets and businesses, known as the Order Quadrant. Because of the restrictions on movement, many old streets and city squares have since been repurposed into housing. Though not squalid, most of the cities inhabitants live in poverty, with direct trade of goods or services being dominant over using currencies, even when employed by the nobility of the city. Most homes are constructed out of old rocks and repurposed wood, with a liberal use of sheets and old sails, as they provide ventilation. There are little to no city services, save for the [[#Order Guard]].
@@ -72,17 +72,17 @@ Besides residence for the Dragoness', a guest house is available on the premises
 | The Smauldering Emporium    | General store | Four General stores distributed throughout the Bronze Reach  | Trademaster Henza (Adult elven M, spectacled, sympathetic but egotistical)            | These state-owned shops were established to both make government-owned use of the labor force, as well as tax the rich.                               |
 | Drake Yard                  | Stable        | Outside the perimiter walls, between Palace and Bronze reach | Drakewarden Tar'hyris (Senior blue half-dragon F, loyal and realistic)                | Dragoness Barony does not use horses, but drakes.                                                                                                     | 
 # Society
-A general description of the (types of) people that live and work in this settlement. What culture, religion, and worldview do they adhere to in general.
+> TODO: A general description of the (types of) people that live and work in this settlement. What culture, religion, and worldview do they adhere to in general.
 ## Leadership
-A short description about the place's leader or leaders. What system is used, why, to what effect.
+> TODO: A short description about the place's leader or leaders. What system is used, why, to what effect.
 ## Notable people
-A short list of folks who call this settlement their home. 
+> TODO: A short list of folks who call this settlement their home. 
 ## Defense
-An overview of their forces that protect and attack.
+> TODO: An overview of their forces that protect and attack.
 ### Order Guard
 Led by [[Fumyss|General Fumyss]].
 ### Palace Guard.
 Led by [[Charles de Dragoness]].
 # History
-A rundown of the location and its founding up to its current state.
+> TODO: A rundown of the location and its founding up to its current state.
 

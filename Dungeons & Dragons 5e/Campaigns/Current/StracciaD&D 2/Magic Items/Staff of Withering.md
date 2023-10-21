@@ -1,38 +1,39 @@
 ---
-name: "Staff of Withering"
-name_short: "Staff of Withering"
-type: "Quarterstaff"
-rarity: "Rare"
-materials: ["Wood", "Precious Metal"]
-attunement: "Yes, by a Cleric, Druid, or Warlock"
-slot: "Weapon"
+name: Staff of Withering
+name_short: Staff of Withering
+type: Quarterstaff
+rarity: Rare
+materials:
+  - Wood
+  - Precious Metal
+attunement: Yes, by a Cleric, Druid, or Warlock
+slot: Weapon
 cursed: 0
-owner: "Sargenet"
-owner_previous: ["None"]
+owner: Sargenet
+owner_previous:
+  - None
+publish:
 ---
 > [!infobox]  
-> # `=this.name`
+> # Staff of Withering
 > ![[StaffOfWithering.png|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | Quarterstaff |
+> | **Rarity** | Rare |
+> | **Slot** | Weapon |
+> | **Materials** | Wood, Precious metals |
+> | **Requires Attunement** | Yes, by a Cleric, Druid, or Warlock |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current** | [[Sargenet]] |
+> | **Previous** | Unknown |
 
-ITEM NAME is a 
-## Features
-- Feature 1
-- Feature 2
+The **Staff of Withering** is a large staff that can weaken the creature it hurts further.
 ## Appearance
-Looks description
+>TODO: Looks description
 # Description
 This staff has 3 charges and regains 1d3 expended charges daily at dawn.  
   

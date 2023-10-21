@@ -1,37 +1,42 @@
 ---
-name: "Olvex' Eye"
-name_short: "Olvex' Eye"
-type: "Wondrous Item"
-rarity: "Common"
-materials: [Metal, Glass]
-attunement: "No"
-slot: "Tool"
+name: Olvex' Eye
+name_short: Olvex' Eye
+type: Wondrous Item
+rarity: Common
+materials:
+  - Metal
+  - Glass
+attunement: No
+slot: Tool
 cursed: 0
-owner: "Carmine"
-owner_previous: ["Towers of Stendor"]
+owner: Carmine
+owner_previous:
+  - Towers of Stendor
+publish: true
 ---
 > [!infobox]  
-> # `=this.name`
+> # Olvex' Eye
 > ![[OlvexEye.jpeg|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | Wondrous Item |
+> | **Rarity** | Common |
+> | **Slot** | Tool |
+> | **Materials** | Metal, Glass |
+> | **Requires Attunement** | No |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current** | [[Carmine Char]] |
+> | **Previous** | [[Towers of Stendor]] |
 
-ITEM NAME is a 
-## Features
-- Feature 1
-- Feature 2
+**Olvex' Eye** is a magical lantern that reveals secrets.
 ## Appearance
-Looks description
+>TODO: Looks description
 # Description
 While lit, this Hooded lantern burns for 6 hours on 1 pint of oil, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. Invisible creatures and Objects are visible as long as they are in the lantern's bright light. You can use an action to lower the hood, reducing the light to dim light in a 5-foot radius.
+
+In addition, it may reveal hidden messages placed by the followers of Olvex.
+# Trivia
+- Despite being the first magical item gathered by the party, they have used it only twice.

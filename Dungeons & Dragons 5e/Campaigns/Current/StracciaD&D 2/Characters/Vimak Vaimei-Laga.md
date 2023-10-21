@@ -33,40 +33,41 @@ languages:
   - Common
   - Elvish
   - Giant
+publish: true
 ---
 > [!infobox]  
-> # `=this.name_first` `=this.name_last`
+> # Vimak Vaimei-Laga
 > ![[Vimak2.png|cover hsmall]] 
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | `= this.type` |
-> | **Player** | `= link(this.player)` |
+> | **Type** | Player Character |
+> | **Player** | [[Roy]] |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | `= this.name_full` |
-> | **Aliases** | `= this.name_aka` |
-> | **Gender** | `=this.gender` | 
-> | **Creature Type** | `= this.creature_type` |
-> | **Race** | `= link(this.creature_race)` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
-> | **Class** | `= link(this.class)` `= choice(this.subclass = "", "", "(")` `= this.subclass` `= choice(this.subclass = "", "", ")")`|  
-> | **Born** | `=link(this.place_of_birth)` , `=this.age` years ago|  
-> | **Languages** | `=this.languages` |  
+> | **Name** | Vimak Vaimei-Laga |
+> | **Aliases** | - "Lonehunter" (Clan name)<br>- Ysmir Hardrada (borrowed name) |
+> | **Gender** | Male | 
+> | **Creature Type** | Humanoid |
+> | **Race** | Goliath |  
+> | **Class** | [[Paladin]] (Oath of Devotion) |  
+> | **Born** | [[Devostina Alps]], 30 years ago|  
+> | **Languages** | Common, Giant, Elvish |  
 > | **Family** | - [[Kuori "Bearkiller"]] (father)<br>- [[Lo-Kag "Wordpainter"]] (mother)<br>- [[Aukan "Keepeye"]] (brother, deceased) |
 > | **Connections** | - [[Party]] (member)<br>- [[The Bonehead]] (Captain)<br>- [[Gathakeaku Clan]] (ex-member, banished)<br>- [[Hevenar]] (Oath patron) |
-> | **Status** | `=this.status` |
-> | **Sessions** | `=this.member` |
+> | **Status** | Alive |
+> | **Sessions** | All Sessions |
 > ###### Stats
 > | | | | |
 > |---|---|---|---|
-> | **Level** | `=this.level` | **HP** | `=this.hit_points` |
-> | **AC** | `=this.armor_class` | | |
-> | **Str** | `=this.stat_str` | **Int** | `=this.stat_int` |
-> | **Dex** | `=this.stat_dex` | **Wis** | `=this.stat_wis` |
-> | **Con** | `=this.stat_con` | **Cha** | `=this.stat_cha` |
+> | **Level** | 7 | **HP** | 63 |
+> | **AC** | 18 | | |
+> | **Str** | 13 | **Int** | 15 |
+> | **Dex** | 11 | **Wis** | 11 |
+> | **Con** | 14 | **Cha** | 12 |
 
-`=this.name_first` `=this.name_last` is a `=this.creature_subrace` `=this.creature_race` `=this.subclass` `=this.class`. `=choice(this.gender = "Male", "He", "She")` is played by `=this.player`. 
+**Vimak Vaimei-Laga** is a [[Goliath]] Oath of Devotion [[Paladin]]. He is played by [[Roy]].
 # Description
 ## Appearance
 Vimak a large and muscular [[Goliath]] with blueish grey skin, tattoo's that cover his body, and a deep vertical scar over his eye. He is slightly bearded and otherwise bald, though Goliath Kin aren't known to have extensive facial hair. 
@@ -89,17 +90,14 @@ In his clan, there was only one punishment for killing a family member: death. H
 
 In his exile, Vimak saught to travel the world, and restore his own pride and legacy, turning to his brother's patron [[Hevenar]] for guidance. The God is said to preach the two deaths; the first when you breathe your last breath, the second when your name is spoken for the last time. This suited Vimak's goals of restoring the glory of Aukan, and in his name he ventured forth, until finally reaching [[Telack]], where he met a group op new friends.
 ## Adventures
-Story of after meeting the gang.
+> TODO
 # Relationships
-## Persoon
-Is dit nodig?
+> TODO
 # Character information
 ## Quests
 Vimak is trying to find his place in the world, partially achieved by traveling around to see what is out there beyond the Alps he grew up in. More importantly, is to find inner peace and redemption for what happened with Aukan, which is the main reason why he became a [[Paladin]].
 
-> [!warning]- Spoilers
-> *See [[Vimak - Gathakeaku in danger]] for the full quest rundown*
-> Something came up along the way. His tribe is in need of help. In his absence, Giant Kin have awoken from their centuries long slumber, to once again clean the land of the smaller and weaker race, in order to manifest more giants, which puts the [[Gathakeaku Clan]] at risk. 
+His tribe - the [[Gathakeaku Clan]] - is also in need of help. In his absence, Giant Kin have awoken from their centuries long slumber, to once again clean the land of the smaller and weaker race, in order to manifest more giants. This puts the clan at risk, which has put forth the need for their finest warriors. With [[Aukan]] gone, Vimak is called in for help, which he has accepted.
 
 ## Notable items
 - List of items
@@ -110,4 +108,5 @@ FROM "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items"
 WHERE owner = this.name_first
 ```
 # Trivia
-- List of trivia
+- He spent nearly a year's wage on a very fancy captain's hat.
+- Vimak has shown romantic interest in Arcanist [[Aileen des Venohsi]], a crew member of the supreme vessel "[[The Giant of Jaxos]]", even spending the night with her.

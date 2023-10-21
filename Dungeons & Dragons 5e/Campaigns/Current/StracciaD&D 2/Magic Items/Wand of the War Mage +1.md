@@ -11,27 +11,24 @@ owner: "Roderick"
 owner_previous: ["Unnamed Towers of Stendor professor"]
 ---
 > [!infobox]  
-> # `=this.name`
+> # Wand of the War Mage +1
 > ![[WandOfTheWarMage+1.jpeg|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | Wand |
+> | **Rarity** |Uncommon |
+> | **Slot** | Weapon |
+> | **Materials** | Wood |
+> | **Requires Attunement** | Yes, by a spellcaster |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current** | [[Roderick]] |
+> | **Previous** | A professor of the [[Towers of Stendor]] |
 
-ITEM NAME is a 
-## Features
-- Feature 1
-- Feature 2
+The **Wand of the War Mage +1** is an old wand that enhances spells cast using it.
 ## Appearance
-Looks description
+>TODO: Looks description
 # Description
 While holding this wand, you gain a bonus to spell attack rolls determined by the wand’s rarity. In addition, you ignore half cover when making a spell attack. Requires attunement by a Spellcaster.

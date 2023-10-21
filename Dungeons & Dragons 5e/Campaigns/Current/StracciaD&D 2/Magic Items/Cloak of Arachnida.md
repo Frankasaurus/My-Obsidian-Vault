@@ -1,38 +1,39 @@
 ---
-name: "Cloak of Arachnida"
-name_short: "Cloak of Arachnida"
-type: "Wondrous Item"
-rarity: "Very Rare"
-materials: ["Cloth", "Silk"]
-attunement: "Yes"
-slot: "Cloak"
+name: Cloak of Arachnida
+name_short: Cloak of Arachnida
+type: Wondrous Item
+rarity: Very Rare
+materials:
+  - Cloth
+  - Silk
+attunement: Yes
+slot: Cloak
 cursed: 0
-owner: "Phillipa"
-owner_previous: ["Unknown"]
+owner: Phillipa
+owner_previous:
+  - Unknown
+publish: true
 ---
 > [!infobox]  
-> # `=this.name`
+> # Cloak of Arachnida
 > ![[CloakOfArachnida.png|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | Wondrous Item |
+> | **Rarity** | Very Rare |
+> | **Slot** | Cloak |
+> | **Materials** | Cloth, Silk |
+> | **Requires Attunement** | Yes |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current** | [[Phillipa Vurrinir]] |
+> | **Previous** | Unknown |
 
-ITEM NAME is a 
-## Features
-- Feature 1
-- Feature 2
+The **Cloak of Arachnida** is a magical cloak that allows the wearer to use certain spider-like abilities.
 ## Appearance
-Looks description
+>TODO: Looks description
 # Description
 This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:  
 • You have resistance to poison damage.  

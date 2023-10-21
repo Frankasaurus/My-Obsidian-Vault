@@ -14,27 +14,24 @@ owner_previous:
 value_gp: 600
 ---
 > [!infobox]  
-> # `=this.name`
+> # Medallion of Thoughts
 > ![[MedallionOfThoughts.jpeg|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | Wondrous Item |
+> | **Rarity** | Uncommon |
+> | **Slot** | Neck |
+> | **Materials** | Precious metals |
+> | **Requires Attunement** | Yes |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current** | None |
+> | **Previous** | Unknown |
 
-ITEM NAME is a 
-## Features
-- Feature 1
-- Feature 2
+The **Medallion of Thoughts** is a magical jewel that allows the casting of Detect Thoughts.
 ## Appearance
-Looks description
+>TODO: Looks description
 # Description
 The medallion has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the detect thoughts spell (save DC 13) from it. The medallion regains 1d3 expended charges daily at dawn.

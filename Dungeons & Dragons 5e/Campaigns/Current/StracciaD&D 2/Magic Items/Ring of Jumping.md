@@ -12,29 +12,27 @@ owner: Undetermined
 owner_previous:
   - ""
 value_gp: "3000"
+publish:
 ---
 > [!infobox]  
-> # `=this.name`
+> # Ring of Jumping
 > ![[RingOfJumping.png|cover hsmall]]
 > ###### Base Info
-> | |
-> |---|
-> | **Type:** `= this.type` |
-> | **Rarity:** `= this.rarity` |
-> | **Slot:** `= this.slot` |
-> | **Materials:** `= this.materials` |
-> | **Requires Attunement:** `=this.attunement` |
+> | | |
+> |---|---|
+> | **Type** | Wondrous Item |
+> | **Rarity** | Uncommon |
+> | **Slot** | Ring |
+> | **Materials** | Precious metals |
+> | **Requires Attunement** | Yes |
 > ###### Historical Information
-> | |
-> |---|
-> | **Current:** `= this.owner` |
-> | **Previous:** `= this.owner_previous` |
+> | | |
+> |---|---|
+> | **Current** | None |
+> | **Previous** | Unknown |
 
-ITEM NAME is a 
-## Features
-- Feature 1
-- Feature 2
+The **Ring of Jumping** is a piece of jewelry that allow the casting of the Jump spell.
 ## Appearance
-Looks description
+>TODO: Looks description
 # Description
 While wearing this ring, you can cast the jump spell from it as a bonus action at will, but can target only yourself when you do so.
