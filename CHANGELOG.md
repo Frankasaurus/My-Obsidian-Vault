@@ -1,4 +1,4 @@
-##  (2023-10-21)
+##  (2023-10-22)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -50,5 +50,7 @@
 *  Added publish tags & reformatted Magic Items & fixed some formatting *(Alexander Franke)*
 *  Completed Aegren, Mostly did Bloeming Isles, Olvex mostly done *(Alexander Franke)*
 *  Update Robyn.md *(Alexander Franke)*
+*  Updated Deity template *(Alexander Franke)*
+*  Added Ostver's, Giant of Jaxos, and Bonehead *(Alexander Franke)*
 
 
