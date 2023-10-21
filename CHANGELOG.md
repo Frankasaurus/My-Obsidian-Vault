@@ -1,4 +1,4 @@
-##  (2023-10-15)
+##  (2023-10-21)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -34,5 +34,21 @@
 *  Created and added up-to-dat eCyberpunk Characters, NPC's, Locations, templates *(Alexander Franke)*
 *  Added Night City map & markers *(Frankasaurus)*
 *  Added Dragoness' Family *(Alexander Franke)*
+*  Removed Dataview elements from main bodies of characters *(Alexander Franke)*
+*  Edited a lot(!) of characters *(Alexander Franke)*
+*  Update Party.md *(Alexander Franke)*
+*  Fixed infobox sizes *(Alexander Franke)*
+*  Converted all NPC's to use regular text instead of dataview *(Alexander Franke)*
+*  Boldened first mentions *(Frankasaurus)*
+*  Removed DataView elements from Magical items *(Frankasaurus)*
+*  Update index.md *(Alexander Franke)*
+*  Updated templates *(Frankasaurus)*
+*  Fixed most templates *(Alexander Franke)*
+*  Exoanded continents *(Alexander Franke)*
+*  Cleaned repo, organised index *(Alexander Franke)*
+*  Added image to continent template *(Alexander Franke)*
+*  Added publish tags & reformatted Magic Items & fixed some formatting *(Alexander Franke)*
+*  Completed Aegren, Mostly did Bloeming Isles, Olvex mostly done *(Alexander Franke)*
+*  Update Robyn.md *(Alexander Franke)*
 
 
