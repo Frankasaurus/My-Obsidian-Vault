@@ -1,4 +1,4 @@
-##  (2023-10-22)
+##  (2023-10-25)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -52,5 +52,7 @@
 *  Update Robyn.md *(Alexander Franke)*
 *  Updated Deity template *(Alexander Franke)*
 *  Added Ostver's, Giant of Jaxos, and Bonehead *(Alexander Franke)*
+*  Added some images *(Frankasaurus)*
+*  Added & organised attachments *(Alexander Franke)*
 
 

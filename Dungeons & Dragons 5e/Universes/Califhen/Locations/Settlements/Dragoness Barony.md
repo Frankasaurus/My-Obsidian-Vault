@@ -22,10 +22,11 @@ poi:
 resources: 
 tags:
   - TODO
+publish:
 ---
 > [!infobox]  
 > # `=this.file.name`
-> ![[Image.jpg|cover hsmall]]  
+> ![[DragonessBaronyCity1.png|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
