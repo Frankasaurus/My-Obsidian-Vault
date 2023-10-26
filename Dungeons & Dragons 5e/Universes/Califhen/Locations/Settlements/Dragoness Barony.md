@@ -99,7 +99,7 @@ Led by [[Charles de Dragoness]], the Palace guard is the elite force that protec
 
 The one exception to all of this is the Border Guard. This section of the Palace Guard is experienced and battle-worn, but also trained to be as unempathetic as can be, as to keep the cities population and labor force within the walls as best they can.
 ### Dragoness Freedom Legion
-The Order Quadrant's militia is the Dragoness Freedom Legion, a decentralized conspiracy of denounced nobility, ex-criminals, and angry citizens in general. Thanks to the iron firs of the Order Guard, they are incapable of using force to counter the oppression of the Barony's nobility. Therefor, most of their actions are swift guerilla-tactics, infiltrations, thefts, and the spreading of propaganda.
+The Order Quadrant's militia is the Dragoness Freedom Legion, a decentralized conspiracy of denounced nobility, ex-criminals, and angry citizens in general. Thanks to the iron firs of the Order Guard, they are incapable of using force to counter the oppression of the Barony's nobility. Therefor, most of their actions are swift guerilla-tactics, infiltrations, thefts, and the spreading of propaganda. They are supported by the [[Greyskil Refugee Resistance]].
 
 Though joining the Freedom Legion would seem like a great idea given the climate of the Order Quadrant, their existance is known amongst the public, as well as the Order Guard, meaning anyone even slightly associated with the group is marked as a terrorist. 
 # History

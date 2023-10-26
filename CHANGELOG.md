@@ -55,5 +55,6 @@
 *  Added some images *(Frankasaurus)*
 *  Added & organised attachments *(Alexander Franke)*
 *  Completed Dragoness Barony *(Alexander Franke)*
+*  Final addition to Dragoness Barony *(Alexander Franke)*
 
 
