@@ -84,11 +84,12 @@ For more information on how the current [[Dragoness Family]] hereditary system o
 > ![[Dragoness Family#Titles]]
 ## Notable people
 **Current:**
-- Most members of the [[Dragoness Family]].
+- Most members of the [[Dragoness Family]] in the Palace Grounds
 - [[Cirdorim]], living close to the Higher Justice Cathedral
+- [[Ostrzał Charr]], living on the streets of the Order Quadrant
 
 **Previously:**
-- [[Jules Charr Sr.]] and [[Ostrzał Charr]]
+- [[Jules Charr Sr.]] 
 ## Defense
 ### Order Guard
 Led by [[Fumyss|General Fumyss]], the order Guard is a recently established offshoot of the Palace Guard that has merged with the now disbanded city guard. Being the larger but less trained of the two, they handle day-to-day duties in the realm of Dragoness Barony. Protection outside of the city used to be commonplace, but is super-rare and only reserved for nobles who venture beyond the walls.

@@ -56,5 +56,6 @@
 *  Added & organised attachments *(Alexander Franke)*
 *  Completed Dragoness Barony *(Alexander Franke)*
 *  Final addition to Dragoness Barony *(Alexander Franke)*
+*  Added NPC's for Carmine, Robyn, Elisabeth, Phillipa, *(Alexander Franke)*
 
 

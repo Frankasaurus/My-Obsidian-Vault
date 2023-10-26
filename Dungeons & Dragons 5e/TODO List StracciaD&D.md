@@ -11,7 +11,7 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 		- [ ] Meqen
 		- [ ] Telack
 		- [ ] Cape Rosa
-		- [ ] Dragoness Barony
+		- [x] Dragoness Barony
 		- [ ] Tezeder?
 		- [ ] Amala Laguna?
 		- [ ] Add images?
@@ -50,7 +50,7 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 	- [ ] Lineages
 	- [ ] Source material collection list
 - [ ] Characters
-	- [ ] Add a whackton of existing NPC's
+	- [x] Add a whackton of existing NPC's
 	- [ ] Make public / private versions for some NPC info in the same .md file
 	- [ ] Add (more) images
 	- [ ] Write the entire story so-far
