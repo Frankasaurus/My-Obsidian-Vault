@@ -64,6 +64,7 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 	- [x] Add publish: true to all visible documents
 	- [ ] Fix popovers
 	- [ ] Add published / unpublished counter below explorer
+	- [ ] Create custom filter to handle published pages with SPOILERS to redirect to a spoiler warning(?)
 - [ ] DM Specific organisation
 	- [ ] Mini collection overview
 	- [ ] Game Tiles system

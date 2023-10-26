@@ -1,4 +1,4 @@
-##  (2023-10-25)
+##  (2023-10-26)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -54,5 +54,6 @@
 *  Added Ostver's, Giant of Jaxos, and Bonehead *(Alexander Franke)*
 *  Added some images *(Frankasaurus)*
 *  Added & organised attachments *(Alexander Franke)*
+*  Completed Dragoness Barony *(Alexander Franke)*
 
 
