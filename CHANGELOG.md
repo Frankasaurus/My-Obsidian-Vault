@@ -1,4 +1,4 @@
-##  (2023-10-26)
+##  (2023-11-03)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -57,5 +57,7 @@
 *  Completed Dragoness Barony *(Alexander Franke)*
 *  Final addition to Dragoness Barony *(Alexander Franke)*
 *  Added NPC's for Carmine, Robyn, Elisabeth, Phillipa, *(Alexander Franke)*
+*  Prepped some of Session 33 *(Frankasaurus)*
+*  Added Kenos & placeholder images *(Alexander Franke)*
 
 
