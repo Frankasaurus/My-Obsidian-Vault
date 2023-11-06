@@ -1,4 +1,4 @@
-##  (2023-11-03)
+##  (2023-11-06)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -59,5 +59,6 @@
 *  Added NPC's for Carmine, Robyn, Elisabeth, Phillipa, *(Alexander Franke)*
 *  Prepped some of Session 33 *(Frankasaurus)*
 *  Added Kenos & placeholder images *(Alexander Franke)*
+*  Prepped session 33 combat 1 *(Alexander Franke)*
 
 

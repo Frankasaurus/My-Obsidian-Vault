@@ -68,7 +68,104 @@ Mocht de gang het feest willen rondstruinen of op zoek zijn naar activiteiten:
 ### Sidequest 2: Dans
 > TODO
 ### Sidequest 3: Schermduel
-> TODO
+**Dame (Hennie) Vanhorst** en haar zoon (Thierry Vanhorst) zoeken de party op naar rumoeren van dappere strijders. Zal zeer oprdukkerig uitdagen tot een duel in de tuin.
+- Eerlijk schermduel, 1v1, beide armor van 12 + Dex mod, beide rapier als wapen.
+- Weddenschap: Hennie haar beste renpaard, maar party moet er iets tegenover hebben.
+- Als Thierry verliest zal Hennie haar zoon mislukkeling noemen. Thierry roept zijn bondgenootjes op tot een knokgevecht (voor elk aanwezig partylid, 1 thug).
+#### Combat 3.A Thierry Vanhorst
+```statblock
+name: Thierry Vanhorst
+size: Medium
+type: humanoid
+subtype: any race
+alignment: any non-lawful alignment
+ac: 15
+hp: 65
+hit_dice: 10d8 + 20
+speed: 30 ft.
+stats:
+  - 15
+  - 16
+  - 14
+  - 14
+  - 11
+  - 14
+saves:
+  - strength: 4
+  - dexterity: 5
+  - wisdom: 2
+skillsaves:
+  - athletics: 4
+  - deception: 4
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: ""
+condition_immunities: ""
+senses: passive Perception 10
+languages: any two languages
+cr: "2"
+actions:
+  - name: Multiattack
+    desc: "Thierry makes three melee attacks with its rapier."
+    attack_bonus: 0
+  - name: Rapier
+    desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 3) slashing damage."
+    attack_bonus: 5
+    damage_dice: 1d8
+    damage_bonus: 3
+reactions:
+  - name: Parry
+    desc: Thierry adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
+    attack_bonus: 0
+
+```
+#### Combat 3.B Vanhorst thugs
+```statblock
+name: Vanhorst Thug
+size: Medium
+type: humanoid
+subtype: any race
+alignment: any alignment
+ac: 15
+hp: 48
+hit_dice: 7d8 + 16
+speed: 30 ft.
+stats:
+  - 16
+  - 11
+  - 14
+  - 11
+  - 11
+  - 15
+saves:
+  - constitution: 4
+  - wisdom: 2
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: ""
+condition_immunities: ""
+senses: passive Perception 10
+languages: any one language (usually Common)
+cr: "2"
+traits:
+  - name: Brave
+    desc: The knight has advantage on saving throws against being frightened.
+    attack_bonus: 0
+actions:
+  - name: Multiattack
+    desc: The thug makes two melee attacks.
+    attack_bonus: 0
+  - name: Rapier
+    desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 3) slashing damage."
+    attack_bonus: 5
+    damage_dice: 1d8
+    damage_bonus: 3
+reactions:
+  - name: Parry
+    desc: The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
+    attack_bonus: 0
+
+```
 ### Sidequest 4: Diederick
 Wanneer een persoon of clubje (zonder Elisabeth) rondwandeld zal Diederick hen voorzichtig benaderen.
 - Wilt oprecht weten hoe ze is; wat wilt ze.
