@@ -86,6 +86,8 @@ After a few years, Phillipa had ventured quite far into the criminal underground
 # Character information
 ## Quests
 Phillipa has no stated goals yet.
+## Features & Traits
+>TODO: Here is mechanical information about the character and their skills
 ## Notable items
 - TODO
 ## Magic items
