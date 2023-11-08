@@ -233,5 +233,32 @@ Drie personen worden geketend door het publiek gebracht. Ceremoniemeester haalt 
 **Xavion knikt - bijl zwaait omhoog - Rol d20 advantage + 6 + 1d10 (AC 19 Fumyss) voor Archer -> *HINDERLAAG!!!***
 
 Er gebeuren een boel dingen:
-- Noem ze op pls
+- De kelners trekken allen wapens en gijzelen een aantal nobelen.
+- Op een aantal balkons worden kruisbogen getrokken om de zaal onder schot te houden.
+- Er zijn twee spellcasters die de deuren dichtdoen.
+
+Wanneer de spanning toeslaat, COMBAT A
 ## Combat A:
+**Moeilijkheid:** Hard VS Hard  
+**Doel:** De party een moeilijke keuze laten maken, welke zijde ze bij willen horen. 
+**Reden:** Speler agency & invloed op uitkomst.
+**Lol:** Een conflict waar de party tussen staat.
+**Dragoness:**  
+- 1x Draconian Dreadnought (56hp, AC16)
+- 1x Draconian Mage (40hp, AC15)
+- 2x (Draconian) Knight (52hp, AC18)
+- 8x Draconian Foot Soldier (22hp, AC14)
+**Vrijheids legioen:**  
+- 1x Air Elemental (90hp, AC15)
+- 1x Druid (27hp, AC11)
+- 2x Archer (75hp, AC16)
+- 6x Bandit (11hp, AC12)
+- [x] **Mix van ranged / martial?**
+## Ontsnapping - Luid
+Als ze sneaky door de stad gaan, rol een D6 voor welke encounter;
+1. D
+2. d
+3. d
+4. d
+5. d
+6. d
