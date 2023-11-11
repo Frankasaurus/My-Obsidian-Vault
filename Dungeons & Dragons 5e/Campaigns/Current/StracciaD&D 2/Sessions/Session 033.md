@@ -14,19 +14,6 @@ characters:
 tags:
   - TODO
 ---
-**TODO:**
-Let op, deze keer focus op party, niet alleen Elizabeth
-- [ ] Kleding voor spelers
-- [x] Cirdorim (eekhoorn) in gesprek met party
-- [ ] Dragoness Vrijheids Legion ingreep (verschillende invalshoeken - Elizabeth gijzelen?)
-- [x] Gala combat
-- [x] Gala encounters voor de groep (sidequests)
-- [x] Gala encounters voor individuen (sidequests)
-- [x] Encounter Willemijn
-- [ ] Playlists maken
-	- [ ] Ballroom
-	- [ ] Combat
-
 ***PARTY STAAT ONDER PERMANENT (ONBEWUST) TOEZICHT VAN PALEISGARDE (DC 16).
 ELK MOMENT MET XAVION - NAT 20 INSIGHT: JE HEBT DEZE OGEN EERDER GEZIEN.***
 # Kleding
@@ -36,7 +23,9 @@ Robyn: Een versiert zwart corset met daaronder een lichte zwarte jurk met spits 
 (Vimak) Ysmir: 
 Roderick: Voornamelijk dicht bij de natuur gebleven. Een bruin pak met een licht groen blouse en colbert. Een groen Zakdoekje in het borstvakje.
 Phillipa: 
-Elisabeth: *We hebben drie bijpassende sieraden gevonden voor U (Silver met safier, Messing met robijn, Goud met Diamant).*
+Elisabeth: Glanzend zwart gevormde jurk met een hoge hals, off-shoulder. Vanuit bepaalde hoeken goud glinsterend. Gouden riempje met daar aan gehanden het Wapen van Dragoness in goud. 
+
+**[[Mana Seal]]:** *De Barron heeft een bijpassend sieraad gevonden voor U, vanuit Uw moeder's eigen collectie, als geschenk voor een geslaagde missie (Goud met Diamant).*
 # Cirdorim Ontmoeting
 Bij het ontvangen van de kleding zal ze een opmerking tussendoor maken;
 "We moeten praten, maar niet hier. Ergens waar niemand zou durven mee te luisteren."
@@ -244,21 +233,27 @@ Wanneer de spanning toeslaat, COMBAT A
 **Reden:** Speler agency & invloed op uitkomst.
 **Lol:** Een conflict waar de party tussen staat.
 **Dragoness:**  
-- 1x Draconian Dreadnought (56hp, AC16)
-- 1x Draconian Mage (40hp, AC15)
-- 2x (Draconian) Knight (52hp, AC18)
-- 8x Draconian Foot Soldier (22hp, AC14)
+- 1x Draconian Dreadnought (56hp, AC16) - FToD P. 177
+- 1x Draconian Mage (40hp, AC15) - FToD P. 179
+- 8x Draconian Foot Soldier (22hp, AC14) - FToD P. 178
+- 2x (Draconian) Knight (52hp, AC18) - MM p. 347
 **Vrijheids legioen:**  
 - 1x Air Elemental (90hp, AC15)
-- 1x Druid (27hp, AC11)
-- 2x Archer (75hp, AC16)
-- 6x Bandit (11hp, AC12)
+- 1x Druid (27hp, AC11) - MM p. 346
+- 2x Archer (75hp, AC16) - MotM p. 49
+- 6x Bandit (11hp, AC12) - MM p. 344
 - [x] **Mix van ranged / martial?**
 ## Ontsnapping - Luid
-Als ze sneaky door de stad gaan, rol een D6 voor welke encounter;
-1. D
-2. d
-3. d
-4. d
-5. d
-6. d
+Als ze luid door de stad gaan, rol een D6 voor welke encounter;
+1. Kinderen
+2. Orde district burgers
+3. Bronzen Kwartier burgers
+4. Vrijheidslegioen (3 archers)
+5. Orde Garde (3 knights)
+6. [[Charles de Dragoness]] en zijn Brigadiers
+
+## Onstapping - Stil (riool)
+Als [[Diederick de Dragoness]] ze opvangt, is er een rioolput die leidt tot de buitenstadse Drake-stallen aan de oevers.
+- Twee oudere wachters, en drie 'herders' houden rustig toezicht.
+
+**WAT WILLEN ZE VANAF HIER!**
