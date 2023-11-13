@@ -11,8 +11,7 @@ characters:
   - Elisabeth
   - Vimak
   - Phillipa
-tags:
-  - TODO
+tags: []
 ---
 ***PARTY STAAT ONDER PERMANENT (ONBEWUST) TOEZICHT VAN PALEISGARDE (DC 16).
 ELK MOMENT MET XAVION - NAT 20 INSIGHT: JE HEBT DEZE OGEN EERDER GEZIEN.***
