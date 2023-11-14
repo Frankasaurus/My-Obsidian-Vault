@@ -39,7 +39,11 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 	- [ ] Add folder system
 		- [ ] Revise To-do after this
 	- [ ] Races
-		- [ ] Create template
+		- [ ] Fill in races from top to bottom
+			- [ ] Double-check sources
+			- [ ] Double-check subrace rules
+			- [ ] Remove / replace legacies
+		- [x] Create template
 		- [ ] Subraces
 		- [ ] Historical info for Califhen
 		- [ ] Add images
