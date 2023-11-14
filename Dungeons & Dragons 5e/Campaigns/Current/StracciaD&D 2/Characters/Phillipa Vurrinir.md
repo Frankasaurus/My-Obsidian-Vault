@@ -92,6 +92,5 @@ Phillipa has no stated goals yet.
 - TODO
 ## Magic items
 - [[Cloak of Arachnida]]
-- [[Flame Tongue Dagger]]
 # Trivia
 - List of trivia
