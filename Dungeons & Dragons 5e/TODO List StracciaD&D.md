@@ -43,6 +43,8 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 			- [ ] Double-check sources
 			- [ ] Double-check subrace rules
 			- [ ] Remove / replace legacies
+			- [ ] Update race template for existing races
+				- [ ] Update infobox
 		- [x] Create template
 		- [ ] Subraces
 		- [ ] Historical info for Califhen

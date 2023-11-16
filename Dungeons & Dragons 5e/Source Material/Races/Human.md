@@ -1,3 +1,7 @@
+---
+publish: true
+tags: update
+---
 > [!infobox]
 > ![[Human.png|cover hsmall]]
 
