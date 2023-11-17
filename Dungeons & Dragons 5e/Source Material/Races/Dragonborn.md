@@ -3,7 +3,24 @@ publish: true
 tags: update
 ---
 > [!infobox]
+> # Dragonborn
 > ![[Dragonborn.png|cover hsmall]]
+> ###### Base Info
+> | | |  
+> |---|---|  
+> | **Type** | Humanoid |
+> | **Size** | Medium |
+> | **Average lifespan** | 80 years |
+> | **Origin** | [[Eknovaris]] and [[Gestain]] |
+> | **Homeland(s)** | [[Greyskil]], [[Hyda]] |
+> ###### Appearance
+> | | |  
+> |---|---|  
+> | **Average height** | 6'2"-6'8" / 1,8-2,0 m |
+> | **Average weight** | 220-320 lb / 100-150 kg |
+> | **Skin color(s)** | Scarlet, gold, rust, ocher, bronze, or brown scales |
+> | **Eye color(s)** | Red or gold |
+> | **Distinctions** | Physically and mentally strong, capable of using dragon breath, rapid growth, energy resistance |
 
 ***Born of dragons, as their name proclaims, the dragonborn walk proudly through a world that greets them with fearful incomprehension. Shaped by draconic gods or the dragons themselves, dragonborn originally hatched from dragon eggs as a unique race, combining the best attributes of dragons and humanoids. Some dragonborn are faithful servants to true dragons, others form the ranks of soldiers in great wars, and still others find themselves adrift, with no clear calling in life.***
 # Dragonborn Traits

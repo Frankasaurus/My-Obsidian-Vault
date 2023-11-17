@@ -1,5 +1,5 @@
 ---
-tags: update
+publish: false
 ---
 > [!infobox]
 > # (RACE)
@@ -7,16 +7,23 @@ tags: update
 > ###### Base Info
 > | | |  
 > |---|---|  
+> | **Type** | Humanoid |
 > | **Size** | Medium |
-> | **Lifespan** | X years |
-> ###### Califhen Info
+> | **Average lifespan** | X years |
+> | **Origin** | ORIGIN |
+> | **Homeland(s)** | HOMELAND |
+> ###### Appearance
 > | | |  
 > |---|---|  
-> | **Origin** | ORIGIN |
+> | **Average height** | ft / m |
+> | **Average weight** | lb / kg |
+> | **Skin color(s)** | COLOR |
+> | **Hair color(s)** | COLOR |
+> | **Eye color(s)** | COLOR |
+> | **Distinctions** | BODY PARTS |
 
 ***Intro text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consequat molestie tellus sed pharetra. Fusce ut consequat turpis, ac lobortis nisl. Pellentesque faucibus diam et diam sodales varius. Mauris at libero gravida, fermentum leo nec, posuere turpis. Morbi justo orci, tincidunt sit amet facilisis finibus, fermentum luctus neque. Vivamus sagittis massa ut placerat mollis.***
-
-Description text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consequat molestie tellus sed pharetra. Fusce ut consequat turpis, ac lobortis nisl. Pellentesque faucibus diam et diam sodales varius. Mauris at libero gravida, fermentum leo nec, posuere turpis. Morbi justo orci, tincidunt sit amet facilisis finibus, fermentum luctus neque. Vivamus sagittis massa ut placerat mollis.
+***
 # (RACE) Traits
 *Source: [[(SOURCE)]]*
 ### Age
@@ -27,10 +34,12 @@ Description text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc 
 Your base walking speed is 30ft.
 ### Languages
 You can speak, read, and write Common and one extra language of your choice.
+***
 ## Subrace / option 1
 *Source: [[(SOURCE)]]*
 ### Ability Score Increase
 Your ability scores each increase by 1.
+***
 ## Subrace / option 2
 *Source: [[(SOURCE)]]*
 ### Darkvision

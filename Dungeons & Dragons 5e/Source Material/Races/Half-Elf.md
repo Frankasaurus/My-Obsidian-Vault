@@ -2,7 +2,25 @@
 publish: true
 ---
 > [!infobox]
+> # Half-Elves
 > ![[Half-Elf.png|cover hsmall]]
+> ###### Base Info
+> | | |  
+> |---|---|  
+> | **Type** | Humanoid |
+> | **Size** | Medium |
+> | **Average lifespan** | 125-180 years |
+> | **Origin** | Hybrid between [[Elf]] and another race, often [[Human]] |
+> | **Homeland(s)** | Anywhere elves coexist with other races |
+> ###### Appearance
+> | | |  
+> |---|---|  
+> | **Average height** | 5'5"-6'2" / 1,7-1,9 m |
+> | **Average weight** | 130-190 lb / 60 -85 kg |
+> | **Skin color(s)** | Varries by race and ethnicity of parents |
+> | **Hair color(s)** | Varries by race and ethnicity of parents |
+> | **Eye color(s)** | Same as elven parent|
+> | **Distinctions** | Toned-down [[Elf]] features |
 
 ***Walking in two worlds but truly belonging to neither, half-elves combine what some say are the best qualities of their elf and human parents: human curiosity, inventiveness, and ambition tempered by the refined senses, love of nature, and artistic tastes of the elves. Some half-elves live among humans, set apart by their emotional and physical differences, watching friends and loved ones age while time barely touches them. Others live with the elves, growing restless as they reach adulthood in the timeless elven realms, while their peers continue to live as children. Many half-elves, unable to fit into either society, choose lives of solitary wandering or join with other misfits and outcasts in the adventuring life.***
 # Half-Elf Traits

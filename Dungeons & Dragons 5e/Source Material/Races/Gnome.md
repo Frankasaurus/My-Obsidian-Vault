@@ -3,7 +3,25 @@ publish: true
 tags: update
 ---
 > [!infobox]
+> # Gnomes
 > ![[Gnome.png|cover hsmall]]
+> ###### Base Info
+> | | |  
+> |---|---|  
+> | **Type** | Humanoid |
+> | **Size** | Small |
+> | **Average lifespan** | 300 years |
+> | **Origin** | Ancestral |
+> | **Homeland(s)** | [[Ty'heris]] and [[Ordenis]] |
+> ###### Appearance
+> | | |  
+> |---|---|  
+> | **Average height** | 3'-4' / 0,9-1,2 m |
+> | **Average weight** | 50-75 lb / 23-34 kg |
+> | **Skin color(s)** | Ruddy tan to woody brown to rocky gray; grays to white with age |
+> | **Hair color(s)** | Any |
+> | **Eye color(s)** | Glithering opaque orbs of black |
+> | **Distinctions** | Small, keen mind, bright personality, magically gifted |
 
 ***A constant hum of busy activity pervades the warrens and neighborhoods where gnomes form their close-knit communities. Louder sounds punctuate the hum: a crunch of grinding gears here, a minor explosion there, a yelp of surprise or triumph, and especially bursts of laughter. Gnomes take delight in life, enjoying every moment of invention, exploration, investigation, creation, and play.***
 # Gnome Traits

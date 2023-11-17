@@ -3,7 +3,25 @@ publish: true
 tags: update
 ---
 > [!infobox]
+> # Dwarves
 > ![[Dwarf.png|cover hsmall]]
+> ###### Base Info
+> | | |  
+> |---|---|  
+> | **Type** | Humanoid |
+> | **Size** | Medium |
+> | **Average lifespan** | 350 years |
+> | **Origin** | Ancestral |
+> | **Homeland(s)** | [[Moundaria]], [[Greyskil]] |
+> ###### Appearance
+> | | |  
+> |---|---|  
+> | **Average height** | 4'-5' / 1,2-1,5 m |
+> | **Average weight** | 150 lb / 68 kg |
+> | **Skin color(s)** | Similar to [[Human]] |
+> | **Hair color(s)** | Similar to [[Human]] |
+> | **Eye color(s)** | Similar to [[Human]] |
+> | **Distinctions** | Physically durable, insightful, primarily dwell underground, some females capable of growing beards |
 
 ***Kingdoms rich in ancient grandeur, halls carved into the roots of mountains, the echoing of picks and hammers in deep mines and blazing forges, a commitment to clan and tradition, and a burning hatred of goblins and orcs—these common threads unite all dwarves.***
 # Dwarf Traits

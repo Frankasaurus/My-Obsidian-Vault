@@ -2,7 +2,25 @@
 publish: true
 ---
 > [!infobox]
+> # Tieflings
 > ![[Tiefling.png|cover hsmall]]
+> ###### Base Info
+> | | |  
+> |---|---|  
+> | **Type** | Humanoid |
+> | **Size** | Medium |
+> | **Average lifespan** | 90-150 years |
+> | **Origin** | Unknown, most likely [[Saaber]] |
+> | **Homeland(s)** | [[Xaterai]], [[Greyskil]], and [[Sutoden]] |
+> ###### Appearance
+> | | |  
+> |---|---|  
+> | **Average height** | 4'11"-6' / 1,5-1,8 m |
+> | **Average weight** | 115-240 lb / 50-110 kg |
+> | **Skin color(s)** | Same as [[Human]], plus shades of red and purple |
+> | **Hair color(s)** | Red, brown, black, dark blue, purple |
+> | **Eye color(s)** | Black, gold, red, silver, or white (solid color, with no sclera or pupil |
+> | **Distinctions** | Various horns and tails, other fiendish traits |
 
 ***To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling. And to twist the knife, tieflings know that this is because a pact struck generations ago infused the essence of Asmodeus—overlord of the Nine Hells—into their bloodline. Their appearance and their nature are not their fault but the result of an ancient sin, for which they and their children and their children’s children will always be held accountable.***
 # Tiefling Traits

@@ -3,7 +3,25 @@ publish: true
 tags: update
 ---
 > [!infobox]
+> # Elves
 > ![[Elf.png|cover hsmall]]
+> ###### Base Info
+> | | |  
+> |---|---|  
+> | **Type** | Humanoid |
+> | **Size** | Medium |
+> | **Average lifespan** | 750 years |
+> | **Origin** | Ancestral |
+> | **Homeland(s)** | [[Zila]] and [[Orphelica]] |
+> ###### Appearance
+> | | |  
+> |---|---|  
+> | **Average height** | 4'7"-5'5" / 1,4-1,7 m |
+> | **Average weight** | 82-157 lb / 37-68 kg |
+> | **Skin color(s)** | Same range as [[Human]] plus shades of copper, bronze, and white |
+> | **Hair color(s)** | Same as [[Human]] plus green and blue |
+> | **Eye color(s)** | Same as [[Human]] plus gold and silver |
+> | **Distinctions** | Pointed ears, little to no body hair, often of slender build |
 
 ***Elves are a magical people of otherworldly grace, living in the world but not entirely part of it. They live in places of ethereal beauty, in the midst of ancient forests or in silvery spires glittering with faerie light, where soft music drifts through the air and gentle fragrances waft on the breeze. Elves love nature and magic, art and artistry, music and poetry, and the good things of the world.***
 # Elf Traits

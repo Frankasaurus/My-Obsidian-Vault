@@ -2,7 +2,25 @@
 publish: true
 ---
 > [!infobox]
+> # Halflings
 > ![[Halfling.png|cover hsmall]]
+> ###### Base Info
+> | | |  
+> |---|---|  
+> | **Type** | Humanoid |
+> | **Size** | Small |
+> | **Average lifespan** | 150 years |
+> | **Origin** | Unknown, but after *The Everlanding* |
+> | **Homeland(s)** | [[Far Kachmer]], [[Zila]], and [[Ty'heris]] |
+> ###### Appearance
+> | | |  
+> |---|---|  
+> | **Average height** | 2'8"-3'4" / 80-100cm |
+> | **Average weight** | 30-35 lb / 14-16 kg |
+> | **Skin color(s)** | Pale to dark brown |
+> | **Hair color(s)** | Auburn, black, brown; grays to white with age |
+> | **Eye color(s)** | Black, brown or hazel |
+> | **Distinctions** | Small, seldom wear facial hair, dexterous |
 
 ***The comforts of home are the goals of most halflings’ lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies; a blazing fire and a generous meal; fine drink and fine conversation. Though some halflings live out their days in remote agricultural communities, others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. But even these wanderers love peace, food, hearth, and home, though home might be a wagon jostling along a dirt road or a raft floating downriver.***
 # Halfling Traits
