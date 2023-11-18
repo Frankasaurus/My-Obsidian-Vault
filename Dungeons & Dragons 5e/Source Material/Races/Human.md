@@ -33,14 +33,16 @@ Humans vary in in height and build, from barely 5 feet to well over 6 feet tall.
 Your base walking speed is 30ft.
 ### Languages
 You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
-***
-## Standard Human
-*Source: [[Player's Handbook]]*
 ### Ability Score Increase
 Your ability scores each increase by 1.
+
+> [!info]
+> ***The Variant Human is optional.***
+
 ***
 ## Variant Human
 *Source: [[Player's Handbook]]*
+You can forgo the Ability Score Increase in the standard Human to receive the following options.
 ### Ability Score Increase
 Two different ability scores of your choice increase by 1.
 ### Skills

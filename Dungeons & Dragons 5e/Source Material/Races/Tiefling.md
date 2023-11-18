@@ -23,6 +23,7 @@ publish: true
 > | **Distinctions** | Various horns and tails, other fiendish traits |
 
 ***To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling. And to twist the knife, tieflings know that this is because a pact struck generations ago infused the essence of Asmodeus—overlord of the Nine Hells—into their bloodline. Their appearance and their nature are not their fault but the result of an ancient sin, for which they and their children and their children’s children will always be held accountable.***
+***
 # Tiefling Traits
 *Source: [[Player's Handbook]]*
 ### Ability Score Increase
@@ -41,6 +42,11 @@ You have resistance to fire damage.
 You know the [[Thaumaturgy]] cantrip. When you reach 3rd level, you can cast the [[Hellish Rebuke]] spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[Darkness]] spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 ### Languages
 You can speak, read, and write Common and Infernal.
+
+> [!info]
+> ***The Variant Feral Tiefling is optional.***
+
+***
 ## Variant Feral Tiefling
 *Source: [[Sword Coast Adventurer's Guide]]*
 Since not all tieflings are of the blood of Asmodeus, some have traits that differ from those in the [[Player's Handbook]]. The Dungeon Master may permit the following variants for your tiefling character, although Devil’s Tongue, Hellfire, and Winged are mutually exclusive.

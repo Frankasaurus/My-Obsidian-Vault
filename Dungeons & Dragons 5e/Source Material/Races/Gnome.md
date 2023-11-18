@@ -24,6 +24,7 @@ tags: update
 > | **Distinctions** | Small, keen mind, bright personality, magically gifted |
 
 ***A constant hum of busy activity pervades the warrens and neighborhoods where gnomes form their close-knit communities. Louder sounds punctuate the hum: a crunch of grinding gears here, a minor explosion there, a yelp of surprise or triumph, and especially bursts of laughter. Gnomes take delight in life, enjoying every moment of invention, exploration, investigation, creation, and play.***
+***
 # Gnome Traits
 *Source: [[Player's Handbook]]*
 ### Ability Score Increase
@@ -40,6 +41,9 @@ Accustomed to life underground, you have superior vision in dark and dim conditi
 You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
 ### Languages
 You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
+### **Subrace** 
+Two subraces of Gnome exist: [[#Forest Gnome]], and [[#Rock Gnome]]. Choose one of them for your character.
+***
 ## Forest Gnome
 *Source: [[Player's Handbook]]*
 As a forest gnome, you have a natural knack for illusion and inherent quickness and stealth. In the worlds of D&D, forest gnomes are rare and secretive. They gather in hidden communities in sylvan forests, using illusions and trickery to conceal themselves from threats or to mask their escape should they be detected. Forest gnomes tend to be friendly with other good-spirited woodland folk, and they regard elves and good fey as their most important allies. These gnomes also befriend small forest animals and rely on them for information about threats that might prowl their lands.
@@ -49,6 +53,7 @@ Your Dexterity score increases by 1.
 You know the [[Minor illusion]] cantrip. Intelligence is your spellcasting ability for it.
 ### Speak with Small Beasts
 Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts. Forest gnomes love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets.
+***
 ## Rock Gnome
 *Source: [[Player's Handbook]]*
 As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes. Most gnomes in the worlds of D&D are rock gnomes, including the tinker gnomes of the Dragonlance setting.
@@ -66,9 +71,13 @@ _Clockwork Toy._ This toy is a clockwork animal, monster, or person, such as a f
 _Fire Starter._ The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
 
 _Music Box._ When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song’s end or when it is closed.
+***
 ## Deep Gnome (legacy)
 *Source: [[Elemental Evil Player's Companion]]*
 Forest gnomes and rock gnomes are the gnomes most commonly encountered in the lands of the surface world. There is another subrace of gnomes rarely seen by any surface-dweller: deep gnomes, also known as svirfneblin. Guarded, and suspicious of outsiders, svirfneblin are cunning and taciturn, but can be just as kind-hearted, loyal, and compassionate as their surface cousins.
+
+> [!attention]
+> ***The Deep Gnome has been replaced with the [[Svirfneblin]] race.***
 ### Ability Score Increase
 Your Dexterity score increases by 1.
 ### Age

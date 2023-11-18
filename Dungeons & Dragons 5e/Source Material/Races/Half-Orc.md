@@ -3,7 +3,7 @@ publish: true
 ---
 > [!infobox]
 > # Half-Orcs
-> ![[Half-Elf.png|cover hsmall]]
+> ![[Half-Orc.png|cover hsmall]]
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -23,6 +23,7 @@ publish: true
 > | **Distinctions** | Small tusks |
 
 ***Whether united under the leadership of a mighty warlock or having fought to a standstill after years of conflict, orc and human communities, sometimes form alliances. When these alliances are sealed by marriages, half-orcs are born. Some half-orcs rise to become proud leaders of orc communities. Some venture into the world to prove their worth. Many of these become adventurers, achieving greatness for their mighty deeds.***
+***
 # Half-Orc Traits
 *Source: [[Player's Handbook]]*
 ### Ability Score Increase
