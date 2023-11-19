@@ -1,4 +1,4 @@
-##  (2023-11-19)
+##  (2023-11-20)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -71,5 +71,6 @@
 *  Added all Volo's races, updated PHB races with legacies *(Frankasaurus)*
 *  Added all original Elemental Evil races *(Alexander Franke)*
 *  Added Ravnica Races *(Alexander Franke)*
+*  Added Theros & Eberron races *(Alexander Franke)*
 
 
