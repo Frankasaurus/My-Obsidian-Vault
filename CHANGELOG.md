@@ -1,4 +1,4 @@
-##  (2023-11-18)
+##  (2023-11-19)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -68,5 +68,7 @@
 *  Added all PHB races into source *(Frankasaurus)*
 *  Added publish tags, added race template infobox *(Alexander Franke)*
 *  Added infoboxes to existing races *(Alexander Franke)*
+*  Added all Volo's races, updated PHB races with legacies *(Frankasaurus)*
+*  Added all original Elemental Evil races *(Alexander Franke)*
 
 
