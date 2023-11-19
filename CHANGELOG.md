@@ -70,5 +70,6 @@
 *  Added infoboxes to existing races *(Alexander Franke)*
 *  Added all Volo's races, updated PHB races with legacies *(Frankasaurus)*
 *  Added all original Elemental Evil races *(Alexander Franke)*
+*  Added Ravnica Races *(Alexander Franke)*
 
 
