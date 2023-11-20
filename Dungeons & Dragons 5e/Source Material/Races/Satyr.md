@@ -31,6 +31,9 @@ publish: true
 ***
 # Satyr Traits
 *Source: [[Mordenkainen's Monsters of the Multiverse]]*
+### Ability Score Increase
+When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
+*Standard scores are Charisma +2, and Dexterity +1.*
 ### Creature Type
 You are a Fey.
 ### Size

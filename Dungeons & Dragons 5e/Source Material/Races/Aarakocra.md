@@ -11,7 +11,7 @@ publish: true
 > | **Size** | Medium |
 > | **Average lifespan** | 30 years |
 > | **Origin** | Elemental Plane of Air |
-> | **Homeland(s)** | Elemental Plane of Air |
+> | **Homeland(s)** | [[Orphelica]], [[Ordenis]], and [[Bloeming Isles]] |
 > ###### Appearance
 > | | |  
 > |---|---|  

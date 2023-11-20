@@ -10,7 +10,7 @@ publish: true
 > | **Type** | Humanoid |
 > | **Size** | Small |
 > | **Average lifespan** | 500 years |
-> | **Origin** | [[Gnome]] mutated by the [[Sahl Mologh]] |
+> | **Origin** | [[Gnome]] drawn to The Underdark by [[Syfos]] |
 > | **Homeland(s)** | The Underdark |
 > ###### Appearance
 > | | |  
@@ -47,4 +47,4 @@ You have advantage on Intelligence, Wisdom, and Charisma saving throws against s
 When you make a Dexterity (Stealth) check, you can make the check with advantage. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 ### **Language**
 Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The [[Player's Handbook]] offers a list of languages to choose from. The DM is free to modify that list for a campaign.
-*Standard languages are Common, Aarakocra, and Auran.*
+*Standard languages are Common, Gnome, and Undercommon

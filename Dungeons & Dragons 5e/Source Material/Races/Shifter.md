@@ -31,6 +31,8 @@ publish: true
 ***
 # Shifter Traits
 *Source: [[Mordenkainen's Monsters of the Multiverse]]*
+### Ability Score Increase
+When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
 ### Creature Type
 You are a Humanoid.
 ### Size
@@ -75,10 +77,10 @@ The beast within shapes each shifter physically and mentally. The four major sub
 ## Beasthide (legacy)
 *Source: [[Wayfarer's Guide to Eberron]] or [[Eberron Rising From the Last War]]*
 Stoic and solid, a beasthide shifter draws strength and stability from the beast within. Beasthide shifters are typically tied to the bear or the boar, but this subrace could embody any creature known for its toughness.
-### Natural Athlete
-You have proficiency in the Athletics skill.
 ### Ability Score Increase
 Your Constitution score increases by 2, and your Strength score increases by 1.
+### Natural Athlete
+You have proficiency in the Athletics skill.
 ### Shifting Feature
 Whenever you shift, you gain 1d6 additional temporary hit points. While shifted, you have a +1 bonus to your Armor Class.
 *** 
