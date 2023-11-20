@@ -4,62 +4,80 @@ publish: true
 ---
 There do be a litteral fuckton of races in D&D 5th Ed.
 # Races
-Sorted by which Source Book has introduced them (for now).
-Replace checkboxes later. See [[TODO List StracciaD&D]].
+Sorted by which Source Book has introduced them (for now). The sorting and formatting of this page needs to be updated. See [[TODO List StracciaD&D]].
 ## [[Player's Handbook]]
-- [x] [[Human]]
-- [x] [[Dragonborn]]
-- [x] [[Dwarf]]
-- [x] [[Elf]]
-- [x] [[Gnome]]
-- [x] [[Half-Elf]]
-- [x] [[Half-Orc]]
-- [x] [[Halfling]]
-- [x] [[Tiefling]]
+- [[Human]]
+- [[Dragonborn]]
+- [[Dwarf]]
+- [[Elf]]
+- [[Gnome]]
+- [[Half-Elf]]
+- [[Half-Orc]]
+- [[Halfling]]
+- [[Tiefling]]
 ## [[Volo's Guide to Monsters]]
-- [x] [[Aasimar]]
-- [x] [[Bugbear]]
-- [x] [[Firbolg]]
-- [x] [[Goblin]]
-- [x] [[Hobgoblin]]
-- [x] [[Kenku]]
-- [x] [[Kobold]]
-- [x] [[Lizardfolk]]
-- [x] [[Orc]]
-- [x] [[Tabaxi]]
-- [x] [[Triton]]
-- [x] [[Yuan-Ti]]
+- [[Aasimar]]
+- [[Bugbear]]
+- [[Firbolg]]
+- [[Goblin]]
+- [[Hobgoblin]]
+- [[Kenku]]
+- [[Kobold]]
+- [[Lizardfolk]]
+- [[Orc]]
+- [[Tabaxi]]
+- [[Triton]]
+- [[Yuan-Ti]]
 ## [[Elemental Evil Player's Companion]]
-- [x] [[Aarakocra]]
-- [x] [[Genasi]]
-- [x] [[Goliath]]
-- [x] [[Svirfneblin]]
+- [[Aarakocra]]
+- [[Genasi]]
+- [[Goliath]]
+- [[Svirfneblin]]
 ## [[Guildmaster's Guide to Ravnica]]
-- [x] [[Centaur]]
-- [x] [[Loxodon]]
-- [x] [[Minotaur]]
-- [x] [[Simic Hybrid]]
-- [x] [[Vedalken]]
+- [[Centaur]]
+- [[Loxodon]]
+- [[Minotaur]]
+- [[Simic Hybrid]]
+- [[Vedalken]]
 ## [[Mythic Odysseys of Theros]]
-- [x] [[Leonin]]
-- [x] [[Satyr]]
+- [[Leonin]]
+- [[Satyr]]
 ## [[Wayfarer's Guide to Eberron]]
-- [x] [[Changeling]]
-- [x] [[Kalashtar]]
-- [x] [[Shifter]]
-- [x] [[Warforged]]
+- [[Changeling]]
+- [[Kalashtar]]
+- [[Shifter]]
+- [[Warforged]]
 ## [[The Wild Beyond the Witchlight]]
-- [x] [[Fairy]]
-- [x] [[Harengon]]
+- [[Fairy]]
+- [[Harengon]]
 ## [[The Tortle Package]]
-- [x] [[Tortle]]
+- [[Tortle]]
 ## [[Strixhaven Curriculum of Chaos]]
-- [x] [[Owlin]]
+- [[Owlin]]
 ## [[Mordenkainen's Tome of Foes]]
-- [x] [[Duergar]]
-- [x] [[Eladrin]]
-- [x] [[Gith]]
-- [x] [[Shadar-Kai]]
-Also introduces [[Gifts]].
+- [[Duergar]]
+- [[Eladrin]]
+- [[Gith]]
+- [[Shadar-Kai]]
 ## [[Van Richten's Guide to Ravenloft]]
-Introduces [[Lineages]].
+- [[Lineages]]
+	- Dhampir
+	- Hexblood
+	- Reborn
+## Currently not included
+(but might add in the future)
+- **Dragonlance: Shadow of the Dragon Queen**
+	- Kender
+- **Spelljammer: Adventures in Space**
+	- Astral Elf
+	- Autognome
+	- Giff
+	- Hadozee
+	- Plasmoid
+	- Thri-kreen
+- **Acquisitions Incorporated**
+	- Verdan
+- **Locatah Rising**
+	- Locatah
+- **One Grung Above**
+	- Grung

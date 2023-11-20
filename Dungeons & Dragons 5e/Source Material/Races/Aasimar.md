@@ -3,7 +3,7 @@ publish: true
 ---
 > [!infobox]
 > # Aasimar
-> ![[Aasimar.jpg|cover hsmall]]
+> ![[Aasimar.jpeg|cover hsmall]]
 > ###### Base Info
 > | | |  
 > |---|---|  

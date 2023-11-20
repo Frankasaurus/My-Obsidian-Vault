@@ -47,7 +47,7 @@ You can empower yourself with this bite a number of times equal to your proficie
 # Hexblood
 > [!infobox]
 > # Hexblood
-> ![[Hexblood.jpg|cover hsmall]]
+> ![[Hexblood.png|cover hsmall]]
 
 **Where wishing fails, ancient magic can offer a heart’s desire—at least, for a time. Hexbloods are individuals infused with eldritch magic, fey energy, or mysterious witchcraft. Some who enter into bargains with hags gain their deepest wishes but eventually find themselves transformed. These changes evidence a hag’s influence: ears that split in forked points, skin in lurid shades, long hair that regrows if cut, and an irremovable living crown. Along with these marks, hexbloods manifest hag-like traits, such as darkvision and a variety of magical methods to beguile the senses and avoid the same., While many hexbloods gain their lineage after making a deal with a hag, others reveal their nature as they age—particularly if a hag influenced them early in life or even before their birth. Many hexbloods turn to lives of adventure, seeking to discover the mysteries of their magic, to forge a connection with their fey natures, or to avoid a hag that obsesses over them.**
 ### Creature Type
