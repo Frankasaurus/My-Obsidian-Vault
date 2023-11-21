@@ -10,7 +10,7 @@ publish: true
 > 
 > ***Artificers use a variety of tools to channel their arcane power. To cast a spell, an artificer might use alchemist's supplies to create a potent elixir, calligrapher's supplies to inscribe a sigil of power, or tinker's tools to craft a temporary charm. The magic of artificers is tied to their tools and their talents, and few other characters can produce the right tool for a job as well as an artificer.***
 
-*You must have an Intelligence scorre of 13 or higher in order to multiclass in or out of this class.*
+*You must have an Intelligence score of 13 or higher in order to multiclass in or out of this class.*
 # Artificer Table
 | Level | Proficiency Bonus | Features                                         | Infusions Known | Infused Items | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th |
 | ----- | ----------------- | ------------------------------------------------ | --------------- | ------------- | -------------- | --- | --- | --- | --- | --- |
@@ -55,7 +55,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) studded leather armor or (b) scale mail
 - thieves’ tools and a dungeoneer’s pack
 
-Alternatively, you may start with 5d4x10 starting gold
+Alternatively, you may start with 5d4x10 starting gold.
 ### Optional Rule: Firearm Proficiency
 The secrets of gunpowder weapons have been discovered in various corners of the D&D multiverse. If your Dungeon Master uses the rules on firearms in the _Dungeon Master's Guide_ and your artificer has been exposed to the operation of such weapons, your artificer is proficient with them.
 ***
