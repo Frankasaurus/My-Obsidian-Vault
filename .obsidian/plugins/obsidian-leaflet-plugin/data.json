@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "califhen-map",
-      "lastAccessed": 1696174840273,
+      "lastAccessed": 1700597666997,
       "markers": [
         {
           "id": "ID_fbc9a948ea98",
@@ -817,16 +817,16 @@
           "id": "ID_7be86868789a",
           "type": "Party",
           "loc": [
-            -4.758469431176129,
-            3.830351524739741
+            -4.755859375,
+            3.7763671875
           ],
           "link": "Party",
           "layer": "%5B%5BCalifhenMap1.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.2553567683159827,
-            0.5639667473986524
+            0.2517578125,
+            0.5636574074074074
           ],
           "description": "Current position of the StracciaD&D 2 Party",
           "minZoom": 8,
@@ -899,6 +899,26 @@
           "mutable": true,
           "command": false,
           "percent": null,
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e97b59c8f998",
+          "type": "Landmark",
+          "loc": [
+            -4.68359375,
+            3.7890625
+          ],
+          "link": "Cirdorim's Lair",
+          "layer": "%5B%5BCalifhenMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2526041666666667,
+            0.5550925925925926
+          ],
           "description": null,
           "minZoom": 8,
           "maxZoom": null,
@@ -1225,9 +1245,47 @@
               }
             },
             {
-              "lat": -4.449076742540969,
-              "lng": 4.27037764723018,
+              "lat": -4.453125,
+              "lng": 4.2509765625,
               "id": "ID_a849cad949e8",
+              "targets": {
+                "vertexIds": [
+                  "ID_692af90a9ac8",
+                  "ID_fbc9dbc9eaaa"
+                ]
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#ff0000",
+          "vertices": [
+            {
+              "lat": -4.453125,
+              "lng": 4.2509765625,
+              "id": "ID_fbc9dbc9eaaa",
+              "targets": {
+                "vertexIds": [
+                  "ID_a849cad949e8",
+                  "ID_692af90a9ac8"
+                ]
+              }
+            },
+            {
+              "lat": -4.706329345703125,
+              "lng": 4.09814453125,
+              "id": "ID_496afb59aa89",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.754180908203125,
+              "lng": 3.81201171875,
+              "id": "ID_aa4909c858a8",
               "targets": {
                 "vertexIds": []
               }
@@ -1243,7 +1301,8 @@
     },
     {
       "id": "night-city-map",
-      "lastAccessed": 1696969881259,
+      "locked": false,
+      "lastAccessed": 1700597712157,
       "markers": [
         {
           "id": "ID_8b9ba8f8283a",
@@ -1697,19 +1756,19 @@
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": "false",
-    "defaultZoom": 6,
+    "defaultZoom": 8,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
     "geojsonColor": "#3388ff",
     "gpx": [],
     "gpxColor": "#3388ff",
-    "height": "900px",
-    "image": "[[CalifhenMap1.png]]",
+    "height": "1250px",
+    "image": "[[night-city-map-2045-1.jpg]]",
     "imageOverlay": [],
     "isMapView": false,
     "layers": [
-      "[[CalifhenMap1.png]]"
+      "[[night-city-map-2045-1.jpg]]"
     ],
     "linksFrom": [],
     "linksTo": [],
@@ -1718,8 +1777,8 @@
     "markerFile": [],
     "markerFolder": [],
     "markerTag": [],
-    "maxZoom": 10,
-    "minZoom": 6,
+    "maxZoom": 11,
+    "minZoom": 8,
     "osmLayer": true,
     "overlay": [],
     "overlayColor": "blue",
@@ -1729,7 +1788,7 @@
     "verbose": false,
     "zoomDelta": 1,
     "zoomFeatures": false,
-    "id": "califhen-map",
+    "id": "night-city-map",
     "lat": "50%",
     "long": "50%",
     "unit": "meters",

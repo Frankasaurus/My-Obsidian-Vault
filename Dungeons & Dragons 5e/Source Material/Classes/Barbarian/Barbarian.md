@@ -86,12 +86,12 @@ At 3rd level, you choose a path that shapes the nature of your rage. Your choice
 |---|---|
 |[[Ancestral Guardian]]|[[Xanathar's Guide to Everything]]|
 |[[Battlerager]]|[[Sword Coast Adventurer's Guide]]|
-|[[Beast]]|[[Tasha's Couldron of Everything]]|
+|[[Beast]]|[[Tasha's Cauldron of Everything]]|
 |[[Berserker]]|[[Player's Handbook]]|
 |[[Giant]]|[[Bigby Presents Glory of the Giants]]|
 |[[Storm Herald]]|[[Xanathar's Guide to Everything]]|
 |[[Totem Warrior]]|[[Player's Handbook]]|
-|[[Wild Magic]]|[[Tasha's Couldron of Everything]]|
+|[[Wild Magic]]|[[Tasha's Cauldron of Everything]]|
 |[[Zealot]]|[[Xanathar's Guide to Everything]]|
 |[[Juggernaut]]\*|[[Tal'Dorei Campaign Guide]]|
 *\* = Homebrew*
