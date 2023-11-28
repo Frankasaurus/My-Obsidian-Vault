@@ -22,8 +22,9 @@ Daar zullen we de volgende keer oppakken.
 **Waar:** Pacifica, [[Christiana Naso]]'s appartement.
 **Doel sessie:** Nicky Cole introduceren ([[Tal Rezin]]'s vader) & licht schijnen op de situatie. Nicky's tips voor het liquideren van [[Mili Partitio Sr.]].
 # 1. Infiltratie Naso's Appartement
-Nadat de auto's het appartement in rijden, zal na een tijdje de lichten aan gaan in 1 van de ruimtes, 4e etage. 
+Nadat de auto's het appartement in rijden, zal na een tijdje de lichten aan gaan in 1 van de ruimtes, 13e etage. 
 Ruimte tussen de Mercs en t appartement is 26m in lengte.
+**Drones in de rondte zonder geschut, wel met infrarood alarmen.**
 **Woning:**
 - Woonkamer is vol met plastic, ramen deels met vuilniszakken gedicht. 2 stoelen temidden van de kamer.
 - Slaapkamer dat als tijdelijk onderkomen dient.
