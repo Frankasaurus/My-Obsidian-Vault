@@ -1,15 +1,11 @@
 ---
 publish: true
 ---
-> [!infobox]
-> # Sorcerer
-> ![[Sorcerer.png|cover hsmall]]
-
 > [!quote]
 > **_Sorcerers carry a magical birthright conferred upon them by an exotic bloodline, some otherworldly influence, or exposure to unknown cosmic forces. No one chooses sorcery; the power chooses the sorcerer._**
 
 _You must have a Charisma score of 13 or higher in order to multiclass in or out of this class._
-
+# Sorcerer Table
 | Level | Proficiency Bonus | Sorcery Points | Features                                                      | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | ----------------- | -------------- | ------------------------------------------------------------- | -------------- | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st   | +2                | -              | Spellcasting, Sorcerous Origin                                | 4              | 2            | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
@@ -33,6 +29,8 @@ _You must have a Charisma score of 13 or higher in order to multiclass in or out
 | 19th  | +6                | 19             | Ability Score Improvement, _Sorcerous Versatility (Optional)_ | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20th  | +6                | 20             | Sorcerous Restoration                                         | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 ***
+> [!infobox]
+> ![[Sorcerer.png|cover hsmall]]
 # Class Features
 As a sorcerer, you gain the following class features.
 ### Hit Points
@@ -45,7 +43,7 @@ As a sorcerer, you gain the following class features.
 **Tools:** None  
 **Saving Throws:** Constitution, Charisma  
 **Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
-***
+
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -78,7 +76,7 @@ Charisma is your spellcasting ability for your sorcerer spells, since the power 
 **Spell attack modifier** = your proficiency bonus + your Charisma modifier
 ### Spellcasting Focus
 You can use an arcane focus as a spellcasting focus for your sorcerer spells.
-***
+
 ## Sorcerous Origin
 Choose a sorcerous origin, which describes the source of your innate magical power. Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
 
@@ -94,7 +92,7 @@ Choose a sorcerous origin, which describes the source of your innate magical pow
 | [[Wild Magic]]         | [[Player's Handbook]]                       |
 | [[Runechild]]          | [[Tal'Dorei Campaign Guide]]                    |
 *\* = Homebrew*
-***
+
 ## Font of Magic
 At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
 
@@ -111,7 +109,7 @@ At 2nd level, you tap into a deep wellspring of magic within yourself. This well
 |3rd|5|
 |4th|6|
 |5th|7|
-***
+
 ## Metamagic
 At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.
 
@@ -129,17 +127,17 @@ You can use only one Metamagic option on a spell when you cast it, unless otherw
 - **Subtle Spell.** When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
 - **Transmuted Spell.** When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types: acid, cold, fire, lightning, poison, thunder.
 - **Twinned Spell.** When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip). To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, [[Magic Missile]] and [[Scorching Ray]] aren't eligible, but [[Ray of Frost]] and [[Chromatic Orb]] are.
-***
+
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-***
+
 ## Sorcerous Versatility (Optional)
 When you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing the magic within you flowing in new ways:
 - Replace one of the options you chose for the Metamagic feature with a different Metamagic option available to you.
 - Replace one cantrip you learned from this class' spellcasting feature with another cantrip from the sorcerer spell list.
-***
+
 ## Magical Guidance (Optional)
 When you reach 5th level, you can tap into your inner wellspring of magic to try and conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the d20, and you must use the new roll, potentially turning the failure into a success.
-***
+
 ## Sorcerous Restoration
 At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.

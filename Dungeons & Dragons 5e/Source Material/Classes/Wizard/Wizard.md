@@ -1,15 +1,11 @@
 ---
 publish: true
 ---
-> [!infobox]
-> # Wizard
-> ![[Wizard.png|cover hsmall]]
-
 > [!quote]
 > **_Wizards are supreme magic-users, defined and united as a class by the spells they cast. Drawing on the subtle weave of magic that permeates the cosmos, wizards cast spells of explosive fire, arcing lightning, subtle deception, brute-force mind control, and much more._**
 
 _You must have an Intelligence score of 13 or higher in order to multiclass in or out of this class._
-
+# Wizard Table
 | Level | Proficiency Bonus | Features                      | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | ----------------- | ----------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st   | +2                | Spellcasting, Arcane Recovery | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
@@ -33,6 +29,8 @@ _You must have an Intelligence score of 13 or higher in order to multiclass in o
 | 19th  | +6                | Ability Score Improvement     | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20th  | +6                | Signature Spells              | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 ***
+> [!infobox]
+> ![[Wizard.png|cover hsmall]]
 # Class Features
 As a wizard, you gain the following class features.
 ### Hit Points
@@ -95,12 +93,12 @@ You can cast a wizard spell as a ritual if that spell has the ritual tag and you
 You can use an arcane focus as a spellcasting focus for your wizard spells.
 ### Learning Spells of 1st Level and Higher
 Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook.
-***
+
 ## Arcane Recovery
 You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.
 
 For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
-***
+
 ## Arcane Tradition
 When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of the following schools. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
@@ -119,18 +117,18 @@ When you reach 2nd level, you choose an arcane tradition, shaping your practice 
 | [[Order of Scribes]] | [[Tasha's Cauldron of Everything]] |
 | [[Transmutation]]    | [[Player's Handbook]]              |
 | [[War Magic]]        | [[Xanathar's Guide to Everything]] |
-***
+
 ## Cantrip Formulas (Optional)
 At 3rd level, you have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list.
-***
+
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-***
+
 ## Spell Mastery
 At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
 By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
-***
+
 ## Signature Spells
 When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.
 

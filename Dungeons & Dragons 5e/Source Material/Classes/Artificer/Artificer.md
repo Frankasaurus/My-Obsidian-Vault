@@ -1,10 +1,6 @@
 ---
 publish: true
 ---
-> [!infobox]
-> # Artificer
-> ![[Artificer.png|cover hsmall]]
-
 > [!quote]
 > ***Masters of invention, artificers use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions. You can find everything you need to play one of these inventors in the next few sections.***
 > 
@@ -35,6 +31,8 @@ publish: true
 | 19th  | +6                | Ability Score Improvement                        | 12              | 6             | 4              | 4   | 3   | 3   | 3   | 2   |
 | 20th  | +6                | Soul of Artifice                                 | 12              | 6             | 4              | 4   | 3   | 3   | 3   | 2   |
 ***
+> [!infobox]
+> ![[Artificer.png|cover hsmall]]
 # Class Features
 As a Artificer, you gain the following class features.
 ### Hit Points
@@ -68,7 +66,7 @@ At 1st level, you've learned how to invest a spark of magic into mundane objects
 The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.
 
 You can bestow magic on multiple objects, touching one object each time you use this feature, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.
-***
+
 ## Spellcasting
 You've studied the workings of magic and how to cast spells, channeling the magic through objects. To observers, you don't appear to be casting spells in a conventional way; you appear to produce wonders from mundane items and outlandish inventions.
 ### Tools Required
@@ -95,7 +93,7 @@ Intelligence is your spellcasting ability for your artificer spells; your unders
 **Spell attack modifier** = your proficiency bonus + your Intelligence modifier
 ### Ritual Casting
 You can cast an artificer spell as a ritual if that spell has the ritual tag and you have the spell prepared.
-***
+
 ## Infuse Item
 At 2nd level, you've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.
 ### Infusions Known
@@ -110,7 +108,7 @@ Your infusion remains in an item indefinitely, but when you die, the infusion va
 You can infuse more than one nonmagical object at the end of a long rest; the maximum number of objects appears in the Infused Items column of the Artificer table. You must touch each of the objects, and each of your infusions can be in only one object at a time. Moreover, no object can bear more than one of your infusions at a time. If you try to exceed your maximum number of infusions, the oldest infusion ends, and then the new infusion applies.
 
 If an infusion ends on an item that contains other things, like a bag of holding, its contents harmlessly appear in and around its space.
-***
+
 ## Artificer Specialist
 At 3rd level, you choose the type of specialist you are. Your choice grants you features at 5th level and again at 9th and 15th level.
 
@@ -120,39 +118,39 @@ At 3rd level, you choose the type of specialist you are. Your choice grants you 
 |[[Armorer]]|[[Tasha's Cauldron of Everything]]|
 |[[Artillerist]]|[[Tasha's Cauldron of Everything]]|
 |[[Battle Smith]]|[[Tasha's Cauldron of Everything]]|
-***
+
 ## The Right Tool for the Job
 At 3rd level, you've learned how to produce exactly the tool you need: with thieves' tools or artisan's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
-***
+
 ## Ability Score Improvement
 When you reach 4th level, 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-***
+
 ## Tool Expertise
 At 6th level, your proficiency bonus is now doubled for any ability check you make that uses your proficiency with a tool.
-***
+
 ## Flash of Genius
 At 7th level, you've gained the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add your Intelligence modifier to the roll.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
-***
+
 ## Magic Item Adept
 When you reach 10th level, you achieve a profound understanding of how to use and make magic items:
 - You can attune to up to four magic items at once.
 - If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.
-***
+
 ## Spell-Storing Item
 At 11th level, you can now store a spell in an object. Whenever you finish a long rest, you can touch one simple or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the artificer spell list that requires 1 action to cast (you needn't have it prepared).
 
 While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires concentration, the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
-***
+
 ## Magic Item Savant
 At 14th level, your skill with magic items deepens more:
 - You can attune to up to five magic items at once.
 - You ignore all class, race, spell and level requirements on attuning to or using a magic item.
-***
+
 ## Magic Item Master
 Starting at 18th level, you can attune up to six magic items at once.
-***
+
 ## Soul of Artifice
 At 20th level, you develop a mystical connection to your magic items, which you can draw on for protection:
 - You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
