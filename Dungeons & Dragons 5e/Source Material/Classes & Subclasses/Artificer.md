@@ -116,7 +116,7 @@ At 3rd level, you choose the type of specialist you are. Your choice grants you 
 |---|---|
 |[[Alchemist]]|[[Tasha's Cauldron of Everything]]|
 |[[Armorer]]|[[Tasha's Cauldron of Everything]]|
-|[[Artilerist]]|[[Tasha's Cauldron of Everything]]|
+|[[Artillerist]]|[[Tasha's Cauldron of Everything]]|
 |[[Battle Smith]]|[[Tasha's Cauldron of Everything]]|
 
 ## The Right Tool for the Job
