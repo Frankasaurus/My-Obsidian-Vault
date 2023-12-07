@@ -83,5 +83,6 @@
 *  Added some subclasses *(Frankasaurus)*
 *  Fixed subclass folder structure, edit index.md *(Alexander Franke)*
 *  Added Artificer subclasses *(Frankasaurus)*
+*  Added part of Barbarian subclass *(Frankasaurus)*
 
 
