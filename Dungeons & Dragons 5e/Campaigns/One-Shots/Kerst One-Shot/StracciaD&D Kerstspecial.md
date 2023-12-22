@@ -113,6 +113,7 @@ Als ze in de aanval gaan, zal Alabaster [[Hypnotic Pattern]] casten, de tegel in
 **Onthouden:**
 - Alle Gnomes zien er corrupted en verwaarloosd uit, maar dragen vergane festieve kledij.
 - Als Gnomes (elfjes) doodgaan exploderen ze als een pinata.
+- 3 random gnomes hebben "kerstbal" sleutels bij zich die enorm glimmen en licht weerkaatsen.
 
 **Moeilijkheid:** Hard
 **Doel:** Spelers leren de vijand kennen, en elkaar's capabiliteiten
@@ -124,16 +125,37 @@ Als ze in de aanval gaan, zal Alabaster [[Hypnotic Pattern]] casten, de tegel in
 - Gnome Spy (6x) MM achterin
 **Vrienden:**  
 - De Professor Orb - Madame Klaus
-# 3. Puzzel iets -> confrontatie met de 5 gnome "helpers"
-- **Bushy Evergreen:** Bushy is the inventor of the magic toy-making machine Santa uses to produce all the toys that are sent to kids all over the world. 
-- **Pepper Minstix:** Pepper is the protector of Santa’s secret village near the North Pole. Think of him as Head of Elf Security.
-- **Shinny Upatree:** Shinny is Santa’s oldest friend and co-founder of Santa’s secret village and workshop.
-- **Sugarplum Mary (aka Mary Christmas):** Mary is in charge of all the sweets and treats production. She is Mrs. Claus’s assistant and is in charge of the kitchen (let’s not dwell too much on the fact that the only female elf is both an assistant and works in the kitchen…or let’s do actually).
-- **Wunorse Openslae** (say it out loud): He’s responsible for Santa’s sleigh, as well as taking care of the aforementioned reindeer.
-# 4. Confrontatie Alabaster
+# 3. Offerkamer
+De volgende ruimte is een grote circulaire rituelenkamer, 100ft in diameter, met ijzige rotswanden.
+- Balkon rondom de ruimte is op veel delen ingestort.
+- Het plafond is bedekt in ijs en sneeuw, maar steekt uit boven de heuvel.
+- In het donker niet zichtbaar, maar op het gehele plafond is een sterrenhemel met asterisme's getekend.
 
+In de ijzige vloer zit een driehoek van ronde gaten met een spreuk in een Gnomish dialect (dwergenscript) in rood vloeistof geschreven (lijkt op bloed, is jam):
+*"We reizen uit het oosten om kado's te brengen naar de pasgeboren koning. Zoek ons, en plaats ons onder het eeuwige licht. Geef kou aan de offering; Geef liefde naar de beest; Breng licht naar het huis. De sterrenkluizenaar zal zich tot in de diepte uitspreken."*
+- Maretak bal bij Grote Beer
+- Sneeuwvlok bal bij Noorderkruis
+- Kaars bal bij Huis
+
+Wanneer dit gelukt is, zullen de drie ballen eerst opstijgen en beginnen te draaien, en daarna te gloeien. De ijsvloer beginnen met smelten, voordat de drie ballen langzaam naar beneden zakken een lange diepe tunnel in (**200ft.**). Deze leidt naar de summoning-kamer.
+# 4. Confrontatie Alabaster
+**Ruimte:**
+- 100ft. diameter ronde kamer met .
+- Een deel van de kamer is verhoogd met een groot circulair portaal er op.
+
+5 Gnomes liggen vermoord op aan de uiteindes van een kerst-ster summoning circle met kleine gereedschappen door hun lichaam heen; (**Bushy Evergreen, Pepper Minstix, Shinny Upatree, Sugarplum Mary, Wunorse Openslae**).
+- Summoning circle is voor een *Celestial* (Arcana 14), specifiek een Titaan (Arcana 20).
+
+De drie kerstballen zullen samenklonteren tot een geheel en langzaam vormen tot Dolf.
+**Alabaster: "Ha ha haaaa, jullie klungels zijn te laat! De offers zijn gemaakt, het ritueel is van start, de allerheilige zal wederkeren! Brengt uzelf terug op de materiele wereld! Oh Satna, Vader Kringle, vernietiger van Schoorstenen & KadoHeerser, verorberer van Krokant Deeg, Bastaard van de Sterren-kluizenaar Er is niks dat jullie kunnen doen nu... behalve te sterven!"**
+
+1. De geesten van de gnomes zullen verduisterde kerstjingle zingen.
+2. Een lijn in de summoning circle zal beginnen met een kerstster maken.
+3. Portaal zal activeren, en een hand langzaam er uit komen, met een machtige **"HO HO HOOO"**.
+4. Dolf zal volledig vormen.
+5. Madame Klaus zal via De Professor Orb zeggen: "Breek het ritueel, hij komt, hij komt!"
 ## 4.a Combat Dolf & Alabaster
-**BELANGRIJK:** Tijdens combat zal een summoning circle langzaam worden ingevuld zolang er gnomes zijn die het ritueel uitvoeren. (BEDENK DEZE IN TEKENING).
+**BELANGRIJK:** Tijdens combat zal een summoning circle **In de vorm van een sneeuwvlok** langzaam worden ingevuld zolang er gnomes zijn die het ritueel uitvoeren. (BEDENK DEZE IN TEKENING).
 **NA 10 RONDEN COMBAT ZAL SATNA SPAWNEN ALS EMPYREAN (MM p.130)**
 
 **Moeilijkheid:** Deadly
@@ -143,3 +165,9 @@ Als ze in de aanval gaan, zal Alabaster [[Hypnotic Pattern]] casten, de tegel in
 **Vijanden:**  
 - "Dolf" | Ki-Rin (1x) MOTM p.162
 - "Alabaster Sneeuwbal" | Mage (1x) MM p.347
+**Vrienden:**  
+- De Professor Orb - Madame Klaus
+## 4.b Nazorg
+Bij verslaan van de vijand in combat zal de portaal sluiten en het onderdeel van Satna die er uit klom afgesneden worden.
+Klaus zal uit de Professor Orb spawnen en ze allen bedanken voor hun dienst, voordat ze knielt naast Satna en sublimeert met hen. 
+De goedheiligman zal voor hun staan, en ze een fijne Sterrenkluizenaar wensen.
