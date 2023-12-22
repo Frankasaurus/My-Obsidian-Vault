@@ -155,7 +155,7 @@ De drie kerstballen zullen samenklonteren tot een geheel en langzaam vormen tot 
 4. Dolf zal volledig vormen.
 5. Madame Klaus zal via De Professor Orb zeggen: "Breek het ritueel, hij komt, hij komt!"
 ## 4.a Combat Dolf & Alabaster
-**BELANGRIJK:** Tijdens combat zal een summoning circle **In de vorm van een sneeuwvlok** langzaam worden ingevuld zolang er gnomes zijn die het ritueel uitvoeren. (BEDENK DEZE IN TEKENING).
+**BELANGRIJK:** Tijdens combat zal een summoning circle langzaam worden ingevuld. Op initiative 20 wordt een lijn getrokken. Er zal er lava stromen in de ruimtes naast de sterpunten.
 **NA 10 RONDEN COMBAT ZAL SATNA SPAWNEN ALS EMPYREAN (MM p.130)**
 
 **Moeilijkheid:** Deadly
