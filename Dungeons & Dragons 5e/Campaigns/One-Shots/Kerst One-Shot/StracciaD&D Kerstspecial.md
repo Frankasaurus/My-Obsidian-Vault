@@ -12,29 +12,20 @@ Voor je karakters;
 - [[Chris]] speelt (NAAM), een [[Tabaxi]] [[Assassin]] [[Rogue]] ([[Sailor]] background).
 - [[Kacper]] speelt [[Seraphim]], een [[Aasimar#Protector|Protector Aasimar]] [[Lycan]] [[Blood Hunter]] ([[Soldier]] background).
 - [[Hanne]] speelt [[Uruzur Malag]], een [[Half-Orc]] [[Vengeance]] [[Paladin]] ([[Acolyte]] background).
-- [[Melle]] speelt [[Subel]], een [[Elf#High Elf|High Elven]] [[Bladesinging]] [[Wizard]] / [[Artificer]] multiclass ([[Gladiator]] background).
+- [[Melle]] speelt [[Subel]], een [[Elf#High Elf|High Elven]] [[Bladesinging]] [[Wizard]] / [[Artificer]] multiclass ([[Gladiator]] background). | Erg minmaxed, let op.
 - [[Kim]] speelt [[Graniar]], een [[Gith#Githzerai|Githzerai]] [[Devotion]] [[Paladin]] ([[Haunted One]] background).
 - [[Roy]] speelt [[Edwyrd Adkalyn]], een [[Elf#High Elf|High Elf]] [[Assassin]] [[Rogue]] ([[Criminal]] background).
-- [[Lise]] speelt een nieuw karakter
-# TODO
-- Iedereen een magic item (rare)
-- Intro
-- Puzzel
-- Combat klein
-- Interactie
-- Eindcombat
-- Conclusie
+- [[Lise]] speelt niet meer mee.
 # Samenvatting
 **Wat:** In de Ilan Lands zijn is een ijstempel van [[Udenor]] - de **god van Vermogen & Hebberigheid** - recentelijk door Gnomes overgenomen tot summoning circle voor de valse god **Satna, Vader Kringle, vernietiger van Schoorstenen & KadoHeerser, verorberer van Krokant Deeg, Bastaard van de Sterren-kluizenaar**. Samen met Satna's spawn **Dolf** - een Rendier - zijn de Gnomes bezig met hem terug tot leven wekken om de koude maanden te verwarmen met zijn vuur.
 **Wanneer:** Winter, Kerst, alles is focking koud. **Star's Recluse!** (Sterrenkluizenaar - kortste dag van het jaar, permanent donker met Noorderlichten)
 **Waar:** Ilan Lands, in Beyri
 ![[IlanLandsMap.png|500]]
-Goed op Melle letten. Super powergamey karakter.
 # 1. Intro Beyri
 *"Zoals vele reizigers, avonturiers, huurlingen, vechtersbazen, of redders, houden jullie de oren gespits voor bijzonder nieuws in de omgeving. Zo zij het dat bij jullie een contract kwam liggen van 1100 goudstukken elk - genoeg voor een klein dorp om een jaar van te kunnen teren. Een bekend verhaal voor jullie; een oude valse god wordt opnieuw aanbid in deze streek, en de Gnomish aanbidders hiervan zorgen voor problemen in de streek, laat staan de mogelijke consequenties van een losgeslagen god. Opdracht is als volgt; neem alle nodige stappen om de schepping en aanbidding van deze god tegen te houden, alle nodige onkosten vergoed - inclusief catering. Hoe moeilijk zou het kunnen zijn!
 En zo reizen jullie allen richting Beyri, de hoofdstad en enige permanente nederzetting van het permanent bevoren Ilan-Land, die als belangrijke tussenstop tussen twee continenten zijn brood verdient met voornamelijk scheepswerverij en visvangst, met daarnaast een buitengewoon goede collectie aan academici. De grootste haven binnengevaren, is jullie verteld contact te zoeken met een opvallend type - **"Madame Klaus"** - die jullie bij aankomst niet missen zullen..."*
 
-> Madame Klaus: Typische gezette oudere vrouw, lieflijk uitziend.
+> [[Madame Klaus]]: Typische gezette oudere vrouw, lieflijk uitziend.
 > Tevens een tweede helft van Satna, samen een demi-god.
 
 **Madame Klaus: "Ach welkom lieve kindertjes, fijn dat jullie er allemaal zijn! Komt allen dichtbij, er is belangrijk werk aan de winkel en geen tijd om te verliezen."**
