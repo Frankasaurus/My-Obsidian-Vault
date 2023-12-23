@@ -116,6 +116,58 @@ Als ze in de aanval gaan, zal Alabaster [[Hypnotic Pattern]] casten, de tegel in
 - Gnome Spy (6x) MM achterin
 **Vrienden:**  
 - De Professor Orb - Madame Klaus
+### 2.b.i Kraghammer Goat-Knight
+```statblock
+creature: Kraghammer Goat-Knight
+name: Kraghammer Goat-Knight
+size: Medium
+type: Humanoid
+subtype: (Dwarf)
+ac: 20
+hp: 52
+hit_dice: 8d8 + 16
+speed: 25 ft.
+stats:
+  - 17
+  - 8
+  - 14
+  - 10
+  - 11
+  - 16
+saves:
+  - strenght: 5
+  - dexterity: 1
+  - constitution: 4
+  - intelligence: 2
+  - wisdom: 2
+  - charisma: 5
+skillsaves:
+  - nature: 2
+  - religion: 4
+damage_vulnerabilities: ""
+damage_resistances: "Poison"
+damage_immunities: ""
+condition_immunities: ""
+senses: darkvision 60ft., passive Perception 10
+languages: "Common, Dwarvish"
+cr: "3"
+traits:
+  - name: Aura of Protection
+    desc: Whenever the goat-knight or a creature friendly to it within 10 feet of it makes a saving throw, that creature gains a +2 bonus (included in the goat-knight's saving throws above). The goat-knight must be conscious to grant and gain this bonus.
+  - name: Divine Health
+    desc: The goat-knight is immune to disease.
+  - name: Dwarven Resilience
+    desc: The goat-knight has resistance to poison damage and advantage on saving throws against poison.
+actions:
+  - name: Multiattack
+    desc: "The goat-knight makes two warhammer attacks."
+  - name: Warhammer
+    desc: "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands."
+spells:
+  - "The goat-knight is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It has the following paladin spells prepared:"
+  - 1st level (4 slots): bless, cure wounds, protection from evil and good, sanctuary, shield of faith
+  - 2nd level (2 slots): branding smite, find steed (Goat-Knight Steed only), lesser restoration, zone of truth
+```
 # 3. Offerkamer
 De volgende ruimte is een grote circulaire rituelenkamer, 100ft in diameter, met ijzige rotswanden.
 - Balkon rondom de ruimte is op veel delen ingestort.
