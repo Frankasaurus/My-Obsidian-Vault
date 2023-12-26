@@ -3,7 +3,7 @@ publish: true
 ---
 > [!infobox]
 > # Barbarian: Battlerager
-> ![[battlerager.png]]
+> ![[Battlerager.jpeg]]
 
 > [!quote]
 > **_Known as Kuldjargh (literally "axe idiot") in Dwarvish, battleragers are dwarf followers of the gods of war and take the Path of the Battlerager. They specialize in wearing bulky, spiked armor and throwing themselves into combat, striking with their body itself and giving themselves over to the fury of battle._**
