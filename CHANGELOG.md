@@ -93,5 +93,6 @@
 *  Added Barbarian, Bard, and Cleric subrclasses *(Frankasaurus)*
 *  Did some preparations of Session 34 *(Frankasaurus)*
 *  Added Druid Subclasses, some fighter subclasses, fixed breakline spacing on classes *(Frankasaurus)*
+*  Created empty pages for all official subclasses *(Frankasaurus)*
 
 
