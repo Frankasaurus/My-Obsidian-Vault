@@ -95,5 +95,6 @@
 *  Added Druid Subclasses, some fighter subclasses, fixed breakline spacing on classes *(Frankasaurus)*
 *  Created empty pages for all official subclasses *(Frankasaurus)*
 *  Added pictures for all subclasses *(Frankasaurus)*
+*  Completed Paladin Subclasses *(Frankasaurus)*
 
 
