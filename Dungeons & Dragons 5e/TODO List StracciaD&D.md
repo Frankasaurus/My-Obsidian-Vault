@@ -72,7 +72,7 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 		- [x] Add images
 		- [ ] Check subclass source lists on main class page
 	- [x] Lineages
-	- [ ] Source material collection list
+	- [ ] (Source) material collection list
 - [ ] Characters
 	- [x] Add a whackton of existing NPC's
 	- [ ] Make public / private versions for some NPC info in the same .md file
