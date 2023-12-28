@@ -96,5 +96,6 @@
 *  Created empty pages for all official subclasses *(Frankasaurus)*
 *  Added pictures for all subclasses *(Frankasaurus)*
 *  Completed Paladin Subclasses *(Frankasaurus)*
+*  Finished Ranger subclasses *(Frankasaurus)*
 
 
