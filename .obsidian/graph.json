@@ -2,37 +2,30 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Dungeons & Dragons 5e/Universes/Califhen/Gods/\"",
+      "query": "path:\"Dungeons & Dragons 5e/Source Material\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Characters\"",
+      "query": "path:\"Dungeons & Dragons 5e/Campaigns\"",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:\"Dungeons & Dragons 5e/Universes/Califhen/Locations\"",
+      "query": "path:\"Dungeons & Dragons 5e/Universes\"",
       "color": {
         "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:\"Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Sessions\"",
-      "color": {
-        "a": 1,
-        "rgb": 15283683
+        "rgb": 327424
       }
     },
     {
@@ -40,13 +33,6 @@
       "color": {
         "a": 1,
         "rgb": 7353517
-      }
-    },
-    {
-      "query": "path:attachments  ",
-      "color": {
-        "a": 1,
-        "rgb": 0
       }
     }
   ],
@@ -56,10 +42,10 @@
   "nodeSizeMultiplier": 1.08255208333333,
   "lineSizeMultiplier": 1.74609375,
   "collapse-forces": false,
-  "centerStrength": 0.1328125,
-  "repelStrength": 7.55208333333333,
-  "linkStrength": 0.169270833333333,
-  "linkDistance": 215,
-  "scale": 0.05199974765043763,
-  "close": true
+  "centerStrength": 0.3203125,
+  "repelStrength": 12.5520833333333,
+  "linkStrength": 0.794270833333333,
+  "linkDistance": 144,
+  "scale": 0.10220841836693914,
+  "close": false
 }
