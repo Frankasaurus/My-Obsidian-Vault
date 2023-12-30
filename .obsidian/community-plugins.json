@@ -9,5 +9,6 @@
   "obsidian-leaflet-plugin",
   "obsidian-kanban",
   "obsidian-plugin-toc",
-  "obsidian-text-format"
+  "obsidian-text-format",
+  "obsidian-dangling-links"
 ]

@@ -1,6 +1,6 @@
 ---
 tags:
-  - TODO
+  - update
 publish: true
 ---
 > [!infobox]  
@@ -18,7 +18,7 @@ publish: true
 > | **Aliases** | Miss Brown |
 > | **Gender** | Female | 
 > | **Creature Type** | Humanoid |
-> | **Race** | [[Dwarf]] (Hill) |  
+> | **Race** | [[Dwarf]] ([[Dwarf#Hill Dwarf|Hill]]) |  
 > | **Occupation** | Circus proprietor |  
 > | **Location** | With [[Mozelin Brown's Bazaar]], currently at [[Cape Rosa]] |
 > | **Age** | 303|

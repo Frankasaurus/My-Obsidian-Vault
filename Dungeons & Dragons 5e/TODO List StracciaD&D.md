@@ -7,6 +7,11 @@ publish: true
 Feel free to worldbuild with me! If you have a good idea of how a certain description should be worded, or have a cool image for a location, please send it over my way.
 # To-Do list
 - [ ] Califhen;
+	- [ ] BEFORE FILLING THE NOTES:
+		- [ ] Create minor NPC template!
+		- [ ] Create minor Location template!
+		- [ ] Create PoI template (for dungeon?) + minor variant!
+		- [ ] Create minor Character template! (one shots)!
 	- [ ] Existing settlements
 		- [ ] Meqen
 		- [ ] Telack
@@ -75,6 +80,12 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 			- [x] Rest
 		- [x] Add images
 		- [ ] Check subclass source lists on main class page
+	- [ ] Backgrounds
+		- [ ] Player's handbook
+		- [ ] Other sources
+		- [ ] Custom Background guide
+	- [ ] Standard 5th Edition Character creation guide
+		- [ ] Additional info for my specific campaigns & setting
 	- [x] Lineages
 	- [ ] (Source) material collection list
 - [ ] Campaign 2
@@ -114,4 +125,16 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 list
 from ""
 where length(file.inlinks) =0 and length(file.outlinks) = 0
+```
+# TODO Tags
+```dataview
+list
+from ""
+where tags = "TODO"
+```
+# Update Tags
+```dataview
+list
+from ""
+where tags = "update"
 ```
