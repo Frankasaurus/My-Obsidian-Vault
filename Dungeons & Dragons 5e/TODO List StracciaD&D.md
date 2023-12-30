@@ -35,6 +35,9 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 		- [ ] All the others
 		- [ ] Add descriptions to some
 		- [ ] Add images
+	- [ ] Revise Calendar system & notes.
+	- [ ] Revise origin story: [[The Origin of Califhen]].
+	- [ ] Revise Planes notes: [[A Modern Guide to Planes]]
 - [ ] Source Material
 	- [x] Add folder system
 		- [x] Revise To-do after this
@@ -98,9 +101,11 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 	- [ ] Create custom filter to handle published pages with SPOILERS to redirect to a spoiler warning(?)
 	- [x] Add table scroling to large tables (like Cleric Table)
 		- [ ] Fix issue with smaller tables & Wiki tables on phone
+		- [ ] Fix Table styling
 	- [ ] Edit metadata
 	- [ ] Custom 404 page
 	- [ ] Find fix for Dataview to site
+		- [ ] Something to 'bake' the dataview data when converting content to pages. 
 - [ ] DM Specific organisation
 	- [ ] Mini collection overview
 	- [ ] Game Tiles system

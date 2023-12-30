@@ -103,5 +103,6 @@
 *  Added summaries to Act 1, relocated some campaign info, prepped future development *(Frankasaurus)*
 *  Minor fixes & tweaks *(Frankasaurus)*
 *  Removed old game dev notes, cleaned Cyberpunk notes, added todo's to notes *(Frankasaurus)*
+*  Added nice list of to-do's *(Frankasaurus)*
 
 
