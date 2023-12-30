@@ -105,5 +105,6 @@
 *  Removed old game dev notes, cleaned Cyberpunk notes, added todo's to notes *(Frankasaurus)*
 *  Added nice list of to-do's *(Frankasaurus)*
 *  Created blank pages for all dead / dangling links *(Frankasaurus)*
+*  Added lists for quick insights into what needs editing next *(Frankasaurus)*
 
 
