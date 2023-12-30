@@ -104,3 +104,9 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 - [ ] DM Specific organisation
 	- [ ] Mini collection overview
 	- [ ] Game Tiles system
+# Orphan pages
+```dataview
+list
+from ""
+where length(file.inlinks) =0 and length(file.outlinks) = 0
+```
