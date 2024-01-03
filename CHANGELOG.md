@@ -1,4 +1,4 @@
-##  (2023-12-31)
+##  (2024-01-03)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -107,5 +107,6 @@
 *  Created blank pages for all dead / dangling links *(Frankasaurus)*
 *  Added lists for quick insights into what needs editing next *(Frankasaurus)*
 *  Edit index & todo *(Frankasaurus)*
+*  Removed files with quotation marks *(Frankasaurus)*
 
 
