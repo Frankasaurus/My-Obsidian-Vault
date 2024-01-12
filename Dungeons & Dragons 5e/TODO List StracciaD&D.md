@@ -47,7 +47,7 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 	- [x] Add folder system
 		- [x] Revise To-do after this
 	- [ ] Spells
-		- [ ] Devise easy template, including source and what classes can use it [[Spell D&D 5e]]
+		- [x] Devise easy template, including source and what classes can use it [[Spell D&D 5e]]
 		- [ ] Add spellbook page (summary of all spells)
 		- [ ] Cantrips
 		- [ ] Level 1
@@ -71,7 +71,8 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 		- [x] Historical info for Califhen
 		- [x] Add images
 		- [ ] Re-do the sorting of the races in [[Races Overview|Races Overview]]
-	- [ ] Classes
+			- [ ] Think of a way to showcase each race very briefly, with perhaps an image and some racial stats.
+	- [x] Classes
 		- [x] Create template
 		- [x] Subclasses
 			- [x] Current PC's
@@ -79,7 +80,8 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 			- [x] Tasha's
 			- [x] Rest
 		- [x] Add images
-		- [ ] Check subclass source lists on main class page
+		- [x] Check subclass source lists on main class page
+		- [x] Fix classes overview
 	- [ ] Backgrounds
 		- [ ] Player's handbook
 		- [ ] Other sources
