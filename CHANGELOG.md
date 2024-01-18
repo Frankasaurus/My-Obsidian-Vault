@@ -1,4 +1,4 @@
-##  (2024-01-05)
+##  (2024-01-18)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -109,5 +109,13 @@
 *  Edit index & todo *(Frankasaurus)*
 *  Removed files with quotation marks *(Frankasaurus)*
 *  tiny edit in lunar sorcery (formatting) *(Frankasaurus)*
+*  Create Sarev workdocument.md *(Frankasaurus)*
+*  Finished Cirdorim's Lair *(Frankasaurus)*
+*  Finnished session 34 prep *(Frankasaurus)*
+*  Session Overview complete *(Frankasaurus)*
+*  Updated Index *(Frankasaurus)*
+*  Updated Classes overview page *(Frankasaurus)*
+*  Added spell template, spellbook page, spell type symbols *(Frankasaurus)*
+*  Started prep on Session 35 *(Frankasaurus)*
 
 
