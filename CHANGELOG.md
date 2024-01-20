@@ -119,5 +119,6 @@
 *  Started prep on Session 35 *(Frankasaurus)*
 *  Finnished Session 35 prep *(Frankasaurus)*
 *  Updated some magic items *(Frankasaurus)*
+*  Added Hat Of Disguise to Cirdorim's Lair *(Frankasaurus)*
 
 

@@ -23,7 +23,7 @@ tags:
 - **B: Hoge doorloop.** Kleine patrouille maar geen verdere aankleding. De deur die leidt naar Z is deels ingestort en moeilijker open te maken (DC 17 Athletics)
 - **C: Commandokamer.** Bevat de **Yagnoloth (MOTM: p.268)** die de boel leid.
 	- Loot: DC 17 Investigation = losse tegel, met een **Onderhoudsboek** van de lair in Draconic. Bevat info over gebruik van het verblijf.
-- **D: Gevangenis** met Kobold bewakers. Zit een inwoner van Dragoness in de rechtercel, "Lens van de Kar". 
+- **D: Gevangenis** met Kobold bewakers (een met [[Hat of Disguise]] die er lol mee trapt). Zit een inwoner van Dragoness in de rechtercel, "Lens (van de Kar)". 
 	- Celdeuren zijn dicht. Lockpick (SoH) Check DC 16 voor openmaken. Cellen zijn leeg op oude kleding na en wat losse kopers.
 	- Geheime deur onderste cel. Goed rondkijken (skill check) beloond een draaiende wand met een krappe ruimte (DC 14 Acrobatics, 1d4 bludgeoning bij vastzitten, 1 tegelijk) die afloopt naar ruimte Z.
 - **E: Eetruimtes.** Elke ruimte bevat een handjevol kobolds en een kleine keuken met gebraden wild. 
