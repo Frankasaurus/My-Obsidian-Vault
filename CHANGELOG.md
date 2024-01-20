@@ -118,5 +118,6 @@
 *  Added spell template, spellbook page, spell type symbols *(Frankasaurus)*
 *  Started prep on Session 35 *(Frankasaurus)*
 *  Finnished Session 35 prep *(Frankasaurus)*
+*  Updated some magic items *(Frankasaurus)*
 
 
