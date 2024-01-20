@@ -120,5 +120,6 @@
 *  Finnished Session 35 prep *(Frankasaurus)*
 *  Updated some magic items *(Frankasaurus)*
 *  Added Hat Of Disguise to Cirdorim's Lair *(Frankasaurus)*
+*  Started Cyberpunk Session 14 prep *(Frankasaurus)*
 
 
