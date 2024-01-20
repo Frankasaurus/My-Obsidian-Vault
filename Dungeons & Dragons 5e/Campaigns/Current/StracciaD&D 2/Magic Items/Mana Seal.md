@@ -3,7 +3,7 @@ publish: false
 ---
 
 > [!infobox]  
-> # (ITEM NAME)
+> # Mana Seal
 > ![[Image.jpg|cover hsmall]]
 > ###### Base Info
 > | | |

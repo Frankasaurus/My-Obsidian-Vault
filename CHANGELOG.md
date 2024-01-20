@@ -1,4 +1,4 @@
-##  (2024-01-18)
+##  (2024-01-20)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -117,5 +117,6 @@
 *  Updated Classes overview page *(Frankasaurus)*
 *  Added spell template, spellbook page, spell type symbols *(Frankasaurus)*
 *  Started prep on Session 35 *(Frankasaurus)*
+*  Finnished Session 35 prep *(Frankasaurus)*
 
 

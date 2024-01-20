@@ -22,4 +22,11 @@ Het Gala van [[Xavion de Dragoness]] om de macht van de [[Dragoness Family]] te 
 **Trivia:** [[Carmine Char|Carmine]] maakte een insight check op Fumyss tijdens hun vluchtpoging, maar rolde laag. Een hogere rol had laten zien dat Fumyss alles onder controle had; dit is waar [[Kruziik'ahraan]] en Fumyss op hoopte.  
 # Onthouden
 - Elisabeth draagt de [[Mana Seal]], een cursed item die alle magie tegenhoudt (Goud met Diamant).
-- Elke 
+	- Deze moest eigenlijk vorige sessie al activeren, maar dit was ik vergeten in de hectiek.
+- Elke in-game dag vinden er gevechten plaats tussen Huis Dragoness en het Vrijheids Legioen.
+![[Elisabeth - A Secret Dethroned#7. Dragoness Barony verzetsstrijd]]
+# Vluchtpoging Riool
+![[Elisabeth - A Secret Dethroned#4.b Riool]]
+# Cirdorim's Lair
+![[Session 034#Naar Cirdorim's Lair]]
+
