@@ -1,4 +1,4 @@
-##  (2024-01-20)
+##  (2024-01-25)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -121,5 +121,6 @@
 *  Updated some magic items *(Frankasaurus)*
 *  Added Hat Of Disguise to Cirdorim's Lair *(Frankasaurus)*
 *  Started Cyberpunk Session 14 prep *(Frankasaurus)*
+*  Idee Vimak noteren *(Frankasaurus)*
 
 
