@@ -19,7 +19,7 @@ publish: false
 > | **Race** | [[Genasi]] (Fire) |  
 > | **Occupation** | Builder & resistance fighter |  
 > | **Location** | [[Dragoness Barony]] |  
-> | **Family** | - [[Ostrzał Charr]] (wife)<br>- [[Carmine Char]] & [[Sabine Charr]] (children) |
+> | **Family** | - [[Doreen Charr]] (wife)<br>- [[Carmine Char]] & [[Sabine Charr]] (children) |
 > | **Connections** | - Dragoness Freedom Legion (Captain) |
 > | **Status** | Deceased |
 

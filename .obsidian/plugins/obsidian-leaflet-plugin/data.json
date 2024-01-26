@@ -1,8 +1,193 @@
 {
   "mapMarkers": [
     {
+      "id": "night-city-map",
+      "locked": false,
+      "lastAccessed": 1700597712157,
+      "markers": [
+        {
+          "id": "ID_8b9ba8f8283a",
+          "type": "Fixer",
+          "loc": [
+            -0.7314453125,
+            2.03515625
+          ],
+          "link": "Francine Auclair",
+          "layer": "%5B%5Bnight-city-map-2045-1.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.678606317160534,
+            0.3102734051367026
+          ],
+          "description": "On a yacht, \"The Choombacha II\"",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58e8cb4b199a",
+          "type": "Warehouse",
+          "loc": [
+            -2.1650390625,
+            1.8662109375
+          ],
+          "link": "The RNS",
+          "layer": "%5B%5Bnight-city-map-2045-1.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6222728752849235,
+            0.9183927091963546
+          ],
+          "description": "An abandoned warehouse",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4aca8a5a3abb",
+          "type": "Fixer",
+          "loc": [
+            -0.70361328125,
+            2.60302734375
+          ],
+          "link": "Rosemary Spa",
+          "layer": "%5B%5Bnight-city-map-2045-1.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8679583197655487,
+            0.2984672742336371
+          ],
+          "description": "Located at the Rosemary Spa",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_491b68aaea3a",
+          "type": "Ripperdoc",
+          "loc": [
+            -0.314453125,
+            1.60009765625
+          ],
+          "link": "PlushLyfe",
+          "layer": "%5B%5Bnight-city-map-2045-1.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5335395636600456,
+            0.13338856669428334
+          ],
+          "description": "Home to ripperdoc Lineus",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_abe9f8b82be8",
+          "type": "Building",
+          "loc": [
+            -0.935546875,
+            2.0830078125
+          ],
+          "link": "Saviore Kibble HQ",
+          "layer": "%5B%5Bnight-city-map-2045-1.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6945620319114295,
+            0.3968516984258492
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a4b9ab9290b",
+          "type": "Fixer",
+          "loc": [
+            -1.3158950805664062,
+            2.0166015625
+          ],
+          "link": "Shujin Kansatsu",
+          "layer": "%5B%5Bnight-city-map-2045-1.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "In an old derelict apartment complex",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_68591bbb7b7a",
+          "type": "Building",
+          "loc": [
+            -2.14013671875,
+            1.2724609375
+          ],
+          "link": "Christiana Naso",
+          "layer": "%5B%5Bnight-city-map-2045-1.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4242917616411592,
+            0.9078293289146645
+          ],
+          "description": "Condo under construction, 3rd floor",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_daea799b3b09",
+          "type": "Building",
+          "loc": [
+            -0.3369140625,
+            1.7900390625
+          ],
+          "link": "Amaranth",
+          "layer": "%5B%5Bnight-city-map-2045-1.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5968739824161511,
+            0.14291632145816072
+          ],
+          "description": "Megabuilding H8",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db291a5be95a",
+          "type": "Warehouse",
+          "loc": [
+            -1.0356216430664062,
+            1.4150390625
+          ],
+          "layer": "%5B%5Bnight-city-map-2045-1.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Gang's Cube-a-rama Cubehotels",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Cyberpunk RED/Night City/Night City.md"
+      ]
+    },
+    {
       "id": "califhen-map",
-      "lastAccessed": 1700597666997,
+      "lastAccessed": 1706298831687,
       "markers": [
         {
           "id": "ID_fbc9a948ea98",
@@ -1250,7 +1435,6 @@
               "id": "ID_a849cad949e8",
               "targets": {
                 "vertexIds": [
-                  "ID_692af90a9ac8",
                   "ID_fbc9dbc9eaaa"
                 ]
               }
@@ -1269,8 +1453,7 @@
               "id": "ID_fbc9dbc9eaaa",
               "targets": {
                 "vertexIds": [
-                  "ID_a849cad949e8",
-                  "ID_692af90a9ac8"
+                  "ID_a849cad949e8"
                 ]
               }
             },
@@ -1296,192 +1479,8 @@
         }
       ],
       "files": [
-        "Dungeons & Dragons 5e/Universes/Califhen/Locations/Califhen.md"
-      ]
-    },
-    {
-      "id": "night-city-map",
-      "locked": false,
-      "lastAccessed": 1700597712157,
-      "markers": [
-        {
-          "id": "ID_8b9ba8f8283a",
-          "type": "Fixer",
-          "loc": [
-            -0.7314453125,
-            2.03515625
-          ],
-          "link": "Francine Auclair",
-          "layer": "%5B%5Bnight-city-map-2045-1.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.678606317160534,
-            0.3102734051367026
-          ],
-          "description": "On a yacht, \"The Choombacha II\"",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_58e8cb4b199a",
-          "type": "Warehouse",
-          "loc": [
-            -2.1650390625,
-            1.8662109375
-          ],
-          "link": "The RNS",
-          "layer": "%5B%5Bnight-city-map-2045-1.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6222728752849235,
-            0.9183927091963546
-          ],
-          "description": "An abandoned warehouse",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_4aca8a5a3abb",
-          "type": "Fixer",
-          "loc": [
-            -0.70361328125,
-            2.60302734375
-          ],
-          "link": "Rosemary Spa",
-          "layer": "%5B%5Bnight-city-map-2045-1.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.8679583197655487,
-            0.2984672742336371
-          ],
-          "description": "Located at the Rosemary Spa",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_491b68aaea3a",
-          "type": "Ripperdoc",
-          "loc": [
-            -0.314453125,
-            1.60009765625
-          ],
-          "link": "PlushLyfe",
-          "layer": "%5B%5Bnight-city-map-2045-1.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5335395636600456,
-            0.13338856669428334
-          ],
-          "description": "Home to ripperdoc Lineus",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_abe9f8b82be8",
-          "type": "Building",
-          "loc": [
-            -0.935546875,
-            2.0830078125
-          ],
-          "link": "Saviore Kibble HQ",
-          "layer": "%5B%5Bnight-city-map-2045-1.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6945620319114295,
-            0.3968516984258492
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_8a4b9ab9290b",
-          "type": "Fixer",
-          "loc": [
-            -1.3158950805664062,
-            2.0166015625
-          ],
-          "link": "Shujin Kansatsu",
-          "layer": "%5B%5Bnight-city-map-2045-1.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "In an old derelict apartment complex",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_68591bbb7b7a",
-          "type": "Building",
-          "loc": [
-            -2.14013671875,
-            1.2724609375
-          ],
-          "link": "Christiana Naso",
-          "layer": "%5B%5Bnight-city-map-2045-1.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.4242917616411592,
-            0.9078293289146645
-          ],
-          "description": "Condo under construction, 3rd floor",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_daea799b3b09",
-          "type": "Building",
-          "loc": [
-            -0.3369140625,
-            1.7900390625
-          ],
-          "link": "Amaranth",
-          "layer": "%5B%5Bnight-city-map-2045-1.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5968739824161511,
-            0.14291632145816072
-          ],
-          "description": "Megabuilding H8",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_db291a5be95a",
-          "type": "Warehouse",
-          "loc": [
-            -1.0356216430664062,
-            1.4150390625
-          ],
-          "layer": "%5B%5Bnight-city-map-2045-1.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Gang's Cube-a-rama Cubehotels",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Cyberpunk RED/Night City/Night City.md"
+        "Dungeons & Dragons 5e/Universes/Califhen/Locations/Califhen.md",
+        "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Story/Interactive map.md"
       ]
     }
   ],

@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: false
 tags:
   - TODO
 ---
 > [!infobox]  
-> # Ostrzał Charr 
+> # Doreen Charr 
 > ![[Image.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
@@ -14,7 +14,7 @@ tags:
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | Ostrzał Charr |
+> | **Name** | Doreen Charr |
 > | **Gender** | Female | 
 > | **Creature Type** | Humanoid |
 > | **Race** | [[Genasi]] (Fire) |  
@@ -26,7 +26,7 @@ tags:
 > | **Connections** | - [[Cirdorim]] (healer) |
 > | **Status** | Alive |
 
-**Ostrzał Charr** is a Fire [[Genasi]] beggar and the mother of [[Carmine Char]] and [[Sabine Charr]]. As an NPC, she is played by [[Alex]].
+**Doreen Charr** is a Fire [[Genasi]] beggar and the mother of [[Carmine Char]] and [[Sabine Charr]]. As an NPC, she is played by [[Alex]].
 # Description
 ## Appearance
 > TODO: Description of appearance.

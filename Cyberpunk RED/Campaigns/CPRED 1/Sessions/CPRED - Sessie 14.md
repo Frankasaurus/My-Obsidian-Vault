@@ -18,8 +18,9 @@ tags:
 **Doel sessie:** [[Nikolas Rezin]] verder introduceren ([[Tal Rezin]]'s vader) & licht schijnen op de situatie. Nicky's tips voor het liquideren van [[Mili Partitio Sr.]].
 # 1. Chase
 Achtervolgers:
-- 2x Combat Drones.
+- 2x Combat Drones ().
 - 3x auto met 2 inzittenden.
+- 2x duo op straat
 Bij 3 gefaalde vehicle handling checks: crash - Hier zal Christiana zelf proberen te 'onderhandelen'.
 Zie regels vehicle combat p.189
 ## 1.d Confrontatie Naso

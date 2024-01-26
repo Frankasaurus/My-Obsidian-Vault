@@ -1,3 +1,7 @@
+---
+publish: no
+---
+
 *Dit document is spelergericht, en dus in het Nederlands.*
 Onderwerp: [[Vimak Vaimei-Laga]]
 # Samenvatting & vooropzet

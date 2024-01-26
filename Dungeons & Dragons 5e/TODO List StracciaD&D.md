@@ -48,7 +48,7 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 		- [x] Revise To-do after this
 	- [ ] Spells
 		- [x] Devise easy template, including source and what classes can use it [[Spell D&D 5e]]
-		- [ ] Add spellbook page (summary of all spells)
+		- [ ] Add spellbook page (summary of all spells) and style it a bit.
 		- [ ] Cantrips
 		- [ ] Level 1
 		- [ ] 2
@@ -91,6 +91,7 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 	- [x] Lineages
 	- [ ] (Source) material collection list
 - [ ] Campaign 2
+- [ ] Edit Robyn
 	- [x] Add a whackton of existing NPC's
 	- [ ] Make public / private versions for some NPC info in the same .md file
 	- [ ] Add (more) images

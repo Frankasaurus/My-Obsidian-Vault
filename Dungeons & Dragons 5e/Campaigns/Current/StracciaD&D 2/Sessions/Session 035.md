@@ -24,9 +24,9 @@ Het Gala van [[Xavion de Dragoness]] om de macht van de [[Dragoness Family]] te 
 - Elisabeth draagt de [[Mana Seal]], een cursed item die alle magie tegenhoudt (Goud met Diamant).
 	- Deze moest eigenlijk vorige sessie al activeren, maar dit was ik vergeten in de hectiek.
 - Elke in-game dag vinden er gevechten plaats tussen Huis Dragoness en het Vrijheids Legioen.
-![[Elisabeth - A Secret Dethroned#7. Dragoness Barony verzetsstrijd]]
+![[Elisabeth Notes#7. Dragoness Barony verzetsstrijd]]
 # Vluchtpoging Riool
-![[Elisabeth - A Secret Dethroned#4.b Riool]]
+![[Elisabeth Notes#4.b Riool]]
 # Cirdorim's Lair
 ![[Session 034#Naar Cirdorim's Lair]]
 
