@@ -102,7 +102,7 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 		- [x] Act 1
 		- [ ] Act 2
 		- [ ] Act 3
-	- [ ] Update [[Party]] faction
+	- [ ] Update [[Party]] faction with general summary
 	- [ ] Update Player pages.
 - [ ] Site
 	- [x] Styling Wiki column
