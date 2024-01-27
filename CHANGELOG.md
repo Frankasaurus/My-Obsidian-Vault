@@ -124,5 +124,6 @@
 *  Idee Vimak noteren *(Frankasaurus)*
 *  Did a bunch of weird changes *(Frankasaurus)*
 *  Finished descriptions for Dragoness Family *(Frankasaurus)*
+*  Updated a lot of NPC's *(Frankasaurus)*
 
 

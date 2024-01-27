@@ -1,15 +1,15 @@
 ---
-publish: 
+publish: false
 tags:
   - TODO
 ---
 > [!infobox]  
-> # (NAME) 
+> # Sultan Baaneel 
 > ![[Image.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | (NPC) |
+> | **Type** | NPC |
 > | **Player** | [[Alex]] |
 > ###### Character Information  
 > | | |  
