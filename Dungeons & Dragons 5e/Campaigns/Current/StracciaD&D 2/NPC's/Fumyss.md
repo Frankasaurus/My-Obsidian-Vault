@@ -34,7 +34,7 @@ While in Dragoness Barony, Fumyss appears to be an individual of stature and com
 Fumyss is critical of everyone, including himself, taking his job as leader and general very seriously, and being quite considerate of his allies and army.
 # Relationships
 ### Kruziik'ahraan
-[[Fumyss]] is technically older than the Ancient blue dragon, but knows that one-on-one he is not as strong, and that Kruziik'ahraan's riches are more plentiful. For this reason he is willing to cut a deal, as to fill a need for quantitative forces for the Dragon, and his own desire for riches. He rarely converses with Kruziik'ahraan, only doing so when absolutely necessary, and though he doesn't harbor disdain, Fumyss prioritises his own forces and allies over Kruziik'ahraan and his deal.
+While Fumyss is technically older than [[Kruziik'ahraan]], he knows that one-on-one he is not as strong, and that Kruziik'ahraan's riches are more plentiful. For this reason he is willing to cut a deal, as to fill a need for quantitative forces for the Dragon, and his own desire for riches. He rarely converses with Kruziik'ahraan, only doing so when absolutely necessary, and though he doesn't harbor disdain, Fumyss prioritises his own forces and allies over Kruziik'ahraan and his deal.
 # Character information
 ## Statblock
 ```statblock

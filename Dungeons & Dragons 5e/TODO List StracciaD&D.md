@@ -91,7 +91,7 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 	- [x] Lineages
 	- [ ] (Source) material collection list
 - [ ] Campaign 2
-- [ ] Edit Robyn
+	- [ ] Edit Robyn
 	- [x] Add a whackton of existing NPC's
 	- [ ] Make public / private versions for some NPC info in the same .md file
 	- [ ] Add (more) images
