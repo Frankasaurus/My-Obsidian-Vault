@@ -1,4 +1,4 @@
-##  (2024-01-27)
+##  (2024-01-29)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -125,5 +125,6 @@
 *  Did a bunch of weird changes *(Frankasaurus)*
 *  Finished descriptions for Dragoness Family *(Frankasaurus)*
 *  Updated a lot of NPC's *(Frankasaurus)*
+*  Added slight todo for artificer infusions *(Frankasaurus)*
 
 
