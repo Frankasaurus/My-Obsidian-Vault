@@ -1,4 +1,4 @@
-##  (2024-01-29)
+##  (2024-01-31)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -126,5 +126,8 @@
 *  Finished descriptions for Dragoness Family *(Frankasaurus)*
 *  Updated a lot of NPC's *(Frankasaurus)*
 *  Added slight todo for artificer infusions *(Frankasaurus)*
+*  Added Artificer Infusion list *(Frankasaurus)*
+*  Added NPC information for Baaneel, Sargenet, Dimure Los *(Frankasaurus)*
+*  Added Wilmide, Sabine, Dimure NPC pages *(Frankasaurus)*
 
 
