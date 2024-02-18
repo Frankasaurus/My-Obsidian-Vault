@@ -45,7 +45,7 @@ publish: true
 > | | |  
 > |---|---|  
 > | **Name** | Jules Carmine Charr Jr. |
-> | **Aliasses** | The 20th Chosen of Olvex (title bestowed by Olvex) |
+> | **Aliasses** | The 20th Chosen of Olvex (title bestowed by [[Olvex]]) |
 > | **Gender** | Male | 
 > | **Creature Type** | Humanoid |
 > | **Race** | [[Genasi]] (Fire) |  

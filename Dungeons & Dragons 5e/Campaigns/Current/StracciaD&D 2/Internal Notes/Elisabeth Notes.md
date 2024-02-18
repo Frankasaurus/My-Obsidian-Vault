@@ -182,9 +182,14 @@ De Baggerkoning (Volwassen Gnome Man, Russisch accent) is een kluizenaar die een
 	- Niet te koop, handelt uit principe.
 	- Is over te halen om 'tot uw dienst' te staan.
 ### 4.b.ii Goblin werkers
-Bezig met nieuwe riolering aanleggen onder Dragoness Baronie. Erg argwanend van de bezoekers
-Combat?
-### 4.b.iii
+Bezig met nieuwe riolering aanleggen onder Dragoness Baronie. Erg argwanend van de bezoekers.
+**Random iemand aan de tafel zien als een god / godin ("Waaauuuuww - mooooooi....")**
+- Zullen party naar hun leider willen brengen; 
+- 1x Rot Troll.
+- **1x Dire Troll (leader)**
+- clusters van Goblin archers
+> TODO: Maak coole battle map en combat encounter met Goblins die aanvullen.
+### 4.b.iii Buitenkomst
 Eenmaal buiten: Twee oudere wachters, en drie 'herders' houden rustig toezicht. In de stal zijn 1d4 + 2 drakes aanwezig. Controle = Animal Handling DC 13 *(geen draconic spreken = disadvantage)*.
 # 5. Tournament
 De aanleiding tot deze combat is nog volledig onzeker, en kan net zo goed plaatsvinden als een ambush temidden van straat.
