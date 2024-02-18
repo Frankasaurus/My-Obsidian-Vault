@@ -1,4 +1,4 @@
-Kan plaatsvinden wanneer het goed uitkomt. Zal vooral tussen [[Sargenet]] en [[Roderick]] gaan, met [[Carmine Char]] betrokken.
+Kan plaatsvinden wanneer het goed uitkomt. Zal vooral tussen [[Sargenet]] en [[Roderick]] gaan, met [[Carmine Charr]] betrokken.
 
 Samengevat: Sargenet zal Roderick als oud wizard gedaante opzoeken.
 **Onthoud: Sargenet is een vrouw!**

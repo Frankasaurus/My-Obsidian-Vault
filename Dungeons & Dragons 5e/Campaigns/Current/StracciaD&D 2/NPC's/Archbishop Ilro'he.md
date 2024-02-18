@@ -22,7 +22,7 @@ publish: true
 > | **Location** | [[Cape Rosa]] |
 > | **Age** | ~340 years |
 > | **Languages** | Common, Elvish, Dwarvish, multiple local dialects |
-> | **Connections** | [[Bartos de la Rosa]] (Collegue) |
+> | **Connections** | Bartos de la Rosa (Collegue) |
 > | **Status** | Alive |
 
 **Archbishop Ilro'he** is a [[Elf#High Elf|High Elven]] religious leader, mainly in the [[Bloeming Isles]]. As an NPC, she is played by [[Alex]].
