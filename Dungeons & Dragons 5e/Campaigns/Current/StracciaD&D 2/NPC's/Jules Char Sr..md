@@ -21,8 +21,8 @@ publish: false
 > | **Born** | Elemental Plane of Fire, 60 years ago |
 > | **Location** | [[Dragoness Barony]] |  
 > | **Family** | - [[Doreen Char]] (wife)<br>- [[Carmine Char]] & [[Sabine Char]] (children) |
-> | **Connections** | - [[Dragoness Barony#Dragoness Freedom Legion|Dragoness Freedom Legion]] (Captain) |
-> | **Status** | Deceased (executed by [[Dragoness Barony|Dragoness Barony's]] original Order Guard) |
+> | **Connections** | - [[Dragoness Barony]] Freedom Legion (Captain) |
+> | **Status** | Deceased (executed by [[Dragoness Barony]] original Order Guard) |
 
 **Jules Charr Sr.** was a Fire [[Genasi]] resistance fighter, and the father of [[Carmine Char]]. As an NPC, he is played by [[Alex]].
 # Biography

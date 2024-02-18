@@ -5,7 +5,7 @@ tags:
 ---
 > [!infobox]  
 > # Tijani
-> ![[Image.jpg|cover hsmall]]  
+> ![[Tijani.png|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  

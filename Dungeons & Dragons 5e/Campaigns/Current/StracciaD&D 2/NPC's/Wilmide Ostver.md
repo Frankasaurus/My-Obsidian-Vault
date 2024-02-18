@@ -19,7 +19,7 @@ publish: true
 > | **Creature Type** | Humanoid |
 > | **Race** | [[Dragonborn]] |  
 > | **Occupation** | Principale of [[Telack]] |  
-> | **Location** | House Ostver Gildehalls, [[Telack]] |
+> | **Location** | House Ostver Guildhalls, [[Telack]] |
 > | **Age** | 47 |
 > | **Languages** | Common, Draconic |  
 > | **Family** | - [[Keylin Ostver]] (father) |

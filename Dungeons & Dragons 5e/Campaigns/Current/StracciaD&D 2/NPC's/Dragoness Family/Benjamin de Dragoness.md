@@ -22,7 +22,7 @@ publish: false
 ---
 > [!infobox]  
 > # Benjamin de Dragoness
-> ![[Image.jpg|cover hsmall]]  
+> ![[BenjaminDeDragoness.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -49,7 +49,7 @@ publish: false
 ## Appearance
 Benjamin is of slender build, with darker red skin and a shorter nose than his brothers. He cut off one of his horns as an offer to [[Gestain]] during his time on [[Telack]] (as revealed in [[Session 022]]), but the other one remains intact, and curls down- and backwards. 
 ## Personality
-A devoted individual, Benjamin often seeks to pull at threads that lay before him, and follow them through the end. . Though he cherishes his family, he rarely agrees with his father, and spends most of his time bonding with his siblings.
+A devoted individual, Benjamin often seeks to pull at threads that lay before him, and follow them through the end. Though he cherishes his family, he rarely agrees with his father, and spends most of his time bonding with his siblings.
 # Biography
 Benjamin was the first after his older brother [[Amenadiel de Dragoness|Amenadiel]] to be told he was to join [[Kruziik'ahraan]]. Not wanting to be relinquished as bargaining chip in Xavion's trade for his kingdom, Benjamin fled the city, causing his father to panic, and Kruziik'ahraan to worry, resulting in the isolation of the city and the hiring of General [[Fumyss]] to keep the city at peace.  
 
