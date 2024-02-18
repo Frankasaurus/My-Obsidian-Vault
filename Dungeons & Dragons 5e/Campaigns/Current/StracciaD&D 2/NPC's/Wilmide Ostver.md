@@ -14,7 +14,7 @@ publish: true
 > | | |  
 > |---|---|  
 > | **Name** | Dah’nr Wilmide Ostver |
-> | **Aliases** | Principale Wilmide (noble title) |
+> | **Aliases** | Principale Wilmide (title) |
 > | **Gender** | Male | 
 > | **Creature Type** | Humanoid |
 > | **Race** | [[Dragonborn]] |  
