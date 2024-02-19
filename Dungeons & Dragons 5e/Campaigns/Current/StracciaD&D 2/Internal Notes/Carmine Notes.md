@@ -1,5 +1,5 @@
 ---
-publish: no
+publish: 
 tags:
   - TODO
 ---
