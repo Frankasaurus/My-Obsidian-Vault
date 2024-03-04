@@ -14,10 +14,11 @@ Check my [[TODO List StracciaD&D|To-do list]] for things I'm working on. Feel fr
 ***
 # Source Material
  **Find all official D&D 5e [[Races Overview|Races]] and [[Classes Overview|Classes]] here!**
+ 
  A build guide is in the works.
 ***
 # Recently Updated
-**Last Update:** *12 Jan 2024*
+**Last Update:** *19 Feb 2024*
 
 The following pages have recently been updated, created, or made public:
 - Multiple NPC's!
