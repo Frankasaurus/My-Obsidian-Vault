@@ -192,9 +192,10 @@ De Baggerkoning (Volwassen Gnome Man, Russisch accent) is een kluizenaar die een
 Bezig met nieuwe riolering aanleggen onder Dragoness Baronie. Erg argwanend van de bezoekers.
 **Random iemand aan de tafel zien als een god / godin ("Waaauuuuww - mooooooi....")**
 - Zullen party naar hun leider willen brengen; 
-- 1x Rot Troll.
-- **1x Dire Troll (leader)**
-- clusters van Goblin archers
+- **1x Dire Troll leader** (P. 246 MOTM)
+- 1x Rot Troll (p. 247 MOTM)
+- 1x Venom troll (p. 247 MOTM)
+- clusters van Goblin archers (30ft AC15 HP7 +4 hit 1d6+2p)
 ![[DragonessSewers.png|600]]
 ### 4.b.iii Buitenkomst
 Eenmaal buiten: Twee oudere wachters, en drie 'herders' houden rustig toezicht. In de stal zijn 1d4 + 2 drakes aanwezig. Controle = Animal Handling DC 13 *(geen draconic spreken = disadvantage)*.
