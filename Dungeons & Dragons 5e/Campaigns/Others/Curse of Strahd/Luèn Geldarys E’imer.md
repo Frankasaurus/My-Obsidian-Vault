@@ -1,6 +1,6 @@
 ---
 publish: false
-tags: []
+tags:
 ---
 > [!infobox]  
 > # `=this.name_first` `=this.name_last`
@@ -68,6 +68,12 @@ Short listing of quests this character is after as an adventurer.
 ## Notable items
 - List of items
 - List of items
+## Magic items
+```dataview
+LIST
+FROM "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items"
+WHERE file.owner=Carmine
+```
 # Trivia
 - List of trivia
 - List of trivia
