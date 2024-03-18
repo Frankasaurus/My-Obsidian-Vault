@@ -7,14 +7,13 @@ publish: false
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | NAMEFULL |
-> | **Campaigns** | CAMPS (SYSTEM) |
-> | **Characters** | CHARS |
+> | **Name** | Kacper Banasiak |
+> | **Campaigns** | - [[StracciaD&D Campaign 2]], as [[Carmine Charr]]<br>- [[Young Mercs Campaign]], as [[Tal Rezin]] |
 
-NAME is a member of [[Alex|Alex's]] Tabletop Games, and plays CHAR in CAMPAIGN.
+**Kacper** is a member of [[Alex|Alex's]] Tabletop Games, and plays [[Carmine Charr]], as well as [[Tal Rezin]].
 # Characters
 ## Main campaigns
-- Character, race class (campaign)
+- [[Carmine Charr]], [[Genasi|Fire Genasi]] [[Cleric]] (campaign)
 - Character, race class (campaign)
 - Character, race class (campaign)
 ## One-Shots
