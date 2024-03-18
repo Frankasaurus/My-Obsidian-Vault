@@ -1,4 +1,4 @@
-##  (2024-02-19)
+##  (2024-03-09)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -135,5 +135,10 @@
 *  Added mooooore NPC's *(Frankasaurus)*
 *  Removed some empty NPC pages and filled Olvex' worshippers pages *(Frankasaurus)*
 *  Lots of tiny fixes *(Frankasaurus)*
+*  Meeting notes Melle *(Frankasaurus)*
+*  Finished preparing Session 35 *(Frankasaurus)*
+*  Added all deities basic information *(Frankasaurus)*
+*  Edited combat a bit for session 35 *(Frankasaurus)*
+*  Create Types of Players.md *(Frankasaurus)*
 
 
