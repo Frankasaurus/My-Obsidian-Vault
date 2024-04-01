@@ -22,12 +22,11 @@ For more details, please check out the main [[Party]] page.
 | [[Lise]] | [[Kénos]] | [[Warforged]] | [[Fighter]] ([[Psi Warrior]] Archetype) |
 | [[Chris]] | [[Bulblin Wormbone]] | [[Goblin]] | [[Ranger]] ([[Beast Master]] Conclave) |
 ## Calendar
-| Date / Time | Occasion | Location |
-| ---- | ---- | ---- |
-| 10 Mar '24 @ 12:00 | Session 035 | Alex & Lise |
-| 14 Apr '24 @ 12:00 | Session 036 | *T.b.d.* |
-| 12 May '24 @ 12:00 | Session 037 | *T.b.d.* |
-| ??? | Final battle Satna OneShot | *T.b.d.* |
+| Date / Time        | Occasion    | Location    |
+| ------------------ | ----------- | ----------- |
+| 7 Apr '24 @ 13:00  | Session 036 | Melle & Kim |
+| 20 Apr '24 @ 20:00 | Session 037 | Melle & Kim |
+| 12 May '24 @ 13:00 | Session 038 | Melle & Kim |
 ***
 # Summary
 **For a summary per session, see [[Session Overview]].**
