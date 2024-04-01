@@ -1,4 +1,4 @@
-##  (2024-03-09)
+##  (2024-03-18)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -140,5 +140,7 @@
 *  Added all deities basic information *(Frankasaurus)*
 *  Edited combat a bit for session 35 *(Frankasaurus)*
 *  Create Types of Players.md *(Frankasaurus)*
+*  Added Luen *(Frankasaurus)*
+*  Small edit in players *(Frankasaurus)*
 
 

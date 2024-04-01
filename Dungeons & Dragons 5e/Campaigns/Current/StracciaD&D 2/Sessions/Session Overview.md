@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-**Below is a list of all the sessions for [[Campaign Overview|StracciaD&D Campaign 2]].** Dates are not entirely correct due to poor record keeping
+**Below is a list of all the sessions for [[StracciaD&D Campaign 2|StracciaD&D Campaign 2]].** Dates are not entirely correct due to poor record keeping
 
 > [!warning]
 > **The links to sessions will not work.** These pages are not published as they contain massive spoilers.

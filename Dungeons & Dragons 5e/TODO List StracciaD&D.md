@@ -104,7 +104,7 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 		- [x] Act 2
 	- [ ] Update [[Party]] faction with general summary.
 	- [x] Make long-term plans page (ideas that are not relevant now, but could be in the future)
-	- [ ] Update Player pages
+	- [x] Update Player pages
 	- [ ] Give Lise rewards for character art
 	- [ ] Give players rewards for engagement and backstory edits
 - [ ] Site
