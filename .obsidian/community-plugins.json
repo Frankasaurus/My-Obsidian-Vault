@@ -10,5 +10,6 @@
   "obsidian-kanban",
   "obsidian-plugin-toc",
   "obsidian-text-format",
-  "obsidian-dangling-links"
+  "obsidian-dangling-links",
+  "obsidian-mkdocs-publisher"
 ]

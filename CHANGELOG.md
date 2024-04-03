@@ -1,4 +1,4 @@
-##  (2024-03-18)
+##  (2024-04-03)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -142,5 +142,7 @@
 *  Create Types of Players.md *(Frankasaurus)*
 *  Added Luen *(Frankasaurus)*
 *  Small edit in players *(Frankasaurus)*
+*  Prep session 36 *(Frankasaurus)*
+*  Added Github publisher extension *(Frankasaurus)*
 
 
