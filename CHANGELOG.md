@@ -1,4 +1,4 @@
-##  (2024-04-03)
+##  (2024-04-05)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -144,5 +144,6 @@
 *  Small edit in players *(Frankasaurus)*
 *  Prep session 36 *(Frankasaurus)*
 *  Added Github publisher extension *(Frankasaurus)*
+*  Published player pages *(Frankasaurus)*
 
 

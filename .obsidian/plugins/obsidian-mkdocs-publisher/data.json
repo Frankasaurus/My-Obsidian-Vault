@@ -19,7 +19,7 @@
     },
     "otherRepo": [],
     "verifiedRepo": true,
-    "rateLimit": 4232
+    "rateLimit": 4987
   },
   "upload": {
     "behavior": "obsidian",
@@ -92,5 +92,5 @@
     "setFrontmatterKey": "Set",
     "migrated": true
   },
-  "tabsID": "text-conversion"
+  "tabsID": "github-configuration"
 }
