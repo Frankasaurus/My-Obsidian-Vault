@@ -146,5 +146,6 @@
 *  Added Github publisher extension *(Frankasaurus)*
 *  Published player pages *(Frankasaurus)*
 *  Update .gitignore *(Frankasaurus)*
+*  Update .gitignore *(Frankasaurus)*
 
 
