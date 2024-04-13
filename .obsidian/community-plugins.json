@@ -2,14 +2,9 @@
   "dataview",
   "templater-obsidian",
   "obsidian-discordrpc",
-  "obsidian-banners",
   "obsidian-5e-statblocks",
-  "obsidian-icon-folder",
   "obsidian-image-toolkit",
   "obsidian-leaflet-plugin",
-  "obsidian-kanban",
-  "obsidian-plugin-toc",
   "obsidian-text-format",
-  "obsidian-dangling-links",
-  "obsidian-mkdocs-publisher"
+  "obsidian-dangling-links"
 ]
