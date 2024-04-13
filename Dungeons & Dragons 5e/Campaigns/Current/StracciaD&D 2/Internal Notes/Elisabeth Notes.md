@@ -1,5 +1,5 @@
 ---
-publish: no
+publish: false
 ---
 *Dit document is spelergericht, en dus in het Nederlands.*
 Onderwerp: [[Elisabeth de Dragoness]]
@@ -227,12 +227,14 @@ Aan het einde zal [[Cirdorim]] (eekhoornvorm) in staat zijn om haar ware zelf te
 **Elke dag strijd zal er worden gerold om te kijken hoe de strijd gaat. Bij een 1 gaat er iemand neer. Laat de spelers dit weten, maar het resultaat niet.**
 Rol 1d20. Bij een 11 of lager, wint [[Fumyss]] terein. Bij een 18 of hoger, wint het Vrijdheids Legioen terein. Elk ander getal is stilstand.
 De strijd is over 8 segmenten verdeeld, met 4 om 4 als startpunt.
+
+**NA SESSIE 36: DVL 3v5 ORDE**
 ### Sterfgevallen
 Rol dan 1d10 : 2
 1. Generaal [[Fumyss]]
 2. [[Doreen Charr]]
-3. [[Charles de Dragoness]]
-4. [[Diederick de Dragoness]]
+3. Priester van Fumyss
+4. Maurice (2nd in command Charles)
 5. [[Willemijn de Dragoness]]
 ## Kaart
 Ooit eens maken met Fantasymapgenerator.com 

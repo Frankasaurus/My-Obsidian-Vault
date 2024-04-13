@@ -19,3 +19,13 @@ Samengevat: Sargenet zal Roderick als oud wizard gedaante opzoeken.
 
 Aan het einde: 
 *"Een laatste advies, als we toch alles op tafel leggen: maak geen illusies - je bent in gevaar. Je bent aan het sollen geweest met een luitenant van [[Tareok]]. Er zullen consequenties zijn, los van mijn wil. Maar ik zou wel in staat zijn een goed woordje voor je te doen. Er is namelijk nog één doorn in mijn oog. Al een paar maanden, een gedrocht dat mijn en jouw leven moeilijk gaat maken. Een leven die de jouwne is om te beëindigen. **Roderick - dood Carmine Char.**"*
+
+---
+# Vervolg
+Roderick heeft nog geen plan om te gehoorzamen aan Sargenet of Eliene. Sargenet zal hem meerdere malen herrineren en de kans geven. Ideeen;
+- Vertrouwen opbouwen met giften e.d.
+- Vaker in de dromen bezoeken
+- Bij genoeg vertrouwen een keer hem op Carmine zetten
+	- "Jij bent zijn vijand, Roderick. Zolang wij samenwerken, zal ook jij ten prooi vallen aan de onsterfelijken en zijn onderdanen. Ik wil gewoon dat je er klaar voor bent."
+
+"Je kan tegenstribbelen... maar jij en ik weten allebij dat als het er op aan komt, jij zal doen wat ik wil dat je voor me doet..."
