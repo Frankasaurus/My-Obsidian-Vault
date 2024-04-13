@@ -1,3 +1,6 @@
+---
+publish:
+---
 > [!infobox]  
 > # Dragon Slayer
 > ![[DragonSlayer.jpeg|cover hsmall]]
