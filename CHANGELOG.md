@@ -152,5 +152,6 @@
 *  Updated all plugins *(Frankasaurus)*
 *  random fixes *(Frankasaurus)*
 *  Reset *(Frankasaurus)*
+*  Prep session 38 *(Frankasaurus)*
 
 
