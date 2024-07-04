@@ -8,6 +8,7 @@
 - Hulptroepen laten arriveren die de party heeft verzameld. 
 - Robyn lijkt wat te willen, tijd voor maken.
 - **Het idee van de veldslag opperen. Deze sessie zal voorbereidend zijn. Stall, vamp, doe randzaken.**
+	- [[Robyn's Medallion]]!
 # Onthouden
 - **Dragoness Brandt**: Elke in-game dag vinden er gevechten plaats tussen Huis Dragoness en het Vrijheids Legioen.
 - Onthoudt Allies die ze kunnen inschakelen
@@ -29,10 +30,21 @@
 # Terugkeer Baronie
 **[[Cirdorim]]** zal opmerken... 
 - Haar eigen aanwezigheid in de haven zal wellicht niet goed ontvangen worden.
-- De namen naar wie ze moet zoeken zijn, is 
+- De naam waar ze naar moet zoeken, is [[Dede]]. Zij is de enige die capabel genoeg is om de Rebellen te sturen, maar kan het niet alleen.
 
 Opmerkelijke situaties;
 - Temidden van de mensen in de haven, loopt er een gedaante in full plate de jongvolwassenen te trainen om zich te verdedigen, en geeft sparringstrainingen met houten zwaarden. Ze geeft ze hoop en moed, maar aan ervaring kan ze hun niet helpen. 
 	- **Nadya**, de Toren van Gern (is een plaats in Noord Greyskil). Missionaris van het [[Greyskil Refugee Resistance|Greyskil Vreemdelingen Legioen]] die is verbannen uit de [[Greyskil#Elin Prosperity Sphere|Elin WelvaartsRing]] en nu wraak zoekt op de statuten die haar weg van haar kinderen hebben gehaald. (Reden van verbanning is non-cooperatieve handeling als Luitenant).
 - *Ergens moet organisch [[Doreen Charr]] in te werken zijn.*
 - Boot wordt nog altijd beschermd door de jochies, plus extra backup voor het helpen van die vrouw.
+
+## Gesprek Dede
+- Status update oorlog:
+	- **TODO!**
+	- We hebben hoe dan ook hulptroepen nodig. De bakkers, kappers, boeren en schoenmakers maken geen kans tegenover de elite van Fumyss.
+- We kunnen twee dingen doen; keihard terugvechten (risicovol en intensief), of een troef spelen (same). Dan moet er wel eerst een troef worden gevonden. Open voor andere ideeen.
+	- **Als vechten:****
+	- **TODO!**
+- Met troef is [[Willemijn de Dragoness]] waarschijnlijk in het spel (via haar een teleportation circle).
+## Willemijn de Dragoness
+**Direct gevolg van haar bevreiding zal het openen van de Teleportation Circle moeten zijn waar Willemijn een jaar aan heeft gewerkt, verbonden met een centrale Circle bovenop een bergtempel in de Bloeming Eilanden.** Via deze zijn hulptroepen makkelijk in te schakelen.
