@@ -1,3 +1,6 @@
+---
+publish:
+---
 > [!infobox]  
 > # (NAME)
 > ![[Image.jpg|cover hsmall]]  

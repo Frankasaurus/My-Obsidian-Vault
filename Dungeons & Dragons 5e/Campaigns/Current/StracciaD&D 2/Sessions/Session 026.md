@@ -7,11 +7,11 @@ session date: 11/2/2023
 characters: [Carmine, Robyn, Roderick, Elisabeth, Vimak]
 tags:
 ---
-|   |   |   |   |
-|---|---|---|---|
-|Datum|13e van Rijsom-Heret (42), 9963 (5E)|Feest|De Malosaar (12e)|
-|Locatie|Ode aan Baghtru, Bloeming Eilanden|Sessie|25|
-|Notities|Benjamin is gekidnapt door het litteken, en de gang is samen met Sabine teruggekeerd naar Telack om Joachim Scherp te helpen.|   |   |
+|          |                                                                                                                               |        |                   |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------- | ------ | ----------------- |
+| Datum    | 13e van Rijsom-Heret (42), 9963 (5E)                                                                                          | Feest  | De Malosaar (12e) |
+| Locatie  | Ode aan Baghtru, Bloeming Eilanden                                                                                            | Sessie | 25                |
+| Notities | Benjamin is gekidnapt door het litteken, en de gang is samen met Sabine teruggekeerd naar Telack om Joachim Scherp te helpen. |        |                   |
 
   
   
