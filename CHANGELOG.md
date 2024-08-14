@@ -1,4 +1,4 @@
-##  (2024-07-04)
+##  (2024-08-14)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -156,5 +156,8 @@
 *  Fixed Party and Session summary pages *(Frankasaurus)*
 *  Updated index *(Frankasaurus)*
 *  Lot of session 38 prep + Robyn's thing *(Frankasaurus)*
+*  Many edits to the prep of session 38 *(Frankasaurus)*
+*  Finished prep session 38 *(Frankasaurus)*
+*  Prep session 40 & endgame *(Frankasaurus)*
 
 
