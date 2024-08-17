@@ -1,6 +1,6 @@
 ---
-value_gp: "40000"
-publish:
+value_gp: 
+publish: true
 ---
 > [!infobox]  
 > # Ring of Jumping
@@ -16,11 +16,11 @@ publish:
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current** | None |
-> | **Previous** | Unknown |
+> | **Current** | The [[Party]] (currently in [[Carmine Charr]]'s bag of holding) |
+> | **Previous** | Morkoth in [[Cirdorim's Lair]] |
 
-The **Ring of Jumping** is a piece of jewelry that allow the casting of the Telekinesis spell.
+The **Ring of Telekinesis** is a piece of jewelry that allow the casting of the Telekinesis spell.
 ## Appearance
 Half of the ring is a thin brass band, with the top being thicker. Two hands made out of crystal hold up an Amber gem.
 # Description
-While wearing this ring, you can cast the telekinesis spell at will, but you can target only objects that aren't being worn or carried.
+Once per short rest while wearing this ring, you can cast the [[Telekinesis]] spell at will, but you can target only objects that aren't being worn or carried.
