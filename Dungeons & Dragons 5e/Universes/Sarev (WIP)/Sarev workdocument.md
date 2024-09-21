@@ -9,3 +9,5 @@ Distinguishing universe features;
 - There is a slight awareness of someone's 'Gauge' in the world - what do they do, though how cultures interpret this varies wildly.
 	- The cultures that take this to heart, are often balanced into two extremes; Those who encourage someone to find their own calling, and those who get their calling bestowed by someone or something else.
 	- This is partialy to facilitate Challenge Rating scaling.
+
+Materially, the world is biologically similar to real world
