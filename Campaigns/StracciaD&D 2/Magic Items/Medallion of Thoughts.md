@@ -1,17 +1,5 @@
 ---
-name: Medallion of Thoughts
-name_short: Medallion of Thoughts
-type: Wondrous Item
-rarity: Uncommon
-materials:
-  - Precious Metal
-attunement: Yes
-slot: Neck
-cursed: 0
-owner: Oynur
-owner_previous:
-  - ""
-value_gp: 600
+publish: 
 tags:
   - stracciadnd-2
 ---

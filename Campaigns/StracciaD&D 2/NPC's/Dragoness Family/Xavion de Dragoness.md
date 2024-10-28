@@ -1,23 +1,4 @@
 ---
-type: NPC
-campaign: StracciaD&D 2
-name_first: Xavion
-name_last: de Dragoness
-name_full: Xavion de Dragoness
-name_aka:
-  - Free Baron Xavion de Dragoness
-creature_type: Humanoid
-creature_race: Tiefling
-creature_subrace: 
-gender: Male
-age: 62
-location: Captive in Kruziik'ahraan's Lair
-occupation: Baron of Barrony de Dragoness
-status: Alive
-languages:
-  - Common
-  - Draconic
-  - Infernal
 publish: false
 tags:
   - stracciadnd-2

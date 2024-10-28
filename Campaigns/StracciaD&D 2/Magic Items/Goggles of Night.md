@@ -1,19 +1,4 @@
 ---
-name: Goggles of Night
-name_short: Goggles of Night
-type: Wondrous Item
-rarity: Uncommon
-materials:
-  - Steel
-  - Glass
-  - Leather
-attunement: Yes
-slot: Eyes
-cursed: 0
-owner: Undetermined
-owner_previous:
-  - ""
-value_gp: "2000"
 publish: 
 tags:
   - stracciadnd-2

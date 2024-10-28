@@ -1,23 +1,4 @@
 ---
-type: NPC
-campaign: StracciaD&D 2
-name_first: Charles
-name_last: de Dragoness
-name_full: Charles de Dragoness
-name_aka:
-  - His Free Lord Charles de Dragoness
-creature_type: Humanoid
-creature_race: Tiefling
-creature_subrace: 
-gender: Male
-age: 25
-location: Dragoness Barony
-occupation: Captain of the Palace Guard
-status: Alive
-languages:
-  - Common
-  - Draconic
-  - Infernal
 publish: false
 tags:
   - stracciadnd-2

@@ -13,7 +13,7 @@
   "defaultViewMode": "preview",
   "spellcheck": false,
   "autoPairBrackets": true,
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "source",
   "promptDelete": false,
   "pdfExportSettings": {
     "includeName": true,

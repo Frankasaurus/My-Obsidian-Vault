@@ -1,23 +1,4 @@
 ---
-type: NPC
-campaign: StracciaD&D 2
-name_first: Willemijn
-name_last: de Dragoness
-name_full: Willemijn de Dragoness
-name_aka:
-  - Free Baroness Willemijn de Dragoness
-creature_type: Humanoid
-creature_race: Tiefling
-creature_subrace: 
-gender: Female
-age: 58
-location: Captive in Dragoness' Palace
-occupation: Baroness of Barrony de Dragoness
-status: Alive
-languages:
-  - Common
-  - Draconic
-  - Infernal
 publish: false
 tags:
   - stracciadnd-2

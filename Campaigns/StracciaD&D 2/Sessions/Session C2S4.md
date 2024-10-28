@@ -1,16 +1,4 @@
 ---
-type: session
-campaign: SDBC
-setting: Califhen
-session-no: 4
-session date: 15/2/2021
-characters:
-  - Carmine
-  - Kénos
-  - Roderick
-  - Elisabeth
-  - Bulblin
-  - Vimak
 tags:
   - stracciadnd-2
 ---

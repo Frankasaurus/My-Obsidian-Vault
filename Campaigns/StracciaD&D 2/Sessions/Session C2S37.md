@@ -1,16 +1,4 @@
 ---
-type: session
-campaign: SDBC
-setting: Califhen
-session-no: 37
-session date: 20/04/2024
-characters:
-  - Carmine
-  - Robyn
-  - Roderick
-  - Elisabeth
-  - Vimak
-  - Phillipa
 tags:
   - stracciadnd-2
 ---

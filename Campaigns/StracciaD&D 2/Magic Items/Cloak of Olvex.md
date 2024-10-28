@@ -1,17 +1,4 @@
 ---
-name: Cloak of Olvex
-name_short: Cloak of Olvex
-type: Wondrous Item
-rarity: Uncommon
-materials:
-  - Cloth
-  - Rope
-attunement: Yes
-slot: Cloak
-cursed: 0
-owner: Carmine
-owner_previous:
-  - Towers of Stendor
 publish: true
 tags:
   - stracciadnd-2

@@ -1,23 +1,4 @@
 ---
-type: NPC
-campaign: StracciaD&D 2
-name_first: Benjamin
-name_last: de Dragoness
-name_full: Benjamin de Dragoness
-name_aka:
-  - His Free Lord Benjamin de Dragoness
-creature_type: Humanoid
-creature_race: Tiefling
-creature_subrace: 
-gender: Male
-age: 26
-location: Kruziik'ahraan's Lair
-occupation: Servant of Kruziik'ahraan
-status: Alive
-languages:
-  - Common
-  - Draconic
-  - Infernal
 publish: false
 tags:
   - stracciadnd-2

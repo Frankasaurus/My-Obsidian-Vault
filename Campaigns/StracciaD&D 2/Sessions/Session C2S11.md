@@ -1,16 +1,4 @@
 ---
-type: session
-campaign: SDBC
-setting: Califhen
-session-no: 11
-session date: 8/5/2021
-characters:
-  - Carmine
-  - Robyn
-  - Roderick
-  - Elisabeth
-  - Bulblin
-  - Vimak
 tags:
   - stracciadnd-2
 ---

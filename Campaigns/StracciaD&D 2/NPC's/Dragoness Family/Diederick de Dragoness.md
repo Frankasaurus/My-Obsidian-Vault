@@ -1,23 +1,4 @@
 ---
-type: NPC
-campaign: StracciaD&D 2
-name_first: Diederick
-name_last: de Dragoness
-name_full: Diederick de Dragoness
-name_aka:
-  - His Free Lord Diederick de Dragoness
-creature_type: Humanoid
-creature_race: Tiefling
-creature_subrace: 
-gender: Male
-age: 24
-location: Dragoness Barony
-occupation: Scribe of Xavion
-status: Alive
-languages:
-  - Common
-  - Draconic
-  - Infernal
 publish: true
 tags:
   - stracciadnd-2

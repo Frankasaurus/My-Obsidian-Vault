@@ -4,23 +4,16 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "value_gp": "number",
-    "campaigns": "multitext",
     "type": "text",
-    "population": "number",
     "age": "number",
-    "districts": "multitext",
     "affiliations": "multitext",
     "stat_ref": "number",
-    "stat_tech": "number",
     "stat_cool": "number",
-    "stat_will": "number",
     "stat_luck": "number",
     "stat_move": "number",
     "stat_body": "number",
-    "stat emp": "number",
     "humanity": "number",
     "stat_emp": "number",
-    "publish": "checkbox",
-    "spoilers": "checkbox"
+    "publish": "checkbox"
   }
 }

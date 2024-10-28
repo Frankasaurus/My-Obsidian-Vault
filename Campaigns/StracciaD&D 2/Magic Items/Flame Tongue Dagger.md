@@ -1,17 +1,4 @@
 ---
-name: Flame Tongue Dagger
-name_short: Flame Tongue
-type: Shortsword
-rarity: Rare
-materials:
-  - Steel
-  - Precious Metal
-attunement: Yes
-slot: Weapon
-cursed: 0
-owner: 
-owner_previous:
-  - Unknown
 publish: false
 tags:
   - stracciadnd-2
