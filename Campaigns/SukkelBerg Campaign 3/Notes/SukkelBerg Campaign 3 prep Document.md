@@ -1,3 +1,7 @@
+---
+tags:
+  - sukkelbergdnd-3
+---
 # Perpetual goals of campaign 3
 ## Pillar 1: Narrative
 Issues with last campaign: 

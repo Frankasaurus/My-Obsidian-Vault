@@ -1,5 +1,7 @@
 ---
-publish:
+publish: 
+tags:
+  - sukkelbergdnd-3
 ---
 Hieronder staat een beetje dataview dingen
 ```dataview

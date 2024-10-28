@@ -1,6 +1,8 @@
 ---
 publish: false
-tags: []
+tags:
+  - sukkelbergdnd-3
+  - dnd-playercharacter
 ---
 > [!infobox]  
 > # Name

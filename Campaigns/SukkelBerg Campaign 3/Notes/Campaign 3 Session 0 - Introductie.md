@@ -1,5 +1,7 @@
 ---
 publish: true
+tags:
+  - sukkelbergdnd-3
 ---
 Hey allemaal. Hoewel de bespreking online is, heb ik deze tekst voorbereid om het een beetje te begeleiden, en naderhand door te sturen. Zo zijn we allemaal bij.
 

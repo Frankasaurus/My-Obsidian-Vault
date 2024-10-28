@@ -36,6 +36,7 @@ languages:
 publish: true
 tags:
   - stracciadnd-2
+  - dnd-playercharacter
 ---
 > [!infobox]  
 > # Vimak Vaimei-Laga

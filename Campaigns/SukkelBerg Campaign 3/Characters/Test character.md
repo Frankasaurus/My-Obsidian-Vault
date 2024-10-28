@@ -1,6 +1,7 @@
 ---
 publish: true
-tags: []
+tags:
+  - sukkelbergdnd-3
 name_full: Test fullname
 name_first: Test Firstname
 name_last: Test Lastname
