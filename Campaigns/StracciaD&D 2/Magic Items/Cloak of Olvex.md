@@ -13,6 +13,8 @@ owner: Carmine
 owner_previous:
   - Towers of Stendor
 publish: true
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Cloak of Olvex

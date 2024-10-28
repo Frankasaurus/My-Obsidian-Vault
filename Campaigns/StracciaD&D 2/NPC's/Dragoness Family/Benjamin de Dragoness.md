@@ -19,6 +19,8 @@ languages:
   - Draconic
   - Infernal
 publish: false
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Benjamin de Dragoness

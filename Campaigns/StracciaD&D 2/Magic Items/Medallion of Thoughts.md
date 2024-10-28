@@ -12,6 +12,8 @@ owner: Oynur
 owner_previous:
   - ""
 value_gp: 600
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Medallion of Thoughts

@@ -33,6 +33,8 @@ languages:
   - Elvish
   - Thieves' Cant
 publish: true
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Phillipa Vurrinir

@@ -34,6 +34,8 @@ languages:
   - Elvish
   - Orcish
 publish: true
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Kénos

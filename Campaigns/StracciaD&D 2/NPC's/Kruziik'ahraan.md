@@ -1,6 +1,7 @@
 ---
 publish: false
-tags: []
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Kruziik'ahraan "The Scar"

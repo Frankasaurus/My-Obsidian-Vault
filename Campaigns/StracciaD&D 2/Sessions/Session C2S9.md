@@ -1,11 +1,19 @@
 ---
 type: session
-campaign: "SDBC"
-setting: "Califhen"
+campaign: SDBC
+setting: Califhen
 session-no: 9
 session date: 11/4/2021
-characters: [Carmine, Kénos, Robyn, Roderick, Elisabeth, Bulblin, Vimak]
+characters:
+  - Carmine
+  - Kénos
+  - Robyn
+  - Roderick
+  - Elisabeth
+  - Bulblin
+  - Vimak
 tags:
+  - stracciadnd-2
 ---
 Datum: Nacht van de 2e van Grofis, 9963
 

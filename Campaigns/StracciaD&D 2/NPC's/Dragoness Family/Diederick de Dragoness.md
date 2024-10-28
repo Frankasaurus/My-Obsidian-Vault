@@ -19,6 +19,8 @@ languages:
   - Draconic
   - Infernal
 publish: true
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Diederick de Dragoness

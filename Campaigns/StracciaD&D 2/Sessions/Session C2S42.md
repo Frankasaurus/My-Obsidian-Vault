@@ -1,3 +1,7 @@
+---
+tags:
+  - stracciadnd-2
+---
 # Samenvatting
 **Wat:** [[Fumyss]] infiltratie bij de 
 **Wanneer:** Zonsopgang

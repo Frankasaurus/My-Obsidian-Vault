@@ -12,6 +12,7 @@ characters:
   - Vimak
   - Phillipa
 tags:
+  - stracciadnd-2
 ---
 # Samenvatting sessie 36
 **Wanneer:** Nazomer, dag

@@ -14,7 +14,9 @@ owner: Undetermined
 owner_previous:
   - ""
 value_gp: "2000"
-publish:
+publish: 
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Goggles of Night

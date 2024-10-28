@@ -32,6 +32,8 @@ languages:
   - Common
   - Orcish
 publish: true
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Robyn

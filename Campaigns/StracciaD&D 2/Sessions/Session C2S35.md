@@ -12,6 +12,7 @@ characters:
   - Vimak
   - Phillipa
 tags:
+  - stracciadnd-2
 ---
 # Samenvatting sessie 34
 Het Gala van [[Xavion de Dragoness]] om de macht van de [[Dragoness Family]] te verzegelen, bleek een facade voor een uiteindelijke executie, geleid door [[Fumyss]]. Mede dankzij een Darkness spell, en het onthullen van de Dragoness rebellen, brak een bloedbad uit. De pot kookte eindelijk over, net nu de [[Party]] een verbond met [[Charles de Dragoness|Charles]] en [[Diederick de Dragoness|Diederick]] had gevonden, beiden paraat om het koninkrijk te redden, en niet hun vader. Met niet helemaal duidelijk wie jullie wilden steunen, kozen jullie - net als Fumyss en Xavion - om te vluchten. Diederick, die voorbereid was om weg te rennen, had de riolering als vluchtroute gesignalieerd, en met wat samenwerking wisten jullie uiteindelijk allen hierin te verdwijnen, en het gevecht aan zijn lot over te laten.

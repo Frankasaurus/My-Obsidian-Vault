@@ -1,3 +1,7 @@
+---
+tags:
+  - stracciadnd-2
+---
 > [!infobox]  
 > # The Featherbelt
 > ![[Image.jpg|cover hsmall]]  

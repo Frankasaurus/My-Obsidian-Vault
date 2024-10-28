@@ -1,5 +1,7 @@
 ---
 publish: true
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Joachim Scherp

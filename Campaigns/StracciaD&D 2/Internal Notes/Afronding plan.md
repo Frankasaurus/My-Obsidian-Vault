@@ -1,3 +1,7 @@
+---
+tags:
+  - stracciadnd-2
+---
 Startsituatie: party is buiten de paleismuren van Dragoness Barony.
 ## [[Session C2S40]]
 1. Begeleiden naar de magisch afgesloten kamer van Willemijn de Dragoness, met daarin een Teleportation Circle.

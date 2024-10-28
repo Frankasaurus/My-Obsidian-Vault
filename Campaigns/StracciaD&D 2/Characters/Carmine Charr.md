@@ -32,6 +32,8 @@ languages:
   - Common
   - Primordial
 publish: true
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Carmine Charr

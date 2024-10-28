@@ -1,5 +1,7 @@
 ---
 publish: true
+tags:
+  - stracciadnd-2
 ---
 **Below is a list of all the sessions for [[StracciaD&D Campaign 2 overview|StracciaD&D Campaign 2 overview]].** Dates are not entirely correct due to poor record keeping
 

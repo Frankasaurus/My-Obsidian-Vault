@@ -33,6 +33,8 @@ languages:
   - Infernal
   - Draconic
 publish: true
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Elisabeth de Dragoness

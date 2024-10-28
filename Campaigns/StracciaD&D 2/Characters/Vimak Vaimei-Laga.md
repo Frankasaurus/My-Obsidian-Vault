@@ -34,6 +34,8 @@ languages:
   - Elvish
   - Giant
 publish: true
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Vimak Vaimei-Laga

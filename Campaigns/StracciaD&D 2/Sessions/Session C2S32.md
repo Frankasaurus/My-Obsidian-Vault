@@ -10,7 +10,8 @@ characters:
   - Roderick
   - Elisabeth
   - Vimak
-tags: []
+tags:
+  - stracciadnd-2
 ---
 # Aankomst Baronie
 ![[Elisabeth Notes#1. Aankomst Baronie]]

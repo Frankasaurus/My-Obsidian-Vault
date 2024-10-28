@@ -1,3 +1,7 @@
+---
+tags:
+  - stracciadnd-2
+---
 > [!infobox]  
 > # (NAME)
 > ![[Image.jpg|cover hsmall]]  

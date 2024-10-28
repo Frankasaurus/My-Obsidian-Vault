@@ -1,11 +1,17 @@
 ---
 type: session
-campaign: "SDBC"
-setting: "Califhen"
+campaign: SDBC
+setting: Califhen
 session-no: 17
 session date: 29/1/2022
-characters: [Carmine, Robyn, Roderick, Elisabeth, Vimak]
+characters:
+  - Carmine
+  - Robyn
+  - Roderick
+  - Elisabeth
+  - Vimak
 tags:
+  - stracciadnd-2
 ---
 |           |                                                                                                                                                                                                                                                              |        |                           |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------------------------- |

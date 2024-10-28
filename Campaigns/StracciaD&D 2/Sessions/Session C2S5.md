@@ -1,11 +1,18 @@
 ---
 type: session
-campaign: "SDBC"
-setting: "Califhen"
+campaign: SDBC
+setting: Califhen
 session-no: 5
 session date: 27/2/2021
-characters: [Carmine, Kénos, Roderick, Elisabeth, Bulblin, Vimak]
+characters:
+  - Carmine
+  - Kénos
+  - Roderick
+  - Elisabeth
+  - Bulblin
+  - Vimak
 tags:
+  - stracciadnd-2
 ---
 Datum: Kalphater de 30e van Weledrus, 9963 (15e van Grofis: Hof Maken van Heiligen)
 

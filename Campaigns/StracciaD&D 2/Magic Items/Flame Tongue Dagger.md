@@ -13,6 +13,8 @@ owner:
 owner_previous:
   - Unknown
 publish: false
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Flame Tongue Dagger

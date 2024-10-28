@@ -1,4 +1,8 @@
 ---
+tags:
+  - stracciadnd-2
+---
+---
 type: session
 campaign: "SDBC"
 setting: "Califhen"

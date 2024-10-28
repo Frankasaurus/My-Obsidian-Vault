@@ -1,11 +1,18 @@
 ---
 type: session
-campaign: "SDBC"
-setting: "Califhen"
+campaign: SDBC
+setting: Califhen
 session-no: 8
 session date: 28/3/2021
-characters: [Carmine, Kénos, Roderick, Elisabeth, Bulblin, Vimak]
+characters:
+  - Carmine
+  - Kénos
+  - Roderick
+  - Elisabeth
+  - Bulblin
+  - Vimak
 tags:
+  - stracciadnd-2
 ---
 Datum: 2e van Grofis, 9963 (15e van Grofis: Hofmaken van Heiligen)
 
