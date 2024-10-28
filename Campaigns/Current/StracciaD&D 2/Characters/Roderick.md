@@ -94,7 +94,7 @@ He found a [[Wand of the War Mage +1|Wand]] when exploring the Towers of Stendor
 # Relationships
 > TODO
 ### Eliëne
-[[Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/NPC's/Olvex' Worshippers/Dimure Los#Eliëne|Eliëne]] is a haunting of Roderick's dreams, whose purpose, state of being, and motive is yet unknown.
+[[Dimure Los#Eliëne|Eliëne]] is a haunting of Roderick's dreams, whose purpose, state of being, and motive is yet unknown.
 # Character information
 ## Quests
 Roderick is bound to get rid of his relationship with [[Sargenet]], or to at least be unbound to this fiend. 
