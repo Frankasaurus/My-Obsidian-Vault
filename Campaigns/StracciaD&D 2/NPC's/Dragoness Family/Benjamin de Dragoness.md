@@ -47,7 +47,7 @@ publish: false
 **Benjamin de Dragoness** is the brother of [[Elisabeth de Dragoness]], son of [[Xavion de Dragoness]], and currently the captive servant of [[Kruziik'ahraan]]. As an NPC, he is played by [[Alex]].
 # Description
 ## Appearance
-Benjamin is of slender build, with darker red skin and a shorter nose than his brothers. He cut off one of his horns as an offer to Gestain during his time on Telack (as revealed in [[Session 022]]), but the other one remains intact, and curls down- and backwards. 
+Benjamin is of slender build, with darker red skin and a shorter nose than his brothers. He cut off one of his horns as an offer to Gestain during his time on Telack (as revealed in [[Session C2S22]]), but the other one remains intact, and curls down- and backwards. 
 ## Personality
 A devoted individual, Benjamin often seeks to pull at threads that lay before him, and follow them through the end. Though he cherishes his family, he rarely agrees with his father, and spends most of his time bonding with his siblings.
 # Biography

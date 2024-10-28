@@ -7,12 +7,12 @@ session date: 2/10/2021
 characters: [Carmine, Robyn, Roderick, Elisabeth, Vimak]
 tags:
 ---
-|   |   |   |   |
-|---|---|---|---|
-|Datum|Ochtend, 13e van Grofis (21), 9963|Feest|Hofmaken v Heiligen (15)|
-|Locatie|Verfonq Grotto, tempel van Sultan Baaneel|Sessie|13|
-|Doel|Confrontatie sultan baaneel - Start terugreis naar Kaap Rosa -|   |   |
-|Vooropzet|De komst van de gekozene van Olvex heeft het Baaneelvolk aangezet tot rebellie tegen hun opstandige leider. Na een confrontatie met de luitenanten van de Sultan, hebben jullie snel jullie weg gebaand naar het vertrek van Sultan Baaneel de Geweldige, en staan paraat om hem aan de tand te halen. Ook is Keylin achter een verborgen gebied gevonden en op het nippertje gered, maar er staat jullie nog 1 ding te wachten.|   |   |
+|           |                                                                                                                                                                                                                                                                                                                                                                                                                                  |        |                          |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------ |
+| Datum     | Ochtend, 13e van Grofis (21), 9963                                                                                                                                                                                                                                                                                                                                                                                               | Feest  | Hofmaken v Heiligen (15) |
+| Locatie   | Verfonq Grotto, tempel van Sultan Baaneel                                                                                                                                                                                                                                                                                                                                                                                        | Sessie | 13                       |
+| Doel      | Confrontatie sultan baaneel - Start terugreis naar Kaap Rosa -                                                                                                                                                                                                                                                                                                                                                                   |        |                          |
+| Vooropzet | De komst van de gekozene van Olvex heeft het Baaneelvolk aangezet tot rebellie tegen hun opstandige leider. Na een confrontatie met de luitenanten van de Sultan, hebben jullie snel jullie weg gebaand naar het vertrek van Sultan Baaneel de Geweldige, en staan paraat om hem aan de tand te halen. Ook is Keylin achter een verborgen gebied gevonden en op het nippertje gered, maar er staat jullie nog 1 ding te wachten. |        |                          |
 
   
   

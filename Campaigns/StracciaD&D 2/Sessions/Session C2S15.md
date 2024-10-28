@@ -7,12 +7,12 @@ session date: 12/11/2021
 characters: [Carmine, Robyn, Roderick, Elisabeth, Vimak]
 tags:
 ---
-|   |   |   |   |
-|---|---|---|---|
-|Datum|Ochtend, 4e van Akat (5), 9963|Feest|Dag v d Meren (4e)|
-|Locatie|Verfonq Grotto, tempel van Sultan Baaneel|Sessie|15|
-|Doel|La Strane Torre bezoek - Keylin terugbrengen - Koers zetten naar Meqen -|   |   |
-|Vooropzet|De gang wilt Keylin persoonlijk mee terug nemen naar Wilmide|   |   |
+|           |                                                                          |        |                    |
+| --------- | ------------------------------------------------------------------------ | ------ | ------------------ |
+| Datum     | Ochtend, 4e van Akat (5), 9963                                           | Feest  | Dag v d Meren (4e) |
+| Locatie   | Verfonq Grotto, tempel van Sultan Baaneel                                | Sessie | 15                 |
+| Doel      | La Strane Torre bezoek - Keylin terugbrengen - Koers zetten naar Meqen - |        |                    |
+| Vooropzet | De gang wilt Keylin persoonlijk mee terug nemen naar Wilmide             |        |                    |
 
   
   

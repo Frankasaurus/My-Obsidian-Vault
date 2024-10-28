@@ -1,5 +1,5 @@
 Startsituatie: party is buiten de paleismuren van Dragoness Barony.
-## [[Session 040]]
+## [[Session C2S40]]
 1. Begeleiden naar de magisch afgesloten kamer van Willemijn de Dragoness, met daarin een Teleportation Circle.
 3. Teleportation Circle leidt naar een afgelegen tempel in Ayhwen Town **Tempel des Mythen**, waar het [[College of Myths|College van Mythen]] zich verzameld voor de kwestie-Dragoness.
 	1. Reunie met Willemijn *en* Bartos de la Rosa (zo wist hij van Benjamin af).
@@ -11,13 +11,13 @@ Startsituatie: party is buiten de paleismuren van Dragoness Barony.
 	2. **Combat!**
 	3. **Tijdens de combat zal [[Sargenet]] aan [[Roderick]] oneindige kracht beloven als hij Carmine vermoord, elke ronde.**
 6. Na combat zal er meer steun zijn.
-## [[Session 041]]
+## [[Session C2S41]]
 1. Terugkeren naar Dragoness Barony laat het Paleis midden in een strijd tussen Fumyss' troepen en Maurice paleisgarde verkeren (ze zullen kleine skrimishes zien, en paleisgarde heen en weer zien rennen). De troepen uit het westen zijn gearriveerd. Maurice verteld dat [[Xavion de Dragoness]] midden op de zwartestenige Kathedraal van Hoge Orde zelf de aanval aanstuurt, en magie gebruik om het volk te vernietigen.
 2. De Kathedraal zal grotendeels verlaten zijn, op twee figuren na - [[Amenadiel de Dragoness]] en [[Xavion de Dragoness]], die langzaam onthult dat hij niet is wie hij lijkt, en shift naar zijn kale gedaante, voordat hij zijn draakvorm aanneemt. 
 	1. 
 3. Vlak voor impact zal Cirdorim [[Kruziik'ahraan]] aanvaren, en Amenadiel in een gebrainwashde staat aanvallen. **Combat Amenadiel**
 	1. **Charles zal inspringen in deze combat**
-## [[Session 041]]
+## [[Session C2S41]]
 1. [[Kruziik'ahraan]] zal gevlucht zijn naar zijn Lair in Scar's Rest
 2. [[Garrien Tinkerson]] zal contact zoeken met Carmine voor zijn vertrek
 3. **Combat Kruziik'ahraan**

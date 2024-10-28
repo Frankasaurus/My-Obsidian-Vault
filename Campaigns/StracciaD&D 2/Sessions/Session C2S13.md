@@ -7,12 +7,12 @@ session date: 25/9/2021
 characters: [Carmine, Robyn, Roderick, Elisabeth, Vimak]
 tags:
 ---
-|   |   |   |   |
-|---|---|---|---|
-|Datum|Ochtend, 13e van Grofis (21), 9963|Feest|Hofmaken v Heiligen (15)|
-|Locatie|Verfonq Grotto, tempel van Sultan Baaneel|Sessie|13|
-|Doel|Keylin Ostver terugvinden & bevrijden - Sultan Baneel confronteren|   |   |
-|Vooropzet|Tijdens een diplomatieke reis is jullie escort, Keylin Ostver ontvoerd. Samen met Harke is iedereen de Grotto ingedoken waar zij zou worden bewaard.|   |   |
+|           |                                                                                                                                                      |        |                          |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------ |
+| Datum     | Ochtend, 13e van Grofis (21), 9963                                                                                                                   | Feest  | Hofmaken v Heiligen (15) |
+| Locatie   | Verfonq Grotto, tempel van Sultan Baaneel                                                                                                            | Sessie | 13                       |
+| Doel      | Keylin Ostver terugvinden & bevrijden - Sultan Baneel confronteren                                                                                   |        |                          |
+| Vooropzet | Tijdens een diplomatieke reis is jullie escort, Keylin Ostver ontvoerd. Samen met Harke is iedereen de Grotto ingedoken waar zij zou worden bewaard. |        |                          |
 
   
 

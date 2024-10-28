@@ -33,7 +33,7 @@ tags:
 
 
 # Cirdorim's Lair
-![[Session 034#Naar Cirdorim's Lair]]
+![[Session C2S34#Naar Cirdorim's Lair]]
 *** 
 
 ![[Cirdorim's Lair]]

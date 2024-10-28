@@ -7,11 +7,11 @@ session date: 10/12/2022
 characters: [Carmine, Robyn, Roderick, Elisabeth, Vimak]
 tags:
 ---
-|   |   |   |   |
-|---|---|---|---|
-|Datum|12e van Rijsom-Heret (42), 9963 (5E)|Feest|De Malosaar (12e>)|
-|Locatie|Piek van Tezeder, Bloeming Eilanden|Sessie|24|
-|Notities|Vandaag begint de herfst (Winter op 20e van Oart)<br><br>Final Stand mogelijk - pas op voor TPK|   |   |
+|          |                                                                                                 |        |                    |
+| -------- | ----------------------------------------------------------------------------------------------- | ------ | ------------------ |
+| Datum    | 12e van Rijsom-Heret (42), 9963 (5E)                                                            | Feest  | De Malosaar (12e>) |
+| Locatie  | Piek van Tezeder, Bloeming Eilanden                                                             | Sessie | 24                 |
+| Notities | Vandaag begint de herfst (Winter op 20e van Oart)<br><br>Final Stand mogelijk - pas op voor TPK |        |                    |
 
   
   

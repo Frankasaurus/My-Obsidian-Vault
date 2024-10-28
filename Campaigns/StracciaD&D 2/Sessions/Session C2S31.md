@@ -36,13 +36,13 @@ Elke dag d20 -> <3 = rollen voor slecht resultaat, >17 is rollen voor topresulta
 - Dag 12; aankomst Baronie Dragoness, in een semi-verlaten haven net buiten de stad.
 
 Slecht resultaat (1d4)
-1. Enorme storm met vloedgolven, risico tot kapseizen als het schip niet onder controle komt. Zie [[Session 031#Tropische storm|Tropische storm]]. Kan maar 1x voorkomen
-2. (Perception DC14) Een groep Sahuagin veteranen op haaien in Baaneel kledij springen het dek op. Zie [[Session 031#Combat Sahuagin deserters|Combat Sahuagin]].
+1. Enorme storm met vloedgolven, risico tot kapseizen als het schip niet onder controle komt. Zie [[Session C2S31#Tropische storm|Tropische storm]]. Kan maar 1x voorkomen
+2. (Perception DC14) Een groep Sahuagin veteranen op haaien in Baaneel kledij springen het dek op. Zie [[Session C2S31#Combat Sahuagin deserters|Combat Sahuagin]].
 3. Slecht weer voegt een dag toe aan de rit.
 4. Slecht weer voegt een dag toe aan de rit.
 
 Goed resultaat (1d4)
-1. Zie [[Session 031#Dolfijn Druide|Dolfijn Druide]].
+1. Zie [[Session C2S31#Dolfijn Druide|Dolfijn Druide]].
 2. Een vergulde tonijn is op te hengellen.
 3. Goed weer haalt een dag van de rit af
 4. Goed weer haalt een dag van de rit af

@@ -7,12 +7,12 @@ session date: 17/4/2021
 characters: [Carmine, Robyn, Roderick, Elisabeth, Bulblin, Vimak]
 tags:
 ---
-|   |   |   |   |
-|---|---|---|---|
-|Datum|Ochtend, 6e (21) van Grofis, 9963|Feest|Hofmaken v Heiligen (15)|
-|Locatie|Temidden van de Inner Marvers, N/NW Kaap Rosa|Sessie|10|
-|Doel|Gang naar Amala Laguna sturen, ontmoeten met Garde van Allermachtig, route naar Verfonq Grotto verkrijgen.|   |   |
-|Vooropzet|Gang is in alle haast vertrokken uit Kaap Rosa naar Amala Laguna. Kennis gemaakt met Robyn.|   |   |
+|           |                                                                                                            |        |                          |
+| --------- | ---------------------------------------------------------------------------------------------------------- | ------ | ------------------------ |
+| Datum     | Ochtend, 6e (21) van Grofis, 9963                                                                          | Feest  | Hofmaken v Heiligen (15) |
+| Locatie   | Temidden van de Inner Marvers, N/NW Kaap Rosa                                                              | Sessie | 10                       |
+| Doel      | Gang naar Amala Laguna sturen, ontmoeten met Garde van Allermachtig, route naar Verfonq Grotto verkrijgen. |        |                          |
+| Vooropzet | Gang is in alle haast vertrokken uit Kaap Rosa naar Amala Laguna. Kennis gemaakt met Robyn.                |        |                          |
 
   
 

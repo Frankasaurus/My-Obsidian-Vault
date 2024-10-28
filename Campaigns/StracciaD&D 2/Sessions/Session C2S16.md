@@ -7,12 +7,12 @@ session date: 17/12/2021
 characters: [Carmine, Robyn, Roderick, Elisabeth, Vimak]
 tags:
 ---
-|   |   |   |   |
-|---|---|---|---|
-|Datum|Vroege ochtend, 5e van Akat (5), 9963|Feest|Dag v d Meren (4e)|
-|Locatie|Blauwe Onderkomen, Kaap Rosa, Bloeming Eilanden|Sessie|16|
-|Doel|Roderick’s krachten teruggeven - Keylin terugbrengen - Reizen naar Meqen - Carmine|   |   |
-|Vooropzet||   |   |
+|           |                                                                                    |        |                    |
+| --------- | ---------------------------------------------------------------------------------- | ------ | ------------------ |
+| Datum     | Vroege ochtend, 5e van Akat (5), 9963                                              | Feest  | Dag v d Meren (4e) |
+| Locatie   | Blauwe Onderkomen, Kaap Rosa, Bloeming Eilanden                                    | Sessie | 16                 |
+| Doel      | Roderick’s krachten teruggeven - Keylin terugbrengen - Reizen naar Meqen - Carmine |        |                    |
+| Vooropzet |                                                                                    |        |                    |
 
   
   

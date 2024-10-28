@@ -51,7 +51,7 @@ Een groepje fluisterende individuen hebben het over Marquis **Louis Hoender II**
 	- De Marquis heeft een prive balkon aan de Westzijde.
 		- Hier zijn z'n vrouw (Vivienne) en lakkei (Ferd) ook aanwezig.
 ### Sidequest 2: Dans
-*Is geweest is [[Session 033]]*
+*Is geweest is [[Session C2S33]]*
 ### Sidequest 3: Schermduel
 **Dame (Hennie) Vanhorst** en haar zoon (Thierry Vanhorst) zoeken de party op naar rumoeren van dappere strijders. Zal zeer oprdukkerig uitdagen tot een duel in de tuin.
 - Eerlijk schermduel, 1v1, beide armor van 12 + Dex mod, beide rapier als wapen.

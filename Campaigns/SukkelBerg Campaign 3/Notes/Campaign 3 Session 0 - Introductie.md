@@ -1,3 +1,6 @@
+---
+publish: true
+---
 Hey allemaal. Hoewel de bespreking online is, heb ik deze tekst voorbereid om het een beetje te begeleiden, en naderhand door te sturen. Zo zijn we allemaal bij.
 
 Ik heb de belangrijkste informatie, veranderingen en vragen alvast verzameld, te beginnen met wat korte administratie.

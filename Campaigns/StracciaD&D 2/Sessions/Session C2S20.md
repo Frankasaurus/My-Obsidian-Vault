@@ -7,10 +7,10 @@ session date: 17/6/2022
 characters: [Carmine, Robyn, Roderick, Elisabeth, Vimak]
 tags:
 ---
-|   |   |   |   |
-|---|---|---|---|
-|Datum|1e van Rijsom-Heret (42), 9963 (5E)|Feest|Oog van Sterfelijken (2e)|
-|Locatie|Pareloever 7, Zuidoost Meqen.|Sessie|20|
+|         |                                     |        |                           |
+| ------- | ----------------------------------- | ------ | ------------------------- |
+| Datum   | 1e van Rijsom-Heret (42), 9963 (5E) | Feest  | Oog van Sterfelijken (2e) |
+| Locatie | Pareloever 7, Zuidoost Meqen.       | Sessie | 20                        |
 
   
   

@@ -28,5 +28,5 @@ Het Gala van [[Xavion de Dragoness]] om de macht van de [[Dragoness Family]] te 
 # Vluchtpoging Riool
 ![[Elisabeth Notes#4.b Riool]]
 # Cirdorim's Lair
-![[Session 034#Naar Cirdorim's Lair]]
+![[Session C2S34#Naar Cirdorim's Lair]]
 

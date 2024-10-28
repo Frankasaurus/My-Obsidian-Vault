@@ -7,11 +7,11 @@ session date: 2/9/2022
 characters: [Carmine, Robyn, Roderick, Elisabeth, Vimak]
 tags:
 ---
-|   |   |   |   |
-|---|---|---|---|
-|Datum|6e van Rijsom-Heret (42), 9963 (5E)|Feest|De Malosaar (12e>)|
-|Locatie|Ter Zuiden van Ligplaats Noord, Tezeder|Sessie|22|
-|Notities|Vandaag begint de herfst (Winter op 20e van Oart)|   |   |
+|          |                                                   |        |                    |
+| -------- | ------------------------------------------------- | ------ | ------------------ |
+| Datum    | 6e van Rijsom-Heret (42), 9963 (5E)               | Feest  | De Malosaar (12e>) |
+| Locatie  | Ter Zuiden van Ligplaats Noord, Tezeder           | Sessie | 22                 |
+| Notities | Vandaag begint de herfst (Winter op 20e van Oart) |        |                    |
 
   
   

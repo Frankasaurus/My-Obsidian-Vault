@@ -7,12 +7,12 @@ session date: 29/1/2022
 characters: [Carmine, Robyn, Roderick, Elisabeth, Vimak]
 tags:
 ---
-|   |   |   |   |
-|---|---|---|---|
-|Datum|Avond, 7e van Bloeming (13), 9963 (5E)|Feest|Oog van Sterfelijken (2e)|
-|Locatie|Taverne in Krottendistrict, Telack, Bloeming Eilanden|Sessie|17|
-|Doel|Vechten in het steegje met Roderick. Vimak’s contact. Rit naar Meqen EN Tezeder|   |   |
-|Vooropzet|Keylin is net teruggebracht naar Wilmide Ostver op Telack, waarvoor de crew een boot heeft gekregen. Een mysterieuze uitnodiging heeft ze naar Korttendistrict gestuurd, waar Roderick doelwit was van een aanval, uitgevoerd door Sargenet. Ysmir is Vimak.|   |   |
+|           |                                                                                                                                                                                                                                                              |        |                           |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------------------------- |
+| Datum     | Avond, 7e van Bloeming (13), 9963 (5E)                                                                                                                                                                                                                       | Feest  | Oog van Sterfelijken (2e) |
+| Locatie   | Taverne in Krottendistrict, Telack, Bloeming Eilanden                                                                                                                                                                                                        | Sessie | 17                        |
+| Doel      | Vechten in het steegje met Roderick. Vimak’s contact. Rit naar Meqen EN Tezeder                                                                                                                                                                              |        |                           |
+| Vooropzet | Keylin is net teruggebracht naar Wilmide Ostver op Telack, waarvoor de crew een boot heeft gekregen. Een mysterieuze uitnodiging heeft ze naar Korttendistrict gestuurd, waar Roderick doelwit was van een aanval, uitgevoerd door Sargenet. Ysmir is Vimak. |        |                           |
 
   
   
