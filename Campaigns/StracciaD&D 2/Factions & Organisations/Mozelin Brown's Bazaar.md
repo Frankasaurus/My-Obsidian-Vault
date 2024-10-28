@@ -26,8 +26,8 @@ publish: true
 - Hjoldir (M), a performer with dangerous weapons.
 - Four acrobats/dancers.
 - Bluebell and Blits (M), a clown duo.
-- [[Ruzo]], a half-orc dancer and acrobat.
+- Ruzo, a half-orc dancer and acrobat.
 ## Previous members
 - [[Robyn Heyns]], a half-orc dancer and acrobat. Left to become an adventurer.
 - [[Tijani]] (M), the floating and water-walking elephant. Killed for yet unknown reasons in Cape Rosa
-- [[Thex]], a half-orc bouncer. Died 2 years ago due to illness.
+- Thex, a half-orc bouncer. Died 2 years ago due to illness.

@@ -17,10 +17,10 @@ tags:
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current owner** | [[Subel]] |
-> | **Previous owners** | [[Madame Klaus]] |
+> | **Current owner** | Subel |
+> | **Previous owners** | Madame Klaus |
 
-The **Bag of Beans** is a magical object currently owned by [[Madame Klaus]]. The beans inside grant a random effect when planted properly.
+The **Bag of Beans** is a magical object currently owned by Madame Klaus. The beans inside grant a random effect when planted properly.
 # History
 > TODO: Include if relevant
 ## Appearance

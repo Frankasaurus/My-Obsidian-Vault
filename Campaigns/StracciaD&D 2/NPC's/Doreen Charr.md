@@ -40,4 +40,4 @@ She was released shortly after her husband's death, and destined to roam the str
 ### Cirdorim
 Due to frequent visits whenever she is at her lowest, she is loosely acquainted with [[Cirdorim]] in human form, as her healer. The quick-to-trust nature and shared wisdom of both Cirdorim and Doreen has led to memorable enough conversations as to have them know each other's names.
 # Trivia
-- There are many coincidental similarities between Doreen and [[Nikolas Rezin]] from the Cyberpunk RED campaign; both had succesful careers before their downfal, both have not seen their children grow up, both have ended up on the streets as beggars, and both have deceased spouses.
+- There are many coincidental similarities between Doreen and Nikolas Rezin from the Cyberpunk RED campaign; both had succesful careers before their downfal, both have not seen their children grow up, both have ended up on the streets as beggars, and both have deceased spouses.

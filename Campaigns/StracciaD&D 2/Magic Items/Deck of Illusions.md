@@ -17,10 +17,10 @@ tags:
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current owner** | [[Edwyrd Adkalyn]] |
-> | **Previous owners** | [[Madame Klaus]] |
+> | **Current owner** | Edwyrd Adkalyn |
+> | **Previous owners** | Madame Klaus |
 
-The **Deck of Illusions** is a magical deck of cards currently in use by [[Madame Klaus]]. It is enchanted as to make the faces' appear as an illusion whenever drawn or thrown.
+The **Deck of Illusions** is a magical deck of cards currently in use by Madame Klaus. It is enchanted as to make the faces' appear as an illusion whenever drawn or thrown.
 # History
 > TODO: Include if relevant
 ## Appearance

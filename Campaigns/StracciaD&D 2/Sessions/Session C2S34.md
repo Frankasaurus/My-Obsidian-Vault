@@ -183,5 +183,5 @@ Mogelijke methodes (Survival DC 14 group):
 | [[Hall of Anew]]       | 8               | [[Garrien Tinkerson]], [[Lord-Master Ligune]], Kelren Throst, en Deleraya.                                | Cape Rosa                | Legioen grens -1.                                  |
 | Bartos de la Rosa      | 18 - 1 per ally | Hijzelf, 150 mariniers, en 50 logisitiek werkers                                                          | Cape Rosa                | Fumyss grens -3.                                   |
 | [[Sabine Charr]]       | -               | Zijzelf                                                                                                   | Ayhwen Town              | Nostalgie naar geboortestad.[^1]                   |
-| [[Wormbone family]]    | 12              | [[Bulblin Wormbone]] op [[Bonehead]], Ghxarver Wormbone, en 50 strijders.                                 | Ergens in Bloeming Isles | [[Chris]] uitnodigen.                              |
+| Wormbone family        | 12              | [[Bulblin Wormbone]] op [[Bonehead]], Ghxarver Wormbone, en 50 strijders.                                 | Ergens in Bloeming Isles | [[Chris]] uitnodigen.                              |
 [^1]: [[Doreen Charr]] leeft nog, en is bedelaar in Dragoness Barony.

@@ -22,7 +22,7 @@ tags:
 > | **Location** | With Mozelin Brown's Bazaar |
 > | **Age** | 63 |
 > | **Languages** | Common, Elvish, Gnomish |  
-> | **Connections** | - [[Evie]] (partner)<br>- [[Mozelin Brown]] (employer) |
+> | **Connections** | - Evie (partner)<br>- [[Mozelin Brown]] (employer) |
 > | **Status** | Alive |
 
 **Macaw** is a renowned Elven Minstrel, performing for [[Mozelin Brown's Bazaar]]. As an NPC, he is played by [[Alex]].

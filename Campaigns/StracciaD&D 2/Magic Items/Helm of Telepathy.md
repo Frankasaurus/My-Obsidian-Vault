@@ -17,10 +17,10 @@ tags:
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current owner** | [[Uruzur Malag]] |
-> | **Previous owners** | [[Madame Klaus]] |
+> | **Current owner** | Uruzur Malag |
+> | **Previous owners** | Madame Klaus |
 
-The **Helm of Telepathy** is a magical helmet owned by [[Madame Klaus]]. It gives the wearer limited physchic capabilities.
+The **Helm of Telepathy** is a magical helmet owned by Madame Klaus. It gives the wearer limited physchic capabilities.
 # History
 > TODO: Include if relevant
 ## Appearance

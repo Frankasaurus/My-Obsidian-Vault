@@ -17,10 +17,10 @@ tags:
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current owner** | [[Seraphim]] |
-> | **Previous owners** | [[Madame Klaus]] |
+> | **Current owner** | Seraphim |
+> | **Previous owners** | Madame Klaus |
 
-**Potion of Gaseous Form** is a Potion owned by [[Madame Klaus]]. Consuming it will cause the drinker of the potion to turn to a gas.
+**Potion of Gaseous Form** is a Potion owned by Madame Klaus. Consuming it will cause the drinker of the potion to turn to a gas.
 # History
 > TODO: Include if relevant
 ## Appearance

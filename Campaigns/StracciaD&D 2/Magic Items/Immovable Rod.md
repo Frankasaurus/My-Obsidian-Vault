@@ -18,9 +18,9 @@ tags:
 > | | |
 > |---|---|
 > | **Current owner** | (Chris' oneshot character) |
-> | **Previous owners** | [[Madame Klaus]] |
+> | **Previous owners** | Madame Klaus |
 
-The **Immovable Rod** is a magical object currently owned by [[Madame Klaus]]. When the button is depressed, it will remain in place within the universe.
+The **Immovable Rod** is a magical object currently owned by Madame Klaus. When the button is depressed, it will remain in place within the universe.
 # History
 > TODO: Include if relevant
 ## Appearance

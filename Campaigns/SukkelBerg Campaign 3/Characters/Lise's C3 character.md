@@ -24,8 +24,8 @@ tags:
 > | **Class** | class (subclass) |  
 > | **Born** | place of birth, TIME years ago|  
 > | **Languages** | languages |  
-> | **Family** | - [[Name]] (relation)<br>- [[Name]] (relation) |
-> | **Connections** | - [[Name]] (relation)<br>- [[Name]] (relation |
+> | **Family** | - Name (relation)<br>- Name (relation) |
+> | **Connections** | - Name (relation)<br>- Name (relation |
 > | **Status** | status |
 > | **Sessions** | member |
 > ###### Stats

@@ -20,7 +20,7 @@ tags:
 > | **Current owner** | The [[Party]] (currently in the bag of holding) |
 > | **Previous owners** | In Cirdorim's Lair |
 l
-The **Professor Orb** is a magical object currently owned by [[Madame Klaus]]. It's a floating source of information (and in the case of the christmas oneshot - communication).
+The **Professor Orb** is a magical object currently owned by Madame Klaus. It's a floating source of information (and in the case of the christmas oneshot - communication).
 # History
 > TODO: Include if relevant
 ## Appearance

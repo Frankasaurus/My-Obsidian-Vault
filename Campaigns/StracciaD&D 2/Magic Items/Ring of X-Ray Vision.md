@@ -17,10 +17,10 @@ tags:
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current owner** | [[Graniar]] |
-> | **Previous owners** | [[Madame Klaus]] |
+> | **Current owner** | Graniar |
+> | **Previous owners** | Madame Klaus |
 
-The **Ring of X-Ray Vision** is a magical ring currently owned by [[Madame Klaus]]. The wearer is granted visibility through surfaces.
+The **Ring of X-Ray Vision** is a magical ring currently owned by Madame Klaus. The wearer is granted visibility through surfaces.
 # History
 > TODO: Include if relevant
 ## Appearance
