@@ -17,15 +17,15 @@ publish: false
 > | **Name** | Ingrid Solt |
 > | **Gender** | Female | 
 > | **Creature Type** | Humanoid |
-> | **Race** | [[Dwarf]] (Mountain) |  
+> | **Race** | Dwarf (Mountain) |  
 > | **Occupation** | Administrator of the [[Hall of Anew]] & mentor |  
-> | **Location** | [[Cape Rosa]] |
+> | **Location** | Cape Rosa |
 > | **Age** | ~200 |
 > | **Languages** | Common, Dwarvish, Gnomish, Abyssal |
 > | **Connections** | - [[Hall of Anew]] (member)<br>- [[Carmine Charr]] & [[Sabine Charr]] (adoptive kids) |
 > | **Status** | Alive |
 
-**Ingrid Solt** is a [[Dwarf#Mountain Dwarf|Mountain Dwarven]] mentor & administrator of the [[Hall of Anew]]. She is also the former head priestess of the Hall's chapter in [[Dragoness Barony]]. As an NPC, she is played by [[Alex]].
+**Ingrid Solt** is a Mountain Dwarven mentor & administrator of the [[Hall of Anew]]. She is also the former head priestess of the Hall's chapter in Dragoness Barony. As an NPC, she is played by [[Alex]].
 # Description
 ## Appearance
 > TODO: Description of appearance.

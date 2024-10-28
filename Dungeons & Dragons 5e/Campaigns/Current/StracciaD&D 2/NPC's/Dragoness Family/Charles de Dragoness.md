@@ -35,9 +35,9 @@ publish: false
 > | **Aliases** | His Free Lord Charles de Dragoness |
 > | **Gender** | Male | 
 > | **Creature Type** | Humanoid |
-> | **Race** | [[Tiefling]] |  
+> | **Race** | Tiefling |  
 > | **Occupation** | Captain of the Palace Guard |  
-> | **Location** | [[Dragoness Barony]] |
+> | **Location** | Dragoness Barony |
 > | **Age** | 25 |
 > | **Languages** | Common, Draconic, Infernal |  
 > | **Family** | - [[Dragoness Family]] (member)<br>- [[Elisabeth de Dragoness]] (brother) |

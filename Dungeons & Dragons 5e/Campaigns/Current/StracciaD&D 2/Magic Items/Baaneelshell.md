@@ -21,7 +21,7 @@ publish: false
 
 **Baaneelshells** are magical Sea shells that allow the user to breathe under water for a short time.
 # History
-When Seer Oseath visited [[Dragoness Barony]] during the civil war, she wanted to thank the party, and upgraded the Baaneelshells to [[Shell of Saviors]].
+When Seer Oseath visited Dragoness Barony during the civil war, she wanted to thank the party, and upgraded the Baaneelshells to [[Shell of Saviors]].
 ## Appearance
 When dry, they resemble dull grey common sea shells. But when submerged, the large shell's twists are rainbow colored.
 # Description

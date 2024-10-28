@@ -25,7 +25,7 @@ tags:
 > | **Connections** | - [[Evie]] (partner)<br>- [[Mozelin Brown]] (employer) |
 > | **Status** | Alive |
 
-**Macaw** is a renowned High [[Elf|Elven]] Minstrel, performing for [[Mozelin Brown's Bazaar]]. As an NPC, he is played by [[Alex]].
+**Macaw** is a renowned Elven Minstrel, performing for [[Mozelin Brown's Bazaar]]. As an NPC, he is played by [[Alex]].
 # Description
 ## Appearance
 > TODO: Description of appearance.

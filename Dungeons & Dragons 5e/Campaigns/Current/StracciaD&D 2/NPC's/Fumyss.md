@@ -13,18 +13,18 @@ publish: false
 > | | |  
 > |---|---|  
 > | **Name** | Fumyss |
-> | **Aliases** | General (in the ranks of [[Dragoness Barony]] Order Guard) |
+> | **Aliases** | General (in the ranks of Dragoness Barony Order Guard) |
 > | **Gender** | Male | 
 > | **Creature Type** | Fiend |
 > | **Race** | Blue Abishai |  
-> | **Occupation** | General in the ranks of [[Dragoness Barony]] |  
-> | **Location** | [[Dragoness Barony]] |
+> | **Occupation** | General in the ranks of Dragoness Barony |  
+> | **Location** | Dragoness Barony |
 > | **Age** | *Ancient* |
 > | **Languages** | Common, Draconic, Infernal |  
 > | **Connections** | - [[Kruziik'ahraan]] (leader)<br>- Unknown Greater Deity (shepherd) |
 > | **Status** | Alive |
 
-**Fumyss** is a Blue Abishai General in the Order Guard of [[Dragoness Barony]]. As an NPC, he is played by [[Alex]].
+**Fumyss** is a Blue Abishai General in the Order Guard of Dragoness Barony. As an NPC, he is played by [[Alex]].
 # Description
 ## Appearance
 As a Blue Abishai, he is a tall and lumbering figure, with broad blue wings. While acting as General, he wears somewhat obstructing elements of clothing to signify his status, including some armor, though it has no protecting qualities compared to his natural thick skin. His snout is elongated and slender, and his eyes narrow and angled angrily.

@@ -18,15 +18,15 @@ publish: true
 > | **Aliases** | Lord-Master |
 > | **Gender** | Male | 
 > | **Creature Type** | Humanoid |
-> | **Race** | [[Genasi]] (Water) |  
-> | **Occupation** | 18th [[Chosen of Olvex]] |  
-> | **Location** | [[Cape Rosa]] |
+> | **Race** | Genasi (Water) |  
+> | **Occupation** | 18th Chosen of Olvex |  
+> | **Location** | Cape Rosa |
 > | **Age** | - 67 (biological)<br> - 1004 (since birth) |
 > | **Languages** | Common, Aquan, Elvish, Infernal |
-> | **Connections** | - [[Carmine Charr]] (student)<br>- [[Hall of Anew]] (member)<br>- [[Towers of Stendor]] (ex-master) |
+> | **Connections** | - [[Carmine Charr]] (student)<br>- [[Hall of Anew]] (member)<br>- Towers of Stendor (ex-master) |
 > | **Status** | Alive |
 
-**Lord-Master Ligune** is a [[Genasi#Water Genasi|Water Genasi]] religious leader of [[Olvex]], former master of the [[Towers of Stendor]], and former [[Chosen of Olvex]]. As an NPC, he is played by [[Alex]].
+**Lord-Master Ligune** is a Water Genasi religious leader of Olvex, former master of the Towers of Stendor, and former Chosen of Olvex. As an NPC, he is played by [[Alex]].
 # Description
 ## Appearance
 > TODO: Description of appearance.

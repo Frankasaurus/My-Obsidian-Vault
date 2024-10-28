@@ -6,7 +6,7 @@
 > |---|---|  
 > | **Type** | Government | 
 > | **Name** | The Featherbelt |
-> | **Location** | The Tower District in [[Telack]], [[Bloeming Isles]] |
+> | **Location** | The Tower District in Telack Bloeming Isles |
 > | **Connections** | - Bloeming Isles Coalition (members) |
 # Members
 ## Current members

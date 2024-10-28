@@ -10,10 +10,10 @@ publish: true
 > |---|---|  
 > | **Type** | Traveling Circus | 
 > | **Name** | Madame Mozelin Brown's Bazaar |
-> | **Location** | Around [[Bloeming Isles]] |
+> | **Location** | Around Bloeming Isles |
 > | **Connections** | - [[Robyn Heyns]] (ex-employee) |
 
-**Mozelin Brown's Bazaar** is a traveling circus run by Madame [[Mozelin Brown]], hosting a maner of acts performed by individuals from all over [[Califhen]]. 
+**Mozelin Brown's Bazaar** is a traveling circus run by Madame [[Mozelin Brown]], hosting a maner of acts performed by individuals from all over Califhen 
 # Members
 ## Current members
 - Madame [[Mozelin Brown]], founder and proprietor. Bassoon singer.
@@ -28,5 +28,5 @@ publish: true
 - [[Ruzo]], a half-orc dancer and acrobat.
 ## Previous members
 - [[Robyn Heyns]], a half-orc dancer and acrobat. Left to become an adventurer.
-- [[Tijani]] (M), the floating and water-walking elephant. Killed for yet unknown reasons in [[Cape Rosa]].
+- [[Tijani]] (M), the floating and water-walking elephant. Killed for yet unknown reasons in Cape Rosa
 - [[Thex]], a half-orc bouncer. Died 2 years ago due to illness.

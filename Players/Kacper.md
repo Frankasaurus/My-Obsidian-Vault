@@ -13,7 +13,7 @@ publish: true
 **Kacper** is a member of [[Alex|Alex's]] Tabletop Games, and plays [[Carmine Charr]], as well as [[Tal Rezin]].
 # Characters
 ## Main campaigns
-- [[Carmine Charr]], [[Genasi|Fire Genasi]] [[Cleric]] (campaign)
+- [[Carmine Charr]], Fire Genasi Cleric (campaign)
 - Character, race class (campaign)
 - Character, race class (campaign)
 ## One-Shots

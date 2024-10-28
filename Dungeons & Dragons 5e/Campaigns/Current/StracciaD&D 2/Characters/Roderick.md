@@ -47,8 +47,8 @@ publish: true
 > | **Name** | Roderick |
 > | **Gender** | Male | 
 > | **Creature Type** | Humanoid |
-> | **Race** | [[Half-Elf]] (Wood) |  
-> | **Class** | [[Warlock]], Pact of the [[Fiend]] |  
+> | **Race** | Half-Elf (Wood) |  
+> | **Class** | Warlock, Pact of the Fiend |  
 > | **Born** | [[Orphelica|The Wovens, Orphelica]] , 20 years ago|  
 > | **Languages** | Common, Elvish |  
 > | **Family** | - Unnamed father and mother |
@@ -64,19 +64,19 @@ publish: true
 > | **Dex** | 10 | **Wis** | 14 |
 > | **Con** | 14 | **Cha** | 18 |
 
-**Roderick** is a [[Half-Elf]] of Wood-Elf herritage, and a Pact of the Fiend [[Warlock]]. He is played by [[Melle]].
+**Roderick** is a Half-Elf of Wood-Elf herritage, and a Pact of the Fiend Warlock. He is played by [[Melle]].
 # Description
 ## Appearance
-Roderick is a [[Half-Elf]] of shorter stature, with pointy ears and a very slightly darkened skin due to his Wood elven heritage. His hair is a prominent fiery red.
+Roderick is a Half-Elf of shorter stature, with pointy ears and a very slightly darkened skin due to his Wood elven heritage. His hair is a prominent fiery red.
 
-As a [[Warlock]] doesn't wear armor, but does outfit himself with large boots, brown pants, and a loose fitting shirt most days, though he has shown signs of wanting to wear more official clothing when acting as First Mate on [[The Bonehead]].
+As a Warlock doesn't wear armor, but does outfit himself with large boots, brown pants, and a loose fitting shirt most days, though he has shown signs of wanting to wear more official clothing when acting as First Mate on [[The Bonehead]].
 ## Personality
 Roderick is the most chipper and talkative member of the party, with him usually involved in every conversation there is. He likes to learn, and asks a lot of questions, which is partially caused by his relatively secluded upbringing. He also tends to get himself into trouble, both accidentally and and purpose, as is seen in his relationship with his Warlock [[Sargenet|Patron]].
 
 > ![[Roderick1.png|200]]
 # Biography
 ## Before the campaign
-When he grew up, Roderick lived alone for most of his life - with the exception of his parents - in the woods of Northern [[Orphelica]]; The Wovens. He did however encounter many strangers during his time there, mostly wanderers of lost souls who needed a hand getting to their destination. Most days, however, it was just him, his father, and his mother. 
+When he grew up, Roderick lived alone for most of his life - with the exception of his parents - in the woods of Northern Orphelica; The Wovens. He did however encounter many strangers during his time there, mostly wanderers of lost souls who needed a hand getting to their destination. Most days, however, it was just him, his father, and his mother. 
 
 That changed when a man chained to a tree happened to appear during his foraging run, who looked old and dishevelled. Roderick saw this as a man in distress, hopelessly bound in the woods by thieves or scum. The man, who claimed to be a wizard, spoke to Roderick, telling him that if he was too weak to break the chains tying him in place, the Wizard could lend him temporary powers that would help him free the man, to which Roderick obliged. The man only needed a single drop of blood, and a short cut across the finger later, Roderick found the strength to loosen the man's chain. The wizard thanked him for his help, and spoke to him at length about his time in the woods, never once speaking of his own past, and always diverting back to Roderick. 
 
@@ -86,7 +86,7 @@ One request ended up sticking out; the pushing of a man off of a ledge. The wiza
 
 The old visage now stood proudly, hovering slightly, no longer the frail and friendly face. A fiend had replaced this person, and a dark shadow of a face now took hold over his appearance. Not a request, but a command spoke, to do as he told him, for Roderick was now in this man's clutches. Not a moment after, Roderick panicked and fled.
 
-Roderick travelled for days on end, eventually reaching the port city of [[Kenoa]], and boarding a ship to [[Telack]] chasing a story of [[Lady Vethrines|someone]] on the archipelago who might be able to help a man like Roderick get rid of his inner demons.
+Roderick travelled for days on end, eventually reaching the port city of Kenoa, and boarding a ship to Telack chasing a story of [[Lady Vethrines|someone]] on the archipelago who might be able to help a man like Roderick get rid of his inner demons.
 ## Adventures
 > TODO
 

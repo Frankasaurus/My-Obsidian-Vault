@@ -15,14 +15,14 @@ publish: true
 > | **Name** | Lady Vethrines |
 > | **Gender** | Female | 
 > | **Creature Type** | Humanoid |
-> | **Race** | [[Elf]] (Drow) |  
+> | **Race** | Elf (Drow) |  
 > | **Occupation** | Alchemist |  
-> | **Location** | West of [[Telack]], [[Bloeming Isles]] |
+> | **Location** | West of Telack Bloeming Isles |
 > | **Age** | ~130 |
 > | **Languages** | Common, Elvish, Undercommon | 
 > | **Status** | Alive |
 
-**Lady Vethrines** is a [[Elf#Dark Elf (Drow)|Drow Elven]] Alchemist. As an NPC, she is played by [[Alex]].
+**Lady Vethrines** is a Drow Elven Alchemist. As an NPC, she is played by [[Alex]].
 # Description
 ## Appearance
 Being a Drow, Vethrines has dark gray skin with dark eyes and white-gray hair. Vethrines is often clothed in a self-tailored suit, with a bodice underneath that holds a plethora of vials, pouches, and equipment. She has large tattoos on her arms and hands.

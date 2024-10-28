@@ -17,11 +17,11 @@ publish: true
 > | | |
 > |---|---|
 > | **Current owner** | [[Elisabeth de Dragoness]] |
-> | **Previous owners** | Dire Troll underneath [[Dragoness Barony]] |
+> | **Previous owners** | Dire Troll underneath Dragoness Barony |
 
-**Elemental Essence Shard** is a Crystal shard currently in use by [[Elisabeth de Dragoness]]. It empowers a [[Sorcerer]] by allowing elemental powers to be used in conjunction with metamagic.
+**Elemental Essence Shard** is a Crystal shard currently in use by [[Elisabeth de Dragoness]]. It empowers a Sorcerer by allowing elemental powers to be used in conjunction with metamagic.
 # History
-The [[Party]] found this particular shard used as a light fixture by the Dire Troll ruling over the Goblin sewer workers underneath [[Dragoness Barony]].
+The [[Party]] found this particular shard used as a light fixture by the Dire Troll ruling over the Goblin sewer workers underneath Dragoness Barony
 ## Appearance
 When found, the shard was a dull color, but since Elisabeth attuned with the shard, it shone a pearlescent white. Whenever used, it shifts to an appropriate color for the duration.
 # Description

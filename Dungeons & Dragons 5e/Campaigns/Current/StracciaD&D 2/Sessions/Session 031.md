@@ -14,7 +14,7 @@ characters:
 ---
 *This is the first session in MD*
 # Samenvatting
-**Wat:** Vorige sessie is de party de laatste dingen wezen klaarmaken voor vertrek naar [[Dragoness Barony]]. [[Phillipa Vurrinir]] is bij de party gekomen. Vimak is 's nachts op de boot in een catatonische droom beland, met alleen Phillipa en Roderick
+**Wat:** Vorige sessie is de party de laatste dingen wezen klaarmaken voor vertrek naar Dragoness Barony. [[Phillipa Vurrinir]] is bij de party gekomen. Vimak is 's nachts op de boot in een catatonische droom beland, met alleen Phillipa en Roderick
 **Seizoen:** Vroege herfst.
 **Waar:** [[The Bonehead]], ten Noorden van Meqen, onderweg naar Dragoness / Vimak's droom.
 **Doel sessie:** Vimak zijn character arc starten. Party naar Baronie brengen.

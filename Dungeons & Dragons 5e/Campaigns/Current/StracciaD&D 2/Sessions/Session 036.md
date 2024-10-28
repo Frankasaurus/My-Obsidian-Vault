@@ -15,7 +15,7 @@ tags:
 ---
 # Samenvatting sessie 35
 **Wanneer:** Nazomer, nacht
-**Waar:** Riool onder [[Dragoness Barony#Palace Grounds|Het Paleis]] van Baronie Dragoness, in de Cistern. 
+**Waar:** Riool onder Het Paleis van Baronie Dragoness, in de Cistern. 
 **Doel sessie:** Party uit Baronie Dragoness, naar [[#Cirdorim's Lair]].
 # Onthouden
 - Elisabeth draagt de [[Mana Seal]], een cursed item die alle magie tegenhoudt (Goud met Diamant).

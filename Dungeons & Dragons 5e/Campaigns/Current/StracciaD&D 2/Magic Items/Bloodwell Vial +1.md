@@ -32,7 +32,7 @@ publish:
 > | **Current** | None |
 > | **Previous** | Unknown |
 
-The **Bloodwell Vial +1** is a magical spellcasting focus that enhances spells cast by a [[Sorcerer]].
+The **Bloodwell Vial +1** is a magical spellcasting focus that enhances spells cast by a Sorcerer
 ## Features
 - Feature 1
 - Feature 2

@@ -13,7 +13,7 @@ characters:
   - Phillipa
 tags: []
 ---
-***PARTY STAAT ONDER PERMANENT (ONBEWUST) TOEZICHT VAN PALEISGARDE (DC 16).
+*PARTY STAAT ONDER PERMANENT (ONBEWUST) TOEZICHT VAN PALEISGARDE (DC 16).
 ELK MOMENT MET XAVION - NAT 20 INSIGHT: JE HEBT DEZE OGEN EERDER GEZIEN.***
 # Kleding
 Kledingmakerteam door de nacht gewerkt om jullie jurken te maken. Wel nog wat zaken op maat, en wat keuzes te maken.
@@ -43,7 +43,7 @@ Wat weet [[Willemijn de Dragoness]];
 	- Zij is waarom Elisabeth is wie ze is.
 # Het Gala
 Om te vieren dat [[Elisabeth de Dragoness|Elisabeth]] terug is, organiseerd een vermomde [[Xavion de Dragoness]] ([[Kruziik'ahraan]]) een Gala. Zijn doel is om op het gala wat rivalen uit te schakelen, maar ook om Elisabeth aan zijn kant te krijgen, door haar uit te nodigen naast hem te staan, of zelf de executies uit te delen
-TODO: Tijdens het Gala zal Xavion aan Elisabeth vragen om - samen met [[Fumyss]] en [[Charles de Dragoness]] - als vertoning van macht publiekelijk rebellenleiders "tentoonstellen", waarna het [[Dragoness Barony#Dragoness Freedom Legion|Dragoness Vrijheids Legion]] (een groep militanten vermomd als Bedienden) toeslaan om de leiders te bevrijden. De party kan kiezen welke kant ze willen ondersteunen tijdens het gevecht.
+TODO: Tijdens het Gala zal Xavion aan Elisabeth vragen om - samen met [[Fumyss]] en [[Charles de Dragoness]] - als vertoning van macht publiekelijk rebellenleiders "tentoonstellen", waarna het Dragoness Vrijheids Legion (een groep militanten vermomd als Bedienden) toeslaan om de leiders te bevrijden. De party kan kiezen welke kant ze willen ondersteunen tijdens het gevecht.
 
 **Bij binnenkomst:** Xavion zal Elisabeth apart nemen; *"Onthoud iets; dit gala is voor jou! Ik ben zo trots op jouw reis. Zou je zo samen met je vader en je broers - alleen als jij wilt - een toegift houden voor onze gasten?"*
 

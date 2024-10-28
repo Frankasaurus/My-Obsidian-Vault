@@ -25,7 +25,7 @@ owner_previous: ["Unnamed Towers of Stendor professor"]
 > | | |
 > |---|---|
 > | **Current** | [[Roderick]] |
-> | **Previous** | A professor of the [[Towers of Stendor]] |
+> | **Previous** | A professor of the Towers of Stendor |
 
 The **Wand of the War Mage +1** is an old wand that enhances spells cast using it.
 ## Appearance

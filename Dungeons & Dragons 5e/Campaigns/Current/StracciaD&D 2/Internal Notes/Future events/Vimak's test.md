@@ -6,7 +6,7 @@ ALS Ilro'he zich naar Dragoness brengt, en de staat van de stad ziet, nodigt ze 
 Er volgt een toets van zijn eed, met een schijnbaar aanvallende toon en maybe een gevecht?
 Wandeling door de pest-gevulde Dragoness stad maakt een andere toon. Zij wilt dat Vimak het beste dient voor Hevenar, en dit is zijn kans. *"Kijk om je heen - we zijn in haar huis. Dit is haar domein. En haar domein is jouw domein. Dit is jouw thuis."*
 ## Toets 
-Zie [[Devotion#Tenets of Devotion|Tenets of Devotion]].
+Zie Tenets of Devotion
 Onderstaand de Principes van Devotion, met wat info over Vimak's keuzes:
 
 | Principe | Info | Vimak's acties |

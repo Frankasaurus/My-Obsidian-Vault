@@ -1,5 +1,5 @@
 # Vooropzet spelers
-Er schijnt in de [[Ilan Lands]] een samenzwering te zijn van Gnomes die een false God aanbidden. De boodschap is uitgegaan door heel Califhen; 1100 goudstukken elk voor wie dit gevaarte aan durft gaan. Jullie zijn reizigers, verkenners, avonturiers, of wellicht doodnormaal volk die op de boot zijn gestapt naar dit ijskoude Noorden, om in de haven van [[Beyri]] je opdracht te ontvangen.
+Er schijnt in de Ilan Lands een samenzwering te zijn van Gnomes die een false God aanbidden. De boodschap is uitgegaan door heel Califhen; 1100 goudstukken elk voor wie dit gevaarte aan durft gaan. Jullie zijn reizigers, verkenners, avonturiers, of wellicht doodnormaal volk die op de boot zijn gestapt naar dit ijskoude Noorden, om in de haven van Beyri je opdracht te ontvangen.
 Voor je karakters;
 - Jullie zijn level 5.
 - Bevestig bij mij ras-class-background combo voordat je een sheet bouwt, maar in principe zijn alle officiele regels toegestaan.
@@ -9,14 +9,14 @@ Voor je karakters;
 - Je gebruikt je starting equipment; je hebt geen goud nodig.
 - Klop bij mij aan voor hulp as always.
 # Characters
-- [[Kacper]] speelt [[Seraphim]], een [[Aasimar#Protector|Protector Aasimar]] [[Lycan]] [[Blood Hunter]] ([[Soldier]] background).
-- [[Hanne]] speelt [[Uruzur Malag]], een [[Half-Orc]] [[Vengeance]] [[Paladin]] ([[Acolyte]] background).
-- [[Melle]] speelt [[Subel]], een [[Elf#High Elf|High Elven]] [[Bladesinging]] [[Wizard]] / [[Artificer]] multiclass ([[Gladiator]] background). | Erg minmaxed, let op.
-- [[Kim]] speelt [[Graniar]], een [[Gith#Githzerai|Githzerai]] [[Devotion]] [[Paladin]] ([[Haunted One]] background).
-- [[Roy]] speelt [[Edwyrd Adkalyn]], een [[Elf#High Elf|High Elf]] [[Assassin]] [[Rogue]] ([[Criminal]] background).
+- [[Kacper]] speelt [[Seraphim]], een Protector Aasimar Lycan Blood Hunter (Soldier background).
+- [[Hanne]] speelt [[Uruzur Malag]], een Half-Orc Vengeance Paladin (Acolyte background).
+- [[Melle]] speelt [[Subel]], een High Elven Bladesinging Wizard / Artificer multiclass (Gladiator background). | Erg minmaxed, let op.
+- [[Kim]] speelt [[Graniar]], een Githzerai Devotion Paladin (Haunted One background).
+- [[Roy]] speelt [[Edwyrd Adkalyn]], een High Elf Assassin Rogue (Criminal background).
 - [[Lise]] en [[Chris]] hebben afgezegd.
 # Samenvatting
-**Wat:** In de Ilan Lands zijn is een ijstempel van [[Udenor]] - de **god van Vermogen & Hebberigheid** - recentelijk door Gnomes overgenomen tot summoning circle voor de valse god **Satna, Vader Kringle, vernietiger van Schoorstenen & KadoHeerser, verorberer van Krokant Deeg, Bastaard van de Sterren-kluizenaar**. Samen met Satna's spawn **Dolf** - een Rendier - zijn de Gnomes bezig met hem terug tot leven wekken om de koude maanden te verwarmen met zijn vuur.
+**Wat:** In de Ilan Lands zijn is een ijstempel van Udenor - de **god van Vermogen & Hebberigheid** - recentelijk door Gnomes overgenomen tot summoning circle voor de valse god **Satna, Vader Kringle, vernietiger van Schoorstenen & KadoHeerser, verorberer van Krokant Deeg, Bastaard van de Sterren-kluizenaar**. Samen met Satna's spawn **Dolf** - een Rendier - zijn de Gnomes bezig met hem terug tot leven wekken om de koude maanden te verwarmen met zijn vuur.
 **Wanneer:** Winter, Kerst, alles is focking koud. **Star's Recluse!** (Sterrenkluizenaar - kortste dag van het jaar, permanent donker met Noorderlichten)
 **Waar:** Ilan Lands, in Beyri
 ![[IlanLandsMap.png|500]]
@@ -42,7 +42,7 @@ Tijdens de rit:
 **Madame Klaus: "Jullie zijn mogelijk ingelezen over de opdracht, maar het dient goed om aan te vullen waar nodig."**
 - Betreft een mogelijk **herrijzingsritueel** van een **oude bekende** van haar, een zelfgezworen demigod. Niks goeds van plan.
 - Opvallend veel Gnomes die binnenstromen om dit ritueel te volbrengen.
-- Vesting wijst op een oude ijstempel van [[Udenor]].
+- Vesting wijst op een oude ijstempel van Udenor.
 - Uitbetaling gebeurt bij het voorkomen van het ritueel, of stopzetten van de gevolgen.
 - Verdere vragen? (improv)
 
@@ -98,7 +98,7 @@ DC = Dex save 15, anders 3d4 Piercing damage.
 
 Als ze te lang doen over de deur, of de verstopte gnomes dreigen te vinden zal Gnoom Warlock **Alabaster Sneeuwbal** tevoorschijn komen uit een tegel;
 **Alabaster: "Jullie sukkels! Welk recht denken jullie te hebben ons heilige ritueel te verstoren! Dit is jullie laatste waarschuwing, of ik zal jullie op de stoute lijst moeten zetten" (Warlock boek tovert tevoorschijn)**
-Als ze in de aanval gaan, zal Alabaster [[Hypnotic Pattern]] casten, de tegel in duiken, en combat starten. **"Pak ze! Pak ze allemaal! Verdoemenis aan de pretbedervers!"**
+Als ze in de aanval gaan, zal Alabaster Hypnotic Pattern casten, de tegel in duiken, en combat starten. **"Pak ze! Pak ze allemaal! Verdoemenis aan de pretbedervers!"**
 ## 2.b Combat ingang
 **Onthouden:**
 - Alle Gnomes zien er corrupted en verwaarloosd uit, maar dragen vergane festieve kledij.

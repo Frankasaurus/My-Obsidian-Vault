@@ -9,7 +9,7 @@
 > | **Location** | (LOCATION OR LOCATIONS) |
 > | **Connections** | - Connection (relation)<br>- Connection (relation) |
 
-**The Seven Scepters** were a small cult-faction that worshipped [[Aria]]. They were cut down by the [[Party]] shortly before meeting [[Phillipa Vurrinir]].
+**The Seven Scepters** were a small cult-faction that worshipped Aria They were cut down by the [[Party]] shortly before meeting [[Phillipa Vurrinir]].
 # Members
 ## Current members
 - Current member

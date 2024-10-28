@@ -10,7 +10,7 @@ publish: true
 > |---|---|  
 > | **Type** | Ship | 
 > | **Name** | The Bonehead |
-> | **Location** | [[Dragoness Barony]]'s harbor |
+> | **Location** | Dragoness Baronys harbor |
 > | **Connections** | - [[Party]] (crew)<br>- [[Wilmide Ostver]] (previous owner) |
 
 **The Bonehead** is a small three-masted sloop, which the [[Party]] got as a reward from [[Wilmide Ostver]] (who was its previous owner) for returning [[Keylin Ostver]] to him. 

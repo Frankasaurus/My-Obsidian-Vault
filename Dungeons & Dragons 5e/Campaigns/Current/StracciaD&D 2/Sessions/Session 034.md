@@ -14,7 +14,7 @@ characters:
 tags: []
 ---
 # Samenvatting sessie 33
-Met het onthaal van de [[Party]] in [[Dragoness Barony]], had [[Xavion de Dragoness]] reden tot feestviering gevonden: "_Een Gala voor de eeuwen, eentje om te onthouden, om jouw terugkeer en de groeiende kracht van Baronie de Dragoness vast te leggen_.". 
+Met het onthaal van de [[Party]] in Dragoness Barony had [[Xavion de Dragoness]] reden tot feestviering gevonden: "_Een Gala voor de eeuwen, eentje om te onthouden, om jouw terugkeer en de groeiende kracht van Baronie de Dragoness vast te leggen_.". 
 Voorafgaand aan het Gala is er - naast de nodige kledij en geschenken - kennis gemaakt met een pilaar van de tegenbeweging, de kalme [[Cirdorim]], die zoveel mogelijk bloedvergieten wilt voorkomen. Zij waarschuwt jullie dat de pot in de Baronie bijna over kookt, en het binnen de kortste keren hard tegen hard zal gaan. Ze weet van een wapen, een middel tegen de mogelijke dreiging van [[Xavion de Dragoness]] en zijn nieuw bemachtigde legers, door de eeuwen heen verstopt en vergeten in een oud overlopen burcht ten NoordOosten van de Baronie. Ook weet ze dat niemand de Baronie vrij uit kan lopen, hoe edelachtbaar dan ook. 
 Op het Gala zelf is er ruimte voor lichte ontspanning, een danscompetitie, een achtervolging door de paleisgangen, en wat kennismakingen met onder andere de gefocusde [[Fumyss|Generaal Fumyss]], en ook de nieuw bekroonde Kapitein van de Paleisgarde - en broer van Elisabeth - [[Charles de Dragoness]]. Een riskant tripje naar de werkkamer was nodig om Charles te overtuigen van het liegen waar zijn vader schuldig aan is, en hoewel hij niet de veiligheid van zijn familie en het Paleis kan vergeten, is hij bereid jullie te steunen waar mogelijk. Daarbij is ook jullie eigen kennis aangevuld; een bloedcontract tussen [[Xavion de Dragoness]] en [[Kruziik'ahraan]] voor de uitlevering van zijn kinderen op elk van jullie geboorteaktes. En met [[Benjamin de Dragoness]] gekidnapped, en [[Amenadiel de Dragoness]] schijnbaar op 'campagne' volgens Charles, begint de tijd te dringen.
 # Onthouden
@@ -176,23 +176,23 @@ Rol dan 1d10 : 2
 Mogelijke methodes (Survival DC 14 group):
 - Lopen (2 dagen, 's nachts aankomen)
 - Achterop Drakes (1 dag, 's nachts aankomen)
-**Zie [[Cirdorim's Lair]] voor lair informatie.**
+**Zie Cirdorim's Lair voor lair informatie.**
 ## Gesprek Cirdorim
 [[Cirdorim]] zegt volgende:
-- [[Kruziik'ahraan]] is ouder, krachtiger, en meer dapper dan zij is. Hij heeft overtuiging. Zij kan het niet 1-op-1 aan, laat staan met het hele leger van [[Dragoness Barony]].
+- [[Kruziik'ahraan]] is ouder, krachtiger, en meer dapper dan zij is. Hij heeft overtuiging. Zij kan het niet 1-op-1 aan, laat staan met het hele leger van Dragoness Barony.
 - Door isolatie van buiten, en de aanwezigheid van de legers van [[Fumyss]] en [[Charles de Dragoness]], maakt het Greyskil Vrijheids Legion nutteloos. 
 	- "Ik ben tot jullie dienst, maar denk goed na wat jullie willen met Dragoness Baronie."
 	- "Als jullie de strijd aan willen gaan, hebben jullie hulp nodig. Wie vertrouwen jullie."
 		- Cirdorim kan vliegen door de Bloeming Isles om overtuigend hulp te halen.
 - "Jullie kunnen ook [[Kruziik'ahraan]] direct proberen aan te varen"
 		
-| Contact                | Persuasion DC   | Force                                                                                                     | Locatie                      | Notitie                                            |
-| ---------------------- | --------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------- |
-| [[Wilmide Ostver]]     | 12              | Hijzelf, [[The Giant of Jaxos]] en zijn crew, plus 100 kruisboogman                                       | [[Telack]]                   | Fumyss grens -2.                                   |
-| [[Archbishop Ilro'he]] | 14              | Zijzelf, en persoonlijke druid-entourage van 12 man                                                       | [[Cape Rosa]]                | Legioen grens -1. Brengt een [[Bloodwell Vial +1]] |
-| Verengordel            | 15              | [[Joachim Scherp]] en zijn Ambergarde, plus Ziener Dohelyn Oseath en wat Baaneelvolk als logistiek werker | [[Meqen]]                    | Legioen grens -2.                                  |
-| [[Hall of Anew]]       | 8               | [[Garrien Tinkerson]], [[Lord-Master Ligune]], Kelren Throst, en Deleraya.                                | [[Cape Rosa]]                | Legioen grens -1.                                  |
-| Bartos de la Rosa      | 18 - 1 per ally | Hijzelf, 150 mariniers, en 50 logisitiek werkers                                                          | [[Cape Rosa]]                | Fumyss grens -3.                                   |
-| [[Sabine Charr]]       | -               | Zijzelf                                                                                                   | [[Ayhwen Town]]              | Nostalgie naar geboortestad.[^1]                   |
-| [[Wormbone family]]    | 12              | [[Bulblin Wormbone]] op [[Bonehead]], Ghxarver Wormbone, en 50 strijders.                                 | Ergens in [[Bloeming Isles]] | [[Chris]] uitnodigen.                              |
-[^1]: [[Doreen Charr]] leeft nog, en is bedelaar in [[Dragoness Barony]].
+| Contact                | Persuasion DC   | Force                                                                                                     | Locatie                  | Notitie                                            |
+| ---------------------- | --------------- | --------------------------------------------------------------------------------------------------------- | ------------------------ | -------------------------------------------------- |
+| [[Wilmide Ostver]]     | 12              | Hijzelf, [[The Giant of Jaxos]] en zijn crew, plus 100 kruisboogman                                       | Telack                   | Fumyss grens -2.                                   |
+| [[Archbishop Ilro'he]] | 14              | Zijzelf, en persoonlijke druid-entourage van 12 man                                                       | Cape Rosa                | Legioen grens -1. Brengt een [[Bloodwell Vial +1]] |
+| Verengordel            | 15              | [[Joachim Scherp]] en zijn Ambergarde, plus Ziener Dohelyn Oseath en wat Baaneelvolk als logistiek werker | Meqen                    | Legioen grens -2.                                  |
+| [[Hall of Anew]]       | 8               | [[Garrien Tinkerson]], [[Lord-Master Ligune]], Kelren Throst, en Deleraya.                                | Cape Rosa                | Legioen grens -1.                                  |
+| Bartos de la Rosa      | 18 - 1 per ally | Hijzelf, 150 mariniers, en 50 logisitiek werkers                                                          | Cape Rosa                | Fumyss grens -3.                                   |
+| [[Sabine Charr]]       | -               | Zijzelf                                                                                                   | Ayhwen Town              | Nostalgie naar geboortestad.[^1]                   |
+| [[Wormbone family]]    | 12              | [[Bulblin Wormbone]] op [[Bonehead]], Ghxarver Wormbone, en 50 strijders.                                 | Ergens in Bloeming Isles | [[Chris]] uitnodigen.                              |
+[^1]: [[Doreen Charr]] leeft nog, en is bedelaar in Dragoness Barony.

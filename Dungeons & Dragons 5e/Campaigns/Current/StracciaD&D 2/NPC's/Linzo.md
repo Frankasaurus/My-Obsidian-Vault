@@ -17,15 +17,15 @@ tags:
 > | **Name** | Linzo Heyns |
 > | **Gender** | Male | 
 > | **Creature Type** | Humanoid |
-> | **Race** | [[Half-Orc]] |  
+> | **Race** | Half-Orc |  
 > | **Occupation** | Goat herder, ex-warrior |  
-> | **Location** | [[Torpe]] |
+> | **Location** | Torpe |
 > | **Age** | 47 |
 > | **Languages** | Common, Orcish |  
 > | **Family** | - [[Robyn Heyns]] (daughter)<br>- [[Rhayn]] (wife) |
 > | **Status** | Alive |
 
-**Linzo** is a [[Half-Orc]] goat herder, ex-warrior, and the father of [[Robyn Heyns]]. As an NPC, he is played by [[Alex]].
+**Linzo** is a Half-Orc goat herder, ex-warrior, and the father of [[Robyn Heyns]]. As an NPC, he is played by [[Alex]].
 # Description
 ## Appearance
 > TODO: Description of appearance.
