@@ -1,7 +1,6 @@
 ---
 publish: false
-tags:
-  - update
+tags: []
 ---
 > [!infobox]  
 > # Kruziik'ahraan "The Scar"

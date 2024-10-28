@@ -1,6 +1,5 @@
 ---
-tags:
-  - TODO
+tags: []
 publish: false
 ---
 > [!infobox]  

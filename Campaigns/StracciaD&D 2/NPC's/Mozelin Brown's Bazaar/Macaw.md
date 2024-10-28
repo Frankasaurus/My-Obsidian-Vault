@@ -1,7 +1,6 @@
 ---
 publish: true
-tags:
-  - TODO
+tags: []
 ---
 > [!infobox]  
 > # Macaw

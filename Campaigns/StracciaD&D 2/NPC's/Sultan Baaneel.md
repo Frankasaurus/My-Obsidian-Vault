@@ -1,7 +1,6 @@
 ---
 publish: true
-tags:
-  - update
+tags: []
 ---
 > [!infobox]  
 > # Sultan Baaneel 

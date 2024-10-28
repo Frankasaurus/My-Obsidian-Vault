@@ -1,7 +1,6 @@
 ---
 publish: true
-tags:
-  - TODO
+tags: []
 name_full: Test fullname
 name_first: Test Firstname
 name_last: Test Lastname

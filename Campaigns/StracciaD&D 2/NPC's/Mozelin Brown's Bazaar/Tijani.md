@@ -1,7 +1,6 @@
 ---
 publish: 
-tags:
-  - TODO
+tags: []
 ---
 > [!infobox]  
 > # Tijani

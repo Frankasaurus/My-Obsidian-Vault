@@ -1,7 +1,6 @@
 ---
 publish: false
-tags:
-  - TODO
+tags: []
 ---
 > [!infobox]  
 > # Rhayn 

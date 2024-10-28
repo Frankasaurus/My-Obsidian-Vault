@@ -1,7 +1,6 @@
 ---
 publish: 
-tags:
-  - update
+tags: []
 ---
 > [!infobox]  
 > # Dimure Los

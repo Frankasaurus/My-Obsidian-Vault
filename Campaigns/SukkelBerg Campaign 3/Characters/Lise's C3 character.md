@@ -1,40 +1,41 @@
 ---
 publish: false
-tags:
+tags: []
 ---
 > [!infobox]  
-> # `=this.name_first` `=this.name_last`
+> # Name
 > ![[Image.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | `= this.type` |
-> | **Player** | `= link(this.player)` |
+> | **Type** | type |
+> | **Player** | player |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | `= this.name_full` |
-> | **Aliases** | `= this.name_aka` |
-> | **Gender** | `=this.gender` | 
-> | **Creature Type** | `= this.creature_type` |
-> | **Race** | `= link(this.creature_race)` `= choice(this.creature_subrace = "", "", "(")` `= this.creature_subrace` `= choice(this.creature_subrace = "", "", ")")`|  
-> | **Class** | `= link(this.class)` `= choice(this.subclass = "", "", "(")` `= this.subclass` `= choice(this.subclass = "", "", ")")`|  
-> | **Born** | `=link(this.place_of_birth)` , `=this.age` years ago|  
-> | **Languages** | `=this.languages` |  
+> | **Name** | full name |
+> | **Aliases** | aka |
+> | **Gender** | gender | 
+> | **Creature Type** | type |
+> | **Species** | species |  
+> | Origin | origin |
+> | **Class** | class (subclass) |  
+> | **Born** | place of birth, TIME years ago|  
+> | **Languages** | languages |  
 > | **Family** | - [[Name]] (relation)<br>- [[Name]] (relation) |
 > | **Connections** | - [[Name]] (relation)<br>- [[Name]] (relation |
-> | **Status** | `=this.status` |
-> | **Sessions** | `=this.member` |
+> | **Status** | status |
+> | **Sessions** | member |
 > ###### Stats
 > | | | | |
 > |---|---|---|---|
-> | **Level** | `=this.level` | **HP** | `=this.hit_points` |
-> | **AC** | `=this.armor_class` | | |
-> | **Str** | `=this.stat_str` | **Int** | `=this.stat_int` |
-> | **Dex** | `=this.stat_dex` | **Wis** | `=this.stat_wis` |
-> | **Con** | `=this.stat_con` | **Cha** | `=this.stat_cha` |
+> | **Level** | level | **HP** | hit_points |
+> | **AC** | armor_class | | |
+> | **Str** | stat_str | **Int** | stat_int |
+> | **Dex** | stat_dex | **Wis** | stat_wis |
+> | **Con** | stat_con | **Cha** | stat_cha |
 
-`=this.name_first` `=this.name_last` is a `=this.creature_subrace` `=this.creature_race` `=this.subclass` `=this.class`. `=choice(this.gender = "Male", "He", "She")` is played by `=this.player`. 
+NAME is a CREASTURE SUBCLASS CLASS. They are played by player. 
 # Table of Contents
 - [[#Description|Description]]
 	- [[#Description#Appearance|Appearance]]
@@ -52,23 +53,13 @@ tags:
 # Description
 ## Appearance
 Description of appearance.
-## Personality
-Description of personality.
 # Biography
 ## Before the campaign
-Story of before the adventuring party coalesced in Telack.
-## Adventures
-Story of after meeting the gang.
-# Relationships
-## Person
-Is dit nodig?
+Story of before the adventuring party started.
 # Character information
+Details about the characters class and stuff
 ## Quests
 Short listing of quests this character is after as an adventurer.
 ## Notable items
 - List of items
 - List of items
-# Trivia
-- List of trivia
-- List of trivia
-- List of trivia
