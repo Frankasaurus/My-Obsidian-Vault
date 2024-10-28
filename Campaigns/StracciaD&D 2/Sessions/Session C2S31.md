@@ -1,16 +1,6 @@
 ---
-type: session
-campaign: SDBC
-setting: Califhen
-session-no: 31
-session date: 9/9/2023
-characters:
-  - Carmine
-  - Robyn
-  - Roderick
-  - Elisabeth
-  - Vimak
-  - Phillipa
+tags:
+  - stracciadnd-2
 ---
 *This is the first session in MD*
 # Samenvatting

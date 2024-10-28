@@ -1,18 +1,7 @@
 ---
-name: Ring of Jumping
-name_short: Ring of Jumping
-type: Wondrous Item
-rarity: Uncommon
-materials:
-  - Precious Metal
-attunement: Yes
-slot: Ring
-cursed: 0
-owner: Undetermined
-owner_previous:
-  - ""
-value_gp: "3000"
-publish:
+publish: 
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Ring of Jumping

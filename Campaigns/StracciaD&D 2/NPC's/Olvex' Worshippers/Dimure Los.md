@@ -1,6 +1,7 @@
 ---
 publish: 
-tags: []
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Dimure Los

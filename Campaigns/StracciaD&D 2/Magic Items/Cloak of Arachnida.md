@@ -1,18 +1,7 @@
 ---
-name: Cloak of Arachnida
-name_short: Cloak of Arachnida
-type: Wondrous Item
-rarity: Very Rare
-materials:
-  - Cloth
-  - Silk
-attunement: Yes
-slot: Cloak
-cursed: 0
-owner: Phillipa
-owner_previous:
-  - Unknown
 publish: true
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Cloak of Arachnida

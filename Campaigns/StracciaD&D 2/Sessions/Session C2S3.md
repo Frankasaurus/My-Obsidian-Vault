@@ -1,11 +1,6 @@
 ---
-type: session
-campaign: "SDBC"
-setting: "Califhen"
-session-no: 3
-session date: 6/2/2021
-characters: [Carmine, Kénos, Roderick, Elisabeth, Bulblin, Vimak]
 tags:
+  - stracciadnd-2
 ---
 Datum: Mejcater de 20e van Weledrus, 9963 (28e: Brutenregen)
 

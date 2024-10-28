@@ -1,5 +1,7 @@
 ---
 publish: true
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Ring of X-Ray Vision

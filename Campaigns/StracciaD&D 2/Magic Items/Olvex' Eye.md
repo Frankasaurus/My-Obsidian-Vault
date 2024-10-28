@@ -1,18 +1,7 @@
 ---
-name: Olvex' Eye
-name_short: Olvex' Eye
-type: Wondrous Item
-rarity: Common
-materials:
-  - Metal
-  - Glass
-attunement: No
-slot: Tool
-cursed: 0
-owner: Carmine
-owner_previous:
-  - Towers of Stendor
 publish: true
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Olvex' Eye

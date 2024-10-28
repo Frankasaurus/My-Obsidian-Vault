@@ -1,24 +1,7 @@
 ---
-type: NPC
-campaign: StracciaD&D 2
-name_first: Amenadiel
-name_last: de Dragoness
-name_full: Amenadiel de Dragoness
-name_aka:
-  - His Free Lord Amenadiel de Dragoness
-creature_type: Humanoid
-creature_race: Tiefling
-creature_subrace: 
-gender: Male
-age: 28
-location: Kruziik'ahraan's Lair
-occupation: Servant of Kruziik'ahraan
-status: Alive
-languages:
-  - Common
-  - Draconic
-  - Infernal
 publish: false
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Amenadiel de Dragoness

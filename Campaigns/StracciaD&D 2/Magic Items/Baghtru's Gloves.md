@@ -1,17 +1,7 @@
 ---
-name: Baghtru's Gloves, The 3rd Relic of Terror
-name_short: Baghtru's Gloves
-type: Bracers
-rarity: Legendary
-materials:
-  - Stonestring
-attunement: Yes, by orcish lineage
-slot: Hands
-cursed: 1
-owner: Robyn
-owner_previous:
-  - Civilization of Cgorvelon
 publish: true
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Baghtru's Gloves, The 3rd Relic of Terror

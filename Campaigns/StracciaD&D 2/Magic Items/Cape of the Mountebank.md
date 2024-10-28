@@ -1,17 +1,7 @@
 ---
-name: Cape of the Mountebank
-name_short: Cape of the Mountebank
-type: Wondrous Item
-rarity: Rare
-materials:
-  - Cloth
-attunement: No
-slot: Cloak
-cursed: 0
-owner: Oynur
-owner_previous: 
-value_gp: 7000
-publish:
+publish: 
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Cape of the Mountebank

@@ -1,19 +1,7 @@
 ---
-name: Bloodwell Vial +1
-name_short: Bloodwell Vial
-type: Wondrous Item
-rarity: Uncommon
-materials:
-  - Glass
-  - Precious Metal
-attunement: Yes, by a sorcerer
-slot: Neck
-cursed: 0
-owner: Burried on Tezeder
-owner_previous:
-  - Unknown pirate
-value_gp: 5000
-publish:
+publish: 
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Bloodwell Vial +1

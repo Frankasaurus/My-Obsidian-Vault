@@ -2,11 +2,11 @@
 tags:
   - stracciadnd-2
 ---
-|   |   |   |   |
-|---|---|---|---|
-|Datum|18e van Rijsom-Heret (42), 9963 (5E)|Feest|De Malosaar (12e)|
-|Locatie|Mijnwijk, Meqen, Bloeming Eilanden|Sessie|27|
-|Notities|De gang heeft antwoorden gegeven aan de Verengordel, en Joachim is weer vrij. Roderick is ‘s nachts verstoord en bijna vermoord, maar de gang heeft hem geholpen en is de wraith incarnatie van Sargenet op de hielen gevolgd tot een plein met een ambush.|   |   |
+|          |                                                                                                                                                                                                                                                             |        |                   |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----------------- |
+| Datum    | 18e van Rijsom-Heret (42), 9963 (5E)                                                                                                                                                                                                                        | Feest  | De Malosaar (12e) |
+| Locatie  | Mijnwijk, Meqen, Bloeming Eilanden                                                                                                                                                                                                                          | Sessie | 27                |
+| Notities | De gang heeft antwoorden gegeven aan de Verengordel, en Joachim is weer vrij. Roderick is ‘s nachts verstoord en bijna vermoord, maar de gang heeft hem geholpen en is de wraith incarnatie van Sargenet op de hielen gevolgd tot een plein met een ambush. |        |                   |
 
   
   

@@ -2,11 +2,11 @@
 tags:
   - stracciadnd-2
 ---
-|   |   |   |   |
-|---|---|---|---|
-|Datum|19e van Rijsom-Heret (42), 9963 (5E) - avond|Feest|De Malosaar (12e)|
-|Locatie|Cultistenkamp, West van Meqen, Bloeming Eilanden|Sessie|29|
-|Notities|De gang is naar Vehtrines gegaan, Garien Tinkerson is ook op zoek naar haar oude klasgenootte. Trail gevolgd naar Omgekeerd Cult van Aria, de Zeven Scepters. Meteen Combat. Daarna paraat voor vertrek|   |   |
+|          |                                                                                                                                                                                                         |        |                   |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----------------- |
+| Datum    | 19e van Rijsom-Heret (42), 9963 (5E) - avond                                                                                                                                                            | Feest  | De Malosaar (12e) |
+| Locatie  | Cultistenkamp, West van Meqen, Bloeming Eilanden                                                                                                                                                        | Sessie | 29                |
+| Notities | De gang is naar Vehtrines gegaan, Garien Tinkerson is ook op zoek naar haar oude klasgenootte. Trail gevolgd naar Omgekeerd Cult van Aria, de Zeven Scepters. Meteen Combat. Daarna paraat voor vertrek |        |                   |
 
   
   

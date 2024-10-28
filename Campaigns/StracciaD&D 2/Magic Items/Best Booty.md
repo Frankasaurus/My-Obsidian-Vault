@@ -1,17 +1,7 @@
 ---
-name: The Best Booty
-name_short: Best Booty
-type: Wondrous Item
-rarity: Uncommon
-materials:
-  - Satin
-attunement: No
-slot: Underwear
-cursed: 0
-owner: Burried on Tezeder
-owner_previous:
-  - Unknown pirate
-publish:
+publish: 
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # The Best Booty

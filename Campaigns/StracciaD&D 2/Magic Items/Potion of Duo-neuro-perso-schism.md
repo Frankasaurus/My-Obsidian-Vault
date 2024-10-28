@@ -1,19 +1,7 @@
 ---
-name: Potion of Duo-neuro-perso-schism
-name_short: Potion of Splitting
-type: Potion
-rarity: Very Rare
-materials:
-  - Glass
-  - Silver
-  - Blood
-attunement: No
-slot: Consumable
-cursed: 0
-owner: Alchemist Vehtrines
-owner_previous:
-  - None
-publish:
+publish: 
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Potion of Duo-neuro-perso-schism

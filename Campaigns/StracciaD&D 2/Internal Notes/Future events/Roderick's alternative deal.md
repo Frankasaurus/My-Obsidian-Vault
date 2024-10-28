@@ -1,3 +1,7 @@
+---
+tags:
+  - stracciadnd-2
+---
 Kan plaatsvinden wanneer het goed uitkomt. Zal vooral tussen [[Sargenet]] en [[Roderick]] gaan, met [[Carmine Charr]] betrokken.
 
 Samengevat: Sargenet zal Roderick als oud wizard gedaante opzoeken.

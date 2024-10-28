@@ -1,14 +1,7 @@
 ---
-name: "Wand of the War Mage +1"
-name_short: "Wand of the War Mage"
-type: "Wand"
-rarity: "Uncommon"
-materials: ["Wood"]
-attunement: "Yes, by a spellcaster"
-slot: "Weapon"
-cursed: 0
-owner: "Roderick"
-owner_previous: ["Unnamed Towers of Stendor professor"]
+publish: true
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Wand of the War Mage +1

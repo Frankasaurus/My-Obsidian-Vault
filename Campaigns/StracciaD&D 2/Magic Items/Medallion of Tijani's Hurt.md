@@ -1,19 +1,7 @@
 ---
-name: Medallion of Tijani's Hurt
-name_short: Tijani's Hurt
-type: Wondrous Item
-rarity: Very Rare
-materials:
-  - Precious metals
-  - Emerald
-attunement: No
-slot: Neck
-cursed: 0
-owner: Robyn
-owner_previous:
-  - Tijani
-  - Macaw
 publish: true
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Medallion of Tijani's Hurt

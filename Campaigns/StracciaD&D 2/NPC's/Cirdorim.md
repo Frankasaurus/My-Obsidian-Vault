@@ -1,5 +1,7 @@
 ---
 publish: false
+tags:
+  - stracciadnd-2
 ---
 
 > [!infobox]  

@@ -1,3 +1,7 @@
+---
+tags:
+  - stracciadnd-2
+---
 Betreft [[Medallion of Tijani's Hurt]]. Kan whenever plaatsvinden, ter open interpretatie. 
 Aanleiding vanuit DM kan zijn: *"Het medallion begint te zweven om je nek, niet trekkend zoals eerst. Een zoetere stem komt je tegemoet: ''Ik voel je kracht... het is nu nog veilig... zoek mij...."*
 ## Achtergrond

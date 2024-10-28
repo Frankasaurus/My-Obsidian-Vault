@@ -1,3 +1,9 @@
+---
+tags:
+  - stracciadnd-2
+publish:
+---
+
 > [!infobox]  
 > # Shell of Saviors
 > ![[Image.jpg|cover hsmall]]

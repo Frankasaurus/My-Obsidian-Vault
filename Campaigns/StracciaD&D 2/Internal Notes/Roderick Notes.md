@@ -1,5 +1,7 @@
 ---
-publish:
+publish: 
+tags:
+  - stracciadnd-2
 ---
 *Dit document is spelergericht, en dus in het Nederlands.*
 Onderwerp: [[Roderick]]

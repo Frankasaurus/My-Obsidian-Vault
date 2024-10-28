@@ -1,6 +1,7 @@
 ---
 publish: true
-tags: []
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Sultan Baaneel 

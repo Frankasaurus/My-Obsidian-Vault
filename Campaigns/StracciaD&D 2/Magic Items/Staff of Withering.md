@@ -1,18 +1,7 @@
 ---
-name: Staff of Withering
-name_short: Staff of Withering
-type: Quarterstaff
-rarity: Rare
-materials:
-  - Wood
-  - Precious Metal
-attunement: Yes, by a Cleric, Druid, or Warlock
-slot: Weapon
-cursed: 0
-owner: Sargenet
-owner_previous:
-  - None
-publish:
+publish: 
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Staff of Withering

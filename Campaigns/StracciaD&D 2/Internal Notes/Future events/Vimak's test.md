@@ -1,3 +1,7 @@
+---
+tags:
+  - stracciadnd-2
+---
 # Loyaliteitstest Ilro'he & (Spiritueel leider Hevenar -  naam bedenken)
 Aanleiding is dat Vimak niet veel doet in de naam van zijn god, maar zijn krachten eerder gebruikt om te doen wat hij wilt. Hevenar - Godin van Dood & leven - neemt haar taak serieus, en haar volgers zouden dood en leven in gelijke mate moeten uitdelen. 
 ALS Ilro'he zich naar Dragoness brengt, en de staat van de stad ziet, nodigt ze het Bloeming Consortium van Spirituele leiders uit, waaronder (Spritueel leider Hevenar). (Spiritueel leider Hevenar) betwijfeld of Vimak zijn toewijding (Devotion) op de juiste plaats zit. Is zijn eed van Devotion wel gevolgd?

@@ -2,11 +2,11 @@
 tags:
   - stracciadnd-2
 ---
-|   |   |   |   |
-|---|---|---|---|
-|Datum|19e van Rijsom-Heret (42), 9963 (5E)|Feest|De Malosaar (12e)|
-|Locatie|Mijnwijk, Meqen, Bloeming Eilanden|Sessie|27|
-|Notities|De gang heeft een incarnatie van Sargenet weten te verslaan, waardoor de krachten van Roderick weer tot rust zijn gekeerd. Hun aandacht ligt nu op Vehtrines, die gekidnapped is door de Zeven Scepters, een Cult van Aria.|   |   |
+|          |                                                                                                                                                                                                                             |        |                   |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----------------- |
+| Datum    | 19e van Rijsom-Heret (42), 9963 (5E)                                                                                                                                                                                        | Feest  | De Malosaar (12e) |
+| Locatie  | Mijnwijk, Meqen, Bloeming Eilanden                                                                                                                                                                                          | Sessie | 27                |
+| Notities | De gang heeft een incarnatie van Sargenet weten te verslaan, waardoor de krachten van Roderick weer tot rust zijn gekeerd. Hun aandacht ligt nu op Vehtrines, die gekidnapped is door de Zeven Scepters, een Cult van Aria. |        |                   |
 
   
   

@@ -1,18 +1,7 @@
 ---
-name: Aukan's Axe of the Giant Slayer
-name_short: Giant Slayer
-type: Axe
-rarity: Rare
-materials:
-  - Metal
-  - Wood
-attunement: No
-slot: Weapon
-cursed: 0
-owner: Vimak
-owner_previous:
-  - Aukan "Keepeye" Vaimei-Laga
 publish: true
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Aukan's Axe of the Giant Slayer

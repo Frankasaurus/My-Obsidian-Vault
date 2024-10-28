@@ -1,5 +1,7 @@
 ---
-publish:
+publish: 
+tags:
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # Raaf 
