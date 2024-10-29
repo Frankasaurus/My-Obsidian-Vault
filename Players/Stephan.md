@@ -1,5 +1,7 @@
 ---
 publish: true
+tags:
+  - player
 ---
 > [!infobox]  
 > # NAMENAME

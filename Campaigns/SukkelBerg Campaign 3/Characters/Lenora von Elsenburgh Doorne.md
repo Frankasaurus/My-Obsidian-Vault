@@ -5,7 +5,7 @@ tags:
   - dnd-playercharacter
 ---
 > [!infobox]  
-> # Name
+> # Lenora von Elsenburgh Doorne
 > ![[Image.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  

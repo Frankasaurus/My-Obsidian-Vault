@@ -1,5 +1,10 @@
 ---
 publish: true
+tags:
+  - player
+  - stracciadnd-1
+  - stracciadnd-2
+  - sukkelbergdnd-3
 ---
 > [!infobox]  
 > # NAMENAME

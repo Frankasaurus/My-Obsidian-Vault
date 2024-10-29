@@ -1,5 +1,8 @@
 ---
 publish: true
+tags:
+  - player
+  - stracciadnd-2
 ---
 > [!infobox]  
 > # NAMENAME
