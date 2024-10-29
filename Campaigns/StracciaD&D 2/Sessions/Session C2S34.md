@@ -1,6 +1,7 @@
 ---
 tags:
   - stracciadnd-2
+  - dnd-session
 ---
 # Samenvatting sessie 33
 Met het onthaal van de [[Party]] in Dragoness Barony had [[Xavion de Dragoness]] reden tot feestviering gevonden: "_Een Gala voor de eeuwen, eentje om te onthouden, om jouw terugkeer en de groeiende kracht van Baronie de Dragoness vast te leggen_.". 

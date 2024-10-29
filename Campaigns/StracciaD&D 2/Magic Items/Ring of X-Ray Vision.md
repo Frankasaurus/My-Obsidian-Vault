@@ -2,6 +2,7 @@
 publish: true
 tags:
   - stracciadnd-2
+  - dnd-magicitem
 ---
 > [!infobox]  
 > # Ring of X-Ray Vision

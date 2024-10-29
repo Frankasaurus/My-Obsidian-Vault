@@ -1,6 +1,7 @@
 ---
 tags:
   - stracciadnd-2
+  - dnd-session
 ---
 Datum: Mejcater de 20e van Weledrus, 9963 (28e: Brutenregen)
 

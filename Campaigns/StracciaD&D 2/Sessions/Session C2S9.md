@@ -1,6 +1,7 @@
 ---
 tags:
   - stracciadnd-2
+  - dnd-session
 ---
 Datum: Nacht van de 2e van Grofis, 9963
 

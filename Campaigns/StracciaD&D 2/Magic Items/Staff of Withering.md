@@ -2,6 +2,7 @@
 publish: 
 tags:
   - stracciadnd-2
+  - dnd-magicitem
 ---
 > [!infobox]  
 > # Staff of Withering

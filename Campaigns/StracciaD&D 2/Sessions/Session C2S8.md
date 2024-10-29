@@ -1,6 +1,7 @@
 ---
 tags:
   - stracciadnd-2
+  - dnd-session
 ---
 Datum: 2e van Grofis, 9963 (15e van Grofis: Hofmaken van Heiligen)
 

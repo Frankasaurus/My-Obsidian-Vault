@@ -1,6 +1,7 @@
 ---
 tags:
   - stracciadnd-2
+  - dnd-session
 ---
 # Samenvatting
 **Wat:** Vorige sessie is de party heel Cirdorim's Lair af geweest, een Yagnoloth en Morkoth verslagen, heeft [[Cirdorim]] haar ware zelf laten zien, en smeekt de [[Party]] om te helpen met het herstellen van Dragoness Barony en het vechten te laten stoppen. Op haar rug vliegen ze terug.

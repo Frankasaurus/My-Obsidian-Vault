@@ -1,7 +1,8 @@
 ---
 tags:
   - stracciadnd-2
-publish:
+  - dnd-magicitem
+publish: 
 ---
 
 > [!infobox]  

@@ -1,6 +1,7 @@
 ---
 tags:
   - stracciadnd-2
+  - dnd-session
 ---
 # Samenvatting sessie 35
 **Wanneer:** Nazomer, nacht

@@ -1,6 +1,7 @@
 ---
 tags:
   - stracciadnd-2
+  - dnd-session
 ---
 Datum: Kalphater de 30e van Weledrus, 9963 (15e van Grofis: Hof Maken van Heiligen)
 

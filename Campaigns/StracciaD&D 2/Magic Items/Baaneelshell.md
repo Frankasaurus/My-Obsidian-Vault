@@ -2,6 +2,7 @@
 publish: false
 tags:
   - stracciadnd-2
+  - dnd-magicitem
 ---
 
 > [!infobox]  

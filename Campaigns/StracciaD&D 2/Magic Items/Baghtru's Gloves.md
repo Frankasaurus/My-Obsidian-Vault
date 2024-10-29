@@ -2,6 +2,7 @@
 publish: true
 tags:
   - stracciadnd-2
+  - dnd-magicitem
 ---
 > [!infobox]  
 > # Baghtru's Gloves, The 3rd Relic of Terror

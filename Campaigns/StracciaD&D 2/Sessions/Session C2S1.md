@@ -1,6 +1,7 @@
 ---
 tags:
   - stracciadnd-2
+  - dnd-session
 ---
 Datum: 19e van Weledrus, 9963 (28e: Brutenregen)
 
