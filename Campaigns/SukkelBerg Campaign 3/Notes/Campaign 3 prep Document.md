@@ -76,14 +76,15 @@ These
 	- [ ] Strong start to first short arc, escaping the prison island
 ## Concepts:
 1. Mentor is 'M' Leeflin, founder of Leeflin Bruut, who has planned a coup of the island with all the other prisoners. She escapes and uses the party in the process. Upon completing the attempt, she will honestly declare that she is going to do heinous deeds on the people who did this to her, giving the party time to escape or join her.
+	- This group can then be a recurring theme in the campaign, but that requires it to be relevant enough.
 	- Pro's:
 	- Con's:
-2. During a work excursion, the workers get attacked, but the players save the day. If they allow capture by the guard, they become candidates for a fighting ring, or they can escape, or do whatever. 
+3. During a work excursion, the workers get attacked, but the players save the day. If they allow capture by the guard, they become candidates for a fighting ring, or they can escape, or do whatever. 
 	- Pro's: 
 	- Con's:
-3. An external force is attempting a hostile takeover of the area and the prison, and the party is in the midst of the conflict. They can either resist and defend, fight alongside the hostiles, run, or do whatever.
+4. An external force is attempting a hostile takeover of the area and the prison, and the party is in the midst of the conflict. They can either resist and defend, fight alongside the hostiles, run, or do whatever.
 	- Pro's:
 	- Con's:
-4. MORE IDEAS AFTER PEOPLES BACKSTORY
+5. MORE IDEAS AFTER PEOPLES BACKSTORY
 
 ## What ties the players together
