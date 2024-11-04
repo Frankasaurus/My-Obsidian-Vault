@@ -6,8 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiMap",
-      "LiGlobe2"
+      "⛪",
+      "🔪",
+      "🏹",
+      "🧙‍♀️",
+      "🧛‍♀️"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,5 +34,12 @@
     "lucideIconPackType": "native"
   },
   "Califhen Reborn": "LiGlobe2",
-  "Campaigns": "LiMap"
+  "Campaigns": "LiMap",
+  "Campaigns/SukkelBerg Campaign 3/Notes": "LiNotebookPen",
+  "Campaigns/SukkelBerg Campaign 3/Sessions": "LiBookOpen",
+  "Campaigns/SukkelBerg Campaign 3/Characters": "LiUser",
+  "Campaigns/SukkelBerg Campaign 3": "LiCheckSmall",
+  "Campaigns/StracciaD&D 2": "LiArchive",
+  "Campaigns/StracciaD&D 1": "LiArchive",
+  "Players": "LiUserRoundPen"
 }
