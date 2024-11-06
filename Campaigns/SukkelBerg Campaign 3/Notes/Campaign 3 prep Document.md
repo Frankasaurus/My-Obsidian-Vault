@@ -74,11 +74,12 @@ These
 	- [ ] Intro players to each other and their location
 	- [ ] Intro mentor figure
 	- [ ] Strong start to first short arc, escaping the prison island
+		- Idea: allow for options like a boat, a temple with an ancient portal, or a flying / swimming creature.
 ## Concepts:
 1. Mentor is 'M' Leeflin, founder of Leeflin Bruut, who has planned a coup of the island with all the other prisoners. She escapes and uses the party in the process. Upon completing the attempt, she will honestly declare that she is going to do heinous deeds on the people who did this to her, giving the party time to escape or join her.
 	- This group can then be a recurring theme in the campaign, but that requires it to be relevant enough.
-	- Pro's:
-	- Con's:
+	- Pro's: 
+	- Con's: No clear vision on how to segue this into a further plotpoint
 3. During a work excursion, the workers get attacked, but the players save the day. If they allow capture by the guard, they become candidates for a fighting ring, or they can escape, or do whatever. 
 	- Pro's: 
 	- Con's:
