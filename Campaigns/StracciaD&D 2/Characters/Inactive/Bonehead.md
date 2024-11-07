@@ -22,7 +22,7 @@ tags:
 > | **Occupation** | Ranger Companion | 
 > | **Age** | 4 |
 > | **Languages** | Beast (boar) | 
-> | **Connections** | - [[Bulblin Wormbone]] (companion animal)<br>- [[Party]] (member) |
+> | **Connections** | - [[Bulblin Wormbone]] (companion animal)<br>- [[Party (C2)]] (member) |
 > | **Status** | Alive |
 
 **Bonehead** is a Ranger companion to [[Bulblin Wormbone]]. As an companion, he was played by [[Chris]] and [[Alex]].

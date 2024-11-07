@@ -18,7 +18,7 @@ tags:
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current** | The [[Party]] (currently in [[Carmine Charr]]'s bag of holding) |
+> | **Current** | The [[Party (C2)]] (currently in [[Carmine Charr]]'s bag of holding) |
 > | **Previous** | Morkoth in Cirdorim's Lair |
 
 The **Ring of Telekinesis** is a piece of jewelry that allow the casting of the Telekinesis spell.

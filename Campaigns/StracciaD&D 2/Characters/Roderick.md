@@ -23,7 +23,7 @@ tags:
 > | **Born** | [[Orphelica|The Wovens, Orphelica]] , 20 years ago|  
 > | **Languages** | Common, Elvish |  
 > | **Family** | - Unnamed father and mother |
-> | **Connections** | - [[Party]] (member)<br>- [[The Bonehead]] (First Mate) |
+> | **Connections** | - [[Party (C2)]] (member)<br>- [[The Bonehead]] (First Mate) |
 > | **Status** | Alive |
 > | **Sessions** | All Sessions |
 > ###### Stats

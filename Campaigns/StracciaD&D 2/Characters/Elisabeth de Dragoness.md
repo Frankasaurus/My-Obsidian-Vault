@@ -24,7 +24,7 @@ tags:
 > | **Born** | Dragoness Barony , 23 years ago|  
 > | **Languages** | Common, Infernal, Draconic |  
 > | **Family** | - [[Xavion de Dragoness]] (father, Baron de Dragoness)<br>- [[Willemijn de Dragoness]] (Mother)<br>- [[Amenadiel de Dragoness]], [[Benjamin de Dragoness]], [[Charles de Dragoness]], [[Diederick de Dragoness]] (brothers) |
-> | **Connections** | - [[Party]] (Member)<br>- [[The Bonehead]] (Quartermaster) |
+> | **Connections** | - [[Party (C2)]] (Member)<br>- [[The Bonehead]] (Quartermaster) |
 > | **Status** | Alive |
 > | **Sessions** | All Sessions |
 > ###### Stats

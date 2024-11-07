@@ -10,8 +10,8 @@ tags:
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | type |
-> | **Player** | player |
+> | **Type** | Player Character |
+> | **Player** | [[Hanne]] |
 > ###### Character Information  
 > | | |  
 > |---|---|  
@@ -20,7 +20,7 @@ tags:
 > | **Gender** | gender | 
 > | **Creature Type** | type |
 > | **Species** | species |  
-> | Origin | origin |
+> | **Origin** | origin |
 > | **Class** | class (subclass) |  
 > | **Born** | place of birth, TIME years ago|  
 > | **Languages** | languages |  

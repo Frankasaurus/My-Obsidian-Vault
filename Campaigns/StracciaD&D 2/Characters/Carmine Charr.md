@@ -24,7 +24,7 @@ tags:
 > | **Born** | Dragoness Barony, 28 years ago |
 > | **Languages** | Common, Primordial |  
 > | **Family** | - [[Sabine Charr]] (sister) <br>- [[Jules Charr Sr.]] (father)<br>- [[Doreen Charr]] (mother) |
-> | **Connections** | - [[Party]] (member)<br>- [[The Bonehead]] (Carpenter)<br>- Olvex (worshipper)<br>- [[Hall of Anew]] (associate, ex-member) |
+> | **Connections** | - [[Party (C2)]] (member)<br>- [[The Bonehead]] (Carpenter)<br>- Olvex (worshipper)<br>- [[Hall of Anew]] (associate, ex-member) |
 > | **Status** | Alive |
 > | **Sessions** | All Sessions |
 > ###### Stats

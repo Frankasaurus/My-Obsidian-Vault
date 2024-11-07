@@ -19,7 +19,7 @@ tags:
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current owner** | The [[Party]] (currently [[Carmine Charr]]) |
+> | **Current owner** | The [[Party (C2)]] (currently [[Carmine Charr]]) |
 > | **Previous owners** | *Tergon the Protector*, stored in Cirdorim's Lair |
 
 The **Blue Dragon Scale Mail** is a magical set of armor. It imbues the wearer with a protection specfic to the dragon's hide that was used in creating the armor.

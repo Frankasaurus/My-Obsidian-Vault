@@ -25,7 +25,7 @@ tags:
 > | **Age** | 47 |
 > | **Languages** | Common, Draconic |  
 > | **Family** | - [[Keylin Ostver]] (father) |
-> | **Connections** | - [[Party]] (employer)<br>- [[Joachim Scherp]] (friend & collegue)<br>- [[Xavion de Dragoness]] (old friend & collegue) |
+> | **Connections** | - [[Party (C2)]] (employer)<br>- [[Joachim Scherp]] (friend & collegue)<br>- [[Xavion de Dragoness]] (old friend & collegue) |
 > | **Status** | Alive |
 
 **Wilmide Ostver** is an orange Dragonborn and currently the Principale of Telack. As an NPC, he is played by [[Alex]].
@@ -33,7 +33,7 @@ tags:
 ## Appearance
 Wilmide is a SIlver Dragonborn of regular physique, often seen wearing regal but modest garbs in accordance to the occassion.
 # Biography
-Wilmide was the initial employer of [[Elisabeth de Dragoness]] when she left Dragoness Barony and thus the first employer of the entire [[Party]]. With Telack under threath of a foreign pirate gang, Wilmide had to remain in the city, while his daughter [[Keylin Ostver]] attended the anual Bloeming Isles leadership meeting, to be chaperoned by Elisabeth and the others.
+Wilmide was the initial employer of [[Elisabeth de Dragoness]] when she left Dragoness Barony and thus the first employer of the entire [[Party (C2)]]. With Telack under threath of a foreign pirate gang, Wilmide had to remain in the city, while his daughter [[Keylin Ostver]] attended the anual Bloeming Isles leadership meeting, to be chaperoned by Elisabeth and the others.
 
 After Keylin's kidnapping, Wilmide had been informed by [[Joachim Scherp]] that Meqen had found and sheltered [[Benjamin de Dragoness]], who at that point became the focal point of the Party's quest. He granted them his old holiday ship - now named [[The Bonehead]] - as additional reward, figuring he had no need for it now that the city needed his attention the most.  
 # Relationships

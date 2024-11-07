@@ -23,7 +23,7 @@ tags:
 > | **Born** | Torpe , 24 years ago|  
 > | **Languages** | Common, Orcish |  
 > | **Family** | - [[Rhayn]] (mother)<br>- [[Linzo]] (father) |
-> | **Connections** | - [[Party]] (member)<br>- [[Mozelin Brown's Bazaar]] (member) |
+> | **Connections** | - [[Party (C2)]] (member)<br>- [[Mozelin Brown's Bazaar]] (member) |
 > | **Status** | Alive |
 > | **Sessions** | From Session 9 onwards |
 > ###### Stats

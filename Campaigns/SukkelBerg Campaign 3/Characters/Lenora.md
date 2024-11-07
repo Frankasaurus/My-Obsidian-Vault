@@ -10,24 +10,23 @@ tags:
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | type |
-> | **Player** | player |
+> | **Type** | Player Character |
+> | **Player** | [[Lise]] |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | full name |
-> | **Aliases** | aka |
-> | **Gender** | gender | 
-> | **Creature Type** | type |
-> | **Species** | species |  
-> | Origin | origin |
-> | **Class** | class (subclass) |  
-> | **Born** | place of birth, TIME years ago|  
+> | **Name** | Lenora von Elsenburgh Doorne |
+> | **Gender** | Female | 
+> | **Creature Type** | Humanoid |
+> | **Species** | Human |  
+> | **Origin** | Noble |
+> | **Class** | Warlock (Pact of the Undead)<br>Sorcerer (Shadowmagic Origin) |  
+> | **Born** | [[Elivestr]] (Noord-[[Celiria]]), 24 years ago |  
 > | **Languages** | languages |  
-> | **Family** | - Name (relation)<br>- Name (relation) |
-> | **Connections** | - Name (relation)<br>- Name (relation |
-> | **Status** | status |
-> | **Sessions** | member |
+> | **Family** | - [[Wilmar von Elsenburgh]] (vader)<br>- Twee zusjes |
+> | **Connections** | - Kaurius Krone (Wilmar's rivaal) |
+> | **Status** | Alive |
+> | **Sessions** | All of [[Campaign 3]] |
 > ###### Stats
 > | | | | |
 > |---|---|---|---|
@@ -37,7 +36,7 @@ tags:
 > | **Dex** | stat_dex | **Wis** | stat_wis |
 > | **Con** | stat_con | **Cha** | stat_cha |
 
-NAME is a CREASTURE SUBCLASS CLASS. They are played by player. 
+**Lenora** is a Dhampiric Human Warlock & Sorcerer. She is played by [[Lise]]. 
 # Table of Contents
 - [[#Description|Description]]
 	- [[#Description#Appearance|Appearance]]

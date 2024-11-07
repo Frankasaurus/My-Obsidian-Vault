@@ -13,12 +13,12 @@ tags:
 > | **Type** | Ship | 
 > | **Name** | The Bonehead |
 > | **Location** | Dragoness Baronys harbor |
-> | **Connections** | - [[Party]] (crew)<br>- [[Wilmide Ostver]] (previous owner) |
+> | **Connections** | - [[Party (C2)]] (crew)<br>- [[Wilmide Ostver]] (previous owner) |
 
-**The Bonehead** is a small three-masted sloop, which the [[Party]] got as a reward from [[Wilmide Ostver]] (who was its previous owner) for returning [[Keylin Ostver]] to him. 
+**The Bonehead** is a small three-masted sloop, which the [[Party (C2)]] got as a reward from [[Wilmide Ostver]] (who was its previous owner) for returning [[Keylin Ostver]] to him. 
 # Members
 ## Current members
-- [[Party]]
+- [[Party (C2)]]
 	- Captain Vimak
 	- First Mate Roderick
 	- Quartermaster Elisabeth

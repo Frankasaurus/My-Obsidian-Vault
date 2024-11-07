@@ -7,7 +7,7 @@ tags:
 **Wanneer:** Nazomer, dag
 **Waar:** Greyskil, Cirdorim's Lair, landingsplaats.
 **Doel sessie:** Ware kennismaking [[Cirdorim]], en [[Dragon Slayer Longsword]] behalen. Allies inroepen.
-Nu iedereen Dragoness Barony heeft kunnen ontvluchten, ontwijkt de [[Party]] gevangenneming door op drakes te ontsnappen naar een grot langs de kust op advies van [[Cirdorim]], waar ze hopen een item te vinden waarmee ze de aanstichters van de burgeroorlog kunnen stoppen. Ze vinden de ingang, maar worden gezien en naar de huidige bewoners van de grot gebracht, waar ze "gevraagd" worden om hun magische voorwerpen te "ruilen". Omsingeld door een kolonie Kobolds, de sfeer is gespannen, en de party staat voor een keuze wat ze gaan doen...
+Nu iedereen Dragoness Barony heeft kunnen ontvluchten, ontwijkt de [[Party (C2)]] gevangenneming door op drakes te ontsnappen naar een grot langs de kust op advies van [[Cirdorim]], waar ze hopen een item te vinden waarmee ze de aanstichters van de burgeroorlog kunnen stoppen. Ze vinden de ingang, maar worden gezien en naar de huidige bewoners van de grot gebracht, waar ze "gevraagd" worden om hun magische voorwerpen te "ruilen". Omsingeld door een kolonie Kobolds, de sfeer is gespannen, en de party staat voor een keuze wat ze gaan doen...
 # Onthouden
 - **Dragoness Brandt**: Elke in-game dag vinden er gevechten plaats tussen Huis Dragoness en het Vrijheids Legioen.
 - Onthoudt Allies die ze kunnen inschakelen

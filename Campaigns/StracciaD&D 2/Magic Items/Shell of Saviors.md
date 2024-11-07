@@ -19,10 +19,10 @@ publish:
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current owner** | [[Party]] |
+> | **Current owner** | [[Party (C2)]] |
 > | **Previous owners** | The Baaneel Peoples |
 
-The **Shell of Saviors** is magical Sea shell and an upgraded form of the [[Baaneelshell]], apparated by Seer Dohelyn Oseath as guidance for the [[Party]]. Each of the members of the party posess one such shell.
+The **Shell of Saviors** is magical Sea shell and an upgraded form of the [[Baaneelshell]], apparated by Seer Dohelyn Oseath as guidance for the [[Party (C2)]]. Each of the members of the party posess one such shell.
 # History
 In Oseath's own Words of Rite, she wishes to redeem her countless years of worship not for personal gain, but for the good of others, trusting in Olvex' wisdom to assist those that can help the people most in need. Through her, the shells would manifest.
 ## Appearance

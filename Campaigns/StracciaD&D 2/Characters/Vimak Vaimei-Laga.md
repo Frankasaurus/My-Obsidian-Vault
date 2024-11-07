@@ -24,7 +24,7 @@ tags:
 > | **Born** | Devostina Alps, Nizakun, 30 years ago |  
 > | **Languages** | Common, Giant, Elvish |  
 > | **Family** | - Kuori Vaimei-Laga (father)<br>- Lo-Kag Vaimei-Laga (mother)<br>- Aukan Vaimei-Laga (brother, deceased) |
-> | **Connections** | - [[Party]] (member)<br>- [[The Bonehead]] (Captain)<br>- Gathakeaku Clan (ex-member, banished)<br>- Hevenar (Oath patron) |
+> | **Connections** | - [[Party (C2)]] (member)<br>- [[The Bonehead]] (Captain)<br>- Gathakeaku Clan (ex-member, banished)<br>- Hevenar (Oath patron) |
 > | **Status** | Alive |
 > | **Sessions** | All Sessions |
 > ###### Stats

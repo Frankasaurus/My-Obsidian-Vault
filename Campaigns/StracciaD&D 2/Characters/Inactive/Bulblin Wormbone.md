@@ -23,7 +23,7 @@ tags:
 > | **Born** | [[Bloeming Isles#The Bloeming Heart|Jaxos Isles]], ?? years ago |  
 > | **Languages** | Common, Goblin, Elvish, Infernal |  
 > | **Family** | - Wormbone family (member) |
-> | **Connections** | - [[Party]] (ex-member)<br>- [[Bonehead]] (partner) |
+> | **Connections** | - [[Party (C2)]] (ex-member)<br>- [[Bonehead]] (partner) |
 > | **Status** | Alive |
 > | **Sessions** | From Sessions 1 to 12 |
 > ###### Last known stats
@@ -49,7 +49,7 @@ Despite centuries of not being attacked, goblins are always prepared. Bulblin wa
 
 Soon, Bulblin managed to find comrades, and together they headed to the hideout gate to defend it. Emerging from the glaring light were large shadows, larger than any he had seen before. A deep growl followed, revealing that a large group of Bugbears was charging towards them. Fighting valiantly, the brave goblins were no match for the much stronger Bugbears. Hours of struggle ensued, with Bulblin losing more and more comrades. Driven back by the Bugbears, Bulblin found himself far from the city, deep within the forest. He managed to escape the Bugbears and fled.
 
-Weeks passed. Bulblin was well-acquainted with the deep woods and managed to hold his ground. Alongside his wild boar whom he names Bonehead - with which he had become close friends - he carved a path to the south, searching for other survivors. He found none. He did stumble upon a coastline with traders and [[Party|adventurers]]. They eyed the goblin riding on a wild boar as it came charging towards them with apprehension. This kind had never been encountered here before. Bulblin, not knowing any better, accepted an offer to work for a weapons and armor merchant. Unaware of what lay ahead, Bulblin stepped onto a ship heading west.
+Weeks passed. Bulblin was well-acquainted with the deep woods and managed to hold his ground. Alongside his wild boar whom he names Bonehead - with which he had become close friends - he carved a path to the south, searching for other survivors. He found none. He did stumble upon a coastline with traders and [[Party (C2)|adventurers]]. They eyed the goblin riding on a wild boar as it came charging towards them with apprehension. This kind had never been encountered here before. Bulblin, not knowing any better, accepted an offer to work for a weapons and armor merchant. Unaware of what lay ahead, Bulblin stepped onto a ship heading west.
 ## Adventures
 > TODO
 # Relationships
@@ -58,7 +58,7 @@ Weeks passed. Bulblin was well-acquainted with the deep woods and managed to hol
 ## Quests
 Bulblin is looking for his family, or whats left of it after the bugbear attack.
 One such person, Ghxarver Wormbone has been found, having established a small business in Cape Rosa. She told Bulblin that many have fled across the seas, dispersing towards Greyskil. 
-Some of the fleeing Wormbone's were caught by servants of [[Sultan Baaneel]], whom Bulblin released and fled with while the [[Party]] were fighting the Sultan and his goons.
+Some of the fleeing Wormbone's were caught by servants of [[Sultan Baaneel]], whom Bulblin released and fled with while the [[Party (C2)]] were fighting the Sultan and his goons.
 ## Notable items
 - *List of items*
 ## Magic items

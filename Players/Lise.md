@@ -7,16 +7,15 @@ tags:
   - sukkelbergdnd-3
 ---
 > [!infobox]  
-> # NAMENAME
-> ![[Image.jpg|cover hsmall]]  
+> # Lise
+> ![[Lise.png]]  
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | NAMEFULL |
-> | **Campaigns** | CAMPS (SYSTEM) |
-> | **Characters** | CHARS |
+> | **Name** | Lise |
+> | **Campaigns** | - [[Campaign 1]] (character?)<br>- [[Campaign 2]] ([[Kénos]] & [[Robyn Heyns]])<br>- [[Campaign 3]] ([[Lenora]]) |
 
-NAME is a member of [[Alex|Alex's]] Tabletop Games, and plays CHAR in CAMPAIGN.
+**Lise** is a member of [[Alex|Alex's]] Tabletop Games, and plays CHAR in CAMPAIGN.
 # Characters
 ## Main campaigns
 - Character, race class (campaign)

@@ -18,7 +18,7 @@ tags:
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current owner** | The [[Party]] (currently [[Robyn Heyns]]) |
+> | **Current owner** | The [[Party (C2)]] (currently [[Robyn Heyns]]) |
 > | **Previous owners** | Kobolds & Morkoth occupying Cirdorim's Lair |
 
 **Dragon Slayer** is a Longsword currently hidden in Cirdorim's Lair It's the go-to weapon for confidently challenging Dragons.

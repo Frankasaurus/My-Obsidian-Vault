@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFlag",
       "LiStars",
       "LiChurch",
       "⛪",
-      "🔪",
-      "🏹"
+      "🔪"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,6 @@
   "Campaigns/StracciaD&D 1": "LiArchive",
   "Players": "LiUserRoundPen",
   "Califhen Reborn/Pantheon": "LiChurch",
-  "Califhen Reborn/Realms": "LiStars"
+  "Califhen Reborn/Realms": "LiStars",
+  "Campaigns/SukkelBerg Campaign 3/Factions & Organisations": "LiFlag"
 }

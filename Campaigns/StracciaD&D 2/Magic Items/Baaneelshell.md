@@ -19,7 +19,7 @@ tags:
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current owner** | [[Party]] |
+> | **Current owner** | [[Party (C2)]] |
 > | **Previous owners** | Seer Dohelyn Oseath |
 
 **Baaneelshells** are magical Sea shells that allow the user to breathe under water for a short time.
