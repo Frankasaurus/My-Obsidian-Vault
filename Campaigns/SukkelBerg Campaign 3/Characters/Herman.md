@@ -15,18 +15,16 @@ tags:
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | full name |
-> | **Aliases** | aka |
-> | **Gender** | gender | 
-> | **Creature Type** | type |
-> | **Species** | species |  
-> | **Origin** | origin |
-> | **Class** | class (subclass) |  
-> | **Born** | place of birth, TIME years ago|  
-> | **Languages** | languages |  
-> | **Family** | - Name (relation)<br>- Name (relation) |
-> | **Connections** | - Name (relation)<br>- Name (relation |
-> | **Status** | status |
+> | **Name** | Herman |
+> | **Gender** | Male | 
+> | **Creature Type** | Humanoid |
+> | **Species** | Orc |  
+> | **Origin** | Farmer |
+> | **Class** | Paladin (Oath of Glory) |  
+> | **Born** | (TBD), (TIME) years ago|  
+> | **Languages** | Common, Halfling, Orc |  
+> | **Connections** | - Unnamed orphanage (proprietor) |
+> | **Status** | Alive |
 > | **Sessions** | member |
 > ###### Stats
 > | | | | |
@@ -37,7 +35,7 @@ tags:
 > | **Dex** | stat_dex | **Wis** | stat_wis |
 > | **Con** | stat_con | **Cha** | stat_cha |
 
-NAME is a CREASTURE SUBCLASS CLASS. They are played by player. 
+**Herman** is a Orc Glory Paladin. He is played by [[Melle]]. 
 # Table of Contents
 - [[#Description|Description]]
 	- [[#Description#Appearance|Appearance]]

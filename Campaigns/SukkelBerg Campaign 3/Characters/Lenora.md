@@ -6,7 +6,7 @@ tags:
 ---
 > [!infobox]  
 > # Lenora von Elsenburgh Doorne
-> ![[Image.jpg|cover hsmall]]  
+> ![[Lenora1.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -22,9 +22,9 @@ tags:
 > | **Origin** | Noble |
 > | **Class** | Warlock (Pact of the Undead)<br>Sorcerer (Shadowmagic Origin) |  
 > | **Born** | [[Elivestr]] (Noord-[[Celiria]]), 24 years ago |  
-> | **Languages** | languages |  
-> | **Family** | - [[Wilmar von Elsenburgh]] (vader)<br>- Twee zusjes |
-> | **Connections** | - Kaurius Krone (Wilmar's rivaal) |
+> | **Languages** | Common, Elvish, Infernal |  
+> | **Family** | - [[Wilmar von Elsenburgh]] (father)<br>- Two younger sisters |
+> | **Connections** | - Kaurius Krone (Wilmar's rival)<br>- Unknown Warlock patron |
 > | **Status** | Alive |
 > | **Sessions** | All of [[Campaign 3]] |
 > ###### Stats
