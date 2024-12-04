@@ -6,7 +6,7 @@ tags:
 ---
 > [!infobox]  
 > # Name
-> ![[Image.jpg|cover hsmall]]  
+> ![[Herman1.png|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -29,11 +29,11 @@ tags:
 > ###### Stats
 > | | | | |
 > |---|---|---|---|
-> | **Level** | level | **HP** | hit_points |
-> | **AC** | armor_class | | |
-> | **Str** | stat_str | **Int** | stat_int |
-> | **Dex** | stat_dex | **Wis** | stat_wis |
-> | **Con** | stat_con | **Cha** | stat_cha |
+> | **Level** | 3 | **HP** | 37 |
+> | **AC** | 9 | | |
+> | **Str** | 17| **Int** | 8 |
+> | **Dex** | 8 | **Wis** | 8 |
+> | **Con** | 16 | **Cha** | 15 |
 
 **Herman** is a Orc Glory Paladin. He is played by [[Melle]]. 
 # Table of Contents
@@ -64,10 +64,3 @@ Short listing of quests this character is after as an adventurer.
 - List of items
 - List of items
 ***
-Yo Alex ik heb al aardig een concept. Ik ben een Ork, farmer background. Ik heb mijn boerderij opgericht om er een juveniele instelling van te maken. Als er kinderen zijn die voor een kleine misdaad betrapt worden komen ze bij mij op de boerderij om daar ritme en discipline te leren.
-
-Als kind zijnde was ik ook iemand die op de straten leefde en stal om rond te komen. Later dat ik ouder werd merkte ik dat dit niet het leven was wat ik wilde en ik nergens trots op kon zijn. Ik heb met mijzelf de afspraak gemaakt om iets glorieus op te bouwen en iets goeds zal doen voor de maatschappij. Vandaar de boerderij.
-
-Een van mijn kinderen die een lange tijd bij mij helpt op de boederij raakt maar niet af van zijn vorige leven. Hij is geframd voor een moord op een ander. Om hem een goed leven te geven heb ik er voor gekozen om de schuld op me te nemen. Vandaar dat ik vast zit.
-
-Mijn doel is om mijn verhaal te delen en te uiten waar ik voor sta. Ik heb dus ook geen god. Alleen de oath die ik met mijzelf heb afgesproken

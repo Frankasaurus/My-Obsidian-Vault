@@ -1,6 +1,8 @@
 ---
 tags:
   - sukkelbergdnd-3
+  - internal
+publish:
 ---
 # Perpetual goals of campaign 3
 Here I've listed the pillars of - what I think - makes a D&D campaign, combined with the issues that I had with each of them, and how I want to counteract these issues.

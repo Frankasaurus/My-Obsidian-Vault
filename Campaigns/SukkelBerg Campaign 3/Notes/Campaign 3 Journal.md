@@ -1,3 +1,9 @@
+---
+publish: 
+tags:
+  - sukkelbergdnd-3
+  - internal
+---
 # First arc setup
 The first arc is going to be ~4 Sessions long, and revolve around the party's escape from Cogastr and return to mainland. They will have to...
 - Deal with the prison break
