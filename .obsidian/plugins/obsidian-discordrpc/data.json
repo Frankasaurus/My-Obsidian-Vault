@@ -1,6 +1,6 @@
 {
   "showVaultName": true,
-  "showCurrentFileName": false,
+  "showCurrentFileName": true,
   "showPopups": true,
   "customVaultName": "",
   "showFileExtension": false,

@@ -1,10 +1,10 @@
 
-| Player     | Character                        | Species         | Origin | Class                                                                 |
-| ---------- | -------------------------------- | --------------- | ------ | --------------------------------------------------------------------- |
-| [[Alex]]   | *Dungeon Master*                 |                 |        |                                                                       |
-| [[Hanne]]  | [[Garrick]]         |                 |        | Ranger                                                                |
-| [[Kacper]] | [[Gallus]]        | Aasimar / Human | Hermit | Druid - Circle of Stars (lv 3)                                        |
-| [[Kim]]    | [[Kim's C3 character]]           |                 |        | Wizard                                                                |
-| [[Lise]]   | [[Lenora]] | Human Dhampir   | Noble  | Warlock - Pact of the Undead (lv 2)<br>Sorcerer - Shadow Magic (lv 1) |
-| [[Melle]]  | [[Herman]]         | Orc             | Farmer | Paladin - Oath of Glory (lv 3)                                        |
-| [[Roy]]    | [[Roy's C3 character]]           |                 |        | Rogue - Arcane Trickster (lv 3)                                       |
+| Player     | Character        | Species       | Origin      | Class                                                                 |
+| ---------- | ---------------- | ------------- | ----------- | --------------------------------------------------------------------- |
+| [[Alex]]   | *Dungeon Master* |               |             |                                                                       |
+| [[Hanne]]  | [[Garrick]]      | Human         | Entertainer | Ranger - Beastmaster (lv 3)                                           |
+| [[Kacper]] | [[Gallus]]       | Elf (Drow)    | Hermit      | Druid - Circle of Stars (lv 3)                                        |
+| [[Kim]]    | [[Nyrin]]        | Elf (Drow)    | Scribe      | Wizard - Illusionist (lv 3)                                           |
+| [[Lise]]   | [[Lenora]]       | Human Dhampir | Noble       | Warlock - Pact of the Undead (lv 2)<br>Sorcerer - Shadow Magic (lv 1) |
+| [[Melle]]  | [[Herman]]       | Orc           | Farmer      | Paladin - Oath of Glory (lv 3)                                        |
+| [[Roy]]    | [[Yerall]]       | Elf (Drow)    | Wayfarer    | Rogue - Arcane Trickster (lv 3)                                       |
