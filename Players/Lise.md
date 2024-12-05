@@ -13,9 +13,9 @@ tags:
 > | | |  
 > |---|---|  
 > | **Name** | Lise |
-> | **Campaigns** | - [[Campaign 1]] (character?)<br>- [[Campaign 2]] ([[Kénos]] & [[Robyn Heyns]])<br>- [[Campaign 3]] ([[Lenora]]) |
+> | **Campaigns** | - [[Campaign 1]] (Neavys)<br>- [[Campaign 2]] ([[Kénos]] & [[Robyn Heyns]])<br>- [[Campaign 3]] ([[Lenora]]) |
 
-**Lise** is a member of [[Alex|Alex's]] Tabletop Games, and plays CHAR in CAMPAIGN.
+**Lise** is a member of [[Alex|Alex's]] Tabletop Games, and currently plays [[Lenora]] in [[Campaign 3]].
 # Characters
 ## Main campaigns
 - Character, race class (campaign)

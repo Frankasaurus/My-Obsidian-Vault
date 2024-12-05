@@ -6,7 +6,7 @@ tags:
 ---
 > [!infobox]  
 > # NAMENAME
-> ![[Image.jpg|cover hsmall]]  
+> ![[Chris.jpg|cover hsmall]]  
 > ###### Character Information  
 > | | |  
 > |---|---|  

@@ -8,7 +8,7 @@ tags:
 ---
 > [!infobox]  
 > # NAMENAME
-> ![[Image.jpg|cover hsmall]]  
+> ![[Kacper.jpg|cover hsmall]]  
 > ###### Character Information  
 > | | |  
 > |---|---|  
