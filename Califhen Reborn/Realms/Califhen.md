@@ -1,6 +1,8 @@
 ---
 publish: false
 tags:
+  - califhen-reborn
+  - TODO
 ---
 > [!infobox]  
 > # Califhen
@@ -27,7 +29,7 @@ tags:
 	While a complete land border with Tenir doesn't exist, it's southern mudflats and island chains keep it somewhat connected to its only neighboring landmass.
 
 **Tenir**
-	The largest continent by landmass is Tenir, spanning a third of Califhen in width. Most of it is covered in fertile grasslands, resulting in some of the biggest sovereignties in Califhen. It also often gets seen as the region including the Ageloop islands.
+	The largest continent by landmass is Tenir, spanning a third of Califhen in width. Most of it is covered in fertile grasslands, resulting in some of the biggest sovereignties in Califhen. It also often gets seen as the region including the Allop Islands.
 
 **Akeon**
 	Akeon is the only continent fully isolated in the southern hemisphere, mostly covered in dry grasslands and desert, with slivers of rainforest and colder climates at its extremes. It's capitals in ==... and ...== are some of the most oldest in Califhen.
