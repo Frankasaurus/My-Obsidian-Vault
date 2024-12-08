@@ -21,19 +21,28 @@ When a soul reaches Godhood, they become incorporeal, near-indestructable, unbou
 
 [^1]: Space, Time, Fate, and Blood are collectively called Immateria, The Four Truths, or The Four Facts
 # Current Title list
+Though the titles do not differ in ranking, the titles of **Growth**, **Light** and **Decay** are often considered the core of the pantheon. Their worshippers can be found all over Califhen.
 
 | Title                          | Currect occupant | Alternative titles                             |
 | ------------------------------ | ---------------- | ---------------------------------------------- |
-| God of Growth & the Journey    |                  |                                                |
-| God of Light & the Truth       |                  | Steelforged                                    |
-| God of Decay & the End         |                  | Plague Queen, Brewlord, the Tunnel             |
-| God of Matter & the Celestial  |                  | Wavemaster, Lord of Dust                       |
-| God of Nature & the Spirits    |                  |                                                |
-| God of Darkness & the Untruth  |                  |                                                |
+| God of Growth & the Journey    | Aneon            | He Who Lost All, Everchild                     |
+| God of Light & the Truth       | Lito             | Steelforged, Godray                            |
+| God of Decay & the End         | Ta'yen           | Plague Queen, Brewlord, the Tunnel             |
+| God of Matter & the Celestial  | Vovodin          | Wavemaster, Lord of Dust                       |
+| God of Nature & the Spirits    | Juldynar         | Many-Horned, Fell Beast                        |
+| God of Darkness & the Untruth  | Olmari           | The Unexistant, Lying Prince                   |
 | God of Elements & the Reaction |                  | Graviturgia Superior, Lord of the Frigid Flame |
-| God of Sight & the Existance   |                  | Domainmaster, Host of the Lodge                |
-| God of Hope & the Ruination    |                  | Lord of Despair                                |
-| God of Emotion & the Fury      |                  | The Penitent Host                              |
-| God of Corruption & the Mirror |                  | Wormduke                                       |
-| God of Myth & the Ancient      |                  | Repositorant                                   |
+| God of Sight & the Existance   | Pelgostr         | Domainmaster, Host of the Lodge                |
+| God of Hope & the Ruination    |                  | Lord of Despair, the Last Resort, Father Luck  |
+| God of Emotion & the Fury      | Eppa             | The Penitent Host                              |
+| God of Corruption & the Mirror |                  | Wormduke Incarnate                             |
+| God of Myth & the Ancient      | *N.a.* [^2]      | 'Tercir', Repositorant                         |
 | God of Might & the Flesh       |                  |                                                |
+[^2]: Traditionally, the occupant of the Myth title dispells their name from existance. It is thought that this is because it limits disturbing those that follow its wake most deepest whenever a new occupant arises. When addressing them, the name of the first occupant 'Tercir' is often used.
+## Redundant titles
+The following is in inexhaustive list of previous titles that were either merged, destroyed, or forgotten.
+
+| Title | Currect occupant | Alternative titles | Follower Denonym |
+| ----- | ---------------- | ------------------ | ---------------- |
+|       |                  |                    |                  |
+|       |                  |                    |                  |
