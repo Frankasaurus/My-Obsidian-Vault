@@ -23,7 +23,7 @@ tags:
 > | **Class** | Warlock (Pact of the Undead)<br>Sorcerer (Shadowmagic Origin) |  
 > | **Born** | [[Elivestr]] (Noord-[[Celiria]]), 24 years ago |  
 > | **Languages** | Common, Elvish, Infernal |  
-> | **Family** | - [[Wilmar von Elsenburgh]] (father)<br>- Two younger sisters |
+> | **Family** | - [[Wilmar von Elsenburgh]] (father)<br>- Corinne & *Name TBD* (sisters) |
 > | **Connections** | - Kaurius Krone (Wilmar's rival)<br>- Unknown Warlock patron |
 > | **Status** | Alive |
 > | **Sessions** | All of [[Campaign 3]] |

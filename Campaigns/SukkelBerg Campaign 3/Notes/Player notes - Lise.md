@@ -94,3 +94,10 @@ Stadsgarde, poortwachters, gevangenis, kerkers, en caravaanbewakers. Het leger v
 stad valt hier buiten.
 Wilmar (volwassen, kort gelig-blond gevlochten haar met stoppelbaard. groene ogen,
 gezonde tan, gedefinieerde, spitse neus.)
+
+Family;
+Wilmar von Elsenburgh - Father
+Josephine Doorne - Mother, deceased
+Corinne - Oldest sister
+??? - Middle sister
+Dushi & Niffo - Dogs

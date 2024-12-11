@@ -32,7 +32,7 @@ Though the titles do not differ in ranking, the titles of **Growth**, **Light** 
 | God of Nature & the Spirits    | Juldynar         | Many-Horned, Fell Beast                        |
 | God of Darkness & the Untruth  | Olmari           | The Unexistant, Lying Prince                   |
 | God of Elements & the Reaction |                  | Graviturgia Superior, Lord of the Frigid Flame |
-| God of Sight & the Existance   | Pelgostr         | Domainmaster, Host of the Lodge                |
+| God of Sight & the Existance   | Pelgostr         | Domainmaster, Host of the Lodge, Hearthfather  |
 | God of Hope & the Ruination    |                  | Lord of Despair, the Last Resort, Father Luck  |
 | God of Emotion & the Fury      | Eppa             | The Penitent Host                              |
 | God of Corruption & the Mirror |                  | Wormduke Incarnate                             |
