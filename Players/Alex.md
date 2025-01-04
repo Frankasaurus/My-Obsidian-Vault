@@ -7,25 +7,16 @@ tags:
   - sukkelbergdnd-3
 ---
 > [!infobox]  
-> # NAMENAME
+> # Alex
 > ![[Image.jpg|cover hsmall]]  
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | NAMEFULL |
-> | **Campaigns** | CAMPS (SYSTEM) |
-> | **Characters** | CHARS |
+> | **Name** | Alex |
+> | **Campaigns** | All campaigns as Dungeon Master |
 
-NAME is a member of [[Alex|Alex's]] Tabletop Games, and plays CHAR in CAMPAIGN.
-# Characters
-## Main campaigns
-- Character, race class (campaign)
-- Character, race class (campaign)
-- Character, race class (campaign)
-## One-Shots
-- Character, race class (campaign)
-- Character, race class (campaign)
-# Trivia
-- List of trivia
-- List of trivia
-- List of trivia
+**Alex** is the Dungeon Master in the Sukkelberg D&D Tabletop group.
+
+I am your God.
+
+Long may I reign.

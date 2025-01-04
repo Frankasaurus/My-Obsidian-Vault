@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 tags:
   - player
   - stracciadnd-1
@@ -7,25 +7,14 @@ tags:
   - sukkelbergdnd-3
 ---
 > [!infobox]  
-> # NAMENAME
+> # Melle
 > ![[Image.jpg|cover hsmall]]  
-> ###### Character Information  
-> | | |  
-> |---|---|  
-> | **Name** | NAMEFULL |
-> | **Campaigns** | CAMPS (SYSTEM) |
-> | **Characters** | CHARS |
 
-NAME is a member of [[Alex|Alex's]] Tabletop Games, and plays CHAR in CAMPAIGN.
+**Melle** is a member of [[Alex|Alex's]] Tabletop Games, and currently plays [[Herman]] in [[Campaign 3]].
 # Characters
 ## Main campaigns
-- Character, race class (campaign)
-- Character, race class (campaign)
-- Character, race class (campaign)
+- [[Campaign 1]] - Rohi Lee, a Dwarven Artificer
+- [[Campaign 2]] - [[Roderick]], a Half-Wood Elven Fiend Warlock
+- [[Campaign 3]] - [[Herman]], an Orc Glory Paladin
 ## One-Shots
-- Character, race class (campaign)
-- Character, race class (campaign)
-# Trivia
-- List of trivia
-- List of trivia
-- List of trivia
+- StracciaD&D Kerstspecial - Subel, a High Elven Wizard / Artificer

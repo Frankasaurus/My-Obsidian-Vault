@@ -3,6 +3,7 @@ publish: true
 tags:
   - sukkelbergdnd-3
   - important-page
+  - TODO
 ---
 # Campaign 3 party overview
 **Campaign 3** is the third Dungeons & Dragons Campaign within the Sukkelberg group. It takes place in the **[[Califhen Reborn]]** setting, in the Region of [[Celiria]].

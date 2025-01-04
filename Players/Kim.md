@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 tags:
   - player
   - stracciadnd-1
@@ -7,25 +7,14 @@ tags:
   - sukkelbergdnd-3
 ---
 > [!infobox]  
-> # NAMENAME
+> # Kim
 > ![[Image.jpg|cover hsmall]]  
-> ###### Character Information  
-> | | |  
-> |---|---|  
-> | **Name** | NAMEFULL |
-> | **Campaigns** | CAMPS (SYSTEM) |
-> | **Characters** | CHARS |
 
-NAME is a member of [[Alex|Alex's]] Tabletop Games, and plays CHAR in CAMPAIGN.
+**Kim** is a member of [[Alex|Alex's]] Tabletop Games, and currently plays [[Nyrin]] in [[Campaign 3]].
 # Characters
 ## Main campaigns
-- Character, race class (campaign)
-- Character, race class (campaign)
-- Character, race class (campaign)
+- [[Campaign 1]] - ???
+- [[Campaign 2]] - [[Elisabeth de Dragoness]], a Tiefling Draconic Sorceress
+- [[Campaign 3]] - [[Nyrin]], a Drow Elven Glamour Bard
 ## One-Shots
-- Character, race class (campaign)
-- Character, race class (campaign)
-# Trivia
-- List of trivia
-- List of trivia
-- List of trivia
+- StracciaD&D Kerstspecial - Graniar, a Githzerai Devotion Paladin

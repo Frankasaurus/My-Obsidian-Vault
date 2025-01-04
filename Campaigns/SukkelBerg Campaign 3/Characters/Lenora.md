@@ -19,7 +19,7 @@ tags:
 > | **Name** | Lenora von Elsenburgh Doorne |
 > | **Gender** | Female | 
 > | **Creature Type** | Humanoid |
-> | **Species** | Human |  
+> | **Species** | Dhampir (Human origin) |  
 > | **Origin** | Noble |
 > | **Class** | Warlock (Pact of the Undead)<br>Sorcerer (Shadowmagic Origin) |  
 > | **Born** | [[Elivestr]] (Noord-[[Celiria]]), 24 years ago |  

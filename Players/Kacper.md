@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 tags:
   - player
   - stracciadnd-1
@@ -7,24 +7,15 @@ tags:
   - sukkelbergdnd-3
 ---
 > [!infobox]  
-> # NAMENAME
+> # Kacper
 > ![[Kacper.jpg|cover hsmall]]  
-> ###### Character Information  
-> | | |  
-> |---|---|  
-> | **Name** | Kacper Banasiak |
-> | **Campaigns** | - [[Campaign 2]], as [[Carmine Charr]]<br>- Cyberpunk RED, as Tal Rezin |
 
-**Kacper** is a member of [[Alex|Alex's]] Tabletop Games, and plays [[Carmine Charr]].
+**Kacper** is a member of [[Alex|Alex's]] Tabletop Games, and currently plays [[Gallus|Gallus Solarn]] in [[Campaign 3]].
 # Characters
 ## Main campaigns
-- [[Carmine Charr]], Fire Genasi Cleric (campaign)
-- Character, race class (campaign)
-- Character, race class (campaign)
-## One-Shots
-- Character, race class (campaign)
-- Character, race class (campaign)
-# Trivia
-- List of trivia
-- List of trivia
-- List of trivia
+- [[Campaign 1]] - Kiro Shiev, a Half-Elven Rogue
+- [[Campaign 2]] - [[Carmine Charr]], a Fire Genasi Light Cleric
+- [[Campaign 3]] - [[Gallus|Gallus Solarn]], a Drow Elven Star Circle Druid
+## One-Shots & other
+- Cyberpunk RED New Mercs Campaign - Tal Rezin
+- StracciaD&D Kerstspecial - Seraphim, a Protector Aasimar Lycan Blood Hunter

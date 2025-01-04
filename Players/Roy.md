@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 tags:
   - player
   - stracciadnd-1
@@ -7,25 +7,14 @@ tags:
   - sukkelbergdnd-3
 ---
 > [!infobox]  
-> # NAMENAME
+> # Roy
 > ![[Image.jpg|cover hsmall]]  
-> ###### Character Information  
-> | | |  
-> |---|---|  
-> | **Name** | NAMEFULL |
-> | **Campaigns** | CAMPS (SYSTEM) |
-> | **Characters** | CHARS |
 
-NAME is a member of [[Alex|Alex's]] Tabletop Games, and plays CHAR in CAMPAIGN.
+**Roy** is a member of [[Alex|Alex's]] Tabletop Games, and currently plays [[Yerall]] in [[Campaign 3]].
 # Characters
 ## Main campaigns
-- Character, race class (campaign)
-- Character, race class (campaign)
-- Character, race class (campaign)
+- [[Campaign 1]] - ???
+- [[Campaign 2]] - [[Vimak Vaimei-Laga]], a Goliath Devotion Paladin
+- [[Campaign 3]] - [[Yerall]], a Drow Elven Arcane Trickster Rogue
 ## One-Shots
-- Character, race class (campaign)
-- Character, race class (campaign)
-# Trivia
-- List of trivia
-- List of trivia
-- List of trivia
+- StracciaD&D Kerstspecial - Edwyrd Adkalyn, a High Elven Assassin Rogye
