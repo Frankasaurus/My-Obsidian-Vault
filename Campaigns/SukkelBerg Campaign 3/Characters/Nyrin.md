@@ -3,9 +3,10 @@ publish: false
 tags:
   - sukkelbergdnd-3
   - dnd-playercharacter
+  - TODO
 ---
 > [!infobox]  
-> # Name
+> # Nyrin
 > ![[Image.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
@@ -20,7 +21,7 @@ tags:
 > | **Creature Type** | Humanoid |
 > | **Species** | Elf (Drow) |  
 > | **Origin** | Scribe |
-> | **Class** | Wizard (Illusionist) |  
+> | **Class** | Bard (Glamour) |  
 > | **Born** | (TBD), (TBD) years ago|  
 > | **Languages** | Common, Dwarvish, Elvish |  
 > | **Family** | - [[Yerall]] (sister) |
@@ -35,7 +36,7 @@ tags:
 > | **Dex** | 16 | **Wis** | 10 |
 > | **Con** | 14 | **Cha** | 8 |
 
-**Nyrin** is a Drow Elven Illusionist Wizard. She is played by [[Kim]]. 
+**Nyrin** is a Drow Elven Bard of the College of Glamour. She is played by [[Kim]]. 
 # Table of Contents
 - [[#Description|Description]]
 	- [[#Description#Appearance|Appearance]]
@@ -57,7 +58,7 @@ Description of appearance.
 ## Before the campaign
 Story of before the adventuring party started.
 # Character information
-Details about the characters class and stuff
+*While Nyrin started the first campaign as Illusionist Wizard, this was changed to Bard before the 2nd session.* 
 ## Quests
 Short listing of quests this character is after as an adventurer.
 ## Notable items

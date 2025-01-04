@@ -4,11 +4,11 @@
 | Spelers aanwezig |     |
 | Datum            |     |
 # Samenvatting
-*Alles wat voorafgaand aan de sessie gebeurt is.*
 **Wat:** Vorige sessie is de party ...
 **Wanneer:** Seizoen, tijdstip, feestperiodes, dat soort zaken
 **Waar:** Locatie
 **Doel sessie:** Belangrijk!
+**Onthouden:** Ook dit
 # 1. Onderdeel
 Schrijf hier een onderdeel.
 - Gebruik bullet points

@@ -3,6 +3,7 @@ publish: false
 tags:
   - sukkelbergdnd-3
   - dnd-playercharacter
+  - TODO
 ---
 > [!infobox]  
 > # Name
@@ -16,6 +17,7 @@ tags:
 > | | |  
 > |---|---|  
 > | **Name** | Herman |
+> | **Alias** | 'Silvertongue' |
 > | **Gender** | Male | 
 > | **Creature Type** | Humanoid |
 > | **Species** | Orc |  
@@ -23,6 +25,7 @@ tags:
 > | **Class** | Paladin (Oath of Glory) |  
 > | **Born** | (TBD), (TIME) years ago|  
 > | **Languages** | Common, Halfling, Orc |  
+> | **Family** | - Unnamed wife<br>- Unnamed deceased daughter |
 > | **Connections** | - Unnamed orphanage (proprietor) |
 > | **Status** | Alive |
 > | **Sessions** | member |
