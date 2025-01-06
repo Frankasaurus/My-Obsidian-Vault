@@ -4,9 +4,7 @@ tags:
   - dnd-session
 ---
 > [!ERROR] TO DO
-> Gebiedskaart
-> Dungeon map + ruimte inhoud
-> Combat 3.a & 3.b 
+> Dungeon ruimte inhoud
 > Beloning 4.a + afronding en pad laten gaan + voortstuwen naar avontuur (+ lenora).
 
 | Sessie no.       | 2                                                                                                                                          |
@@ -21,10 +19,9 @@ tags:
 
 Ze zitten nog altijd op de boot, beladen met vluchtelingen, zonder duidelijke bestemming. De avond begint langzaam op te doen, en het licht vervaagt uit de lucht terwijl het langzaam avond wordt.
 **LAAT IEMAND D6 GOOIEN VOOR 'RANDOM' EFFECT OP BOOT**
-# 1. Berraad met de Kapitein
->[!Infobox]
->Hier moet een kaart
+# 0. Lenora wordt zwakker
 
+# 1. Berraad met de Kapitein
 Tijdens de rit wilt impromptu kapitein (Halfling M, volwassen, "Daniil") een woordje. *"Ik ben op zoek naar ene Herman!"*.
 
 **Tijdens dit gesprek wordt de zee langzaam onstuimiger.** 
@@ -55,15 +52,29 @@ Als ze kiezen voor de wildernis; kapitein Daniil heeft hulp nodig om te zien waa
 	- DC14 Perception (dark) = zien dat er een doorgang van 50ft (~15m) is.
 	- DC13 Athletics = niet vastzitten voor 20 seconden > DC12 naar keus voor loshalen), of de stenen vallen te slopen. 
 	- Reminder; onder water movement is difficult terrain.
-- Zie map voor Dungeon layout.
 - Bij goed luisteren hoor je een lang en diep geronk. **Wanneer er luid geluid wordt gemaakt, Giant Speech uitdaging.**
 	- "Een indringer in mijn burcht. Maak jezelf bekend, en ik zal onze kennismaking kort houden, vuil wezen."
+- **Algemene omschrijving:** Muf en zwavelachtig, koud, vochtig, galmend. Veel ratten die rondpiepen.
 
-TODO
+**Layout:**
+```dungeon
+{puzzle} > {combat B} > {reward} 
+	^
+{ingang} > {combat A}  > {uitgang}
+	|			|
+{opslag}        |
+			{geheim}
+```
 
-| Ruimte | Inhoud | Omschrijving |
-| ------ | ------ | ------------ |
-|        |        |              |
+| Ruimte   | Inhoud | Omschrijving                                                                                                                                                                                                                  |
+| -------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ingang   |        | Ingestorte "Baai" met vergane aanmeerplaatsen en oude schepen. Aantal lege kratten en vervallen hijsapparatuur                                                                                                                |
+| Opslag   |        | Te bereiken via hijsapparatuur. Een uitgehouwde ruimte hoog boven de haven.                                                                                                                                                   |
+| Puzzle   |        | Langere gang waar begroeing dik op de muur zit en de lucht hier het ergste is. Grote bloemen met pulserende gele vruchten (DEX check DC12).<br>Bij falen Con Save DC17 tegen Drowsy spores -> wakker worden Hill Giant ruimte |
+| Combat A |        | 2x WereRat transformeren voor hun ogen<br>6x Giant Rats                                                                                                                                                                       |
+| Combat B |        | 1x Hill Giant<br>5x Giant Rats (die later kunnen joinen)                                                                                                                                                                      |
+| Geheim   |        | Een verborgen ruimte (DC 15) met munitie, kanonnen, explosieven, en kogels.                                                                                                                                                   |
+| Reward   |        | Rewardruimte                                                                                                                                                                                                                  |
 ## 3.a Combat ratten
 TODO
 ## 3.b Combat Hill Giant
@@ -102,3 +113,4 @@ TODO
 > Hoor ons, voorouders. Hoor ons, nakomelingen. Hoor ons, aanwezigen. Met de gratie van de Witte Loge nemen wij het Lot in onze handen, de Ruimte in onze aanwezigheid, de Tijd als onze meester, en ons bloed als ons recht. Deze Vier Waarheden, als vier feiten, zullen doch onzen zijn tot in Immateria. 
 > 
 > Wij zijn. Wij danken.
+
