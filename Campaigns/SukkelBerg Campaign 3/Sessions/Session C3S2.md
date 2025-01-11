@@ -123,5 +123,27 @@ Kind met een ring, grof gehemd van een stuk malienkolder op Cogastr. Wilt juweli
 > Wij zijn. Wij danken.
 
 # 5. Voortstuwen avontuur
+Volgende sessie doen.
+# 6. Stephan Influisteren
+**Situatie is als volgt:** Je bent op een groot zeilschip net vertrokken van het eiland **Cogastr,** een strafeiland vol gevangenen, waar zojuist (mede dankzij de party) een coup is gepleegd en de brute leiders zijn afgezet. De 'bewoners' (ex-gevangenen) willen nu zo snel mogelijk van het eiland af en terug naar hun leven op het vasteland. Daarbij zijn ze naar de haven gegaan en op een boot gestapt. Jij was ook een gevangen, bevrijd in de comotie, en ziet door je verleden als schipper het als je plicht zoveel mogelijk mensen naar vasteland te brengen. Hier zijn jullie nu nog steeds, net 15 minuten van de kust af.
 
-TODO!
+**JOUW DOEL IS OM DE PARTY NAAR DE KUST TE BRENGEN. HOE JE DIT DOET MAG JE ZELF WETEN**
+
+**Mijn idee voor jou:**
+- ==Op dit moment **impromptu kapitein** van een **oude gevangenenboot**.==
+	- ==Je weet dat de mensen op de boot verwaarloosd zijn, en moeten binnen **1 a 2 dagen** eten en onderdak hebben.==
+	- ==Je hebt je al gerealiseerd dat je **niet bepaald gewenst bent bij bevolkte gebieden**.==
+		- In inwoners' ogen zijn jullie allemaal **gevangenen**.
+		- In politieke ogen waren jullie **werkers** voor hun grondstoffen die ze importeerden uit Cogastr.
+	- Jij hebt een **kaart** ter beschikking.
+	- Er zijn nog twee schepen vertrokken met dezelfde lading.
+- ==Voormalig smokkelaar langs de kust - jij weet hierdoor van **Schuilplaatsen** af.==
+	- Dit stopte toen Cogastr verdragen maakte met omliggende Soevereinheden, en de **patrouiles** toenamen. 
+	- Dit was **~50 jaar geleden**, en waarschijnlijk zijn deze oude schuilplaatsen **overgenomen** door iemand... of iets...
+	- Moreel grijs?
+- ==Je weet dat degene die de voormalig leider van Cogastr heeft vermoord **"Herman"** heet, en je zag hem op je boot stappen. Die zou je mogelijk kunnen helpen met een plan bedenken.==
+
+## Kaart
+*(Een zeilschip gaat 10 mijl per uur)*
+
+![[Califhen Reborn Tuon Peninsula map nogrid.png]]
