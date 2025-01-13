@@ -3,11 +3,10 @@ publish: false
 tags:
   - sukkelbergdnd-3
   - dnd-playercharacter
-  - TODO
 ---
 > [!infobox]  
 > # Name
-> ![[Image.jpg|cover hsmall]]  
+> ![[Yerall1BG.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -40,28 +39,19 @@ tags:
 # Table of Contents
 - [[#Description|Description]]
 	- [[#Description#Appearance|Appearance]]
-	- [[#Description#Personality|Personality]]
 - [[#Biography|Biography]]
 	- [[#Biography#Before the campaign|Before the campaign]]
-	- [[#Biography#Adventures|Adventures]]
-- [[#Relationships|Relationships]]
-	- [[#Adventures#Persoon|Persoon]]
-- [[#Character information|Character information]]
-	- [[#Adventures#Quests|Quests]]
-	- [[#Adventures#Notable items|Notable items]]
-	- [[#Adventures#Magic items|Magic items]]
-- [[#Trivia|Trivia]]
+	- [[#Biography#During the campaign|During the campaign]]
 # Description
 ## Appearance
-Description of appearance.
+Yerall is a Drow elven man, with short upturned silver-white hair, and staring careful eyes. Concious about his profile, his attire is flamboyant while allowing him to hide himself. As her brother, Yerall has similar features to [[Nyrin]].
 # Biography
 ## Before the campaign
-Story of before the adventuring party started.
-# Character information
-Details about the characters class and stuff
-## Quests
-Short listing of quests this character is after as an adventurer.
-## Notable items
-- List of items
-- List of items
+Born in [[Elivestr]], Yerall grew up in the high society of the city's guilds. Together with his sister [[Nyrin]], he enjoyed from many benefits of having both parents being higher-ranking members of the Magic & Mystic Guild. They both had large social groups and good education, though both also became proficient with a degree of arcana. And while he did not succeed as much with magic, it would be cunning and sleight of hand where he would find his passion and skill.
+
+Just before entering adulthood, internal bickering and turmoil within the Guilds spilled over into outright bloodshed, with a coup attempt from the vicious [[Kaurius Krone]]. In the aftermath, the Yerall and Nyrin's parents got involved in the mess, and sent away their children for their own safety's sake. Through their connections with the guild, the sibling were brought to the edge of the city and escorted to Henagestr. They never got to know the fate of their parents.
+
+Forced to survive by their own wit and cunning, and having had enough from the scraps they earned by playing streat games, they teamed up to do other peoples dirty work. As adventurers-for-hire, they hoped to make a name for themselves, only to be used as bait in a murder plot (along with a child from [[Herman|Herman's]] estate, one that he would end up taking the blame for). Their punishment was to become a prisoner in [[Cogastr]], although their cunning reputation would soon land them in an Isolation cell, plotting the island's revolt and escape. In the aftermath, the other souls from the isolation cells formed [[Party (C3)|an adventuring party]].
+## During the campaign
+*To be written...*
 ***
