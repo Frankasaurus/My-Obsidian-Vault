@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBackpack",
       "LiCog",
       "LiMessageCircleMore",
       "LiFlag",
-      "LiStars",
-      "LiChurch"
+      "LiStars"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,6 @@
   "Califhen Reborn/Realms": "LiStars",
   "Campaigns/SukkelBerg Campaign 3/Factions & Organisations": "LiFlag",
   "Campaigns/SukkelBerg Campaign 3/NPC's": "LiMessageCircleMore",
-  "Califhen Reborn/Mechanics": "LiCog"
+  "Califhen Reborn/Mechanics": "LiCog",
+  "Campaigns/SukkelBerg Campaign 3/Items": "LiBackpack"
 }
