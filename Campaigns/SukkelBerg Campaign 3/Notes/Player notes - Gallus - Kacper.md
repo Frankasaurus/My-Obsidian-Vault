@@ -4,6 +4,15 @@ tags:
   - sukkelbergdnd-3
   - internal
 ---
+# Factsheet
+- **What is the truth that the stars hold?**
+	- The stars do not predict events, nor do they reflect lessons from the past. The true magic in stars lies within differentiating far-distant stars from Astral Gateways. These Astral Gateways peer into the Material Plane, and through it 'leek' Astral projections and beings onto the Material world. The power lies within finding which Gateway channels what, and channeling that force. By channeling different Gateways, you get different dreamlike results.
+	- Constellations are made up of both distant stars and these Gateways, but it is not the sign itself, but the cluster of Gateways that are the source of their might.
+- **What can Gallus do on his journey in uncovering the magic in the Stars?**
+	- Gallus, now freed from the teachings of the Circle, threads his own path, beckoning the Stars to answer to him. One by one, the constellations will ask him to present himself, before granting him their wisdom - a wisdom long forgotten by his original Circle. 
+	- **Serpent** - Meant as an easy start; A circular constellation that bodes the flow of time, with all its significance and insignificance. They will require a show of awareness to the true passing of time, where change is only possible when submitting yourself to the passing of time and your relative unimportance in the universe (Get it twisted).
+- **How does the rest of the party impact his backstory?**
+	- D
 # Backstory
 Vroeger dacht ik de toekomst in de sterren te kunnen zien. Ik zag kleine gebeurtenissen in de sterren die vervolgens uit zouden komen. Dit was volgend de Circle het teken dat je op de juiste pad was.
 

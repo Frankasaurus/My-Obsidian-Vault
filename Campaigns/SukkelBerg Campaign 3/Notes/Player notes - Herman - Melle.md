@@ -4,6 +4,18 @@ tags:
   - sukkelbergdnd-3
   - internal
 ---
+# Factsheet
+- **How does Herman's Oath work?**
+	- His Oath is to himself. He has unknowingly made himself a Conduit for the Celestial planes, and is using that energy to become holy. If he is ever to diverge from his Path as a Glory Oath'd Paladin, he will fall ill.
+- **What Guild was Herman part of?**
+	-  The Guild of Interstate Commerce, also known as the *Pursuit of the Owl* ('Gilde Uilstreven'). Here he was a 'Silver Tongued' dealmaker. This is the guild that also extradited him and the other [[Party (C3)]] members to [[Cogastr]].
+- **Which house killed his family?**
+	- *TBD - Leaving this up to Melle*
+- **What was his Daughter planning?**
+	- Herman's daughter (*Name TBD*) was part of an underground criminal organisation (*De Tongscheurder*) with only a few members, that routinely disturbes the ventures of nobles and politicians. They continue to do so to this day, and have only become more radicalized in their work, though they have been met with decades of supression.
+	- Their founding was based on the founding of the Guild District, which built walls within the city segragating the upper-classes from the working classes, where they disturbed building sites and organised rallies.
+- **How does the rest of the party impact his backstory?**
+	- D
 # Backstory
 Yo Alex ik heb al aardig een concept. Ik ben een Ork, farmer background. Ik heb mijn boerderij opgericht om er een juveniele instelling van te maken. Als er kinderen zijn die voor een kleine misdaad betrapt worden komen ze bij mij op de boerderij om daar ritme en discipline te leren.
 

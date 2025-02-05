@@ -14,7 +14,8 @@ tags:
 **Wanneer:** Seizoen, tijdstip, feestperiodes, dat soort zaken
 **Waar:** Locatie
 **Doel sessie:** Belangrijk!
-**Onthouden:** Ook dit
+**Onthouden:** 
+- [[Lenora]]'s Shadow gaze fluisteren naar andere spelers.
 # 1. Onderdeel
 Schrijf hier een onderdeel.
 - Gebruik bullet points

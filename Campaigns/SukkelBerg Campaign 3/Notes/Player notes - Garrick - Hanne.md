@@ -4,6 +4,11 @@ tags:
   - sukkelbergdnd-3
   - internal
 ---
+# Factsheet
+- **Question**
+	- Answer
+- **How does the rest of the party impact his backstory?**
+	- D
 # Achtergrond
 Om Garrick goed te beoordelen waar hij is moet je eerst de achtergrond weten.
 
