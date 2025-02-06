@@ -19,3 +19,4 @@ tags:
 | Unnamed parents of [[Yerall]] & [[Nyrin]] | Backstory of Yerall & Nyrin                                          | Alive in (TBD)          |                 |
 | Carina Majir, Archdruid of Circinus       | Backstory of [[Gallus]]. F elder Drow, white haires, hoarse voice    | Alive in Camp Aurora    |                 |
 | Unnamed Shepherd of Olmari                | Backstory of [[Lenora]]. Shadow entity working for [[Kaurius Krone]] | Alive in the Shadowfell |                 |
+| Jawahr Mislav                             |                                                                      |                         |                 |
