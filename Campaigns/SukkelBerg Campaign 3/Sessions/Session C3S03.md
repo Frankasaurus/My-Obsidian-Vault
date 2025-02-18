@@ -77,7 +77,7 @@ Condities;
 De termen;
 - Als jullie winnen, droppen we jullie buiten onze deur met wat kruidenthee zodat we dit hele tafereel achter ons laten.
 	- Vertel iemand over De Ondernemers, en jullie zijn zo goed als 
-- Als wij winnen, slingeren we jullie naar Pappa Varrn (Hel'varrn Bestgewist, een oude Elven tovenaar die De Ondernemers deze grot "Leased" in ruil voor bescherming en 'proefpersonen'.)
+- Als wij winnen, slingeren we jullie naar Pappa Varrn ~~(Hel'varrn Bestgewist, een oude Elven tovenaar die De Ondernemers deze grot "Leased" in ruil voor bescherming en 'proefpersonen'.)~~
 
 ## Combat A - Ingang De Onderneming
 **Moeilijkheid:** Onwinbaar - met uitvlucht

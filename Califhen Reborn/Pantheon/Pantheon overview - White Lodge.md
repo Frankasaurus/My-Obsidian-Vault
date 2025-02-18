@@ -21,21 +21,21 @@ When a soul reaches Godhood, they become incorporeal, near-indestructable, unbou
 # Current Title list
 Though the titles do not differ in ranking, the titles of **Growth**, **Light** and **Decay** (as past, present, and future) are often considered the core of the pantheon. Their worshippers can be found all over Califhen.
 
-| Title                             | Currect occupant              | Alternative titles                                 |
-| --------------------------------- | ----------------------------- | -------------------------------------------------- |
-| Godess of Growth & the Journey    | Aneon                         | She Who Lost All, Everchild                        |
-| God of Light & the Truth          | Lito                          | Steelforged, Godray                                |
-| Godess of Decay & the End         | Ta'yen                        | Plague Queen, Brewlord, the Tunnel                 |
-| God of Matter & the Celestial     | Vovodin                       | Lord of Dust, Wavemaster                           |
-| Godess of Nature & the Spirits    | Juldynar                      | Many-Horned, Fell Beast                            |
-| God of Darkness & the Untruth     | Olmari                        | The Unexistant, Lying Prince                       |
-| Godess of Elements & the Reaction | Thil'ir                       | Graviturgia Superior, Countess of the Frigid Flame |
-| God of Sight & the Existance      | Pelgostr                      | Domainmaster, Host of the Lodge, Hearthfather      |
-| Godess of Hope & the Ruination    | Urygg                         | Lady of Despair, the Last Resort, Mother Luck      |
-| God of Emotion & the Fury         | Eppa                          | The Penitent Host                                  |
-| God of Corruption & the Mirror    | Jol                           | Wormduke Incarnate, The Wendigo of Origins         |
-| God of Myth & the Ancient         | *N.a.* [^2]                   | 'Tercir', Repositorant                             |
-| Godess of Might & the Flesh       | We'hnessa-falaghri Ixciturosa | The Exalted                                        |
+| Title                             | Currect occupant     | Alternative titles                                 |
+| --------------------------------- | -------------------- | -------------------------------------------------- |
+| Godess of Growth & the Journey    | Aneon                | She Who Lost All, Everchild                        |
+| God of Light & the Truth          | Lito                 | Steelforged, Godray                                |
+| Godess of Decay & the End         | Ta'yen               | Plague Queen, Brewlord, the Tunnel                 |
+| God of Matter & the Celestial     | Vovodin              | Lord of Dust, Wavemaster                           |
+| Godess of Nature & the Spirits    | Juldynar             | Many-Horned, Fell Beast                            |
+| God of Darkness & the Untruth     | Olmari               | The Unexistant, Lying Prince                       |
+| Godess of Elements & the Reaction | Thil'ir              | Graviturgia Superior, Countess of the Frigid Flame |
+| God of Sight & the Existance      | Pelgostr             | Domainmaster, Host of the Lodge, Hearthfather      |
+| Godess of Hope & the Ruination    | Urygg                | Lady of Despair, the Last Resort, Mother Luck      |
+| God of Emotion & the Fury         | Eppa                 | The Penitent Host                                  |
+| God of Corruption & the Mirror    | Jol                  | Wormduke Incarnate, The Wendigo of Origins         |
+| God of Myth & the Ancient         | *N.a.* [^2]          | 'Tercir', Repositorant                             |
+| Godess of Might & the Flesh       | We'hnessa Ixciturosa | The Exalted                                        |
 ## Redundant titles
 The following is in inexhaustive list of previous titles that were either merged, destroyed, or forgotten.
 

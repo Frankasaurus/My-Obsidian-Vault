@@ -33,6 +33,7 @@ Its government is run by intelectuals and guild leaders, who elect a Duke that d
 	- Guild of Justice & Security (*name TBD*) - Run by Wilmar von Elsenburgh. It takes care of the city's guards, crime, justice, and patrols.
 	- *"Pursuit of the Owl"* Guild of Interstate Commerce - Former employer of [[Herman]].
 	- *"Halfclock"* Guild of Arcana & Spellwriting - Former employer of [[Nyrin]] & [[Yerall]]'s parents.
+	- *"Goldfield"* Guild of Agriculture & Food Safety
 - **Hearthfather District (of Learning)**
 	- University of Law 
 	- University of Literature
