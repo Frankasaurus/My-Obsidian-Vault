@@ -4,7 +4,7 @@ tags:
   - sukkelbergdnd-3
   - important-page
 ---
-> [!warning]
++> [!warning]
 > **THE FOLLOWING NPC'S ARE NOT YET PUBLIC, AS THEY ARE PART OF THE PLAYER'S BACKSTORY OR A FUTURE PLOT**
 # List of major NPC's
 
@@ -20,3 +20,4 @@ tags:
 | Unnamed parents of [[Yerall]] & [[Nyrin]] | Backstory of Yerall & Nyrin                                          | Alive in (TBD)          |                 |
 | Carina Majir, Archdruid of Circinus       | Backstory of [[Gallus]]. F elder Drow, white haires, hoarse voice    | Alive in Camp Aurora    |                 |
 | Unnamed Shepherd of Olmari                | Backstory of [[Lenora]]. Shadow entity working for [[Kaurius Krone]] | Alive in the Shadowfell |                 |
+| King Peldr II                             | King of Vreebis                                                      | Alive                   |                 |
