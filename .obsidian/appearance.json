@@ -4,7 +4,8 @@
   "enabledCssSnippets": [
     "S - Callouts",
     "Empty header",
-    "Banner fix"
+    "Banner fix",
+    "Theme - D&D WOTC"
   ],
   "theme": "obsidian",
   "showViewHeader": true,

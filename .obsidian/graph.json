@@ -8,31 +8,38 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Dungeons & Dragons 5e/Source Material\"  ",
+      "query": "path:\"Players\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"Dungeons & Dragons 5e/Campaigns\"",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"Dungeons & Dragons 5e/Universes\"",
+      "query": "path:\"Campaigns/SukkelBerg Campaign 3\"  ",
       "color": {
         "a": 1,
         "rgb": 327424
       }
     },
     {
-      "query": "path:\"Cyberpunk RED\"  ",
+      "query": "path:\"Califhen Reborn\"  ",
       "color": {
         "a": 1,
-        "rgb": 7353517
+        "rgb": 2439892
+      }
+    },
+    {
+      "query": "path:\"Campaigns/StracciaD&D 2/Sessions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Campaigns/StracciaD&D 2\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14801709
       }
     }
   ],
@@ -42,10 +49,10 @@
   "nodeSizeMultiplier": 1.08255208333333,
   "lineSizeMultiplier": 1.74609375,
   "collapse-forces": false,
-  "centerStrength": 0.3203125,
-  "repelStrength": 13.4778729478944,
-  "linkStrength": 0.794270833333333,
-  "linkDistance": 144,
-  "scale": 0.07540813909857179,
+  "centerStrength": 0.21875,
+  "repelStrength": 11.25,
+  "linkStrength": 0.744791666666667,
+  "linkDistance": 89,
+  "scale": 0.20780039614985862,
   "close": false
 }
