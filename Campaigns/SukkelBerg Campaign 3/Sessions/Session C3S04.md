@@ -66,6 +66,7 @@ Zal zoeken naar **Telinde:** een Void Elemental met wie Andries samenwerkt. Vraa
 - Telinde's Bracelet of Void Jumping
 # 4. Gevecht Jawahr
 ![[Session C3S03#Jawahr's gevecht]]
+![[Session C3S03#Combat B - Arena]]
 # Rhomea
 TODO! Check notities Hanne: [[Player notes - Garrick - Hanne#Na sessie 3]] 
 Als ze hier aankomen en met Pacper ontmoeten; opmerking dat Garrick net als die valse ouders van hem beter weg kon blijven.
