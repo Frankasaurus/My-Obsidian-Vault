@@ -7,7 +7,7 @@ tags:
 | Sessie no.       | 4                                                                                                                                          |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Spelers aanwezig | [[Hanne]] ([[Garrick]]) [[Kacper]] ([[Gallus]]), [[Kim]] ([[Nyrin]]), [[Lise]] ([[Lenora]]), [[Melle]] ([[Herman]]),  [[Roy]] ([[Yerall]]) |
-| Datum            | Za 8 Februari, 2025                                                                                                                        |
+| Datum            | Zo 9 Maart, 2025                                                                                                                           |
 | Titel            | De prijs van vrijheid                                                                                                                      |
 **Wat:** Vorige sessie is de party van de grot naar Woudgrens getrokken, en toen in de valstrik geluist door **Jawahr Mislav**, een prominent lid van De Onderneming.
 **Wanneer:** 2 dagen sinds aankomst op vasteland, nacht. Herfst
