@@ -1,3 +1,8 @@
+---
+tags:
+  - sukkelbergdnd-3
+  - dnd-session
+---
 In deze sessie vragen wat iedereen's doel is
 
 | Sessie no.       | 5                                                                                                                                          |

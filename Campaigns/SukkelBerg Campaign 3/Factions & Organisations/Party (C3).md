@@ -33,8 +33,8 @@ tags:
 | Level | Session                  |
 | ----- | ------------------------ |
 | 3     | Session 1 - Prison Break |
-| 4     |                          |
-
+| 4     | Session 5 -              |
+| 5     |                          |
 # Allies and friends
 *For a full list of NPC's, see [[All Campaign 3 NPC's|here]].*
 
