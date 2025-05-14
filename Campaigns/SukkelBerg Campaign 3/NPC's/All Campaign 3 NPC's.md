@@ -12,7 +12,7 @@ In [[Campaign 3]], all NPC's are played by [[Alex]], notwithstanding potential e
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------- |
 | Eileen "M" Leeflin | Female elder Grey Tiefling with weathered red eyes and tattoos. Leader of Leeflin Bruut, rebel leaders of [[Cogastr]]. | Alive, on Cogastr                                   | [[Session C3S01]] |
 | Jawahr Mislav      | Human male with a darker skintone, thin facial hair, and foreign travelers clothes. Prominent member of The Business.  | Alive, at The Business' hideout in the Pentos Woods | [[Session C3S03]] |
-| Andries Stellard   | Male Cyclops Wizard of legends, long lost in the Pentos Woods. Also known as 'Father Varrn'.                           | Alive, in de depths of The Business' hideout.       | [[Session C3S04]] |
+| Andries Stellard   | Male Cyclops Wizard of legends, long lost in the Pentos Woods. Also known as 'Father Varrn'.                           | Alive, in Thil'ir's Court                           | [[Session C3S04]] |
 # List of minor NPC's
 | Name                      | Description                                                                                                       | Last know State                            | First occurance   |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ----------------- |
@@ -23,3 +23,4 @@ In [[Campaign 3]], all NPC's are played by [[Alex]], notwithstanding potential e
 | Virmeena                  | Blind woman and experienced Chronomancer, rescued from [[Cogastr]].                                               | Alive, in the Cohyn Sea Smuggler's hideout | [[Session C3S03]] |
 | Tobol & Byrna             | Noble human couple from Elivestr, own an undergrond store. Captured by The Business, freed by the [[Party (C3)]]. | Alive                                      | [[Session C3S04]] |
 | The Lessonmother          | An unknown being who leaves hollow footsteps, and seeks to recruit individuals for her dark cause.                | Unknown                                    |                   |
+| Telinde                   | A Void Elemental under service of Andries Stellard.                                                               | Alive, in Thil'ir's Court                  | [[Session C3S05]] |

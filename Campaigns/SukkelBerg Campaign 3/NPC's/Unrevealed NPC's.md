@@ -13,7 +13,7 @@ tags:
 | [[Wilmar von Elsenburgh Doorne]] | Father of [[Lenora]] & guildleader. Adult, short yellowish-blonde braided hair with stubble. Green eyes, healthy tan, defined pointed nose. | Alive in [[Elivestr]], as a drained Lich      |                 |
 | [[Kaurius Krone]]                | Rival of Wilmar. M elf, older with combover, heavy dark coat, bloodshot eye and face tattoo. Dull skin color.                               | Alive in [[Elivestr]], leading politics       |                 |
 | Maggoras, Shepherd of Olmari     | Nightwalker, Patron of [[Kaurius Krone]] and source of [[Lenora]]'s shadow magic. Shadow entity from Olmari.                                | Alive, in the Shadowfell                      |                 |
-| Andries Stellard                 | Male Cyclops Wizard of legends, long lost in the Pentos Woods. Also known as 'Father Varrn'.                                                | Alive, in de depths of The Business' hideout. |                 |
+
 # List of minor NPC's
 | Name                                | Description                                                                                                                                                                                          | State                    | First occurance   |
 | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- |

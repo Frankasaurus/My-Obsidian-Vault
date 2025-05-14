@@ -41,11 +41,19 @@ Als ze aanwaltzen:
 - **Oude spullen (wapens, armor, etc) liggen in een moeras boven de Eli rivier.** Het is van hun als ze het willen vinden.
 # 2. VIP
 Van buiten, een Koningsgarde grenswachter roept: *"Pacper Helix, op verdenking van het illegaal behuizen van vluchtelingen, en op bevel van de Hertog van Elivestr Kaurius wordt U gedagvaard een verklaring af te komen leggen bij de koningsgarde."* 
+Vanuit ramen te zien;
+- 8 leden van de Koningsgarde (Perception: Grenspatrouile Ornament)
+- Een grote koets met rijder en een kleine entourage van een privemilitie
+	- (History check) Militie van Huize Krone
+	- (Perception) Kaurius zit in de koets
 
 Praten en meerijden, vechten, of vluchten.
 Pacper heeft een vluchtroute. *"Als je maar niet denkt dat ik stil heb gezeten. Hopelijk zijn jullie het waard."* Trekt een paneel van de grond naar een verborgen kelder.
 ## Meerijden Elivestr
 
+
 ## Vechten
+Combat
 
 ## Vluchten
+
