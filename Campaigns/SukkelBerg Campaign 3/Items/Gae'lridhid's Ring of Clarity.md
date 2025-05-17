@@ -18,7 +18,7 @@ tags:
 > | | |
 > |---|---|
 > | **Former owner** | Andries Stellard |
-> | **Current owner** | [[Party (C3)]] |
+> | **Current owner** | [[Hex Circulum]] |
 
 **Gae'lridhid's Ring of Clarity** is a magical ring formerly attached to the severed hand of Andries Stellard, bound in the [[Tome of the Blooded]]. 
 # Description

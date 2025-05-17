@@ -31,7 +31,7 @@ Als ze aanwaltzen:
 - Binnenshuis een klap met de stok op iedereen's hoofd; *Zijn jullie helemaal gek geworden!*
 - Er van overtuigd dat [[Garrick]] ze zal achterlaten zoals ze hem heeft gedaan. (Zoals hij bij zijn ouders heeft gedaan).
 - Drinkt zijn thee met een bijzonder kruid (Nature check).
-- *"De bezetting is er pas sinds gisteren, kwamen mee samen met een paar hoge pieven van Elivestr. Kar en al, sommigen hadden geeneens passagiers..."*
+- *"De koningsgarde is er al een poosje, maar gisteren kwamen er wat ongemarkeerde sukkels, kwamen mee samen met een paar hoge pieven van Elivestr. Kar en al, sommigen hadden geeneens passagiers..."*
 
 **Als ze tot hem doordringen**;
 - Oud Gajau-Jager die zich specialiseerde in onorthodoxe monsters van bovenmaatste proporties uitschakelen (samen met Garrick's ouders).
