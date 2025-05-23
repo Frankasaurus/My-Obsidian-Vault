@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "1a9b128a37f29072",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e1088d96b71c27a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c659d545c66f62f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/One-Shots/BlackSoup/Bs d&d prep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bs d&d prep"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c3865029af0934a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e587050aef2a1947",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "628b227d680d30cc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d00897aab499b5f3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "a0930b800545c2f4",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "997b33abb72333d1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "ed2093f39a77ad01",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Campaigns/SukkelBerg Campaign 3/Notes/Campaign 3 Journal.md",
+            "mode": "preview",
+            "source": false
+          },
+          "pinned": true,
+          "icon": "lucide-file",
+          "title": "Campaign 3 Journal"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "29680a13870f85fe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "edbbe03432808336",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Campaigns/One-Shots/BlackSoup/Bs d&d prep.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "91b8895349588363",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Campaigns/SukkelBerg Campaign 3/Sessions/Session C3S03.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "93a78de573e168b5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Campaigns/One-Shots/BlackSoup/Bs d&d prep.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-dangling-links:Show dangling links panel": false
+    }
+  },
+  "active": "0c659d545c66f62f",
+  "lastOpenFiles": [
+    "Campaigns/One-Shots/BlackSoup/Bs d&d prep.md",
+    "Campaigns/One-Shots/BlackSoup",
+    "Campaigns/SukkelBerg Campaign 3/Sessions/Session C3S06.md",
+    "Campaigns/SukkelBerg Campaign 3/Sessions/Campaign 3 Summaries.md",
+    "Players/Stephan.md",
+    "Players/Roy.md",
+    "Players/Melle.md",
+    "Players/Lise.md",
+    "Players/Alex.md",
+    "Players/Chris.md",
+    "Players/Hanne.md",
+    "Players/Kacper.md",
+    "Players/Kim.md",
+    "Campaigns/StracciaD&D 2/Characters/Elisabeth de Dragoness.md",
+    "Campaigns/SukkelBerg Campaign 3/Factions & Organisations/Onderneming.md",
+    "Califhen Reborn/Realms/Material Plane/Celiria.md",
+    "Califhen Reborn/Realms/Material Plane/Settlements/Elivestr.md",
+    "Campaigns/SukkelBerg Campaign 3/Items/Telinde's Bracelet of Void Jumping.md",
+    "Campaigns/SukkelBerg Campaign 3/Items/Gae'lridhid's Ring of Clarity.md",
+    "Campaigns/SukkelBerg Campaign 3/Items/Adurel's Ring of Grant Praise.md",
+    "Campaigns/SukkelBerg Campaign 3/Items/Pivostoli's Ring of Preservation.md",
+    "Campaigns/SukkelBerg Campaign 3/Items/Fedor's Ring of Stable Presence.md",
+    "Campaigns/SukkelBerg Campaign 3/NPC's/All Campaign 3 NPC's.md",
+    "Califhen Reborn/Realms/Califhen.md",
+    "Califhen Reborn/Califhen Reborn - Internal Summary.md",
+    "Campaigns/SukkelBerg Campaign 3/Factions & Organisations/Hex Circulum.md",
+    "Campaigns/SukkelBerg Campaign 3/NPC's/Unrevealed NPC's.md",
+    "attachments/Maps/Califhen Reborn Tuon Peninsula map nogrid.png"
+  ]
+}
