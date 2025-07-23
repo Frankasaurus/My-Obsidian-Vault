@@ -11,7 +11,7 @@ tags:
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Name** | Unkown |
+> | **Name** | Hex Circulum |
 > | **Type** | Aventurers |
 > | **Origin** | [[Cogastr]] |
 > | **Home base** | Undetermined |
@@ -30,11 +30,11 @@ tags:
 | [[Kim]]    | [[Nyrin]]        | Elf (Drow)    | Scribe      | Bard - Glamour (lv 3)                                                 |
 ## Level Progression
 
-| Level | Session                  |
-| ----- | ------------------------ |
-| 3     | Session 1 - Prison Break |
-| 4     | Session 5 -              |
-| 5     |                          |
+| Level | Session                        |
+| ----- | ------------------------------ |
+| 3     | Session 1 - Prison Break       |
+| 4     | Session 5 - The Rings of Power |
+| 5     |                                |
 # Allies and friends
 *For a full list of NPC's, see [[All Campaign 3 NPC's|here]].*
 
