@@ -24,7 +24,7 @@ tags:
 > | **Class** | Barbarian (Path of the Wild Heart) |  
 > | **Languages** | Common, Elvish, Giant |  
 > | **Status** | Alive |
-> | **Sessions** | [[Campaign 3]], from [[Session C3S08 TODO]] onwards |
+> | **Sessions** | [[Campaign 3]], from [[Session C3S08]] onwards |
 > ###### Stats
 > | | | | |
 > |---|---|---|---|
