@@ -15,7 +15,7 @@ tags:
 > | **Name** | Hex Circulum |
 > | **Type** | Aventurers |
 > | **Origin** | [[Cogastr]] |
-> | **Home base** | Undetermined |
+> | **Home base** | Undetermined, likely Herman's Homestead |
 
 **Hex Circulum** is the group of adventuring individuals in [[Campaign 3]].
 # Current members

@@ -8,8 +8,8 @@ tags:
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Spelers aanwezig | [[Hanne]] ([[Garrick]]) [[Kacper]] ([[Gallus]]), [[Kim]] ([[Nyrin]]), [[Lise]] ([[Lenora]]), [[Melle]] ([[Herman]]),  [[Roy]] ([[Yerall]]), [[Bolt]] ([[Evie]]) |
 | Datum            | Zo 26 Oktober, 2025                                                                                                                                             |
-| Titel            |                                                                                                                                                                 |
-**Wat:** Vorige sessie hebben ze Telinde verslagen in de grotten onder Pacper's huis (in Rhomea), en gevlucht op een kar naar Elivestr. Er is een kleine tussenstop geweest in Eli's Bend waar Pacper's oude gerij is gevonden, onder andere [[Last Godsent|Laatste Godengericht]].
+| Titel            | Home is where the Herman is                                                                                                                                     |
+**Wat:** Vorige sessie hebben ze Telinde verslagen in de grotten onder Pacper's huis (in Rhomea), en gevlucht op een kar naar Elivestr. Er is een kleine tussenstop geweest in Steengroet waar Pacper's oude gerij is gevonden, onder andere [[Last Godsent|Laatste Godengericht]].
 **Wanneer:** 9 dagen na aankomst op vasteland, herfst. Overdag.
 **Waar:** In
 **Doel sessie:** Aankomen bij [[Herman's Farm|Herman's Boerderij]], en het in goede orde herstellen. Introduceren Bolt. Primer voor [[Elivestr]].
