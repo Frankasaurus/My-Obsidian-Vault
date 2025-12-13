@@ -16,5 +16,5 @@ tags:
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | --------------- |
 | Carina Majir, Archdruid of Circinus | Backstory of [[Gallus]]. F elder Drow, white haires, hoarse voice.                                                               | Alive, in Camp Aurora                |                 |
 | Hester & Duco                       | Parents of [[Garrick]]. Left Garrick at a young age due to a higher calling.                                                     | Alive, but missing                   |                 |
-| Herman's Daughter (name tbd)        | Daughter of [[Herman]]. Officer in the ranks of the Tonguerippers, and a founding member.                                        | Alive, holed up in Tongueripper's HQ |                 |
+| Rélica                              | Daughter of [[Herman]]. Officer in the ranks of the [[Tonguerippers]], and a founding member.                                    | Alive, holed up in Tongueripper's HQ |                 |
 | Allisa & Grathgor Xilvyrez          | Drow Elven Parents of [[Yerall]] & [[Nyrin]]. Former members of the Arcana Guild of [[Elivestr]]. Now leading the Tonguerippers. | Alive, holed up in Tongueripper's HQ |                 |

@@ -24,7 +24,7 @@ tags:
 > | **Class** | Paladin (Oath of Glory) |  
 > | **Born** | (TBD), (TIME) years ago |  
 > | **Languages** | Common, Halfling, Orc |  
-> | **Family** | - Unnamed deceased wife<br>- Unnamed deceased daughter |
+> | **Family** | - Feasiante (wife)<br>- Rélica (daughter) |
 > | **Connections** | - [[Hex Circulum]] (member) <br>- [[Herman's Farm]] (proprietor) |
 > | **Status** | Alive |
 > | **Sessions** | All of [[Campaign 3]] |
