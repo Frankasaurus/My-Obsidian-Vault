@@ -18,3 +18,4 @@ tags:
 | Hester & Duco                       | Parents of [[Garrick]]. Left Garrick at a young age due to a higher calling.                                                     | Alive, but missing                   |                 |
 | Rélica                              | Daughter of [[Herman]]. Officer in the ranks of the [[Tonguerippers]], and a founding member.                                    | Alive, holed up in Tongueripper's HQ |                 |
 | Allisa & Grathgor Xilvyrez          | Drow Elven Parents of [[Yerall]] & [[Nyrin]]. Former members of the Arcana Guild of [[Elivestr]]. Now leading the Tonguerippers. | Alive, holed up in Tongueripper's HQ |                 |
+| Byrnyen Alvora                      | Changeling female, and quartermaster of the [[Tonguerippers]].                                                                   | Alive, holed up in Tongueripper's HQ |                 |

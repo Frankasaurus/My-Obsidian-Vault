@@ -54,11 +54,12 @@ The Hearthfather District is where Elivestr was founded, and maintains its origi
 - **University of Geography.** 
 - **Minor universities.**
 - **Kederfire Square:** the origin of Elivestr's founding.
+- **Library.**
 - **Jan & Esther's residence.**
 
 **Craft & Trade District**
 Housing Elivestr's port, this area is centered on the final stretch of the river Eli, where it cuts the cliffside in two before exiting in the Cohyn Sea. The cranes and scaffolding that move cargo from the docks to the inner city fills the skyline, and blocks out a lot of light to the port. The remainder of this area is full of warehouses and big blocks of living spaces.
-- 
+- [[Tonguerippers]] HQ in the catacombs, alongside Tobol & Byrna's shop.
 
 **Edge District**
 Though once an up-and-coming area, this has now become the new home for expelled citizens during [[Kaurius Krone|Kaurius Krone's]] reign. 

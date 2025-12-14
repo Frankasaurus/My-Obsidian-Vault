@@ -51,7 +51,8 @@ Als ze akkoord zijn, wandelt Jawahr ze naar binnen.
 	- Deze is in referentie tot de Zetels van de Witte Loge. Ze moeten de altaars op volgorde activeren en zo de deur openen. ZIe [[Pantheon overview - White Lodge#The Everglow Ritual|EeuwenGloed ritueel]].
 > Aanbid de zetels in dertienvoud, voor de Witte Loge is de herder in het verloop van leven tot dood; Men komt tot **BESTAAN** in de wereld, eerst via **VLEES**, vervolgens via **GEEST**. Onze **REIS**, o dankbaar, legt de **WAARHEID** aan ons bloot. Indermate van tijd, laat ons **HEMELLICHAAM** zijn komst weten middels onze **WOEDE** in passie en verdriet, o dankbaar bedaart door onze **WEERSPIEGELING**. Bezaait door onze werkelijkheid, de **ONWAARHEDEN**, zij vervullende hun plicht tot het ontwikkelen van het **GEVOLG** dat men ter wereld volbracht. En wanneer onze adem zich tot **RUINE** waant, en onze tijd nog gedachtegoed nog matterie zich verhuist naar de **OUDHEID**, o dankbaar zijn wij voor de verlossing van deze pijn - o dankbaar ons **EIND**. Rust zacht tussen de vier waarheden, tot in Immateria.
 
-==TODO: DUNGEON==
+**Investigation Check:** Thieves' Cant tekens die wijzen naar de [[Tonguerippers]] HQ.
+Entree van het HQ is een doodlopende stenen wand, onder de spreuk "In stilte, is zilver." in undercommon. Daarachter een doodgewone houten deur met een slot.
 ### Combat
 | **Creature**    | \#  | Init | **HP** | AC  | Link                                                       |
 | --------------- | --- | ---- | ------ | --- | ---------------------------------------------------------- |
@@ -65,7 +66,6 @@ Personen:
 - **Lena** is blij met de terugkomst van Lenora, maar is wel zorgelijk over de toestand van hun residentie en de opstapelende post.
 - **Wilmar** zit mager, onderuitgezakt en uitgeput voor een open haard in zijn leeskamer. Hij lijkt half stervende, ademt amper, heeft vergeelde ogen, en zijn huid lijkt teruggetrokken.
 	- Bij zien van Lenora grotere ogen, pakt haar zachtjes vast, en zegt half-schellend; *Mijn mooiste, je moet sterk zijn... je moet voeden... houdt niet terug... jij... wij zijn in gevaar. Alles zal duidelijk zijn...*
-
 ## Kaurius op bezoek
 De deurbel wordt geklopt. [[Kaurius Krone]] en een lid van de koningsgarde (Luitenant Kaleena Stoyanov - Half-Orc V) is op bezoek met een bos bloemen. Een mix van stadsgarde en Huize Krone militie woont ook bij.
 - Krone: *Tijd is kostbaar, en jij wilt net zo graag dat ik hier ben, als dat ik hier wil zijn, dus laten we het kort houden. Ik kwam beterschap en een snel herstel wensen. Daarnaast had Luitenant Stoyanov nog wat formaliteiten voor jullie, en zodoende vangen we twee vliegen in 1 klap.*
@@ -76,7 +76,11 @@ Als verder gesprek: *Als ik vrienden wilde hebben, was ik geen politicus geworde
 *Tijd valt niet terug te draaien... Maar ik zie dat jullie vurig branden van het onderwerp. Voor jullie staat een van de meeste hoogstaande politici van de stad, en een gul ambasadeur van veel organisaties. Ik ben tot jullie dienst; wat kan ik voor jullie doen?*
 
 ==(Insight DC 18)== TEN ALLE TIJDEN VALT TE ONTDEKKEN WAT ZIJN INTENTIES ZIJN.
+
+***IDEE VOOR LATER? HUIS AFBRANDEN, LENORA WAT MOTIVATIE GEVEN***
 # 3. Jan & Esther
 Onder huisarest, met stadsgarde om hun huis heen. In theorie kan de party wel gewoon naar binnen.
 # 4. In de stad - Kleine encounters
 ## Nyrin & Yerall
+## Bibliotheek
+In Universiteitsdistrict. Hier is ook Virmeena, de blinde Chronomancer.
