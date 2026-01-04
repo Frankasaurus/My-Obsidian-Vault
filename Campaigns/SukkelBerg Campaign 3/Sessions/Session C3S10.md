@@ -43,6 +43,8 @@ tags:
 Nog even geen link tussen Herman en Rélica!!
 # 2. Lenora's Thuis
 Zie [[Session C3S09#2. Lenora' thuis|Sessie 9]].
+
+*Oh, en een ...kennis van me kreeg woord van jullie aankomst. We hebben een gedeelde interesse in een klein klusje. Volgens mij zijn jullie al... bekend...*
 # 3. Jan & Esther
 Onder huisarest, met stadsgarde om hun huis heen. In theorie kan de party wel gewoon naar binnen.
 - Blij dat ze Herman zien, niet bang maar wel gefrustreerd.
@@ -51,7 +53,11 @@ Onder huisarest, met stadsgarde om hun huis heen. In theorie kan de party wel ge
 In het **Haardvader District** is een universiteitsbibliotheek. Toegang is ten strikste verboden, behalve voor studenten.
 - Bestaat uit 2 gebouwen, met 3 bruggen tussenin. 3 verdiepingen hoog, met twee studietorens op elk gebouw. Een mix tussen een groot landhuis en een fort.
 - Vloer is marmer betegeld, verschillende afdelingen met dikke wanden en tralies van elkaar gescheiden. Lobby is ruim, maar loopt uit op een brede doorgang met huisje van 2m breed waar medewerkers aan een balie zitten.
-- **Vragen om Virmeena:** Een student in de lobby heeft gehoord dat ze buiten de stadsmuren wacht op toegang, maar haar kans is klein.
+- **Vragen om Virmeena:** Niemand met die naam is bekend bij de Bibliotheek. Een student zal ze benaderen (volg mij).
+	- Route door de universiteit, door lange gangen met vele deuren. Stoppen bij een kleine zijgang van kantoren.
+		- Bordje op deur (Investigation 16) is fake "Drs. Virmeena".
+		- *"Jouw pad is eentje die je door de hele hemel brengt. Zolang het toekijkt, zal het zich op het juiste moment laten zien. Het is aan jou om er klaar voor te zijn - hun betoog is niet zonder risico."*
+		- *"De passages lezen dat er zeven "*
 # 5. Pivostoli's verzoek
 Pivostoli heeft een vraag aan [[Nyrin]]: Stap 1 - Na veel moeite heeft hij plannen voor een spell, [[Pivostoli's Mind Palace]]. Hiermee kan hij effectiever zijn werk doen terwijl hij nog in de ring zit, door gebruik te maken van Nyrin's Astrale ruimte voor een pocket dimension. Hij heeft nodig;
 - Parchment worth 5gp
@@ -73,8 +79,9 @@ Persuasion DC18 voor Stap 3: een leeg lichaam.
 ==TODO==
 ## De Onderneming
 Jawahr vindt de party logischerwijs kort na de aanval, hij heeft genoeg connecties. Stelt voor om de prijs op hun hoofd op te laten doeken.
-- _De Onderneming doet niks gratis, maar wel eerlijk. In retour zouden we jullie willen vragen een eerlijk oor open te houden voor een ondergrondse bende. De naam is ons onbekend ([Tongscheurders](app://obsidian.md/Tonguerippers)), iedereen van de hoogste nobel tot de laagste bedelaar wordt geteisterd door deze lui, en wij staan er goed op te verdienen mochten deze opgeruimd worden. Ter compensatie van jullie ongelukkige predikament sta ik bereid de buit te delen mocht een handige groep als jullie dit kunnen regelen._
-    - _De drie kopstukken zijn 100 platinum elk, levend of dood. De operatie opdoeken loont een extra 250'. De split zal 50/50 zijn - 40% voor de afkoping, en 10% commissie voor ons. In ruil staan mijn kwaliteiten tot jullie beschikking._
+- *Jullie hebben gewonnen, simpel als dat. Zelfs met alle trucjes uit de doos te halen hebben jullie ons van meer beroofd dan we voor beschikbaar hielden. Ik weet wanneer ik overtroffen ben, en weet ook wanneer ik met bekwame mensen spreek...*
+- _Jullie willen je leven weer opbouwen in de stad. De Onderneming doet niks gratis, maar wel eerlijk. Ik zou jullie willen vragen een eerlijk oor open te houden voor een ondergrondse bende. De naam is ons niet bekend ([Tongscheurders](app://obsidian.md/Tonguerippers)), iedereen van de hoogste nobel tot de laagste bedelaar wordt geteisterd door deze lui, en wij staan er goed op te verdienen mochten deze opgeruimd worden._
+    - _De drie kopstukken zijn 100 platinum elk, levend of dood. De operatie opdoeken loont een extra 250'. Zie het als een gift._
 - _Mocht je me zoeken, zal ik je snel genoeg vinden. Aangenaam zaken te doen._
-# 7. IDEE - Lenora's huis brand af
-==WORKSHOP DIT MENTAAL EVENTJES MENEER. Lise heeft als probleem dat haar karakter niks heeft om avonturier voor te zijn. Zolang haar zusjes en honden het huis uit komen, kan er niks gebeuren omdat haar vader toch een Lich is.== 
+# 7. Branden
+**Lenora en Herman's huis wordt afgebrand.** Iedereen zal veilig ontsnappen, maar WILMAR IS VERDWENEN
