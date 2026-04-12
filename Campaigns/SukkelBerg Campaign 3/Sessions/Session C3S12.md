@@ -20,3 +20,6 @@ tags:
 - Pacper en de jacht op Loredine
 - Toch nog Kaurius
 ***
+# Deze sessie fucking hard gewinged - hier is het resultaat:
+- DD
+- DD
