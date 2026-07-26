@@ -152,7 +152,20 @@ tags:
 > 
 > ![[C3S11Summary.pdf]]
 # Arc 2 - De Tongscheurders
-> [!quote]- Sessie 12 - ??? | 12 April 2026
+> [!quote]- Sessie 12 - Watermeloen koppen | 12 April 2026
+> De avonturiers hebben besloten om de deal met Jawahr en Kaurius aan te gaan. In ruil voor een flinke som goudstukken moesten zij informatie verzamelen over drie doelwitten en deze vervolgens schakelen. Deze doelwitten waren de kopstukken van de zogenaamde Tongscheurders, waar de bekenden Tobol en Birna ook deel van uitmaakten. Vol vertrouwen dat dit plan onmogelijk verkeerd kon aflopen, begon de groep aan hun tocht richting de tunnels onder Elivestr. 
 > 
+> Door een verdacht persoon te achtervolgen, wist de groep eindelijk het mysterie van de geheimzinnige muur op te lossen. Na het verhoren van een lokale spin fluisterde Bolt de correcte openingszin: “Eet de Rijken”. Slechts een deel van de groep kon zich door de muur verplaatsen, namelijk de minder vermogende groepsleden. Voor de rijkeren onder hen moest eerst het magische veld worden uitgeschakeld. 
+> 
+> Eenmaal voorbij de muur werden de avonturiers geconfronteerd met een waterbron die de groep naar een spiegelbeeldige realiteit kon verplaatsen. Helaas slaagde de groep er niet in om Dans des Doods correct uit te voeren, waarna de ruimte zich rap begon te vullen met een gas dat de slachtoffers bewusteloos maakte. Dankzij enkele heldhaftige acties wisten de avonturiers elkaar wederzijds uit de waterbron te bevrijden en terug te keren naar de lokale kroeg om de volgende stappen te bespreken.
+> 
+> Als laatste redmiddel besloot de groep om via de winkel van Tobol en Byrna naar binnen te treden om zo informatie over de doelwitten te verkrijgen. Helaas ging ook hier het een en ander mis. Toen Yerall probeerde een Bag of Holding te pakken, ging plotseling een luid alarm af. Opnieuw kreeg de groep te maken met het mysterieuze gas, waar de avonturiers geen antwoord op hadden. De groep moest wederom vluchten, maar niet voordat Bolt een watermeloen naar Herman had gegooid om hem wakker te krijgen.
+> 
+> Met deze massale catastrofe achter de rug, hebben de avonturiers besloten om zich terug te trekken en hun missie te heroverwegen.
 > 
 > ![[C3S12Summary.pdf]]
+
+> [!quote]- Sessie 13 - ??? | 28 Juni 2026
+> 
+> 
+> ![[C3S13Summary.pdf]]
