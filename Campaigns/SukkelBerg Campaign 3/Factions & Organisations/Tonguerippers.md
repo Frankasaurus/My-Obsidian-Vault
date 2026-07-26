@@ -24,13 +24,14 @@ The **Tonguerippers** are a politically-motivated shadow organization, that wish
 # Members
 In total, the Tonguerippers have aproximately 40 members spread out throughout the city.
 
-| Name              | Role                                                                                                                                          |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Allisa Xilvyrez   | Founder & Captain. Head negotiator, planner, and long-term mind of the crew. Magical expert.                                                  |
-| Grathgor Xilvyrez | Founder & Quartermaster. Builds the headquarters and substations of the crew, and keeps the books.                                            |
-| Byrnyen Alvora    | Founder & Officer. Brute force behind the crew, keeping the rest of members in line, and recruiting new ones. Does the intimidating.          |
-| Rélica            | Leftenant. Prominent saboteur of the Tonguerippers. Joined after being fed up with the inactions of her father [[Herman]] against the guilds. |
-| Tobol & Byrna     | Privates. Trade partners of the crew, running a storefront to import and export goods and supplies.                                           |
+| Name                          | Role                                                                                                                                          |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Allisa Xilvyrez               | Founder & Captain. Head negotiator, planner, and long-term mind of the crew. Magical expert.                                                  |
+| Grathgor Xilvyrez             | Founder & Quartermaster. Builds the headquarters and substations of the crew, and keeps the books.                                            |
+| Byrnyen Alvora                | Founder & Officer. Brute force behind the crew, keeping the rest of members in line, and recruiting new ones. Does the intimidating.          |
+| Corinne von Elsenburgh Doorne | Leftenant. Resident intelligence officer and stalker, keeping 'topside' in order to track the whereabouts of individuals.                     |
+| Rélica                        | Leftenant. Prominent saboteur of the Tonguerippers. Joined after being fed up with the inactions of her father [[Herman]] against the guilds. |
+| Tobol & Byrna                 | Privates. Trade partners of the crew, running a storefront to import and export goods and supplies.                                           |
 # Headquarters
 Their main entrance sits in Tobol & Byrna's shop, in the middle of the docks of the Craft & Trade District of [[Elivestr]]. This houses beds, planning rooms, a treasury, and further access to the old catacombs under the city. It requires navigating through the shop, down an old well, and past several interconnected sewer pipes. A mazelike tunnel then gives way to a blocked-off entrance under a magical spell. It's passphrase is "In silence, there's silver" in undercommon.
 

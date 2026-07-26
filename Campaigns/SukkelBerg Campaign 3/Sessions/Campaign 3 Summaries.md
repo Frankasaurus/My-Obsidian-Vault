@@ -165,7 +165,12 @@ tags:
 > 
 > ![[C3S12Summary.pdf]]
 
-> [!quote]- Sessie 13 - ??? | 28 Juni 2026
+> [!quote]- Sessie 13 -  Leap of Faith | 28 Juni 2026
+> Na twee mislukte pogingen om de geheime ontmoetingsplaats onder de winkel van Tobol en Birna te betreden, besloot de groep de hulp in te schakelen van een oude bekende. De legende bleek waar te zijn, want zodra zijn naam werd uitgesproken, stond Jawahr plotseling klaar om de avonturiers te helpen. Hij verwees de groep naar een lokale alchemist, die hun probleem met de slaaprook wist op te lossen met een speciale neuszalf. Daarnaast werden de avonturiers geïnformeerd over de werking van de Dans des Doods. Die kennis kwam op dat moment nog niet van pas, want toen zij terugkeerden naar de ondergrondse schuilplaats van de Tongscheurders, bleek de val niet opnieuw te zijn opgezet.
 > 
-> 
-> ![[C3S13Summary.pdf]]
+> **De vogel en de boot**
+> [[Sept Circulum]] kreeg de kans om de geheime vertrekken van de Tongscheurders, vier fireballs inbegrepen, van dichtbij te bestuderen. Het spoor leidde de avonturiers naar een strand dat zich direct onder de schuilplaats van de bende bevond. De groep wist veilig naar het strand te abseilen. Helaas bleken de Tongscheurders echter al per boot te zijn gevlucht. Sept Circulum was hun spoor bijna kwijtgeraakt, maar gelukkig wist Gallus met zijn welbespraaktheid een lokale zeemeeuw aan de praat te krijgen. De vogel vertelde de avonturiers welke richting de bende was opgevaren, waarna Sept Circulum de achtervolging inzette, op weg naar de vermiste boot, de Tongscheurders en misschien nog veel meer dan waarvoor de groep zich heeft ingeschreven...
+
+> [!quote]- Sessie 14 -  ??? | 26 Juli 2026
+> DDDDD
+
