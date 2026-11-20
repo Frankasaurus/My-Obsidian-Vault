@@ -171,6 +171,14 @@ tags:
 > **De vogel en de boot**
 > [[Sept Circulum]] kreeg de kans om de geheime vertrekken van de Tongscheurders, vier fireballs inbegrepen, van dichtbij te bestuderen. Het spoor leidde de avonturiers naar een strand dat zich direct onder de schuilplaats van de bende bevond. De groep wist veilig naar het strand te abseilen. Helaas bleken de Tongscheurders echter al per boot te zijn gevlucht. Sept Circulum was hun spoor bijna kwijtgeraakt, maar gelukkig wist Gallus met zijn welbespraaktheid een lokale zeemeeuw aan de praat te krijgen. De vogel vertelde de avonturiers welke richting de bende was opgevaren, waarna Sept Circulum de achtervolging inzette, op weg naar de vermiste boot, de Tongscheurders en misschien nog veel meer dan waarvoor de groep zich heeft ingeschreven...
 
-> [!quote]- Sessie 14 -  ??? | 26 Juli 2026
+> [!quote]- Sessie 14 - Grafrust Verstoord | 26 Juli 2026
+> [[Sept Circulum]] volgden de recente sporen van de Tongscheurders tot aan een begraafplaats, toen zij ineens een Sending-bericht van [[Wilmar von Elsenburgh Doorne|Wilmar]] ontvingen. Het bericht van Wilmar was lastig te verstaan door zijn gehaper en moeizame geluiden. Toch wist Wilmar een kort bericht door te geven aan de avonturiers: de boerderij van Herman werd aangevallen door iets of iemand en Sept Circulum zou worden achtervolgd. Voordat de avonturiers hierop wisten te antwoorden, werden zij aangesproken door een vrouwelijke silhouet die zich gauw introduceerde als de zus van [[Lenora]], namelijk Corinne. Deze vredige introductie was van korte duur, want bij de eerste kans greep Corinne Lenora vast en dreigde haar pijn te doen. Tegelijkertijd werd Sept Circulum vermoedelijk omsingeld door de overgebleven [[Tonguerippers|Tongscheurders]].
+> 
+> **De Uitweg**
+> Lenora voelde van binnen een bepaalde drang en na een moment van beraden wist Lenora wat zij moest doen om een uitweg te creëren. Lenora had besloten om haar innerlijke drang niet langer te beheersen en liet de controle over zich overnemen door haar honger. Vergelijkbaar met het recente incident op de boerderij, splitste de torso van Lenora zich in twee en creëerde een opening voor ondode wezens om naar deze materiële wereld te komen. Het verschil was echter dat Lenora hier dit keer bewust voor had gekozen.
+> 
+> De strijd tussen Sept Circulum, de Tongscheurders en de ondode wezens brak los. Tijdens het gevecht ontstond er een portaal in het midden van het slagveld. Een deel van de groep werd in dit portaal gedwongen, waarna de anderen besloten om achter hun vrienden aan te springen om hen te redden. Waar het portaal naartoe leidde en wat de avonturiers te wachten stond, was voor Sept Circulum onbekend…
+
+> [!quote]- Sessie 15 - ???? | 22 November 2026
 > DDDDD
 

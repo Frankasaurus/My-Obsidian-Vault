@@ -8,7 +8,7 @@ tags:
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Spelers aanwezig | [[Hanne]] ([[Garrick]]) [[Kacper]] ([[Gallus]]), [[Kim]] ([[Nyrin]]), [[Lise]] ([[Lenora]]), [[Melle]] ([[Herman]]),  [[Roy]] ([[Yerall]]), [[Bolt]] ([[Evie]]) |
 | Datum            | Zo 26 Juli, 2026                                                                                                                                                |
-| Titel            |                                                                                                                                                                 |
+| Titel            | Grafrust Verstoord                                                                                                                                              |
 **Wat:** [[Sept Circulum]] heeft geprobeerd in te breken bij het hoofdkwartier van de Tongscheurders
 **Wanneer:** 14 dagen na aankomst op vasteland, herfst. Ochtend.
 **Waar:** 
